@@ -1,0 +1,9 @@
+Package: enigma2-plugin-extensions-iptv-list-updater
+Version: 0.90
+Description: IPTV Bouquet Updater Plugin by Nobody28 & satinfo
+Section: misc
+Priority: optional
+Architecture: all
+Maintainer: Nobody28
+Source: www.gigablue-support.com
+Depends: gst-plugins-bad-rtmp, librtmp0, librtmp-bin

@@ -1,0 +1,4 @@
+#!/bin/sh
+# Ein Shell Script welches vor Entfernen des Paketes ausgeführt wird 
+rm /usr/lib/enigma2/python/Plugins/Extensions/IPTV-List-Updater/*.pyo > /dev/null 2>&1
+exit 0

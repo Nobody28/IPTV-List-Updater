@@ -1,0 +1,8 @@
+#!/bin/sh
+# Ein Shell Script welches nach Installation des Paketes ausgeführt wird 
+echo "********************************************************"
+echo "*  IPTV List Updater installed                         *"
+echo "*                                                      *"
+echo "*  Restart the Engima2 GUI to activate the plugin      *"
+echo "********************************************************"
+exit 0
