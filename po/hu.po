@@ -1,0 +1,84 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: IPTV\n"
+"POT-Creation-Date: 2013-06-16 07:45+0100\n"
+"PO-Revision-Date: 2013-06-30 18:48+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hu_HU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+
+msgid "Welcome to IPTV List Updater"
+msgstr "Üdvözöljük az IPTV lista Updater"
+
+msgid "Changelog IPTV List Updater"
+msgstr "Változások IPTV lista Updater"
+
+msgid "FAQ IPTV List Updater"
+msgstr "GYIK IPTV lista Updater"
+
+msgid "Install & Update IPTV from"
+msgstr "Telepítés és frissítés IPTV-től"
+
+msgid "country list to Bouquet TV or Radio"
+msgstr "ország lista Bouquet TV és Rádió"
+
+msgid "Special thanks goes to HasBahCa for his Links"
+msgstr "Külön köszönet illeti a HasBahCa az ő Linkek"
+
+msgid "Close"
+msgstr "zarni"
+
+msgid "Start"
+msgstr "kezdet"
+
+msgid "FAQ"
+msgstr "GYIK"
+
+msgid "Changelog"
+msgstr "Változások"
+
+msgid "Select country to add as TV or Radio Bouquet:"
+msgstr "Ország kiválasztása Felvétel a TV és Rádió Bouquet:"
+
+msgid "Install"
+msgstr "telepítse"
+
+msgid "Install all"
+msgstr "telepítse az összes"
+
+msgid "Update list"
+msgstr "lista frissítése"
+
+msgid "Reloading bouquets and services..."
+msgstr "Újratöltés csokrok és szolgáltatások ..."
+
+msgid "Can not find download.txt !!"
+msgstr "Nem található download.txt!"
+
+msgid "Nothing to select !!"
+msgstr "Nincs valasztas"
+
+msgid "Update Bouquets and Services for:"
+msgstr "Frissítés csokrok és szolgáltatások:"
+
+msgid "Press OK or EXIT to go back !"
+msgstr "Nyomja meg az OK vagy EXIT visszamenni!"
+
+msgid "HTTP download ERROR:"
+msgstr "HTTP Download Error:"
+
+msgid "Converting Bouquet"
+msgstr "konvertálása Bouquet"
+
+msgid "UNKNOWN TYPE:"
+msgstr "Ismeretlen típus:"
+
+msgid "bouquetname exists, do nothing"
+msgstr "bouquetname létezik, nem csinál semmit"
+
+msgid "bouquetname doesnt exists, adding it"
+msgstr "bouquetname nem létezik, hozzátéve,"

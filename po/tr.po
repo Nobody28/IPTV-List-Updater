@@ -1,0 +1,84 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: IPTV\n"
+"POT-Creation-Date: 2013-06-16 07:45+0100\n"
+"PO-Revision-Date: 2013-07-01 07:42+0100\n"
+"Last-Translator: Nobody28 <Nobody28@hotmail.de>\n"
+"Language-Team: \n"
+"Language: tr_TR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+
+msgid "Welcome to IPTV List Updater"
+msgstr "IPTV List Updater Hosgeldini"
+
+msgid "Changelog IPTV List Updater"
+msgstr "IPTV List Updater güncelleme dökümani"
+
+msgid "FAQ IPTV List Updater"
+msgstr "IPTV List Updater SSS"
+
+msgid "Install & Update IPTV from"
+msgstr "IPTV Kurulum & Güncellem"
+
+msgid "country list to Bouquet TV or Radio"
+msgstr "TV veya radyo buket ekleme listesi"
+
+msgid "Special thanks goes to HasBahCa for his Links"
+msgstr "Linkler icin HasBahCa ya özel Tesekkürler"
+
+msgid "Close"
+msgstr "Kapat"
+
+msgid "Start"
+msgstr "Baslat"
+
+msgid "FAQ"
+msgstr "FAQ"
+
+msgid "Changelog"
+msgstr "Döküman"
+
+msgid "Select country to add as Bouquet in TV or Radio:"
+msgstr "Bukete eklemek istediginiz ülke TV veya Radyo yu seciniz"
+
+msgid "Install"
+msgstr "Kur - Install"
+
+msgid "Install all"
+msgstr "Hepsini ekle"
+
+msgid "Update list"
+msgstr "Listeyi güncelle"
+
+msgid "Reloading bouquets and services..."
+msgstr "Buketler ve Servisler yeniden baslatiliyor"
+
+msgid "Can not find download.txt !!"
+msgstr "download.txt dosyasi bulunamiyor"
+
+msgid "Nothing to select !!"
+msgstr "Secim yapilmadi"
+
+msgid "Update Bouquets and Services for:"
+msgstr "Güncelleme yapilan buketler ve servisler:"
+
+msgid "Press OK or EXIT to go back !"
+msgstr "Geri dönmek icin OK veya EXIT tusuna basiniz"
+
+msgid "HTTP download ERROR:"
+msgstr "HTTP yükleme HATASI"
+
+msgid "Converting Bouquet"
+msgstr "Buket olusturuluyor"
+
+msgid "UNKNOWN TYPE:"
+msgstr "BILINMEYEN TIP"
+
+msgid "bouquetname exists, do nothing"
+msgstr "Buket ismi mevcut, eklenmiyor"
+
+msgid "bouquetname doesnt exists, adding it"
+msgstr "Buket ismi mevcut degil, ekleniyor"

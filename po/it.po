@@ -1,0 +1,90 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: IPTV\n"
+"POT-Creation-Date: 2013-06-16 07:45+0100\n"
+"PO-Revision-Date: 2013-07-17 00:42+0100\n"
+"Last-Translator: satinfo\n"
+"Language-Team: \n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+
+msgid "Welcome to IPTV List Updater"
+msgstr "Benvenuto a IPTV List Updater"
+
+msgid "Changelog IPTV List Updater"
+msgstr "Lista di cambiamento IPTV List Updater"
+
+msgid "FAQ IPTV List Updater"
+msgstr "FAQ IPTV List Updater"
+
+msgid "Install & Update IPTV from"
+msgstr "Installare e aggiornare IPTV dalla"
+
+msgid "country list to Bouquet TV or Radio"
+msgstr "lista dei paese nel Bouquet TV o Radio"
+
+msgid "Special thanks goes to HasBahCa for his Links"
+msgstr "Un ringraziamento speciale va a HasBahCa per i suoi Links"
+
+msgid "Close"
+msgstr "Chiudere"
+
+msgid "Start"
+msgstr "Inizio"
+
+msgid "FAQ"
+msgstr "FAQ"
+
+msgid "Changelog"
+msgstr "Cronologia versioni"
+
+msgid "Select country to add as Bouquet in TV or Radio:"
+msgstr "Seleziona paese di aggiungere come Bouquet in TV o Radio:"
+
+msgid "Install"
+msgstr "Aggiungi"
+
+msgid "Install all"
+msgstr "Aggiungere tutti"
+
+msgid "Update list"
+msgstr "Aggiorna lista"
+
+msgid "Reloading bouquets and services..."
+msgstr "Ricarica Bouquet e Servizi..."
+
+msgid "Can not find download.txt !!"
+msgstr "Non riesci a trovare download.txt !!"
+
+msgid "Nothing to select !!"
+msgstr "Niente da selezionare !!"
+
+msgid "Update Bouquets and Services for:"
+msgstr "Aggiornare Bouquet e Servizi per:"
+
+msgid "Press OK or EXIT to go back !"
+msgstr "Premere OK o EXIT per tornare indietro !"
+
+msgid "HTTP download ERROR:"
+msgstr "HTTP errore di download:"
+
+msgid "Converting Bouquet"
+msgstr "Conversione Bouquet"
+
+msgid "UNKNOWN TYPE:"
+msgstr "Tipo sconosciuto:"
+
+msgid "bouquetname exists, do nothing"
+msgstr "Nome del Bouquet esiste, non fare nulla"
+
+msgid "bouquetname doesnt exists, adding it"
+msgstr "Nome del bouquet non esiste, aggiungendolo"
+
+msgid "Special thanks to following Users:"
+msgstr "Un ringraziamento speciale a seguenti utenti:"
+
+msgid "Credits"
+msgstr "Ringraziamenti"

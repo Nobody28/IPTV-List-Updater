@@ -1,0 +1,84 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: IPTV\n"
+"POT-Creation-Date: 2013-06-16 07:45+0100\n"
+"PO-Revision-Date: 2013-06-30 18:48+0100\n"
+"Last-Translator: Rob van der Does <robvddoes@gmail.com>\n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"Language-Team: \n"
+
+msgid "Welcome to IPTV List Updater"
+msgstr "Welkom bij de IPTV List Updater"
+
+msgid "Changelog IPTV List Updater"
+msgstr "Changelog IPTV List Updater"
+
+msgid "FAQ IPTV List Updater"
+msgstr "FAQ IPTV List Updater"
+
+msgid "Install & Update IPTV from"
+msgstr "Installeer & update IPTV van"
+
+msgid "country list to Bouquet TV or Radio"
+msgstr "landenlijst voor favorieten TV of Radio"
+
+msgid "Special thanks goes to HasBahCa for his Links"
+msgstr "Speciale dank gaat uit naar deze links"
+
+msgid "Close"
+msgstr "Sluit"
+
+msgid "Start"
+msgstr "Start"
+
+msgid "FAQ"
+msgstr "FAQ"
+
+msgid "Changelog"
+msgstr "Changelog"
+
+msgid "Select country to add as Bouquet in TV or Radio:"
+msgstr "Selecter land om als favoriet aan TV of Radio toe te voegen:"
+
+msgid "Install"
+msgstr "Installeer"
+
+msgid "Install all"
+msgstr "Installeer alle"
+
+msgid "Update list"
+msgstr "Update lijst"
+
+msgid "Reloading bouquets and services..."
+msgstr "Favorieten en kanalen worden herladen"
+
+msgid "Can not find download.txt !!"
+msgstr "Kan download.txt niet vinden!"
+
+msgid "Nothing to select !!"
+msgstr "Niets te selecteren!"
+
+msgid "Update Bouquets and Services for:"
+msgstr "Update favorieten en kanaleb voor:"
+
+msgid "Press OK or EXIT to go back !"
+msgstr "Druk op OK of EXIT om terug te gaan!"
+
+msgid "HTTP download ERROR:"
+msgstr "HTTP download FOUT:"
+
+msgid "Converting Bouquet"
+msgstr "Bezig favoriet te converteren"
+
+msgid "UNKNOWN TYPE:"
+msgstr "ONBEKEND TYPE:"
+
+msgid "bouquetname exists, do nothing"
+msgstr "Favoriet bestaat al; doe niets"
+
+msgid "bouquetname doesnt exists, adding it"
+msgstr "Favoriet bestaat niet; wordt toegevoegd"
