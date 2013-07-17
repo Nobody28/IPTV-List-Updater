@@ -1,11 +1,89 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: IPTV-List-Updater\n"
-"POT-Creation-Date: \n"
-"PO-Revision-Date: \n"
-"Last-Translator: satinfo\n"
-"Language-Team: \n"
-"MIME-Version: 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-11-26 11:00+0100\n"
+"PO-Revision-Date: 2013-06-27 03:10+0100\n"
+"Last-Translator: mirmo <mm@no-email.com>\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Language: pl_PL\n"
 "X-Generator: Poedit 1.5.5\n"
+
+msgid "Can not find download.txt !!"
+msgstr "Nie można odnaleść download.txt !!"
+
+msgid "Changelog"
+msgstr "Informacje o wersji"
+
+msgid "Changelog IPTV List Updater"
+msgstr "Historia i wersjach IPTV Updater"
+
+msgid "Close"
+msgstr "Zakończ"
+
+msgid "Converting Bouquet"
+msgstr "Konwertuj bukiety"
+
+msgid "FAQ"
+msgstr "FAQ"
+
+msgid "FAQ IPTV List Updater"
+msgstr "FAQ IPTV List Updater"
+
+msgid "HTTP download ERROR:"
+msgstr "HTTP błąd w pobieraniu:"
+
+msgid "IPTV List from HasBahCa"
+msgstr "Lista IPTV od HasBahCa"
+
+msgid "Install"
+msgstr "Instaluj"
+
+msgid "Install & Update IPTV from"
+msgstr "Instalacja i aktualizacja IPTV z"
+
+msgid "Install all"
+msgstr "Instaluj wszystkie"
+
+msgid "Nothing to select !!"
+msgstr "Nic nie jest wybrane !!"
+
+msgid "Press OK or EXIT to go back !"
+msgstr "Wciśnij OK albo EXIT aby powrócić !"
+
+msgid "Reloading bouquets and services..."
+msgstr "Ładuje bukiety i kanały na nowo…."
+
+msgid "Select country to add as Bouquet in TV or Radio:"
+msgstr "Wybierz państwo i dodaj do bukietów TV lub radia: "
+
+msgid "Special thanks goes to HasBahCa for his Links"
+msgstr "Podziękowania dla HasBahCa za linki."
+
+msgid "Start"
+msgstr "Start"
+
+msgid "UNKNOWN TYPE:"
+msgstr "Nieznany Typ:"
+
+msgid "Update Bouquets and Services for:"
+msgstr "Aktualizuj bukiety i service dla:"
+
+msgid "Update list"
+msgstr "Aktualizuj Liste"
+
+msgid "Welcome to IPTV List Updater"
+msgstr "Witamy w IPTV List Updater"
+
+msgid "bouquetname doesnt exists, adding it"
+msgstr "Nazwa bukietu nieznana, zostanie dodana"
+
+msgid "bouquetname exists, do nothing"
+msgstr "Nazwa bukietu już istnieje, nie rób nic "
+
+msgid "country list to Bouquet TV or Radio"
+msgstr "listą państw w bukietach TV lub Radia"
