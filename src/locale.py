@@ -9,7 +9,7 @@ from Tools.Directories import resolveFilename, SCOPE_PLUGINS
 from os import environ as os_environ
 import gettext
 
-PluginLanguageDomain = "IPTV"
+PluginLanguageDomain = "IPTV-List-Updater"
 PluginLanguagePath = "Extensions/IPTV-List-Updater/locale"
 
 def localeInit():
