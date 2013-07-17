@@ -52,14 +52,14 @@ class Start(Screen):
 			"back": self.close,
 			"red": self.close,
 			"green": self.go,
-			"yellow": self.faq,
+			"yellow": self.change,
 			"blue": self.credits,
-			"info": self.change,
+			"info": self.faq,
 			"menu": self.mod,
 		}, -1)
 		self["key_red"] = Label(_("Close"))
 		self["key_green"] = Label(_("Start"))
-		self["key_yellow"] = Label(_("FAQ"))
+		self["key_yellow"] = Label(_("Changelog"))
 		self["key_blue"] = Label(_("Credits"))
 	
 	def go(self):

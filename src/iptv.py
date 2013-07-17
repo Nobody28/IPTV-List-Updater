@@ -7,7 +7,7 @@
 from Screens.Screen import Screen
 from enigma import eConsoleAppContainer, eDVBDB
 from Screens.MessageBox import MessageBox
-from Components.ActionMap import NumberActionMap
+from Components.ActionMap import ActionMap
 from Screens.Standby import TryQuitMainloop
 from Components.Pixmap import Pixmap
 from Components.Sources.StaticText import StaticText
@@ -20,6 +20,7 @@ from locale import _
 from os import path, walk
 from enigma import eEnv
 from skin import *
+from faq import FAQ
 import os
 import urllib2
 
@@ -52,7 +53,7 @@ class IPTV(Screen):
         self["country"] = Pixmap()
         self["text1"] = Label(_("Select country to add as Bouquet in TV or Radio:"))
         
-        self["actions"] = NumberActionMap(["WizardActions", "OkCancelActions", "ColorActions"],
+        self["actions"] = ActionMap(["OkCancelActions", "WizardActions", "ColorActions", "SetupActions", "NumberActions", "EPGSelectActions"],
         {
             "ok": self.ok,
             "back": self.cancel,
@@ -64,6 +65,7 @@ class IPTV(Screen):
             "right": self.right,
             "yellow": self.install,
             "blue": self.update,
+            "info": self.faq,
         }, -1)
         self["key_red"] = Label(_("Close"))
         self["key_green"] = Label(_("Install"))
@@ -85,7 +87,10 @@ class IPTV(Screen):
     
     def right(self):
         self["IPTVList"].pageDown()
-        self.loadCountry()    
+        self.loadCountry() 
+    
+    def faq(self):
+        self.session.open(FAQ)   
         
     def getDownloadTxt(self):
         downloadPath = "/usr/lib/enigma2/python/Plugins/Extensions/IPTV-List-Updater/list/download.txt"
@@ -322,7 +327,7 @@ class IPTV_Mod(Screen):
         self["country"] = Pixmap()
         self["text1"] = Label(_("Select country to add as TV or Radio Bouquet:"))
         
-        self["actions"] = NumberActionMap(["WizardActions", "OkCancelActions", "ColorActions"],
+        self["actions"] = ActionMap(["OkCancelActions", "WizardActions", "ColorActions", "SetupActions", "NumberActions", "EPGSelectActions"],
         {
             "ok": self.ok,
             "back": self.cancel,
@@ -334,6 +339,7 @@ class IPTV_Mod(Screen):
             "right": self.right,
             "yellow": self.install,
             "blue": self.update,
+            "info": self.faq,
         }, -1)
         self["key_red"] = Label(_("Close"))
         self["key_green"] = Label(_("Install"))
@@ -355,7 +361,10 @@ class IPTV_Mod(Screen):
     
     def right(self):
         self["IPTVList"].pageDown()
-        self.loadCountry()    
+        self.loadCountry() 
+    
+    def faq(self):
+        self.session.open(FAQ)
         
     def getDownloadTxt(self):
         downloadPath = "/usr/lib/enigma2/python/Plugins/Extensions/IPTV-List-Updater/list/download.txt"
