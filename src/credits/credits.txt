@@ -1,0 +1,18 @@
+Coding:	- satinfo
+	- Black_64
+	- 
+
+Graphics:	- Assimaschine
+	- BiNiCKNiCH
+	- NaseDC
+	-
+
+Streamlinks:	- HasBahCa
+	-
+
+Translations:	- arabic ==> zozo1976
+	- polish ==>
+	- turkish ==> HasBahCa
+	- dutch ==> SatKiekerd, Black_64
+	- hungarian ==> NaseDC & wife
+	- german & italian ==> satinfo

@@ -1,0 +1,35 @@
+﻿
+FAQ - 23.06.2013 !
+
+1. Voor welk systeem is de plugin bedoeld?
+    De plugin zou moeten werken in all OE2.0 images.
+    OE1.6 images ondersteunen geen IPTV streaming!
+	
+2. Wat kan ik doen als de plugin niet installeert?
+    Unzip de plugin b.v. met 7zip. Kopieer alle bestanden met een FTP
+    programma (b.v. Filezilla) naar uw ontvanger.
+    
+3. Welke ontvangers kunnen MMS-streams afspelen?
+    23.06.2013:
+    VU+ heeft geen MMS-ondersteuning!
+    Alleen alle Xtrend's, dm500hd,800se en 7020hd
+	
+4. Wat moet ik doen om meer streams in de lijsten te krijgen?
+    Zoek naar links of lijsten op internet. Test ze en post
+    ze in de threads over de IPTV-List Updater in de volgende forums:
+    www.gigablue-support.com
+    www.opena.tv
+    www.vuplus-support.org
+    Het is veiliger als u Nobody28, Satinfo of HasBahCa via PM contact.
+	
+5. Hoe kan ik de favorieten verwijderen?
+    Nadat de plugin is gesloten kunnen de favorieten worden verwijderd:
+    Pijl omlaag => Favorieten TV (blauwe toets) => selecteer de favoriet
+    die u wilt verwijderen => druk op de menu toets => verwijder entry 
+    => press OK
+	
+6. Kan ik eigen vlaggen gebruiken?
+    Ja. Vlaggen moeten dezelfde naam hebben als de eerste positie van 
+    elke link van download.txt in map /usr/lib/enigma2/python/Plugins/
+    Extensions/IPTV-List-Updater/list/. De grootte van de vlag moet 
+    270x200 pixels zijn en opgeslagen in het PNG formaat.

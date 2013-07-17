@@ -1,0 +1,7 @@
+<screen name="Changelog" position="center,center" size="820,450" title="Credits IPTV List Updater" >
+	<ePixmap position="0,0" zPosition="-1" size="820,450" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/IPTV-List-Updater/skins/original/images/back_credits.png" />
+	<widget name="title" position="0,60" halign="center" size="820,26" zPosition="1" foregroundColor="#FFE500" font="Regular;22" valign="center" transparent="1" />
+	<widget name="text" position="30,90" size="760,300" font="Regular;21" transparent="1" />
+	<ePixmap name="red" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/IPTV-List-Updater/skins/original/buttons/red.png" position="10,395" zPosition="1" size="40,40" transparent="1" alphatest="on" />
+	<widget name="key_red" position="55,405" zPosition="2" size="120,25" valign="center" halign="left" font="Regular;21" transparent="1" shadowColor="#000000" shadowOffset="-1,-1" />
+</screen>

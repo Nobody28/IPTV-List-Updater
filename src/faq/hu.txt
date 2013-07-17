@@ -1,0 +1,33 @@
+﻿
+Gyik gyüjtemeny - 2013/06/26 !
+
+1. Melyik Rendszernek  szánják a  plugint?
+     A pluginnak  működnie kell az összes systemmel. 
+	
+2. Mit tehetek, ha nem tudom telepíteni a plugint?
+    Bontsa ki a bővítmény példaul  7zip. Másolja az összes fájlt egy FTP
+    Program (pl. FileZilla) az a doboz, és tegye a jogait
+    Scripts mappában
+    "/ usr/lib/enigma2/python/Plugins/Extensions/IPTV-List-Updater/scripts"
+    a 755
+
+3. Milyen vevők játszhatnak  mms stream?
+    Mivel a 2013/06/15:
+    VU +, 800HD PVR nincs mms támogatást! Csak Xtrend minden, dm500hd, 800se, 7020HD
+	
+4. Mit kell tennem, hogy további patakokat  a listákra tehessek?
+    Keresi megfelelő linkre listák az interneten. Tesztelik, és tegye őket a
+    az egyik a sok szál. Ez biztonságosabb, ha Satinfo vagy HasBahCa vagy keressen meg ez alapján PM JE + fórumon.
+    ... igy a leg valoszinübb, hogy működik.
+	
+5. Hogyan lehet törölni az adolistat megint?
+    Egyedi adolistat ismét törölheti a plugin  befejezése után:
+    Lefelé mutató nyíl => kedvencek (kék gomb) => törlendő Bouquet
+    go => Menu => Bejegyzés törlése
+    A következő alkalommal a plugin adolistat visszaforgatják,
+    ez újraválasztják telepíteni
+	
+6. Telepíthető saját zászló?
+     Zászlóknak kell nevezni, mint az első helyen a download.txt képest
+     a / usr/lib/enigma2/python/Plugins/Extensions/IPTV-List-
+     Updater / lista van, és a PNG formátumú és 270 * 200 pixel meretü.

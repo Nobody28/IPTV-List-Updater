@@ -1,0 +1,34 @@
+﻿
+FAQ - 23.06.2013 !
+
+1. For which systems the plugin is intended ?!
+    The plugin should work on all OE2.0 Images. OE1.6 Images
+     do not support IPTV Bouquets!
+	
+2. What can I do if I can not install the plugin ?
+    Unzip the plugin for example with 7zip. Copy all files with an FTP 
+    program for example Filezilla to your receiver 
+    
+3. Which receiver can play MMS streams?
+    23.06.2013:
+    VU+ has no mms support! 
+    Only all Xtrend, dm500hd,800se and 7020hd 
+	
+4. What should I do to get more streams in lists?
+    Search for links or lists on the internet. Test them and post 
+    them in the threads of the IPTV List Updater in following forums:
+    www.gigablue-support.com
+    www.opena.tv
+    www.vuplus-support.org
+    It is safer if you contact Nobody28, Satinfo or HasBahCa via PM. 
+	
+5. How can I delete Bouquets ?
+    Bouquets can be deleted after the plugin is closed:
+    Arrow down => Favorites TV (blue button) => select the Bouquet you
+    want to delete => press menu button => remove entry => press OK 
+	
+6. Can i use own flags?
+    Flags must have the same name like the first position of each link 
+    of download.txt in folder /usr/lib/enigma2/python/Plugins/Extensions/
+    IPTV-List-Updater/list/. The size of the flags must be 270x200 pixels 
+    and must be saved in PNG format. 	

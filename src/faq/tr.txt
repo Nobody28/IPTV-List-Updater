@@ -1,0 +1,32 @@
+﻿
+FAQ - 15.06.2013 !
+
+1. Plugin hangi sistemlerde çalışır?
+ 	Plugin normal olarak tüm imajlarda çalışır.  
+
+2. Plugini Kuramıyorsam (instal edemiyorsam) ne yapmam gerekir?
+	Plugini 7zip gibi bir paket açıçı programla aç (unzip) ve herhangi bir FTP programla
+	(Mesela Filezilla) Alete aktar ve 
+ 	"/usr/lib/enigma2/python/Plugins/Extensions/IPTV-List-Updater/scripts"
+ 	dizinindeki dosyaların chmodd değerlerini 755 yap.
+
+3. Hangi Aletler MMS yayınlarını destekler?
+	Tarih: 15.06.2013
+	VU+, 800HD PVR MMS yayınlarını desteklemez! 
+	MMS yayınları sadece Xtrend, dm500hd,800se,7020hd destekler 
+
+4. Listeme daha fazla yayın eklemek için ne yapmam lazım?
+	Internetden yayın listelerini bulun. Test ederek çalışan linkleri Forumda paylaşın.
+	Veya VU+ Forum dan Özel mesaj ile bana, satinfo veya HasBahCa ya iletin. 
+	... böylece çalışma şansı en yüksek düzeyde olur.
+
+5. Buketleri nasıl silebilirim?
+	Plugini çalıştırdıktan sonra istemediğiniz buketleri, Aletinizin kumandasından sırasıyla
+	Aşağı ok => Favoriler (Mavi tuş) => Silmek istediğiniz buketin üzerine gelin ve
+	Menü => Seçilen kanalı buketi sil seç
+	Plugini her çalıştırmanızda buketler yeniden eklenecektir
+
+6. Kendi istedigim bayragi ekleyebilirmiyim?
+    Bayrak isimleri download.txt icinde ilk pozisyondaki gibi olmalilar.
+    ve /usr/lib/enigma2/python/Plugins/Extensions/IPTV-List-
+    Updater/list dizini icine PNG Formatinda ve 270 * 200 Pixel buyuklugunde eklenmeli.
