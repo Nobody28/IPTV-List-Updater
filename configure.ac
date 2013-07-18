@@ -39,8 +39,15 @@ CXXFLAGS="$CXXFLAGS $DEBUG_CFLAGS -Wall $ENIGMA2_CFLAGS $PTHREAD_CFLAGS"
 AC_CONFIG_FILES([
 Makefile
 src/Makefile
-src/buttons/Makefile
-src/scripts/Makefile
+src/changelog/Makefile
+src/credits/Makefile
+src/faq/Makefile
+src/images/Makefile
+src/list/Makefile
+src/skins/Makefile
+src/skins/original/Makefile
+src/skins/original/buttons/Makefile
+src/skins/original/images/Makefile
 po/Makefile
 
 ])
