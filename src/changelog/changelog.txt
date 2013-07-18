@@ -114,4 +114,7 @@ Changelog
 - NEW Boquets:
   - Brasil
   - Iran
-  
+  - Egypten
+  - Israel
+  - Turki_Azeri
+  - 
