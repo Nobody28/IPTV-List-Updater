@@ -9,7 +9,8 @@ Graphics:	- Assimaschine
 	-
 
 Streamlinks:	- HasBahCa
-	-
+	- FreeTuxTV
+	- 
 
 Translations:	- arabic ==> zozo1976
 	- polish ==> miromoni
