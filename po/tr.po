@@ -84,7 +84,7 @@ msgid "bouquetname doesnt exists, adding it"
 msgstr "Buket ismi mevcut degil, ekleniyor"
 
 msgid "Special thanks to following Users:"
-msgstr ""
+msgstr "Asagidaki kullanici(lar)a özel tesekkürler:"
 
 msgid "Credits"
 msgstr "Kredi"
