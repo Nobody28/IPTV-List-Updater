@@ -1,4 +1,5 @@
-Coding:	- satinfo
+Coding:	- Nobody28
+    - satinfo
 	- Black_64
 	- 
 
@@ -11,8 +12,9 @@ Streamlinks:	- HasBahCa
 	-
 
 Translations:	- arabic ==> zozo1976
-	- polish ==>
+	- polish ==> miromoni
 	- turkish ==> HasBahCa
 	- dutch ==> SatKiekerd, Black_64
 	- hungarian ==> NaseDC & wife
-	- german & italian ==> satinfo
+	- italian ==> satinfo
+	- german & english ==> Nobody28 & satinfo
