@@ -102,13 +102,14 @@ Changelog
 - changed buttons
 - original skin graphics for plugin by Assimaschine
 - changed skin and done first step to implement other skins
-- added credits screen to "info" button
-- added iptv list updater version for Dreamboxes to "menu" button 
+- added credits screen to "blue" button
+- moved FAQ screen to "info" button
+- added temporarily iptv list updater version for Dreamboxes to "menu" button 
 - more language support
   arabic (Thx @zozo1976)
   hungary (Thx @NaseDC & his wife)
   turkey (Thx @HasBahCa)
-  dutch (Thx Rob van der Does, Black_64)
+  dutch (Thx SatKiekerd, Black_64)
 - small fixes
 - language support for FAQ Files
 - NEW Boquets:
