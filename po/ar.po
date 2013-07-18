@@ -82,3 +82,9 @@ msgstr "القائمه موجوده لا يوجد تغيير"
 
 msgid "bouquetname doesnt exists, adding it"
 msgstr "القائمه غير موجوده، اضافه"
+
+msgid "Special thanks to following Users:"
+msgstr ""
+
+msgid "Credits"
+msgstr ""
