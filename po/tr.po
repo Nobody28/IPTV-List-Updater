@@ -87,4 +87,4 @@ msgid "Special thanks to following Users:"
 msgstr ""
 
 msgid "Credits"
-msgstr ""
+msgstr "Kredi"
