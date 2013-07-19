@@ -84,7 +84,7 @@ msgid "bouquetname doesnt exists, adding it"
 msgstr "bouquetname nem létezik, hozzátéve,"
 
 msgid "Special thanks to following Users:"
-msgstr ""
+msgstr "különös köszönet a következö user"
 
 msgid "Credits"
-msgstr "" 
+msgstr "köszönet" 
