@@ -1,7 +1,7 @@
 <screen name="IPTV" position="center,center" size="820,450" title="IPTV List Updater V1.10" >
 	<ePixmap position="0,0" zPosition="-1" size="820,450" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/IPTV-List-Updater/skins/original/images/back_iptv.png" />
 	<widget name="text1" position="0,70" size="820,26" zPosition="2" foregroundColor="#FFE500" font="Regular;22" halign="center" transparent="1" />
-	<widget name="IPTVList" position="110,130" size="270,200" zPosition="2" backgroundColor="#000000" scrollbarMode="showOnDemand" enableWrapAround="1" transparent="1" />
+	<widget name="IPTVList" position="90,130" size="290,200" zPosition="2" backgroundColor="#000000" scrollbarMode="showOnDemand" enableWrapAround="1" transparent="1" />
 	<widget name="country" position="440,130" size="270,200" zPosition="2" backgroundColor="#000000" transparent="0" alphatest="on" />
 	<ePixmap name="red" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/IPTV-List-Updater/skins/original/buttons/red.png" position="10,400" zPosition="1" size="40,40" transparent="1" alphatest="on" />
 	<ePixmap name="green" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/IPTV-List-Updater/skins/original/buttons/green.png" position="160,400" zPosition="1" size="40,40" transparent="1" alphatest="on" />
