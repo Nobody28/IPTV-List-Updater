@@ -52,7 +52,7 @@ class IPTV(Screen):
         self.iptvlist.sort()
         self["IPTVList"] = MenuList(self.iptvlist)
         self["country"] = Pixmap()
-        self["text1"] = Label(_("Select country to add as Bouquet in TV or Radio:"))
+        self["text1"] = Label(_("Select country from list to add into TV Bouquet or Radio Bouquet:"))
         
         self["actions"] = ActionMap(["OkCancelActions", "WizardActions", "ColorActions", "SetupActions", "NumberActions", "EPGSelectActions"],
         {
@@ -143,7 +143,7 @@ class IPTV(Screen):
         self.Convert_m3u(sel, file)
         infotext = _('IPTV List Updater V1.10\n')
         infotext += _('(c) by Nobody28 & satinfo\n\n')
-        infotext += _('IPTV List from HasBahCa')
+        infotext += _('IPTV Streams from HasBahCa & FreeTuxTV')
         infotext += _('\n\n\n')
         infotext += _('Update Bouquets and Services for:')
         infotext += _(' %s\n' % sel.upper() + '\n')
@@ -252,10 +252,10 @@ class IPTV(Screen):
             self.Convert_m3u(l[3], file)
             infotext = _('IPTV List Updater V1.10\n')
             infotext += _('(c) by Nobody28 & satinfo\n\n')
-            infotext += _('IPTV List from HasBahCa')
+            infotext += _('IPTV Streams from HasBahCa & FreeTuxTV')
             infotext += _('\n\n\n')
             infotext += _('Update Bouquets and Services for:')
-            infotext += _(' %s\n' % sel.upper() + '\n')
+            infotext += _('\n')
             infotext += _('Press OK or EXIT to go back !')
         
         self.session.open(MessageBox,_(infotext), MessageBox.TYPE_INFO)
@@ -313,7 +313,7 @@ class IPTV_Mod(Screen):
         self.iptvlist.sort()
         self["IPTVList"] = MenuList(self.iptvlist)
         self["country"] = Pixmap()
-        self["text1"] = Label(_("Select country to add as TV or Radio Bouquet:"))
+        self["text1"] = Label(_("Select country from list to add into TV Bouquet or Radio Bouquet:"))
         
         self["actions"] = ActionMap(["OkCancelActions", "WizardActions", "ColorActions", "SetupActions", "NumberActions", "EPGSelectActions"],
         {
@@ -404,7 +404,7 @@ class IPTV_Mod(Screen):
         self.Convert_m3u(sel, file)
         infotext = _('IPTV List Updater V1.10\n')
         infotext += _('(c) by Nobody28 & satinfo\n\n')
-        infotext += _('IPTV List from HasBahCa')
+        infotext += _('IPTV Streams from HasBahCa & FreeTuxTV')
         infotext += _('\n\n\n')
         infotext += _('Update Bouquets and Services for:')
         infotext += _(' %s\n' % sel.upper() + '\n')
@@ -513,10 +513,10 @@ class IPTV_Mod(Screen):
             self.Convert_m3u(l[3], file)
             infotext = _('IPTV List Updater V1.10\n')
             infotext += _('(c) by Nobody28 & satinfo\n\n')
-            infotext += _('IPTV List from HasBahCa')
+            infotext += _('IPTV Streams from HasBahCa & FreeTuxTV')
             infotext += _('\n\n\n')
             infotext += _('Update Bouquets and Services for:')
-            infotext += _(' %s\n' % sel.upper() + '\n')
+            infotext += _('\n')
             infotext += _('Press OK or EXIT to go back !')
         
         self.session.open(MessageBox,_(infotext), MessageBox.TYPE_INFO)
