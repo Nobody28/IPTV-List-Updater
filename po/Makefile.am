@@ -38,7 +38,7 @@ $(DOMAIN).pot:
 
 	msguniq -o $(DOMAIN)uniq.pot $(DOMAIN).pot
 	$(RM) $(DOMAIN).pot
-	mv $(DOMAIN)uniq.pot $(DOMAIN).pot
+
 
 .PHONY: $(DOMAIN).pot
 
