@@ -98,7 +98,7 @@ Changelog
 - compatible with OpenPLI
 -
 
-1.10 (19.07.2013):
+1.01 (xx.07.2013):
 - changed buttons
 - original skin graphics for plugin by Assimaschine
 - changed skin and done first step to implement other skins
@@ -107,6 +107,7 @@ Changelog
 - added temporarily iptv list updater version for Dreamboxes to "menu" button 
 - added language support of TV Bouquets and Radio Bouquets
 - added default list en.txt
+- add list de.txt & beginn translation
 - removed download.txt
 - more language support
   arabic (Thx @zozo1976)
