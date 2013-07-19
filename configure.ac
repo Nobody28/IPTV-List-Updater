@@ -16,11 +16,6 @@ AC_CONFIG_MACRO_DIR([m4])
 AC_PATH_PROG(MSGFMT, msgfmt, AC_MSG_ERROR(Could not find msgfmt))
 
 AM_PATH_PYTHON
-AX_PYTHON_DEVEL
-AX_PTHREAD
-
-PKG_CHECK_MODULES(ENIGMA2, enigma2)
-PKG_CHECK_MODULES(LIBCRYPTO, libcrypto)
 
 AC_ARG_WITH(debug,
 	AS_HELP_STRING([--without-debug],[disable debugging code]),
