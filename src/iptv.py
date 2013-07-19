@@ -222,16 +222,16 @@ class IPTV(Screen):
                 break
 
         if found:
-            print"bouquetname exists, do nothing"
+            print"Bouquetname exists, do nothing"
         else:
-            print"bouquetname doesnt exists, adding it"
+            print"Bouquetname doesn't exists, adding it"
             nline = '#SERVICE: 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "%s" ORDER BY bouquet\n' % bouquetname
             ff.write(nline)
         ff.close
         
     def cancel(self):
         if self.IPTVInstalled is True:
-            infobox = self.session.open(MessageBox,_("Reloading bouquets and services..."), MessageBox.TYPE_INFO, timeout=5)
+            infobox = self.session.open(MessageBox,_("Reloading Bouquets and Services..."), MessageBox.TYPE_INFO, timeout=5)
             infobox.setTitle(_("Info"))
             eDVBDB.getInstance().reloadBouquets()
             eDVBDB.getInstance().reloadServicelist()
@@ -483,16 +483,16 @@ class IPTV_Mod(Screen):
                 break
 
         if found:
-            print"bouquetname exists, do nothing"
+            print"Bouquetname exists, do nothing"
         else:
-            print"bouquetname doesnt exists, adding it"
+            print"Bouquetname doesn't exists, adding it"
             nline = '#SERVICE: 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "%s" ORDER BY bouquet\n' % bouquetname
             ff.write(nline)
         ff.close
         
     def cancel(self):
         if self.IPTVInstalled is True:
-            infobox = self.session.open(MessageBox,_("Reloading bouquets and services..."), MessageBox.TYPE_INFO, timeout=5)
+            infobox = self.session.open(MessageBox,_("Reloading Bouquets and Services..."), MessageBox.TYPE_INFO, timeout=5)
             infobox.setTitle(_("Info"))
             eDVBDB.getInstance().reloadBouquets()
             eDVBDB.getInstance().reloadServicelist()
