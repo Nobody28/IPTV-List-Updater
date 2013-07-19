@@ -1,22 +1,22 @@
-<screen name="Start" position="center,center" size="700,350" title="IPTV List Updater V1.10" >
-	<ePixmap position="0,0" zPosition="0" size="700,350" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/IPTV-List-Updater/skins/original/images/back_main.png" />
-	<widget name="title" position="0,60" halign="center" size="700,26" zPosition="1" foregroundColor="#FFE500" font="Regular;22" valign="center" transparent="1" />
-	<widget name="maintain" position="0,82" halign="center" size="700,26" zPosition="1" foregroundColor="#FFE500" font="Regular;22" valign="center" transparent="1" />
-	<widget name="link1" position="0,120" halign="center" size="700,26" zPosition="1" foregroundColor="#FFE500" font="Regular;22" valign="center" transparent="1" />
-	<widget name="link2" position="0,140" halign="center" size="700,26" zPosition="1" foregroundColor="#FFE500" font="Regular;22" valign="center" transparent="1" />
-	<widget name="description" position="0,185" halign="center" size="700,26" zPosition="1" foregroundColor="#FFE500" font="Regular;22" valign="center" transparent="1" />
-	<widget name="description2" position="0,205" halign="center" size="700,26" zPosition="1" foregroundColor="#FFE500" font="Regular;22" valign="center" transparent="1" />
-	<widget name="thanks" position="0,260" halign="center" size="700,26" zPosition="1" foregroundColor="#FFE500" font="Regular;22" valign="center" transparent="1" />
-	<ePixmap name="red" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/IPTV-List-Updater/skins/original/buttons/red.png" position="10,300" zPosition="1" size="40,40" transparent="1" alphatest="on" />
-	<ePixmap name="green" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/IPTV-List-Updater/skins/original/buttons/green.png" position="160,300" zPosition="1" size="40,40" transparent="1" alphatest="on" />
-	<ePixmap name="yellow" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/IPTV-List-Updater/skins/original/buttons/yellow.png" position="290,300" zPosition="1" size="40,40" transparent="1" alphatest="on" />
-	<ePixmap name="blue" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/IPTV-List-Updater/skins/original/buttons/blue.png" position="440,300" zPosition="1" size="40,40" transparent="1" alphatest="on" />
-	<ePixmap name="info" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/IPTV-List-Updater/skins/original/buttons/info.png" position="615,300" zPosition="1" size="40,40" transparent="1" alphatest="on" />
-	<ePixmap name="menu" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/IPTV-List-Updater/skins/original/buttons/menu.png" position="650,300" zPosition="1" size="40,40" transparent="1" alphatest="on" />
-	<widget name="key_red" position="55,310" zPosition="2" size="120,25" valign="center" halign="left" font="Regular;21" transparent="1" shadowColor="#000000" shadowOffset="-1,-1" />
-	<widget name="key_green" position="205,310" zPosition="2" size="100,25" valign="center" halign="left" font="Regular;21" transparent="1" shadowColor="#000000" shadowOffset="-1,-1" />
-	<widget name="key_yellow" position="335,310" zPosition="2" size="140,25" valign="center" halign="left" font="Regular;21" transparent="1" shadowColor="#000000" shadowOffset="-1,-1" />
-	<widget name="key_blue" position="485,310" zPosition="2" size="160,25" valign="center" halign="left" font="Regular;21" transparent="1" shadowColor="#000000" shadowOffset="-1,-1" />
+<screen name="Start" position="center,center" size="820,450" title="IPTV List Updater V1.10" >
+	<ePixmap position="0,0" zPosition="0" size="820,450" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/IPTV-List-Updater/skins/original/images/back_main.png" />
+	<widget name="title" position="0,70" halign="center" size="820,26" zPosition="1" foregroundColor="#FFE500" font="Regular;22" valign="center" transparent="1" />
+	<widget name="maintain" position="0,92" halign="center" size="820,26" zPosition="1" foregroundColor="#FFE500" font="Regular;22" valign="center" transparent="1" />
+	<widget name="link1" position="0,150" halign="center" size="820,26" zPosition="1" foregroundColor="#FFE500" font="Regular;22" valign="center" transparent="1" />
+	<widget name="link2" position="0,170" halign="center" size="820,26" zPosition="1" foregroundColor="#FFE500" font="Regular;22" valign="center" transparent="1" />
+	<widget name="description" position="0,225" halign="center" size="820,26" zPosition="1" foregroundColor="#FFE500" font="Regular;22" valign="center" transparent="1" />
+	<widget name="description2" position="0,245" halign="center" size="820,26" zPosition="1" foregroundColor="#FFE500" font="Regular;22" valign="center" transparent="1" />
+	<widget name="thanks" position="0,320" halign="center" size="820,26" zPosition="1" foregroundColor="#FFE500" font="Regular;22" valign="center" transparent="1" />
+	<ePixmap name="red" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/IPTV-List-Updater/skins/original/buttons/red.png" position="20,400" zPosition="1" size="40,40" transparent="1" alphatest="on" />
+	<ePixmap name="green" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/IPTV-List-Updater/skins/original/buttons/green.png" position="170,400" zPosition="1" size="40,40" transparent="1" alphatest="on" />
+	<ePixmap name="yellow" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/IPTV-List-Updater/skins/original/buttons/yellow.png" position="300,400" zPosition="1" size="40,40" transparent="1" alphatest="on" />
+	<ePixmap name="blue" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/IPTV-List-Updater/skins/original/buttons/blue.png" position="495,400" zPosition="1" size="40,40" transparent="1" alphatest="on" />
+	<ePixmap name="info" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/IPTV-List-Updater/skins/original/buttons/info.png" position="710,400" zPosition="1" size="40,40" transparent="1" alphatest="on" />
+	<ePixmap name="menu" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/IPTV-List-Updater/skins/original/buttons/menu.png" position="760,400" zPosition="1" size="40,40" transparent="1" alphatest="on" />
+	<widget name="key_red" position="65,407" zPosition="2" size="120,25" valign="center" halign="left" font="Regular;21" transparent="1" shadowColor="#000000" shadowOffset="-1,-1" />
+	<widget name="key_green" position="215,407" zPosition="2" size="100,25" valign="center" halign="left" font="Regular;21" transparent="1" shadowColor="#000000" shadowOffset="-1,-1" />
+	<widget name="key_yellow" position="345,407" zPosition="2" size="160,25" valign="center" halign="left" font="Regular;21" transparent="1" shadowColor="#000000" shadowOffset="-1,-1" />
+	<widget name="key_blue" position="540,407" zPosition="2" size="160,25" valign="center" halign="left" font="Regular;21" transparent="1" shadowColor="#000000" shadowOffset="-1,-1" />
 </screen>
 
 
