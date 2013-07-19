@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: IPTV-List-Updater\n"
 "POT-Creation-Date: 2013-06-16 07:45+0100\n"
-"PO-Revision-Date: 2013-07-17 23:19+0100\n"
+"PO-Revision-Date: 2013-07-20 00:10+0100\n"
 "Last-Translator: satinfo\n"
 "Language-Team: \n"
 "Language: it_IT\n"
@@ -11,23 +11,14 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 1.5.5\n"
 
-msgid "Welcome to IPTV List Updater"
-msgstr "Benvenuto a IPTV List Updater"
+msgid "Install & update IPTV streams from country list"
+msgstr "Installare e aggiornare IPTV dalla lista dei paesi"
 
-msgid "Changelog IPTV List Updater"
-msgstr "Lista di cambiamento IPTV List Updater"
+msgid "and add into TV Bouquet or Radio Bouquet"
+msgstr "e aggiungere in TV Bouquet o Radio Bouquet"
 
-msgid "FAQ IPTV List Updater"
-msgstr "FAQ IPTV List Updater"
-
-msgid "Install & Update IPTV from"
-msgstr "Installare e aggiornare IPTV dalla"
-
-msgid "country list to Bouquet TV or Radio"
-msgstr "lista dei paese nel Bouquet TV o Radio"
-
-msgid "Special thanks goes to HasBahCa for his Links"
-msgstr "Un ringraziamento speciale va a HasBahCa per i suoi Links"
+msgid "Special thanks goes to HasBahCa & FreeTuxTV for the links"
+msgstr "Un ringraziamento speciale va a HasBahCa & FreeTuxTV per i links"
 
 msgid "Close"
 msgstr "Chiudere"
@@ -41,8 +32,8 @@ msgstr "FAQ"
 msgid "Changelog"
 msgstr "Cronologia versioni"
 
-msgid "Select country to add as Bouquet in TV or Radio:"
-msgstr "Seleziona paese di aggiungere come Bouquet in TV o Radio:"
+msgid "Select country from list to add into TV Bouquet or Radio Bouquet:"
+msgstr "Seleziona paese della lista e aggiungi come TV Bouquet o Radio Bouquet:"
 
 msgid "Install"
 msgstr "Aggiungi"
@@ -53,11 +44,8 @@ msgstr "Aggiungere tutti"
 msgid "Update list"
 msgstr "Aggiorna lista"
 
-msgid "Reloading bouquets and services..."
+msgid "Reloading Bouquets and Services..."
 msgstr "Ricarica Bouquet e Servizi..."
-
-msgid "Can not find download.txt !!"
-msgstr "Non riesci a trovare download.txt !!"
 
 msgid "Nothing to select !!"
 msgstr "Niente da selezionare !!"
@@ -77,10 +65,10 @@ msgstr "Conversione Bouquet"
 msgid "UNKNOWN TYPE:"
 msgstr "Tipo sconosciuto:"
 
-msgid "bouquetname exists, do nothing"
+msgid "Bouquetname exists, do nothing"
 msgstr "Nome del Bouquet esiste, non fare nulla"
 
-msgid "bouquetname doesnt exists, adding it"
+msgid "Bouquetname doesn't exists, adding it"
 msgstr "Nome del bouquet non esiste, aggiungendolo"
 
 msgid "Special thanks to following Users:"

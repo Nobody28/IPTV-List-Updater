@@ -11,15 +11,6 @@ msgstr ""
 "X-Generator: Poedit 1.5.5\n"
 "Language-Team: \n"
 
-msgid "Welcome to IPTV List Updater"
-msgstr "Welkom bij de IPTV List Updater"
-
-msgid "Changelog IPTV List Updater"
-msgstr "Changelog IPTV List Updater"
-
-msgid "FAQ IPTV List Updater"
-msgstr "FAQ IPTV List Updater"
-
 msgid "Install & Update IPTV from"
 msgstr "Installeer & update IPTV van"
 
@@ -53,11 +44,8 @@ msgstr "Installeer alle"
 msgid "Update list"
 msgstr "Update lijst"
 
-msgid "Reloading bouquets and services..."
+msgid "Reloading Bouquets and Services..."
 msgstr "Favorieten en kanalen worden herladen"
-
-msgid "Can not find download.txt !!"
-msgstr "Kan download.txt niet vinden!"
 
 msgid "Nothing to select !!"
 msgstr "Niets te selecteren!"
@@ -77,10 +65,10 @@ msgstr "Bezig favoriet te converteren"
 msgid "UNKNOWN TYPE:"
 msgstr "ONBEKEND TYPE:"
 
-msgid "bouquetname exists, do nothing"
+msgid "Bouquetname exists, do nothing"
 msgstr "Favoriet bestaat al; doe niets"
 
-msgid "bouquetname doesnt exists, adding it"
+msgid "Bouquetname doesnt exists, adding it"
 msgstr "Favoriet bestaat niet; wordt toegevoegd"
 
 msgid "Special thanks to following Users:"

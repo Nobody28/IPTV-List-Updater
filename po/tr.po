@@ -11,15 +11,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 1.5.5\n"
 
-msgid "Welcome to IPTV List Updater"
-msgstr "IPTV List Updater Hosgeldini"
-
-msgid "Changelog IPTV List Updater"
-msgstr "IPTV List Updater güncelleme dökümani"
-
-msgid "FAQ IPTV List Updater"
-msgstr "IPTV List Updater SSS"
-
 msgid "Install & Update IPTV from"
 msgstr "IPTV Kurulum & Güncellem"
 
@@ -53,11 +44,8 @@ msgstr "Hepsini ekle"
 msgid "Update list"
 msgstr "Listeyi güncelle"
 
-msgid "Reloading bouquets and services..."
+msgid "Reloading Bouquets and Services..."
 msgstr "Buketler ve Servisler yeniden baslatiliyor"
-
-msgid "Can not find download.txt !!"
-msgstr "download.txt dosyasi bulunamiyor"
 
 msgid "Nothing to select !!"
 msgstr "Secim yapilmadi"
@@ -77,10 +65,10 @@ msgstr "Buket olusturuluyor"
 msgid "UNKNOWN TYPE:"
 msgstr "BILINMEYEN TIP"
 
-msgid "bouquetname exists, do nothing"
+msgid "Bouquetname exists, do nothing"
 msgstr "Buket ismi mevcut, eklenmiyor"
 
-msgid "bouquetname doesnt exists, adding it"
+msgid "Bouquetname doesn't exists, adding it"
 msgstr "Buket ismi mevcut degil, ekleniyor"
 
 msgid "Special thanks to following Users:"

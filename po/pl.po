@@ -12,14 +12,8 @@ msgstr ""
 "Language: pl_PL\n"
 "X-Generator: Poedit 1.5.5\n"
 
-msgid "Can not find download.txt !!"
-msgstr "Nie można odnaleść download.txt !!"
-
 msgid "Changelog"
 msgstr "Informacje o wersji"
-
-msgid "Changelog IPTV List Updater"
-msgstr "Historia i wersjach IPTV Updater"
 
 msgid "Close"
 msgstr "Zakończ"
@@ -29,9 +23,6 @@ msgstr "Konwertuj bukiety"
 
 msgid "FAQ"
 msgstr "FAQ"
-
-msgid "FAQ IPTV List Updater"
-msgstr "FAQ IPTV List Updater"
 
 msgid "HTTP download ERROR:"
 msgstr "HTTP błąd w pobieraniu:"
@@ -54,7 +45,7 @@ msgstr "Nic nie jest wybrane !!"
 msgid "Press OK or EXIT to go back !"
 msgstr "Wciśnij OK albo EXIT aby powrócić !"
 
-msgid "Reloading bouquets and services..."
+msgid "Reloading Bouquets and Services..."
 msgstr "Ładuje bukiety i kanały na nowo…."
 
 msgid "Select country to add as Bouquet in TV or Radio:"
@@ -75,13 +66,10 @@ msgstr "Aktualizuj bukiety i service dla:"
 msgid "Update list"
 msgstr "Aktualizuj Liste"
 
-msgid "Welcome to IPTV List Updater"
-msgstr "Witamy w IPTV List Updater"
-
-msgid "bouquetname doesnt exists, adding it"
+msgid "Bouquetname doesn't exists, adding it"
 msgstr "Nazwa bukietu nieznana, zostanie dodana"
 
-msgid "bouquetname exists, do nothing"
+msgid "Bouquetname exists, do nothing"
 msgstr "Nazwa bukietu już istnieje, nie rób nic "
 
 msgid "country list to Bouquet TV or Radio"

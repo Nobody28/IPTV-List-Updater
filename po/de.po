@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: IPTV-List-Updater\n"
 "POT-Creation-Date: 2013-06-16 07:45+0100\n"
-"PO-Revision-Date: 2013-07-17 23:16+0100\n"
+"PO-Revision-Date: 2013-07-19 23:56+0100\n"
 "Last-Translator: satinfo\n"
 "Language-Team: \n"
 "Language: de_DE\n"
@@ -11,23 +11,14 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 1.5.5\n"
 
-msgid "Welcome to IPTV List Updater"
-msgstr "Willkommen bei IPTV List Updater"
+msgid "Install & update IPTV streams from country list"
+msgstr "IPTV aus der Länderliste installieren & aktualisieren"
 
-msgid "Changelog IPTV List Updater"
-msgstr "Versionshistorie IPTV List Updater"
+msgid "and add into TV Bouquet or Radio Bouquet"
+msgstr "und in TV Bouquet oder Radio Bouquet einfügen"
 
-msgid "FAQ IPTV List Updater"
-msgstr "FAQ IPTV List Updater"
-
-msgid "Install & Update IPTV from"
-msgstr "Installieren & aktualisieren von IPTV aus der"
-
-msgid "country list to Bouquet TV or Radio"
-msgstr "Länderliste in Bouquet TV oder Radio"
-
-msgid "Special thanks goes to HasBahCa for his Links"
-msgstr "Danke an HasBahCa für seine Links"
+msgid "Special thanks goes to HasBahCa & FreeTuxTV for the links"
+msgstr "Danke an HasBahCa & FreeTuxTV für die Links"
 
 msgid "Close"
 msgstr "Beenden"
@@ -39,28 +30,25 @@ msgid "FAQ"
 msgstr "FAQ"
 
 msgid "Changelog"
-msgstr "Versionsinfo"
+msgstr "Versionshistorie"
 
-msgid "Select country to add as Bouquet in TV or Radio:"
-msgstr "Selektiere ein Land aus & füge es als Bouquet TV oder Radio ein: "
+msgid "Select country from list to add into TV Bouquet or Radio Bouquet:"
+msgstr "Wähle ein Land aus & füge es als TV Bouquet oder Radio Bouquet ein: "
 
 msgid "Install"
 msgstr "Installiere"
 
 msgid "Install all"
-msgstr "Installiere alle"
+msgstr "Alle installieren"
 
 msgid "Update list"
 msgstr "Liste aktualisieren"
 
-msgid "Reloading bouquets and services..."
+msgid "Reloading Bouquets and Services..."
 msgstr "Bouquets und Sender werden neu geladen…."
 
-msgid "Can not find download.txt !!"
-msgstr "Kann download.txt nicht finden !!"
-
 msgid "Nothing to select !!"
-msgstr "Nichts zum auswaehlen"
+msgstr "Nichts zum auswählen"
 
 msgid "Update Bouquets and Services for:"
 msgstr "Aktualisiere Bouquets und Services für:"
@@ -77,10 +65,10 @@ msgstr "Konvertiere Bouquet"
 msgid "UNKNOWN TYPE:"
 msgstr "Unbekannter Typ:"
 
-msgid "bouquetname exists, do nothing"
+msgid "Bouquetname exists, do nothing"
 msgstr "Bouquetname existiert bereits"
 
-msgid "bouquetname doesnt exists, adding it"
+msgid "Bouquetname doesn't exists, adding it"
 msgstr "Bouquetname existiert nicht, wird hinzugefügt"
 
 msgid "Special thanks to following Users:"

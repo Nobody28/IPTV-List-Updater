@@ -11,22 +11,13 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 1.5.5\n"
 
-msgid "Welcome to IPTV List Updater"
-msgstr "IPTV اهلا بكم في "
-
-msgid "Changelog IPTV List Updater"
-msgstr "تغييرات البرنامج"
-
-msgid "FAQ IPTV List Updater"
-msgstr "اسئله و اجوبه"
-
-msgid "Install & Update IPTV from"
+msgid "Install & update IPTV streams from country list"
 msgstr "تنصيب وتحديث من"
 
-msgid "country list to Bouquet TV or Radio"
+msgid "and add into TV Bouquet or Radio Bouquet"
 msgstr "قائمه البلدان للتافزيون والراديو"
 
-msgid "Special thanks goes to HasBahCa for his Links"
+msgid "Special thanks goes to HasBahCa & FreeTuxTV for the links"
 msgstr " HasBahCa الشكر الخاص ل"
 
 msgid "Close"
@@ -41,7 +32,7 @@ msgstr "معظم السئله والاجوبه"
 msgid "Changelog"
 msgstr "التغيرات"
 
-msgid "Select country to add as TV or Radio Bouquet:"
+msgid "Select country from list to add into TV Bouquet or Radio Bouquet:"
 msgstr "اختر البلد للاضافه كتلفزيون او راديو"
 
 msgid "Install"
@@ -53,11 +44,8 @@ msgstr "تنصيب كل القوائم"
 msgid "Update list"
 msgstr "تحديث القوائم "
 
-msgid "Reloading bouquets and services..."
+msgid "Reloading Bouquets and Services..."
 msgstr "اعاده تحديث الباقات و الخدمه"
-
-msgid "Can not find download.txt !!"
-msgstr "لا يوجد صيغه مكتوبه"
 
 msgid "Nothing to select !!"
 msgstr "لا يوجد اختيارات"
@@ -77,10 +65,10 @@ msgstr "تغيير صيغه القائمه"
 msgid "UNKNOWN TYPE:"
 msgstr "الصيغه غير معروفه"
 
-msgid "bouquetname exists, do nothing"
+msgid "Bouquetname exists, do nothing"
 msgstr "القائمه موجوده لا يوجد تغيير"
 
-msgid "bouquetname doesnt exists, adding it"
+msgid "Bouquetname doesn't exists, adding it"
 msgstr "القائمه غير موجوده، اضافه"
 
 msgid "Special thanks to following Users:"

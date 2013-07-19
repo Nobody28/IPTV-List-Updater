@@ -11,15 +11,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 1.5.5\n"
 
-msgid "Welcome to IPTV List Updater"
-msgstr "Üdvözöljük az IPTV lista Updater"
-
-msgid "Changelog IPTV List Updater"
-msgstr "Változások IPTV lista Updater"
-
-msgid "FAQ IPTV List Updater"
-msgstr "GYIK IPTV lista Updater"
-
 msgid "Install & Update IPTV from"
 msgstr "Telepítés és frissítés IPTV-től"
 
@@ -53,11 +44,8 @@ msgstr "telepítse az összes"
 msgid "Update list"
 msgstr "lista frissítése"
 
-msgid "Reloading bouquets and services..."
+msgid "Reloading Bouquets and Services..."
 msgstr "Újratöltés csokrok és szolgáltatások ..."
-
-msgid "Can not find download.txt !!"
-msgstr "Nem található download.txt!"
 
 msgid "Nothing to select !!"
 msgstr "Nincs valasztas"
@@ -77,11 +65,11 @@ msgstr "konvertálása Bouquet"
 msgid "UNKNOWN TYPE:"
 msgstr "Ismeretlen típus:"
 
-msgid "bouquetname exists, do nothing"
-msgstr "bouquetname létezik, nem csinál semmit"
+msgid "Bouquetname exists, do nothing"
+msgstr "Bouquetname létezik, nem csinál semmit"
 
-msgid "bouquetname doesnt exists, adding it"
-msgstr "bouquetname nem létezik, hozzátéve,"
+msgid "Bouquetname doesnt exists, adding it"
+msgstr "Bouquetname nem létezik, hozzátéve,"
 
 msgid "Special thanks to following Users:"
 msgstr "különös köszönet a következö user"
