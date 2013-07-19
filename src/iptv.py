@@ -116,18 +116,6 @@ class IPTV(Screen):
                 self.iptvlist.append(ll[3])
             else:
                 continue
-        
-    def find(self, arg, dirname, names):
-        for x in names:
-            if x.startswith("IPTV_") and x.endswith(".sh"):
-                if dirname <> self.root:
-                    subdir = dirname[19:]
-                    self.iptvname = x
-                    self.iptvname = subdir + "/" + iptvname
-                    self.iptvlist.append(iptvname.split(".")[0])
-                else:
-                    self.iptvname = x
-                    self.iptvlist.append(self.iptvname.split(".")[0])
 
     def layoutFinished(self):
         self.loadCountry()
@@ -390,18 +378,6 @@ class IPTV_Mod(Screen):
                 self.iptvlist.append(ll[3])
             else:
                 continue
-        
-    def find(self, arg, dirname, names):
-        for x in names:
-            if x.startswith("IPTV_") and x.endswith(".sh"):
-                if dirname <> self.root:
-                    subdir = dirname[19:]
-                    self.iptvname = x
-                    self.iptvname = subdir + "/" + iptvname
-                    self.iptvlist.append(iptvname.split(".")[0])
-                else:
-                    self.iptvname = x
-                    self.iptvlist.append(self.iptvname.split(".")[0])
 
     def layoutFinished(self):
         self.loadCountry()
