@@ -6,7 +6,7 @@ America TV http://01.gen.tr/simple/amerika.m3u Amerika_TV
 Arabia TV http://01.gen.tr/simple/arap.m3u Arabien_TV
 Asia TV http://01.gen.tr/simple/asya.m3u Asien_TV
 Bangladesh TV http://01.gen.tr/simple/bangladesh.m3u Bangladesch_TV
-Brasil  TV http://01.gen.tr/simple/brasil.m3u Brasilien_TV
+Brasil TV http://01.gen.tr/simple/brasil.m3u Brasilien_TV
 Bulgaria TV http://01.gen.tr/simple/bulgar.m3u Bulgarien_TV
 China TV http://01.gen.tr/simple/china.m3u China_TV
 Germany TV http://01.gen.tr/simple/almanca.m3u Deutschland_TV
