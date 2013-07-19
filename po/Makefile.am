@@ -37,8 +37,6 @@ $(DOMAIN).pot:
 	../xml2po.py ../ >> $(DOMAIN).pot
 
 	msguniq -o $(DOMAIN)uniq.pot $(DOMAIN).pot
-	$(RM) $(DOMAIN).pot
-
 
 .PHONY: $(DOMAIN).pot
 
