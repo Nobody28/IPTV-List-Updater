@@ -10,13 +10,13 @@
 	<ePixmap name="red" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/IPTV-List-Updater/skins/original/buttons/red.png" position="10,400" zPosition="1" size="40,40" transparent="1" alphatest="on" />
 	<ePixmap name="green" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/IPTV-List-Updater/skins/original/buttons/green.png" position="160,400" zPosition="1" size="40,40" transparent="1" alphatest="on" />
 	<ePixmap name="yellow" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/IPTV-List-Updater/skins/original/buttons/yellow.png" position="285,400" zPosition="1" size="40,40" transparent="1" alphatest="on" />
-	<ePixmap name="blue" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/IPTV-List-Updater/skins/original/buttons/blue.png" position="505,400" zPosition="1" size="40,40" transparent="1" alphatest="on" />
-	<ePixmap name="info" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/IPTV-List-Updater/skins/original/buttons/info.png" position="715,400" zPosition="1" size="40,40" transparent="1" alphatest="on" />
+	<ePixmap name="blue" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/IPTV-List-Updater/skins/original/buttons/blue.png" position="525,400" zPosition="1" size="40,40" transparent="1" alphatest="on" />
+	<ePixmap name="info" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/IPTV-List-Updater/skins/original/buttons/info.png" position="730,400" zPosition="1" size="40,40" transparent="1" alphatest="on" />
 	<ePixmap name="menu" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/IPTV-List-Updater/skins/original/buttons/menu.png" position="770,400" zPosition="1" size="40,40" transparent="1" alphatest="on" />
 	<widget name="key_red" position="55,407" zPosition="2" size="120,25" valign="center" halign="left" font="Regular;21" transparent="1" shadowColor="#000000" shadowOffset="-1,-1" />
 	<widget name="key_green" position="205,407" zPosition="2" size="100,25" valign="center" halign="left" font="Regular;21" transparent="1" shadowColor="#000000" shadowOffset="-1,-1" />
 	<widget name="key_yellow" position="330,407" zPosition="2" size="160,25" valign="center" halign="left" font="Regular;21" transparent="1" shadowColor="#000000" shadowOffset="-1,-1" />
-	<widget name="key_blue" position="550,407" zPosition="2" size="160,25" valign="center" halign="left" font="Regular;21" transparent="1" shadowColor="#000000" shadowOffset="-1,-1" />
+	<widget name="key_blue" position="570,407" zPosition="2" size="160,25" valign="center" halign="left" font="Regular;21" transparent="1" shadowColor="#000000" shadowOffset="-1,-1" />
 </screen>
 
 
