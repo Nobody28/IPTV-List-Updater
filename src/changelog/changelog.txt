@@ -98,7 +98,7 @@ Changelog
 - compatible with OpenPLI
 -
 
-1.01 (xx.07.2013):
+1.10 (19.07.2013):
 - changed buttons
 - original skin graphics for plugin by Assimaschine
 - changed skin and done first step to implement other skins
