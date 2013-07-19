@@ -1,6 +1,6 @@
 <screen name="FAQ" position="center,center" size="820,450" title="FAQ IPTV List Updater" >
 	<ePixmap position="0,0" zPosition="-1" size="820,450" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/IPTV-List-Updater/skins/original/images/back_faq.png" />
 	<widget name="text" position="20,50" size="780,350" font="Regular;21" transparent="1" />
-	<ePixmap name="red" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/IPTV-List-Updater/skins/original/buttons/red.png" position="10,395" zPosition="1" size="40,40" transparent="1" alphatest="on" />
-	<widget name="key_red" position="55,405" zPosition="2" size="120,25" valign="center" halign="left" font="Regular;21" transparent="1" shadowColor="#000000" shadowOffset="-1,-1" />
+	<ePixmap name="red" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/IPTV-List-Updater/skins/original/buttons/red.png" position="20,400" zPosition="1" size="40,40" transparent="1" alphatest="on" />
+	<widget name="key_red" position="65,407" zPosition="2" size="120,25" valign="center" halign="left" font="Regular;21" transparent="1" shadowColor="#000000" shadowOffset="-1,-1" />
 </screen>
