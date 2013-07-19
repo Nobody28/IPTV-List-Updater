@@ -15,6 +15,7 @@ from Components.Label import Label
 import Components.config
 from Components.MenuList import MenuList
 from Components.config import config
+from Components.Language import language
 from Tools.Directories import resolveFilename, SCOPE_PLUGINS
 from locale import _
 from os import path, walk
@@ -93,10 +94,9 @@ class IPTV(Screen):
         self.session.open(FAQ)   
         
     def getDownloadTxt(self):
-        downloadPath = "/usr/lib/enigma2/python/Plugins/Extensions/IPTV-List-Updater/list/download.txt"
+        downloadPath = "/usr/lib/enigma2/python/Plugins/Extensions/IPTV-List-Updater/list/%s.txt" % language.getLanguage()[:2]
         if not path.exists(downloadPath):
-            print"Can not find download.txt !!"
-            return
+            downloadPath = "/usr/lib/enigma2/python/Plugins/Extensions/IPTV-List-Updater/list/en.txt"
 
         self.downloadlist = []
         f = open(downloadPath,'r')
@@ -355,10 +355,9 @@ class IPTV_Mod(Screen):
         self.session.open(FAQ)
         
     def getDownloadTxt(self):
-        downloadPath = "/usr/lib/enigma2/python/Plugins/Extensions/IPTV-List-Updater/list/download.txt"
+        downloadPath = "/usr/lib/enigma2/python/Plugins/Extensions/IPTV-List-Updater/list/%s.txt" % language.getLanguage()[:2]
         if not path.exists(downloadPath):
-            print"Can not find download.txt !!"
-            return
+            downloadPath = "/usr/lib/enigma2/python/Plugins/Extensions/IPTV-List-Updater/list/en.txt"
 
         self.downloadlist = []
         f = open(downloadPath,'r')
