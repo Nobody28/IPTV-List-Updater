@@ -1,3 +1,3 @@
 installdir = /usr/lib/enigma2/python/Plugins/Extensions/IPTV-List-Updater/list
-install_DATA = en.txt
+install_DATA = *.txt
 
