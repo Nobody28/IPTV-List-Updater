@@ -2,19 +2,19 @@
 FAQ - 23.06.2013 !
 
 1. Für welche Systeme ist das Plugin gedacht?!
-    Das Plugin sollte auf allen OE2.0 Images funktionieren. OE1.6 Images 
-    unterstützen keine IPTV Bouquets !
+    Das Plugin sollte auf allen OE2.0 Images funktionieren. 
+    OE1.6 Images unterstützen keine IPTV Bouquets !
 	
 2. Was kann ich machen, wenn ich das Plugin nicht installieren kann?
-    Entpacke das Plugin (z.B. mit 7zip). Kopiere alle Files mit einem FTP 
-    Programm (z.B. Filezilla) auf deine Box.
+    Entpacke das Plugin (z.B. mit 7zip). Kopiere alle Files mit einem 
+    FTP-Programm (z.B. Filezilla) auf deine Box.
 
 3. Welche Boxen können mms Streams abspielen?
     Stand: 23.06.2013:
     VU+ haben kein mms support! 
     Nur alle Xtrend, dm500hd,800se und 7020hd 
 	
-4. Was muss ich tun, um zusätzliche Streams in die Liste zu bekommen?
+4. Was muss ich tun, um weitere Streams in die Liste zu bekommen?
     Sucht entsprechende Links oder Listen im Internet. Teste sie und 
     postet sie in einem der Threads vom IPTV List Updater in folgenden
     Foren:
@@ -27,12 +27,12 @@ FAQ - 23.06.2013 !
 5. Wie kann ich Bouquets wieder löschen?
     Bouquets könnt Ihr nach Beendigung des Plugins wieder löschen:
     Pfeil runter => Favoriten TV (blaue Taste) => auf das zu löschende 
-    Bouquet gehen => Menü-Taste drücken => Eintrag entfernen => OK-
-    Taste
+    Bouquet gehen => Menü-Taste drücken => Eintrag entfernen => 
+    OK-Taste
 	
 6. Kann ich eigene Flaggen einbauen?
-    Flaggen müssen als Namen der ersten Position der download.txt im Ver-
-    zeichnis /usr/lib/enigma2/python/Plugins/Extensions/IPTV-List-
+    Flaggen müssen als Namen der ersten Position der download.txt im 
+    Verzeichnis /usr/lib/enigma2/python/Plugins/Extensions/IPTV-List-
     Updater/list haben und im PNG Format vorliegen und eine Größe 
     von 270 * 200 Pixel (8 Bit) haben. Gespeichert werden müssen sie
     unter /usr/lib/enigma2/python/Plugins/Extensions/IPTV-List-
@@ -41,14 +41,17 @@ FAQ - 23.06.2013 !
 7. Kann ich auch einzelne Streaminglisten ausblenden?
     Ja. Man bearbeitet im Ordner /usr/lib/enigma2/python/Plugins/
     Extensions/IPTV-List-Updater/list die Datei download.txt mit z.B. 
-    Notepad++ und löscht alle Zeilen raus, die Ihr nicht benutzen möchtet.
-    Nicht vergessen die Datei vorher zu sichern.
+    Notepad++ und löscht alle Zeilen raus, die Ihr nicht benutzen 
+    möchtet. Nicht vergessen die Datei vorher zu sichern.
 	
 8. Wie kann ich eigene m3u Files einbauen und konvertieren lassen?
     Dazu muss ein m3u File z.B. auf Dropbox geladen werden.
     Dann müsst Ihr in der Datei download.txt unter /usr/lib/enigma2
     /python/Plugins/Extensions/IPTV-List-Updater/list eine neue Zeile 
-    einfügen. Die 4 Einträge müssen so lauten:
-    Flaggenname Bouquettyp(TV oder Radio) Downloadpfad Bouquetname.
+    einfügen. 
+    Die 4 Einträge müssen so lauten:
+    
+    Flaggenname Bouquettyp(TV oder Radio) Downloadpfad Bouquetname
+    
     Nun müsst Ihr nur noch das Plugin aufrufen und die Installation
-    für Euer Boqueut ausführen.
+    für euer Boqueut ausführen.
