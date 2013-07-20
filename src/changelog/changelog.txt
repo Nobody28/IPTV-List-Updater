@@ -127,4 +127,4 @@ Changelog
 
 from 20:07.2013:
 - smal fixe
-- 
+- add Nilesat
