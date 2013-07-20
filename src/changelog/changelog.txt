@@ -107,9 +107,11 @@ Changelog
 - added temporarily iptv list updater version for Dreamboxes to "menu" button 
 - added language support of TV Bouquets and Radio Bouquets
 - added default list en.txt
-- add list de.txt & beginn translation
+- add list de.txt <== german Boquetnames
+- add list tr.txt <== turky Bouquetnames
+- add list hu.txt & beginn translation <== hungary Bouquetsname
 - removed download.txt
-- more language support
+- more language support:
   arabic (Thx @zozo1976)
   hungary (Thx @NaseDC & his wife)
   turkey (Thx @HasBahCa)
