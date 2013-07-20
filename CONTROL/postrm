@@ -2,5 +2,4 @@
 # Ein Shell Script welches nach Entfernen des Paketes ausgeführt wird 
 echo "Removing IPTV List Updater Plugin from the system ..."
 rm -rf /usr/lib/enigma2/python/Plugins/Extensions/IPTV-List-Updater > /dev/null 2>&1
-rm -rf /usr/script/IPTV-List-update.sh > /dev/null 2>&1
 exit 0
