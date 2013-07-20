@@ -42,9 +42,9 @@ class Start(Screen):
 		self["maintain"] = Label(_("(c) by Nobody28 & satinfo"))
 		self["link1"] = Label(_("www.opena.tv"))
 		self["link2"] = Label(_("www.gigablue-support.com"))
-		self["description"] = Label(_("Install & Update IPTV from"))
-		self["description2"] = Label(_("country list to Bouquet TV or Radio"))
-		self["thanks"] = Label(_("Special thanks goes to HasBahCa for his Links"))
+		self["description"] = Label(_("Install & update IPTV streams from country list"))
+		self["description2"] = Label(_("and add into TV Bouquet or Radio Bouquet"))
+		self["thanks"] = Label(_("Special thanks goes to HasBahCa & FreeTuxTV for the links"))
 		
 		self["actions"] = ActionMap(["OkCancelActions", "WizardActions", "ColorActions", "SetupActions", "NumberActions", "EPGSelectActions"],
 		{
