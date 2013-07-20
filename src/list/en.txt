@@ -25,6 +25,7 @@ Italy TV http://01.gen.tr/simple/italya.m3u Italy_TV
 Japan TV http://01.gen.tr/simple/japan.m3u Japan_TV
 Kurdish TV http://01.gen.tr/simple/kurdi.m3u Kurdish_TV
 Music TV http://01.gen.tr/simple/muzik.m3u Music_TV
+Nilesat TV http://01.gen.tr/simple/turkvod/nilesat.m3u NILESAT_TV
 Poland TV http://01.gen.tr/simple/polonya.m3u Poland_TV
 Radio-Turkey RADIO http://01.gen.tr/simple/radyolar.m3u Turkey_Radio
 Romania-Moldavia TV http://01.gen.tr/simple/romanya.m3u Romania-Moldavia_TV
