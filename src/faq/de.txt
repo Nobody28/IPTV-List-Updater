@@ -54,4 +54,4 @@ FAQ - 23.06.2013 !
     Flaggenname Bouquettyp(TV oder Radio) Downloadpfad Bouquetname
     
     Nun müsst Ihr nur noch das Plugin aufrufen und die Installation
-    für euer Boqueut ausführen.
+    für euer Bouquet ausführen.
