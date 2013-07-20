@@ -1,6 +1,5 @@
 Changelog 
 
-
 0.1 Beta (28.05.2013) NonPublic:
 - first test release
 
@@ -124,4 +123,8 @@ Changelog
   - Egypten
   - Israel
   - Turki_Azeri
-  - 
+  -
+
+from 20:07.2013:
+- smal fixe
+- 
