@@ -23,6 +23,7 @@ Italy TV http://01.gen.tr/simple/turkvod/italya.m3u ITALYANCA
 Japan TV http://01.gen.tr/simple/turkvod/japan.m3u JAPONYA
 Kurdish TV http://01.gen.tr/simple/turkvod/kurdi.m3u KURTCE
 Music TV http://01.gen.tr/simple/turkvod/muzik.m3u MUZIK_KANALLARI
+Nilesat TV http://01.gen.tr/simple/turkvod/nilesat.m3u NILESAT
 Poland TV http://01.gen.tr/simple/turkvod/polonya.m3u POLONYA
 Radio-Turkey RADIO http://01.gen.tr/simple/turkvod/radyolar.m3u TURKCE_RADYO
 Romania-Moldavia TV http://01.gen.tr/simple/turkvod/romanya.m3u ROMANYA_MOLDAVYA
