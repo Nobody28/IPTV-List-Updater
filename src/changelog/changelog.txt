@@ -1,6 +1,6 @@
 Changelog:
 
-from 20.07.2013:
+from 20.07.2013 - xx.xx.2013:
 - smal fixe
 - add Nilesat
 
