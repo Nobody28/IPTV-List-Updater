@@ -1,7 +1,7 @@
 Changelog:
 
 from 20.07.2013 - xx.xx.2013:
-- add polish FAQ (Thx @miromoni)
+- add polish FAQ & polish translation (Thx @miromoni)
 - add 3D TV
 - small fixe
 - add Nilesat
