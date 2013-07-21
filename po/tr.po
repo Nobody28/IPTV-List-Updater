@@ -12,7 +12,7 @@ msgstr ""
 "X-Generator: Poedit 1.5.5\n"
 
 msgid "Install & Update IPTV from"
-msgstr "IPTV Kurulum & Güncellem"
+msgstr "IPTV Kurulum & Güncelleme"
 
 msgid "country list to Bouquet TV or Radio"
 msgstr "TV veya Radyo buket ekleme listesi"
