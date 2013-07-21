@@ -18,13 +18,13 @@ msgid "country list to Bouquet TV or Radio"
 msgstr "TV veya Radyo buket ekleme listesi"
 
 msgid "Special thanks goes to HasBahCa for his Links"
-msgstr "Linkler icin HasBahCa ya Tesekkürler"
+msgstr "Linkler icin HasBahCa ya Teşekkürler"
 
 msgid "Close"
 msgstr "Kapat"
 
 msgid "Start"
-msgstr "Baslat"
+msgstr "Başlat"
 
 msgid "FAQ"
 msgstr "FAQ"
@@ -33,7 +33,7 @@ msgid "Changelog"
 msgstr "Döküman"
 
 msgid "Select country to add as Bouquet in TV or Radio:"
-msgstr "Bukete eklemek istediginiz ülke TV veya Radyo yu seciniz"
+msgstr "Bukete eklemek istediginiz TV veya Radyo yu listeden seçiniz"
 
 msgid "Install"
 msgstr "Kur-Install"
@@ -45,16 +45,16 @@ msgid "Update list"
 msgstr "Listeyi güncelle"
 
 msgid "Reloading Bouquets and Services..."
-msgstr "Buketler ve Servisler yeniden baslatiliyor"
+msgstr "Buketler ve Servisler yeniden başlatılıyor"
 
 msgid "Nothing to select !!"
-msgstr "Secim yapilmadi"
+msgstr "Seçim yapılmadı"
 
 msgid "Update Bouquets and Services for:"
-msgstr "Güncelleme yapilan buketler ve servisler:"
+msgstr "Güncelleme yapilan buket ve servisler:"
 
 msgid "Press OK or EXIT to go back !"
-msgstr "Geri dönmek icin OK veya EXIT tusuna basiniz"
+msgstr "Geri dönmek icin OK veya EXIT tuşuna basınız"
 
 msgid "HTTP download ERROR:"
 msgstr "HTTP yükleme HATASI"
@@ -69,10 +69,10 @@ msgid "Bouquetname exists, do nothing"
 msgstr "Buket ismi mevcut, eklenmiyor"
 
 msgid "Bouquetname doesn't exists, adding it"
-msgstr "Buket ismi mevcut degil, ekleniyor"
+msgstr "Buket ismi mevcut değil, ekleniyor"
 
 msgid "Special thanks to following Users:"
-msgstr "Asagidaki emegi gecenlere, özel tesekkürler:"
+msgstr "Aşağıdaki emeği gecenlere, özel Teşekkürler:"
 
 msgid "Credits"
-msgstr "Kredi"
+msgstr "Emeği Geçenler"
