@@ -1,0 +1,61 @@
+FAQ dla IPTV List Updater Plugin!!!
+Z dnia: 23.06.2013
+
+1. Dla jakich systemów nadaje się wtyczka?!
+     Wtyczka powinna pracować na wszystkich OE2.0
+     OE 1.6 nie wspiera IPTV bukietów !  
+
+2. Co można zrobić jak nie idzie zainstalować wtyczki?
+     Rozpakuj go np.: 7zip - przekopiuj wszystko po ftp 
+     do boxa programem (np.: Filezilla, DCC czy TC) do: 
+     "/usr/lib/enigma2/python/Plugins/Extensions/ 
+     -IPTV-List-Updater".
+
+3 Które boxy mogę odtwarzać strumienie MMS?
+     Na dzień 23.06.2013:
+     VU + mają brak wsparcia mms! Tylko dm500hd, 
+	 800se, 7020HD
+
+4 Co należy zrobić, aby uzyskać dodatkowe streamy 
+     w listach?
+     Poszukaj odpowiednie linki streamów w internecie. 
+     Przetestuj je i prześlij na jeden z forów:
+     www.opena.tv
+     www.vuplus-support.org
+     www.gigablue-support.com. 
+	 Jest to bezpieczniejsze, jeśli 
+     na Satinfo Nobody28, albo HasBahCa
+     otrzymie to przez PM.
+     ... tylko tak istnieje prawdopodobieństwo,
+     że przy następnej aktualazacji
+     wszystko będzie znów funktionować.
+
+5 Jak mogę usunąć bukiet-y?
+     Poszczególne bukiety można usunąć:
+     Strzałka w dół => Ulubione (niebieski przycisk) 
+     => wybrać bukiet do usunięcia => Menu => Usuń
+     Następnie możemy ponownie wybrany 
+     bukiet zainstalować.
+	
+6. Moge swoje flagi dodać lub zmienić?
+     Flagi muszą mieć nazwę z pierwszej pozycji 
+     w download.txt w katalogu 
+     /usr/lib/enigma2/python/Plugins/Extensions/IPTV-List-
+     Updater/list - muszą być w formacie PNG i 
+     muszą być w wielkości 270 x 200 pikseli.
+	 
+7. Moge poszczególne strumienie wyłączyć?
+     Tak. Trzeba edytować w folderze: /usr/lib/enigma2/python/Plugins/
+     Extensions/IPTV-List-Updater/list plik download.txt np. programem
+     Notepad++ i wykasować te linie których nie chcesz używać.
+     Nie zapomnij zrobić sobie wcześniej kopie pliku.
+	
+8. Jak dodać swoje pliki m3u i je konwertować?
+     Do tego musisz m3u plik np. na Dropbox załadować.
+     Później musisz do pliku download.txt w folderze: /usr/lib/enigma2
+     /python/Plugins/Extensions/IPTV-List-Updater/list dodać swoje 
+     nowe linie. Te cztery pozycje muszą zachować kolejność:
+     Państwo, typ(TV albo Radio), link i nazwa bukietu.
+     Teraz trzeba już tylko wejść na plugin ( wtyczke ) i swój nowy
+     bukiet wywołać.
+	
