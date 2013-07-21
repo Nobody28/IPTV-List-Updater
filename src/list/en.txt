@@ -1,5 +1,6 @@
 # HasBahCa List
 # FLaggenanzeige Bouquettyp Downloadlink Bouquetname(Unterstriche werden im Plugin ausgeblendet)
+Nilesat TV http://01.gen.tr/simple/turkvod/nilesat.m3u NILESAT
 3D TV http://01.gen.tr/simple/3d.m3u 3D_TV
 XXX-Adult TV http://01.gen.tr/simple/adult.m3u XXX-Adult_TV
 Albania TV http://01.gen.tr/simple/albanien.m3u Albania_TV
