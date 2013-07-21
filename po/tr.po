@@ -15,10 +15,10 @@ msgid "Install & Update IPTV from"
 msgstr "IPTV Kurulum & Güncellem"
 
 msgid "country list to Bouquet TV or Radio"
-msgstr "TV veya radyo buket ekleme listesi"
+msgstr "TV veya Radyo buket ekleme listesi"
 
 msgid "Special thanks goes to HasBahCa for his Links"
-msgstr "Linkler icin HasBahCa ya özel Tesekkürler"
+msgstr "Linkler icin HasBahCa ya Tesekkürler"
 
 msgid "Close"
 msgstr "Kapat"
@@ -36,7 +36,7 @@ msgid "Select country to add as Bouquet in TV or Radio:"
 msgstr "Bukete eklemek istediginiz ülke TV veya Radyo yu seciniz"
 
 msgid "Install"
-msgstr "Kur - Install"
+msgstr "Kur-Install"
 
 msgid "Install all"
 msgstr "Hepsini ekle"
@@ -72,7 +72,7 @@ msgid "Bouquetname doesn't exists, adding it"
 msgstr "Buket ismi mevcut degil, ekleniyor"
 
 msgid "Special thanks to following Users:"
-msgstr "Asagidaki kullanici(lar)a özel tesekkürler:"
+msgstr "Asagidaki emegi gecenlere, özel tesekkürler:"
 
 msgid "Credits"
 msgstr "Kredi"
