@@ -40,17 +40,17 @@ Russia TV http://01.gen.tr/simple/rus.m3u Russland
 Simpltvplayerbackup TV http://01.gen.tr/simple/simpltvplayerbackup.m3u Simpletvplayer
 Sport TV http://01.gen.tr/simple/spor.m3u Sport
 Thai TV http://01.gen.tr/simple/thai.m3u Thailand
-Turkey-Main TV http://01.gen.tr/simple/turk_belgesel_sinema.m3u TÃ¼rkei_Doku_Filme
-Turkey-Main TV http://01.gen.tr/simple/turk_cocuk.m3u TÃ¼rkei_Kinder
-Turkey-Main TV http://01.gen.tr/simple/turk_dini.m3u TÃ¼rkei_Religion
-Turkey-Main TV http://01.gen.tr/simple/turk_haber.m3u TÃ¼rkei_Nachrichten
-Turkey-Main TV http://01.gen.tr/simple/turk_muzik.m3u TÃ¼rkei_Musik
-Turkey-Main TV http://01.gen.tr/simple/turk_spor.m3u TÃ¼rkei_Sport
-Turkey-Main TV http://01.gen.tr/simple/turk_ulusal.m3u TÃ¼rkei_Hauptsender
-Turkey-Local TV http://01.gen.tr/simple/turk_yerel.m3u TÃ¼rkei_Lokalsender
-Turki_Azeri TV http://01.gen.tr/simple/turki.m3u TÃ¼rkei_Aserbaidschan
+Turkey-Main TV http://01.gen.tr/simple/turk_belgesel_sinema.m3u Türkei_Doku_Filme
+Turkey-Main TV http://01.gen.tr/simple/turk_cocuk.m3u Türkei_Kinder
+Turkey-Main TV http://01.gen.tr/simple/turk_dini.m3u Türkei_Religion
+Turkey-Main TV http://01.gen.tr/simple/turk_haber.m3u Türkei_Nachrichten
+Turkey-Main TV http://01.gen.tr/simple/turk_muzik.m3u Türkei_Musik
+Turkey-Main TV http://01.gen.tr/simple/turk_spor.m3u Türkei_Sport
+Turkey-Main TV http://01.gen.tr/simple/turk_ulusal.m3u Türkei_Hauptsender
+Turkey-Local TV http://01.gen.tr/simple/turk_yerel.m3u Türkei_Lokalsender
+Turki_Azeri TV http://01.gen.tr/simple/turki.m3u Türkei_Aserbaidschan
 Turkkomple TV http://01.gen.tr/simple/turkkomple.m3u Türkei_Komplett
-Radio-Turkey RADIO http://01.gen.tr/simple/radyolar.m3u TÃ¼rkei_Radio
+Radio-Turkey RADIO http://01.gen.tr/simple/radyolar.m3u Türkei_Radio
 Ukraine TV http://01.gen.tr/simple/ukraina.m3u Ukraine
 WebCam WEBCAM http://01.gen.tr/simple/webcam.m3u WorldWebCams
 #
