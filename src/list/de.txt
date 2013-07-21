@@ -1,5 +1,6 @@
 # HasBahCa List
 # FLaggenanzeige Bouquettyp Downloadlink Bouquetname(Unterstriche werden im Plugin ausgeblendet)
+3D TV http://01.gen.tr/simple/3d.m3u 3D_TV
 Misir_egypt TV http://01.gen.tr/simple/misir_egypt.m3u Ägypten_TV
 Albania TV http://01.gen.tr/simple/albanien.m3u Albanien_TV
 America TV http://01.gen.tr/simple/amerika.m3u Amerika_TV
