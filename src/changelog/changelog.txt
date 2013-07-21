@@ -1,6 +1,7 @@
 Changelog:
 
 from 20.07.2013 - xx.xx.2013:
+- add 3D TV
 - small fixe
 - add Nilesat
 
