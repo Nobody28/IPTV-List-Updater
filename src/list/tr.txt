@@ -47,6 +47,7 @@ Brasil TV http://01.gen.tr/simple/turkvod/brasil.m3u BREZILYA
 Magyar TV http://01.gen.tr/simple/turkvod/magyar.m3u MACARISTAN
 Misir_egypt TV http://01.gen.tr/simple/turkvod/misir_egypt.m3u MISIR
 Israel TV http://01.gen.tr/simple/turkvod/israil.m3u ISRAIL
+Nilesat TV http://01.gen.tr/simple/turkvod/nilesat.m3u NILESAT
 # FreetuxTV
 NoLang TV http://database.freetuxtv.net/playlists/playlist_webtv_none.m3u Web_TV_(No_lang)
 NoLang Radio http://database.freetuxtv.net/playlists/playlist_webradio_none.m3u Web_Radio_(No-lang)
