@@ -1,101 +1,8 @@
-Changelog 
+Changelog:
 
-0.1 Beta (28.05.2013) NonPublic:
-- first test release
-
-0.1 (29.05.2013):
-- first official release
-
-0.2 (30.05.2013):
-- changed download source
-- changed plugin icon
-- changed some code in scripts
-- added script Int. Radio
-
-0.3 (30.05.2013):
-- changed download source
-- changed some code again
-
-0.4 (30.05.2013):
-- added Bouquets:
-   Europe, Bulgaria, France, India, England, International, Spain, 
-   Moldavia, Music, Poland, Radio, Romania, Russia, Sports, 
-   SimpleTVPlayerBackup, Turkey, Turkey_mms, Turkey_local, 
-   Turkey_main
-	  
-0.4-ANGA-edition (03.06.2013):
-- changed position of Adult
-- rollback to download path http://01.gen.tr/simple/turkvod/ for 
-  german streams
-- added convert for: mmsh:// and rtmpe:// streams for germany 
-  bouquet
-- changed some Bouquet names
-- added static World Webcams
-
-0.5 (08.06.2013):
-- changed all download sources to ==> 
-  http://01.gen.tr/simple/turkvod/
-- added World Webcams from Internet
-- added Bouquet:  EX-Yu, Thai, Bangladesh, Greece, Filmon <== 
-  Thx for Help @HasBahCa
-
-0.51 (09.06.2013):
-- fixed errors from V. 0.5
-- deleted unused text 
-
-0.60 (09.06.2013):
-- same translations
-- changed order of List now from A to Z (before from Z to A )
-
-0.70 (10.06.2013):
-- separated scripts
-- now help from my friend Satinfo to implement all in python ;)
-- you can select your IPTV Bouquet from plugin ;)
-- added some code in scripts
-- add more convert of streams
-
-0.80 (13.06.2013):
-- added script "IPTV_All_Update.sh"
-- added script "IPTV_China.sh"
-- added rtmpt support
-- added more converter in Asia & China Bouquet 
-- changed to mips32el (OE1.6 don't support IPTV from Bouquet!)
-
-0.90 (15.06.2013):
-- renamed IPTV_Adult.sh -> IPTV_XXX.sh
-- added "Welcome" screen
-- added Changelog in "Welcome" Screen
-- added FAQ in "Welcome" Screen
-- changed yellow button in IPTV Main Plugin from "Reload GUI" 
-  to "Install all" -> install all IPTV Bouquet
-- changed blue button in IPTV Main Plugin from "Info" to 
-  "Update scripts"
-- some preparation for online update scripts
-- added automatically reload Bouquet after closing plugin if 
-  installed minimum one Bouquet
-- Plugin now available in PluginPanel (Blue Button)
-- changed buttons 
-- some code cleanup in the scripts
-
-1.00 (24.06.2013):
-- added language support of plugin for de, en, it 
-  (more language to come)
-- added language support of faq for de, en, it
-  (more language to come)
-- changelog now in folder "changelog"
-- changed convert from scripts to python directly (Thx @Black_64 from www.openA.TV)
-- now TV Bouquets in Favourites TV
-- now Webcam Bouquets in Favourites TV
-- now Radio Bouquets in Favourites Radio
-- removes scripts, and folder "scripts"
-- added download.txt for convertation in folder "list"
-- added new flags (Thx @NaseDC)
-- changed name in list for each country or continent
-- now separated python files for much easier coding
-- need only Flags in Format country.png 270*200 Pixel
-- now 147 Bouquets
-- compatible with OpenPLI
--
+from 20.07.2013:
+- smal fixe
+- add Nilesat
 
 1.10 (19.07.2013):
 - changed buttons
@@ -125,6 +32,99 @@ Changelog
   - Turki_Azeri
   -
 
-from 20.07.2013:
-- smal fixe
-- add Nilesat
+1.00 (24.06.2013):
+- added language support of plugin for de, en, it 
+  (more language to come)
+- added language support of faq for de, en, it
+  (more language to come)
+- changelog now in folder "changelog"
+- changed convert from scripts to python directly (Thx @Black_64 from www.openA.TV)
+- now TV Bouquets in Favourites TV
+- now Webcam Bouquets in Favourites TV
+- now Radio Bouquets in Favourites Radio
+- removes scripts, and folder "scripts"
+- added download.txt for convertation in folder "list"
+- added new flags (Thx @NaseDC)
+- changed name in list for each country or continent
+- now separated python files for much easier coding
+- need only Flags in Format country.png 270*200 Pixel
+- now 147 Bouquets
+- compatible with OpenPLI
+-
+
+0.90 (15.06.2013):
+- renamed IPTV_Adult.sh -> IPTV_XXX.sh
+- added "Welcome" screen
+- added Changelog in "Welcome" Screen
+- added FAQ in "Welcome" Screen
+- changed yellow button in IPTV Main Plugin from "Reload GUI" 
+  to "Install all" -> install all IPTV Bouquet
+- changed blue button in IPTV Main Plugin from "Info" to 
+  "Update scripts"
+- some preparation for online update scripts
+- added automatically reload Bouquet after closing plugin if 
+  installed minimum one Bouquet
+- Plugin now available in PluginPanel (Blue Button)
+- changed buttons 
+- some code cleanup in the scripts
+
+0.80 (13.06.2013):
+- added script "IPTV_All_Update.sh"
+- added script "IPTV_China.sh"
+- added rtmpt support
+- added more converter in Asia & China Bouquet 
+- changed to mips32el (OE1.6 don't support IPTV from Bouquet!)
+
+0.70 (10.06.2013):
+- separated scripts
+- now help from my friend Satinfo to implement all in python ;)
+- you can select your IPTV Bouquet from plugin ;)
+- added some code in scripts
+- add more convert of streams
+
+0.60 (09.06.2013):
+- same translations
+- changed order of List now from A to Z (before from Z to A )
+
+0.51 (09.06.2013):
+- fixed errors from V. 0.5
+- deleted unused text 
+
+0.5 (08.06.2013):
+- changed all download sources to ==> 
+  http://01.gen.tr/simple/turkvod/
+- added World Webcams from Internet
+- added Bouquet:  EX-Yu, Thai, Bangladesh, Greece, Filmon <== 
+  Thx for Help @HasBahCa
+
+0.4-ANGA-edition (03.06.2013):
+- changed position of Adult
+- rollback to download path http://01.gen.tr/simple/turkvod/ for 
+  german streams
+- added convert for: mmsh:// and rtmpe:// streams for germany 
+  bouquet
+- changed some Bouquet names
+- added static World Webcams
+
+0.4 (30.05.2013):
+- added Bouquets:
+   Europe, Bulgaria, France, India, England, International, Spain, 
+   Moldavia, Music, Poland, Radio, Romania, Russia, Sports, 
+   SimpleTVPlayerBackup, Turkey, Turkey_mms, Turkey_local, 
+   Turkey_main
+
+0.3 (30.05.2013):
+- changed download source
+- changed some code again
+
+0.2 (30.05.2013):
+- changed download source
+- changed plugin icon
+- changed some code in scripts
+- added script Int. Radio
+
+0.1 (29.05.2013):
+- first official release
+
+0.1 Beta (28.05.2013) NonPublic:
+- first test release
