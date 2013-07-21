@@ -1,6 +1,6 @@
 # HasBahCa List
 # FLaggenanzeige Bouquettyp Downloadlink Bouquetname(Unterstriche werden im Plugin ausgeblendet)
-3D TV http://01.gen.tr/simple/3d.m3u 3D_TV
+3D TV http://01.gen.tr/simple/3d.m3u 3D_tévé
 XXX-Adult TV http://01.gen.tr/simple/adult.m3u XXX-felnőtt_tévé
 Albania TV http://01.gen.tr/simple/albanien.m3u Albánia_tévé
 Germany TV http://01.gen.tr/simple/almanca.m3u Németország_tévé
