@@ -1,7 +1,7 @@
 Changelog:
 
 from 20.07.2013 - xx.xx.2013:
-- smal fixe
+- small fixe
 - add Nilesat
 
 1.10 (19.07.2013):
