@@ -1,5 +1,7 @@
-# HasBahCa List
+# HasBahCa Listen
+#
 # FLaggenanzeige Bouquettyp Downloadlink Bouquetname(Unterstriche werden im Plugin ausgeblendet)
+#
 Nilesat TV http://01.gen.tr/simple/turkvod/nilesat.m3u NILESAT
 3D TV http://01.gen.tr/simple/3d.m3u 3D_tévé
 XXX-Adult TV http://01.gen.tr/simple/adult.m3u XXX-felnőtt_tévé
@@ -14,6 +16,7 @@ Bulgaria TV http://01.gen.tr/simple/bulgar.m3u Bulgária_tévé
 Brasil  TV http://01.gen.tr/simple/brasil.m3u Brasil_tévé
 China TV http://01.gen.tr/simple/china.m3u Kína_tévé
 Czech TV http://01.gen.tr/simple/czech.m3u Csehország_tévé
+Englishmovies TV http://01.gen.tr/simple/englishmovies.m3u angol filmek
 Ex-Yu TV http://01.gen.tr/simple/ex-yug.m3u Ex-Yu_tévé
 Filmon TV http://01.gen.tr/simple/filmon.m3u Filmon_tévé
 France TV http://01.gen.tr/simple/fransa.m3u Franciaország_tévé
