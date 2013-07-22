@@ -1,6 +1,7 @@
 Changelog:
 
 from 20.07.2013 - xx.xx.2013:
+- delete unnecessary files in the picture folder
 - add polish FAQ, translation & Bouquetlist (Thx @miromoni)
 - add 3D TV
 - small fixe
