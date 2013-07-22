@@ -1,56 +1,64 @@
-# HasBahCa List
-# FLaggenanzeige Bouquettyp Downloadlink Bouquetname(Unterstriche werden im Plugin ausgeblendet)
-Nilesat TV http://01.gen.tr/simple/turkvod/nilesat.m3u NILESAT
-3D TV http://01.gen.tr/simple/3d.m3u 3D_TV
-XXX-Adult TV http://01.gen.tr/simple/adult.m3u XXX-Adult_TV
-Albania TV http://01.gen.tr/simple/albanien.m3u Albania_TV
-Germany TV http://01.gen.tr/simple/almanca.m3u Germany_TV
-America TV http://01.gen.tr/simple/amerika.m3u America_TV
-Arabia TV http://01.gen.tr/simple/arap.m3u Arabia_TV
-Asia TV http://01.gen.tr/simple/asya.m3u Asia_TV
-Europe TV http://01.gen.tr/simple/avrupa.m3u Europe_TV
-Bangladesh TV http://01.gen.tr/simple/bangladesh.m3u Bangladesh_TV
-Bulgaria TV http://01.gen.tr/simple/bulgar.m3u Bulgaria_TV
-Brasil  TV http://01.gen.tr/simple/brasil.m3u Brasil_TV
-China TV http://01.gen.tr/simple/china.m3u China_TV
-Czech TV http://01.gen.tr/simple/czech.m3u Czech_Republic_TV
-Ex-Yu TV http://01.gen.tr/simple/ex-yug.m3u Ex-Yu_TV
-Filmon TV http://01.gen.tr/simple/filmon.m3u Filmon_TV
-France TV http://01.gen.tr/simple/fransa.m3u France_TV
-Greece TV http://01.gen.tr/simple/greek.m3u Greece_TV
-India TV http://01.gen.tr/simple/india.m3u India_TV
-English TV http://01.gen.tr/simple/ingilizce.m3u England_TV
-International-TV TV http://01.gen.tr/simple/int.m3u International_TV
-International-Radio RADIO http://01.gen.tr/simple/int_radio.m3u International_Radio
-Spain TV http://01.gen.tr/simple/ispanya.m3u Spain_TV
-Italy TV http://01.gen.tr/simple/italya.m3u Italy_TV
-Japan TV http://01.gen.tr/simple/japan.m3u Japan_TV
-Kurdish TV http://01.gen.tr/simple/kurdi.m3u Kurdish_TV
-Music TV http://01.gen.tr/simple/muzik.m3u Music_TV
-Nilesat TV http://01.gen.tr/simple/turkvod/nilesat.m3u NILESAT_TV
-Poland TV http://01.gen.tr/simple/polonya.m3u Poland_TV
-Radio-Turkey RADIO http://01.gen.tr/simple/radyolar.m3u Turkey_Radio
-Romania-Moldavia TV http://01.gen.tr/simple/romanya.m3u Romania-Moldavia_TV
-Russia TV http://01.gen.tr/simple/rus.m3u Russia_TV
-Sport TV http://01.gen.tr/simple/spor.m3u Sport_TV
-Thai TV http://01.gen.tr/simple/thai.m3u Thai_TV
-Turkey-Main TV http://01.gen.tr/simple/turk_ulusal.m3u Turkey-Main_TV
-Turkey-Local TV http://01.gen.tr/simple/turk_yerel.m3u Turkey-Local_TV
-Turki_Azeri TV http://01.gen.tr/simple/turki.m3u Turki_Azeri_TV
-Ukraine TV http://01.gen.tr/simple/ukraina.m3u Ukraine_TV
+########################################################################
+#                             HasBahCa List                            #
+#                                                                      #
+# Flag Bouquettyp Downloadlink Bouquetname (Underline will be removed) #
+########################################################################
+3D TV http://01.gen.tr/simple/3d.m3u 3D
+XXX-Adult TV http://01.gen.tr/simple/adult.m3u XXX-Adult
+Albania TV http://01.gen.tr/simple/albanien.m3u Albania
+Germany TV http://01.gen.tr/simple/almanca.m3u Germany
+America TV http://01.gen.tr/simple/amerika.m3u America
+Arabia TV http://01.gen.tr/simple/arap.m3u Arabia
+Asia TV http://01.gen.tr/simple/asya.m3u Asia
+Europe TV http://01.gen.tr/simple/avrupa.m3u Europe
+Bangladesh TV http://01.gen.tr/simple/bangladesh.m3u Bangladesh
+Brasil TV http://01.gen.tr/simple/brasil.m3u Brasil
+Bulgaria TV http://01.gen.tr/simple/bulgar.m3u Bulgaria
+China TV http://01.gen.tr/simple/china.m3u China
+Czech TV http://01.gen.tr/simple/czech.m3u Czech_Republic
+Englishmovies TV http://01.gen.tr/simple/englishmovies.m3u English_Movies
+Ex-Yu TV http://01.gen.tr/simple/ex-yug.m3u Ex-Yu
+Filmon TV http://01.gen.tr/simple/filmon.m3u Filmon
+France TV http://01.gen.tr/simple/fransa.m3u France
+Greece TV http://01.gen.tr/simple/greek.m3u Greece
+India TV http://01.gen.tr/simple/india.m3u India
+English TV http://01.gen.tr/simple/ingilizce.m3u England
+International-TV TV http://01.gen.tr/simple/int.m3u International
+International-Radio RADIO http://01.gen.tr/simple/int_radio.m3u International
+Iran TV http://01.gen.tr/simple/iran.m3u Iran
+Spain TV http://01.gen.tr/simple/ispanya.m3u Spain
+Israel TV http://01.gen.tr/simple/israil.m3u Israel
+Italy TV http://01.gen.tr/simple/italya.m3u Italy
+Japan TV http://01.gen.tr/simple/japan.m3u Japan
+Kurdish TV http://01.gen.tr/simple/kurdi.m3u Kurdish
+Magyar TV http://01.gen.tr/simple/magyar.m3u Hungary
+Misir_egypt TV http://01.gen.tr/simple/misir_egypt.m3u Egypt
+Music TV http://01.gen.tr/simple/muzik.m3u Music
+Nilesat TV http://01.gen.tr/simple/nilesat.m3u Nilesat
+Poland TV http://01.gen.tr/simple/polonya.m3u Poland
+Romania-Moldavia TV http://01.gen.tr/simple/romanya.m3u Romania-Moldavia
+Russia TV http://01.gen.tr/simple/rus.m3u Russia
+Simpltvplayerbackup TV http://01.gen.tr/simple/simpletvplayerbackup.m3u SimpleTV_Player
+Sport TV http://01.gen.tr/simple/spor.m3u Sport
+Thai TV http://01.gen.tr/simple/thai.m3u Thai
+Turkey-Main TV http://01.gen.tr/simple/turk_belgesel_sinema.m3u Turkey_Docu_Cinema
+Turkey-Main TV http://01.gen.tr/simple/turk_cocuk.m3u Turkey_Kids
+Turkey-Main TV http://01.gen.tr/simple/turk_dini.m3u Turkey_Religious
+Turkey-Main TV http://01.gen.tr/simple/turk_haber.m3u Turkey News
+Turkey-Main TV http://01.gen.tr/simple/turk_muzik.m3u Turkey_Music
+Turkey-Main TV http://01.gen.tr/simple/turk_spor.m3u Turkey_Sports
+Turkey-Main TV http://01.gen.tr/simple/turk_ulusal.m3u Turkey-Main
+Turkey-Local TV http://01.gen.tr/simple/turk_yerel.m3u Turkey-Local
+Turki_Azeri TV http://01.gen.tr/simple/turki.m3u Turkey_Azerbaijani
+Turkey-Main TV http://01.gen.tr/simple/turkkomple.m3u Turkey_Complete
+Turkey-Main RADIO http://01.gen.tr/simple/turkvod/radyolar.m3u Turkey_Radio
+Ukraine TV http://01.gen.tr/simple/ukraina.m3u Ucraine
 WebCam WEBCAM http://01.gen.tr/simple/webcam.m3u WorldWebCams
-Turkey-Main TV http://01.gen.tr/simple/turk_dini.m3u TURKIYE_DiNi
-Turkey-Main TV http://01.gen.tr/simple/turk_haber.m3u TURKIYE_HABER
-Turkey-Main TV http://01.gen.tr/simple/turk_spor.m3u TURKIYE_SPOR
-Turkey-Main TV http://01.gen.tr/simple/turk_belgesel_sinema.m3u TURKIYE_BELGESEL_SINEMA
-Turkey-Main TV http://01.gen.tr/simple/turk_cocuk.m3u TURKIYE_COCUK
-Turkey-Main TV http://01.gen.tr/simple/turk_muzik.m3u TURKIYE_MUZiK
-Iran TV http://01.gen.tr/simple/iran.m3u IRAN
-Brasil TV http://01.gen.tr/simple/brasil.m3u BRASIL
-Magyar TV http://01.gen.tr/simple/magyar.m3u MAGYAR
-Misir_egypt TV http://01.gen.tr/simple/misir_egypt.m3u EGYPT
-Israel TV http://01.gen.tr/simple/israil.m3u ISRAEL
-# FreetuxTV
+########################################################################
+#                              FreetuxTV                               #
+#                                                                      #
+# Flag Bouquettyp Downloadlink Bouquetname (Underline will be removed) #
+########################################################################
 NoLang TV http://database.freetuxtv.net/playlists/playlist_webtv_none.m3u Web_TV_(No_lang)
 NoLang Radio http://database.freetuxtv.net/playlists/playlist_webradio_none.m3u Web_Radio_(No-lang)
 NoLang TV http://database.freetuxtv.net/playlists/playlist_programmes_none.m3u Web_Programmes_(No_lang)
@@ -78,11 +86,11 @@ Denmark TV http://database.freetuxtv.net/playlists/playlist_webtv_da.m3u Web_TV_
 Dutch TV http://database.freetuxtv.net/playlists/playlist_webtv_nl.m3u Web_TV_(Netherland)
 Dutch RADIO http://database.freetuxtv.net/playlists/playlist_webradio_nl.m3u Web_Radio_(Netherland)
 Dutch WEBCAM http://database.freetuxtv.net/playlists/playlist_webcam_nl.m3u Web_Cam_(Netherland)
-English TV http://database.freetuxtv.net/playlists/playlist_webtv_en.m3u Web_TV_(English)
-English RADIO http://database.freetuxtv.net/playlists/playlist_webradio_en.m3u Web_Radio_(English)
-English TV http://database.freetuxtv.net/playlists/playlist_programmes_en.m3u Web_Programmes_(English)
-English WEBCAM http://database.freetuxtv.net/playlists/playlist_webcam_en.m3u Web_Cam_(English)
-Estonia TV http://database.freetuxtv.net/playlists/playlist_webtv_et.m3u Web_TV_(Estonian)
+English TV http://database.freetuxtv.net/playlists/playlist_webtv_en.m3u Web_TV_(England)
+English RADIO http://database.freetuxtv.net/playlists/playlist_webradio_en.m3u Web_Radio_(England)
+English TV http://database.freetuxtv.net/playlists/playlist_programmes_en.m3u Web_Programmes_(England)
+English WEBCAM http://database.freetuxtv.net/playlists/playlist_webcam_en.m3u Web_Cam_(England)
+Estonia TV http://database.freetuxtv.net/playlists/playlist_webtv_et.m3u Web_TV_(Estonia)
 Finland TV http://database.freetuxtv.net/playlists/playlist_webtv_fi.m3u Web_TV_(Finland)
 France TV http://database.freetuxtv.net/playlists/playlist_webtv_fr.m3u Web_TV_(France)
 France RADIO http://database.freetuxtv.net/playlists/playlist_webradio_fr.m3u Web_Radio_(France)
@@ -107,7 +115,7 @@ Italy RADIO http://database.freetuxtv.net/playlists/playlist_webradio_it.m3u Web
 Japan TV http://database.freetuxtv.net/playlists/playlist_webtv_ja.m3u Web_TV_(Japan)
 Japan RADIO http://database.freetuxtv.net/playlists/playlist_webradio_ja.m3u Web_Radio_(Japan)
 Japan WEBCAM http://database.freetuxtv.net/playlists/playlist_webcam_ja.m3u Web_Cam_(Japan)
-Kazakhstan TV http://database.freetuxtv.net/playlists/playlist_webtv_kk.m3u Web_TV_(Kazakh)
+Kazakhstan TV http://database.freetuxtv.net/playlists/playlist_webtv_kk.m3u Web_TV_(Kazakhstan)
 Korean TV http://database.freetuxtv.net/playlists/playlist_webtv_ko.m3u Web_TV_(Korea)
 Kurdish TV http://database.freetuxtv.net/playlists/playlist_webtv_ku.m3u Web_TV_(Kurdish)
 Latin TV http://database.freetuxtv.net/playlists/playlist_webtv_la.m3u Web_TV_(Latin)
