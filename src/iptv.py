@@ -24,6 +24,7 @@ from skin import *
 from faq import FAQ
 import os
 import urllib2
+import ssl
 
 
 class IPTV(Screen):
