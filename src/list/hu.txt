@@ -1,6 +1,12 @@
-# HasBahCa Listen
 #
+# Aufbau:
 # FLaggenanzeige Bouquettyp Downloadlink Bouquetname(Unterstriche werden im Plugin ausgeblendet)
+#
+########################################################################
+# #
+# HasBahCa Listen #
+# #
+########################################################################
 #
 3D TV http://01.gen.tr/simple/3d.m3u 3D_tévé
 XXX-Adult TV http://01.gen.tr/simple/adult.m3u XXX-felnőtt_tévé
@@ -54,7 +60,13 @@ Turkey-Main TV http://01.gen.tr/simple/turkkomple.m3u Törökország teljes mér
 Radio-Turkey RADIO http://01.gen.tr/simple/radyolar.m3u Törökország Radio
 Ukraine TV http://01.gen.tr/simple/ukraina.m3u Ukrajna_tévé
 WebCam WEBCAM http://01.gen.tr/simple/webcam.m3u világ Webkamerák
-# FreetuxTV
+#
+########################################################################
+# #
+# FreetuxTV Listen #
+# #
+########################################################################
+#
 Africa TV http://database.freetuxtv.net/playlists/playlist_webtv_af.m3u Web_TV_(Afrika)
 Albania TV http://database.freetuxtv.net/playlists/playlist_webtv_sq.m3u Web_TV_(Albánia)
 Amharic TV http://database.freetuxtv.net/playlists/playlist_webtv_am.m3u Web_TV_(amhara)
