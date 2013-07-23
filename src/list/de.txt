@@ -1,9 +1,10 @@
+#
 # Aufbau:
 # FLaggenanzeige Bouquettyp Downloadlink Bouquetname(Unterstriche werden im Plugin ausgeblendet)
 #
 ########################################################################
 #                                                                      #
-#                      HasBahCa List                                   #
+#                         HasBahCa Listen                              #
 #                                                                      #
 ########################################################################
 #
@@ -61,7 +62,7 @@ WebCam WEBCAM http://01.gen.tr/simple/webcam.m3u WorldWebCams
 #
 ########################################################################
 #                                                                      #
-#                      FreetuxTV Listen                                #
+#                         FreetuxTV Listen                             #
 #                                                                      #
 ########################################################################
 #

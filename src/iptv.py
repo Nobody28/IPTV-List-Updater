@@ -24,6 +24,7 @@ from skin import *
 from faq import FAQ
 import os
 import urllib2
+import ssl
 
 
 class IPTV(Screen):
@@ -155,6 +156,9 @@ class IPTV(Screen):
         req = urllib2.Request(url)
         try:
             response = urllib2.urlopen(req)
+            last_modified = response.info().getdate('last-modified')  #  example ==> (2013, 7, 21, 20, 49, 19, 0, 1, 0)
+            last_modified_date = str(last_modified[3])+ ":" + str(last_modified[4]) + " " + str(last_modified[2]) + "." + str(last_modified[1]) + "." + str(last_modified[0])
+            print "File Last Modified: %s" % last_modified_date
             the_page = response.read()
 
         except urllib2.HTTPError as e:
