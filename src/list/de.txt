@@ -1,6 +1,6 @@
 #
-# Szerkezet:
-# FLaggenanzeige Bouquettyp Downloadlink Bouquetname(az alsovonalak a plugin-ban lathatatlanok)
+# Aufbau:
+# Flaggenanzeige Bouquettyp Downloadlink Bouquetname(Unterstriche werden im Plugin ausgeblendet)
 #
 ########################################################################
 #                                                                      #
