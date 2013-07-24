@@ -1,6 +1,6 @@
 #
 # Aufbau:
-# FLaggenanzeige Bouquettyp Downloadlink Bouquetname(Unterstriche werden im Plugin ausgeblendet)
+# Flaggenanzeige Bouquettyp Downloadlink Bouquetname(Unterstriche werden im Plugin ausgeblendet)
 #
 ########################################################################
 #                                                                      #
