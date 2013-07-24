@@ -43,7 +43,7 @@ Turkey-Main TV http://01.gen.tr/simple/turk_spor.m3u Turcja_Sport_TV
 Turkey-Main TV http://01.gen.tr/simple/turk_belgesel_sinema.m3u Turcja_Doku_Filmy_TV
 Turkey-Main TV http://01.gen.tr/simple/turk_cocuk.m3u Turcja_Dzieci_TV
 Turkey-Main TV http://01.gen.tr/simple/turk_muzik.m3u Turcja_Muzyka_TV
-Radio-Turkey RADIO http://01.gen.tr/simple/radyolar.m3u Turcja_Radio
+Radio-Turkey RADIO http://01.gen.tr/simple/turkvod/radyolar.m3u Turcja_Radio
 Hungary TV http://01.gen.tr/simple/magyar.m3u Węgry_TV
 Ukraine TV http://01.gen.tr/simple/ukraina.m3u Ukraina_TV
 WebCam WEBCAM http://01.gen.tr/simple/webcam.m3u Świat_WebCams
