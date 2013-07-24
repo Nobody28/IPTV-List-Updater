@@ -39,7 +39,7 @@ Kurdish TV http://01.gen.tr/simple/kurdi.m3u Kurdistan
 Hungary TV http://01.gen.tr/simple/magyar.m3u Ungarn
 Misir_egypt TV http://01.gen.tr/simple/misir_egypt.m3u Ãgypten
 Music TV http://01.gen.tr/simple/muzik.m3u Musik
-Nilesat TV http://01.gen.tr/simple/turkvod/nilesat.m3u Nilsat
+Nilesat TV http://01.gen.tr/simple/nilesat.m3u Nilsat
 Poland TV http://01.gen.tr/simple/polonya.m3u Polen_TV
 Romania-Moldavia TV http://01.gen.tr/simple/romanya.m3u Rumänien-Moldawien
 Russia TV http://01.gen.tr/simple/rus.m3u Russland
@@ -56,7 +56,7 @@ Turkey-Main TV http://01.gen.tr/simple/turk_ulusal.m3u Türkei_Hauptsender
 Turkey-Local TV http://01.gen.tr/simple/turk_yerel.m3u Türkei_Lokalsender
 Turki_Azeri TV http://01.gen.tr/simple/turki.m3u Türkei_Aserbaidschan
 Turkey-Main TV http://01.gen.tr/simple/turkkomple.m3u Türkei_Komplett
-Radio-Turkey RADIO http://01.gen.tr/simple/radyolar.m3u Türkei_Radio
+Radio-Turkey RADIO http://01.gen.tr/simple/turkvod/radyolar.m3u Türkei_Radio
 Ukraine TV http://01.gen.tr/simple/ukraina.m3u Ukraine
 WebCam WEBCAM http://01.gen.tr/simple/webcam.m3u WorldWebCams
 #
