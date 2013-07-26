@@ -40,7 +40,7 @@ Hungary TV http://01.gen.tr/simple/magyar.m3u Ungarn
 Misir_egypt TV http://01.gen.tr/simple/misir_egypt.m3u Ãgypten
 Music TV http://01.gen.tr/simple/muzik.m3u Musik
 Nilesat TV http://01.gen.tr/simple/nilesat.m3u Nilsat
-Pakistan TV http://01.gen.tr/simple/turkvod/israil.m3u Pakistan
+Pakistan TV http://01.gen.tr/simple/turkvod/pakistan.m3u Pakistan
 Poland TV http://01.gen.tr/simple/polonya.m3u Polen_TV
 Romania-Moldavia TV http://01.gen.tr/simple/romanya.m3u Rumänien-Moldawien
 Russia TV http://01.gen.tr/simple/rus.m3u Russland
