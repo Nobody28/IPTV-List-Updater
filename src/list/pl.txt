@@ -27,7 +27,7 @@ Italy TV http://01.gen.tr/simple/italya.m3u Włochy_TV
 Japan TV http://01.gen.tr/simple/japan.m3u Japonia_TV
 Kurdish TV http://01.gen.tr/simple/kurdi.m3u Kurdystan_TV
 Music TV http://01.gen.tr/simple/muzik.m3u Muzyka_TV
-Pakistan TV http://01.gen.tr/simple/turkvod/israil.m3u Pakistan
+Pakistan TV http://01.gen.tr/simple/turkvod/pakistan.m3u Pakistan
 Poland TV http://01.gen.tr/simple/polonya.m3u Polska_TV
 Romania-Moldavia TV http://01.gen.tr/simple/romanya.m3u Rumunia-Mołdawia_TV
 Russia TV http://01.gen.tr/simple/rus.m3u Rosja_TV
