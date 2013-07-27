@@ -38,8 +38,8 @@ Kurdish TV http://01.gen.tr/simple/kurdi.m3u kurd nyelv_tévé
 Magyar TV http://01.gen.tr/simple/magyar.m3u MAGYAR_tévé
 Misir_egypt TV http://01.gen.tr/simple/misir_egypt.m3u Egyiptom_tévé
 Music TV http://01.gen.tr/simple/muzik.m3u zene_tévé
-Nilesat TV http://01.gen.tr/simple/nilesat.m3u NILSAT_tévé
-Pakistan TV http://01.gen.tr/simple/turkvod/pakistan.m3u Pakistan
+Nilesat TV http://01.gen.tr/simple/turkvod/nilesat.m3u NILSAT_tévé
+Pakistan TV http://01.gen.tr/simple/turkvod/pakistan.m3u Pakisztán_tévé
 Poland TV http://01.gen.tr/simple/polonya.m3u Lengyelország_tévé
 Radio-Turkey RADIO http://01.gen.tr/simple/radyolar.m3u Törökország_Radio
 Romania-Moldavia TV http://01.gen.tr/simple/romanya.m3u Románia-Moldva_tévé
