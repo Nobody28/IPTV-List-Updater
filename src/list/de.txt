@@ -66,6 +66,7 @@ Sweden TV http://01.gen.tr/simple/Sweden.m3u Sweden
 Norway TV http://01.gen.tr/simple/Norway.m3u Norwegen
 Denmark TV http://01.gen.tr/simple/Denmark.m3u Denmark
 Portugal TV http://01.gen.tr/simple/Portugal.m3u Portugal
+Holland TV http://01.gen.tr/simple/Holland.m3u Nederland
 #
 ########################################################################
 #                                                                      #
