@@ -60,6 +60,12 @@ Turkey-Main TV http://01.gen.tr/simple/turkkomple.m3u Türkei_Komplett
 Radio-Turkey RADIO http://01.gen.tr/simple/turkvod/radyolar.m3u Türkei_Radio
 Ukraine TV http://01.gen.tr/simple/ukraina.m3u Ukraine
 WebCam WEBCAM http://01.gen.tr/simple/webcam.m3u WorldWebCams
+Slovakai TV http://01.gen.tr/simple/Slovakia.m3u Slovakaien
+Serbia TV http://01.gen.tr/simple/Serbia.m3u Serbien
+Sweden TV http://01.gen.tr/simple/Sweden.m3u Sweden
+Norway TV http://01.gen.tr/simple/Norway.m3u Norwegen
+Denmark TV http://01.gen.tr/simple/Denmark.m3u Denmark
+Portugal TV http://01.gen.tr/simple/Portugal.m3u Portugal
 #
 ########################################################################
 #                                                                      #
