@@ -57,6 +57,11 @@ Misir_egypt TV http://01.gen.tr/simple/misir_egypt.m3u MISIR
 Israel TV http://01.gen.tr/simple/israil.m3u ISRAIL
 Pakistan TV http://01.gen.tr/simple/israil.m3u PAKISTAN
 Slovakai TV http://01.gen.tr/simple/Slovakia.m3u SLOVAKYA
+Serbia TV http://01.gen.tr/simple/Serbia.m3u SIRBiSTAN
+Sweden TV http://01.gen.tr/simple/Sweden.m3u ISVEC
+Norway TV http://01.gen.tr/simple/Norway.m3u NORVEC
+Denmark TV http://01.gen.tr/simple/Denmark.m3u DANiMARKA
+Portugal TV http://01.gen.tr/simple/Portugal.m3u PORTEKiZ
 #
 ########################################################################
 #                                                                      #
