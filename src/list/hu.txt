@@ -27,6 +27,7 @@ Filmon TV http://01.gen.tr/simple/filmon.m3u Filmon_tévé
 France TV http://01.gen.tr/simple/fransa.m3u Franciaország_tévé
 Germany TV http://01.gen.tr/simple/almanca.m3u Németország_tévé
 Greece TV http://01.gen.tr/simple/greek.m3u Görögország_tévé
+Holland TV http://01.gen.tr/simple/Holland.m3u Hollandia_tévé
 India TV http://01.gen.tr/simple/india.m3u India_tévé
 International-TV TV http://01.gen.tr/simple/int.m3u International_tévé
 International-Radio RADIO http://01.gen.tr/simple/int_radio.m3u International_Radio
