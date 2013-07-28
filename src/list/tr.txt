@@ -62,6 +62,7 @@ Sweden TV http://01.gen.tr/simple/Sweden.m3u ISVEC
 Norway TV http://01.gen.tr/simple/Norway.m3u NORVEC
 Denmark TV http://01.gen.tr/simple/Denmark.m3u DANiMARKA
 Portugal TV http://01.gen.tr/simple/Portugal.m3u PORTEKiZ
+Holland TV http://01.gen.tr/simple/Holland.m3u HOLLANDA
 #
 ########################################################################
 #                                                                      #
