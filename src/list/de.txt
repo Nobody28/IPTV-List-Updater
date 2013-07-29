@@ -67,6 +67,13 @@ Norway TV http://01.gen.tr/simple/Norway.m3u Norwegen
 Denmark TV http://01.gen.tr/simple/Denmark.m3u Denmark
 Portugal TV http://01.gen.tr/simple/Portugal.m3u Portugal
 Holland TV http://01.gen.tr/simple/Holland.m3u Nederland
+English TV http://01.gen.tr/simple/englishmovies_abc.m3u ENG_MOVIES_ABC
+English TV http://01.gen.tr/simple/englishmovies_def.m3u ENG_MOVIES_DEF
+English TV http://01.gen.tr/simple/englishmovies_ghi.m3u ENG_MOVIES_GHI
+English TV http://01.gen.tr/simple/englishmovies_mno.m3u ENG_MOVIES_MNO
+English TV http://01.gen.tr/simple/englishmovies_prs.m3u ENG_MOVIES_PRS
+English TV http://01.gen.tr/simple/englishmovies_t.m3u ENG_MOVIES_T
+English TV http://01.gen.tr/simple/englishmovies_u-z.m3u ENG_MOVIES_U-Z
 #
 ########################################################################
 #                                                                      #
