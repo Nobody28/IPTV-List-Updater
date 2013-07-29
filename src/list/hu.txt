@@ -19,7 +19,13 @@ Brasil TV http://01.gen.tr/simple/brasil.m3u Brasil_tévé
 Bulgaria TV http://01.gen.tr/simple/bulgar.m3u Bulgária_tévé
 China TV http://01.gen.tr/simple/china.m3u Kína_tévé
 Czech TV http://01.gen.tr/simple/czech.m3u Csehország_tévé
-Englishmovies TV http://01.gen.tr/simple/englishmovies.m3u angol_filmek
+Englishmovies TV http://01.gen.tr/simple/englishmovies_abc.m3u angol_filmek_ABC
+Englishmovies TV http://01.gen.tr/simple/englishmovies_def.m3u angol_filmek_DEF
+Englishmovies TV http://01.gen.tr/simple/englishmovies_ghi.m3u angol_filmek_GHI
+Englishmovies TV http://01.gen.tr/simple/englishmovies_mno.m3u angol_filmek_MNO
+Englishmovies TV http://01.gen.tr/simple/englishmovies_prs.m3u angol_filmek_PRS
+Englishmovies TV http://01.gen.tr/simple/englishmovies_t.m3u angol_filmek_T
+Englishmovies TV http://01.gen.tr/simple/englishmovies_u-z.m3u angol_filmek_U-Z
 English TV http://01.gen.tr/simple/ingilizce.m3u Anglia_tévé
 Europe TV http://01.gen.tr/simple/avrupa.m3u Európa_tévé
 Ex-Yu TV http://01.gen.tr/simple/ex-yug.m3u Ex-Yu_tévé
