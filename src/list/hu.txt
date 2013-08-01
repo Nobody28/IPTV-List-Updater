@@ -19,7 +19,13 @@ Brasil TV http://01.gen.tr/simple/brasil.m3u Brasil_tévé
 Bulgaria TV http://01.gen.tr/simple/bulgar.m3u Bulgária_tévé
 China TV http://01.gen.tr/simple/china.m3u Kína_tévé
 Czech TV http://01.gen.tr/simple/czech.m3u Csehország_tévé
-Englishmovies TV http://01.gen.tr/simple/englishmovies.m3u angol_filmek
+Englishmovies TV http://01.gen.tr/simple/englishmovies_abc.m3u angol_filmek_ABC
+Englishmovies TV http://01.gen.tr/simple/englishmovies_def.m3u angol_filmek_DEF
+Englishmovies TV http://01.gen.tr/simple/englishmovies_ghi.m3u angol_filmek_GHI
+Englishmovies TV http://01.gen.tr/simple/englishmovies_mno.m3u angol_filmek_MNO
+Englishmovies TV http://01.gen.tr/simple/englishmovies_prs.m3u angol_filmek_PRS
+Englishmovies TV http://01.gen.tr/simple/englishmovies_t.m3u angol_filmek_T
+Englishmovies TV http://01.gen.tr/simple/englishmovies_u-z.m3u angol_filmek_U-Z
 English TV http://01.gen.tr/simple/ingilizce.m3u Anglia_tévé
 Europe TV http://01.gen.tr/simple/avrupa.m3u Európa_tévé
 Ex-Yu TV http://01.gen.tr/simple/ex-yug.m3u Ex-Yu_tévé
@@ -27,6 +33,7 @@ Filmon TV http://01.gen.tr/simple/filmon.m3u Filmon_tévé
 France TV http://01.gen.tr/simple/fransa.m3u Franciaország_tévé
 Germany TV http://01.gen.tr/simple/almanca.m3u Németország_tévé
 Greece TV http://01.gen.tr/simple/greek.m3u Görögország_tévé
+Holland TV http://01.gen.tr/simple/Holland.m3u Hollandia_tévé
 India TV http://01.gen.tr/simple/india.m3u India_tévé
 International-TV TV http://01.gen.tr/simple/int.m3u International_tévé
 International-Radio RADIO http://01.gen.tr/simple/int_radio.m3u International_Radio
@@ -60,6 +67,7 @@ Turkey-Main TV http://01.gen.tr/simple/turk_muzik.m3u Törökország_MUZiK
 Turkey-Main TV http://01.gen.tr/simple/turkkomple.m3u Törökország teljes mértékben
 Radio-Turkey RADIO http://01.gen.tr/simple/turkvod/radyolar.m3u Törökország Radio
 Ukraine TV http://01.gen.tr/simple/ukraina.m3u Ukrajna_tévé
+Vietnam TV http://01.gen.tr/simple/vietnam.m3u Vietnam_tévé 
 WebCam WEBCAM http://01.gen.tr/simple/webcam.m3u világ Webkamerák
 #
 ########################################################################
