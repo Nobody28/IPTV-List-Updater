@@ -67,6 +67,7 @@ Turkey-Main TV http://01.gen.tr/simple/turk_muzik.m3u Törökország_MUZiK
 Turkey-Main TV http://01.gen.tr/simple/turkkomple.m3u Törökország teljes mértékben
 Radio-Turkey RADIO http://01.gen.tr/simple/radyolar.m3u Törökország Radio
 Ukraine TV http://01.gen.tr/simple/ukraina.m3u Ukrajna_tévé
+Vietnam TV http://01.gen.tr/simple/vietnam.m3u Vietnam_tévé 
 WebCam WEBCAM http://01.gen.tr/simple/webcam.m3u világ Webkamerák
 #
 ########################################################################
