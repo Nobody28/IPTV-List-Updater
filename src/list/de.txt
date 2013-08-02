@@ -59,6 +59,13 @@ Turkey-Main TV http://01.gen.tr/simple/turkkomple.m3u Türkei_Komplett
 Radio-Turkey RADIO http://01.gen.tr/simple/radyolar.m3u Türkei_Radio
 Ukraine TV http://01.gen.tr/simple/ukraina.m3u Ukraine
 WebCam WEBCAM http://01.gen.tr/simple/webcam.m3u WorldWebCams
+Englishmovies TV http://01.gen.tr/simple/englishmovies_abc.m3u ENG_MOVIES_ABC
+Englishmovies TV http://01.gen.tr/simple/englishmovies_def.m3u ENG_MOVIES_DEF
+Englishmovies TV http://01.gen.tr/simple/englishmovies_ghi.m3u ENG_MOVIES_GHI
+Englishmovies TV http://01.gen.tr/simple/englishmovies_mno.m3u ENG_MOVIES_MNO
+Englishmovies TV http://01.gen.tr/simple/englishmovies_prs.m3u ENG_MOVIES_PRS
+Englishmovies TV http://01.gen.tr/simple/englishmovies_t.m3u ENG_MOVIES_T
+Englishmovies TV http://01.gen.tr/simple/englishmovies_u-z.m3u ENG_MOVIES_U-Z
 #
 ########################################################################
 #                                                                      #
