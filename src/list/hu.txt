@@ -43,6 +43,7 @@ Italy TV http://01.gen.tr/simple/italya.m3u Itália_tévé
 Japan TV http://01.gen.tr/simple/japan.m3u Japán_tévé
 Kurdish TV http://01.gen.tr/simple/kurdi.m3u kurd nyelv_tévé
 Magyar TV http://01.gen.tr/simple/magyar.m3u MAGYAR_tévé
+Macedonia TV http://01.gen.tr/simple/makadonia.m3u Macedónia_tévé
 Misir_egypt TV http://01.gen.tr/simple/misir_egypt.m3u Egyiptom_tévé
 Music TV http://01.gen.tr/simple/muzik.m3u zene_tévé
 Nilesat TV http://01.gen.tr/simple/turkvod/nilesat.m3u NILSAT_tévé
