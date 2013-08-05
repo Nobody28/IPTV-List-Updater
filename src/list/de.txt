@@ -66,7 +66,10 @@ Sweden TV http://01.gen.tr/simple/Sweden.m3u Sweden
 Norway TV http://01.gen.tr/simple/Norway.m3u Norwegen
 Denmark TV http://01.gen.tr/simple/Denmark.m3u Denmark
 Portugal TV http://01.gen.tr/simple/Portugal.m3u Portugal
-Holland TV http://01.gen.tr/simple/Holland.m3u Nederland
+Holland TV http://01.gen.tr/simple/Holland.m3u Niederland
+Vietnam TV http://01.gen.tr/simple/vietnam.m3u Wietnam
+Macedonia TV http://01.gen.tr/simple/makadonia.m3u Mazedonien
+USA TV http://01.gen.tr/simple/usa.m3u USA
 English TV http://01.gen.tr/simple/englishmovies_abc.m3u ENG_MOVIES_ABC
 English TV http://01.gen.tr/simple/englishmovies_def.m3u ENG_MOVIES_DEF
 English TV http://01.gen.tr/simple/englishmovies_ghi.m3u ENG_MOVIES_GHI
