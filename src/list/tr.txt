@@ -35,7 +35,6 @@ Greece TV http://01.gen.tr/simple/greek.m3u YUNANCA
 India TV http://01.gen.tr/simple/india.m3u HINDISTAN
 English TV http://01.gen.tr/simple/ingilizce.m3u INGILIZCE
 International-TV TV http://01.gen.tr/simple/int.m3u ULUSLARARASI
-International-Radio RADIO http://01.gen.tr/simple/int_radio.m3u Uluslararasi_Radyolar
 Spain TV http://01.gen.tr/simple/ispanya.m3u ISPANYOLCA
 Italy TV http://01.gen.tr/simple/italya.m3u ITALYANCA
 Japan TV http://01.gen.tr/simple/japan.m3u JAPONYA
@@ -43,7 +42,6 @@ Kurdish TV http://01.gen.tr/simple/kurdi.m3u KURTCE
 Music TV http://01.gen.tr/simple/muzik.m3u MUZIK_KANALLARI
 Nilesat TV http://01.gen.tr/simple/nilesat.m3u NILESAT
 Poland TV http://01.gen.tr/simple/polonya.m3u POLONYA
-Radio-Turkey RADIO http://01.gen.tr/simple/radyolar.m3u TURKCE_RADYO
 Romania-Moldavia TV http://01.gen.tr/simple/romanya.m3u ROMANYA_MOLDAVYA
 Russia TV http://01.gen.tr/simple/rus.m3u RUSYA
 Sport TV http://01.gen.tr/simple/spor.m3u SPOR_KANALLARI
@@ -65,6 +63,7 @@ Portugal TV http://01.gen.tr/simple/Portugal.m3u PORTEKiZ
 Holland TV http://01.gen.tr/simple/Holland.m3u HOLLANDA
 Vietnam TV http://01.gen.tr/simple/vietnam.m3u VIETNAM
 Macedonia TV http://01.gen.tr/simple/makadonia.m3u MAKEDONYA
+USA TV http://01.gen.tr/simple/usa.m3u ABD-USA
 English TV http://01.gen.tr/simple/englishmovies_abc.m3u ENG_MOVIES_ABC
 English TV http://01.gen.tr/simple/englishmovies_def.m3u ENG_MOVIES_DEF
 English TV http://01.gen.tr/simple/englishmovies_ghi.m3u ENG_MOVIES_GHI
