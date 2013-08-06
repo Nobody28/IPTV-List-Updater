@@ -22,6 +22,13 @@ Bulgaria TV http://01.gen.tr/simple/bulgar.m3u Bulgarien
 China TV http://01.gen.tr/simple/china.m3u China
 Czech TV http://01.gen.tr/simple/czech.m3u Tschechische_Republik
 Englishmovies TV http://01.gen.tr/simple/englishmovies.m3u Englische_Filme
+English TV http://01.gen.tr/simple/englishmovies_abc.m3u ENG_MOVIES_ABC
+English TV http://01.gen.tr/simple/englishmovies_def.m3u ENG_MOVIES_DEF
+English TV http://01.gen.tr/simple/englishmovies_ghi.m3u ENG_MOVIES_GHI
+English TV http://01.gen.tr/simple/englishmovies_mno.m3u ENG_MOVIES_MNO
+English TV http://01.gen.tr/simple/englishmovies_prs.m3u ENG_MOVIES_PRS
+English TV http://01.gen.tr/simple/englishmovies_t.m3u ENG_MOVIES_T
+English TV http://01.gen.tr/simple/englishmovies_u-z.m3u ENG_MOVIES_U-Z
 Ex-Yu TV http://01.gen.tr/simple/ex-yug.m3u Ex-Yu
 Filmon TV http://01.gen.tr/simple/filmon.m3u Filmon
 France TV http://01.gen.tr/simple/fransa.m3u Frankreich
@@ -47,6 +54,7 @@ Russia TV http://01.gen.tr/simple/rus.m3u Russland
 Simpltvplayerbackup TV http://01.gen.tr/simple/simpltvplayerbackup.m3u Simpletvplayer
 Sport TV http://01.gen.tr/simple/spor.m3u Sport
 Thai TV http://01.gen.tr/simple/thai.m3u Thailand
+USA TV http://01.gen.tr/simple/usa.m3u USA
 Turkey-Main TV http://01.gen.tr/simple/turk_belgesel_sinema.m3u Türkei_Doku_Filme
 Turkey-Main TV http://01.gen.tr/simple/turk_cocuk.m3u Türkei_Kinder
 Turkey-Main TV http://01.gen.tr/simple/turk_dini.m3u Türkei_Religion
@@ -67,16 +75,8 @@ Norway TV http://01.gen.tr/simple/Norway.m3u Norwegen
 Denmark TV http://01.gen.tr/simple/Denmark.m3u Denmark
 Portugal TV http://01.gen.tr/simple/Portugal.m3u Portugal
 Holland TV http://01.gen.tr/simple/Holland.m3u Niederland
-Vietnam TV http://01.gen.tr/simple/vietnam.m3u Wietnam
+Vietnam TV http://01.gen.tr/simple/vietnam.m3u Vietnam
 Macedonia TV http://01.gen.tr/simple/makadonia.m3u Mazedonien
-USA TV http://01.gen.tr/simple/usa.m3u USA
-English TV http://01.gen.tr/simple/englishmovies_abc.m3u ENG_MOVIES_ABC
-English TV http://01.gen.tr/simple/englishmovies_def.m3u ENG_MOVIES_DEF
-English TV http://01.gen.tr/simple/englishmovies_ghi.m3u ENG_MOVIES_GHI
-English TV http://01.gen.tr/simple/englishmovies_mno.m3u ENG_MOVIES_MNO
-English TV http://01.gen.tr/simple/englishmovies_prs.m3u ENG_MOVIES_PRS
-English TV http://01.gen.tr/simple/englishmovies_t.m3u ENG_MOVIES_T
-English TV http://01.gen.tr/simple/englishmovies_u-z.m3u ENG_MOVIES_U-Z
 #
 ########################################################################
 #                                                                      #
