@@ -51,10 +51,10 @@ Poland TV http://01.gen.tr/simple/polonya.m3u Polen
 Poland TV http://01.gen.tr/simple/polonya.m3u Polen_TV
 Romania-Moldavia TV http://01.gen.tr/simple/romanya.m3u Rumänien-Moldawien
 Russia TV http://01.gen.tr/simple/rus.m3u Russland
+Russia TV http://01.gen.tr/simple/RUS_movies.m3u Russische_Filme
 Simpltvplayerbackup TV http://01.gen.tr/simple/simpltvplayerbackup.m3u Simpletvplayer
 Sport TV http://01.gen.tr/simple/spor.m3u Sport
 Thai TV http://01.gen.tr/simple/thai.m3u Thailand
-USA TV http://01.gen.tr/simple/usa.m3u USA
 Turkey-Main TV http://01.gen.tr/simple/turk_belgesel_sinema.m3u Türkei_Doku_Filme
 Turkey-Main TV http://01.gen.tr/simple/turk_cocuk.m3u Türkei_Kinder
 Turkey-Main TV http://01.gen.tr/simple/turk_dini.m3u Türkei_Religion
@@ -67,6 +67,7 @@ Turki_Azeri TV http://01.gen.tr/simple/turki.m3u Türkei_Aserbaidschan
 Turkey-Main TV http://01.gen.tr/simple/turkkomple.m3u Türkei_Komplett
 Radio-Turkey RADIO http://01.gen.tr/simple/turkvod/radyolar.m3u Türkei_Radio
 Ukraine TV http://01.gen.tr/simple/ukraina.m3u Ukraine
+USA TV http://01.gen.tr/simple/usa.m3u USA
 WebCam WEBCAM http://01.gen.tr/simple/webcam.m3u WorldWebCams
 Slovakai TV http://01.gen.tr/simple/Slovakia.m3u Slovakaien
 Serbia TV http://01.gen.tr/simple/Serbia.m3u Serbien
