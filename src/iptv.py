@@ -123,19 +123,22 @@ class IPTV(Screen):
             
     def ok(self):
         self.IPTVInstalled = True
+        url = None
         sel = self["IPTVList"].l.getCurrentSelection()
         if sel == None:
             print"Nothing to select !!"
             return
         for l in self.downloadlist:
-            if len(sel) >= 4:
+            if len(sel) >= 3:
                 if sel == l[3]:
                     url = l[2]
                     self.type = l[1]
                     if self.type == "WEBCAM":
                         self.type = "TV"
                     break
-
+        if url == None:
+            self.session.open(MessageBox,_("Error, no url found"), MessageBox.TYPE_INFO)
+            return
         file = self.Fetch_URL(url)
         if file.startswith("HTTP ERROR:"):
             self.session.open(MessageBox,_(file), MessageBox.TYPE_INFO)
