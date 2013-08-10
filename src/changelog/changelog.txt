@@ -6,10 +6,12 @@ from 20.07.2013 - xx.xx.2013:
 - add Bouquet 3D TV
 - small fixe
 - add Bouquet Nilesat
-- fix https streams (Thx Black_64) 
+- fix https streams (Thx Black_64)
 - added posibility for automatic updates (Thx Black_64)
 - added list ar.txt <== arabic Bouquetnames (Thx zozo1976)
 - update arabic faq (Thx zozo1976)
+- fix GS at Filenames <3 Letters
+- change Version to GIT Number 
 
 1.10 (19.07.2013):
 - changed buttons
@@ -21,22 +23,23 @@ from 20.07.2013 - xx.xx.2013:
 - added language support of TV Bouquets and Radio Bouquets
 - added default list en.txt
 - add list de.txt <== german Boquetnames
-- add list tr.txt <== turkey Bouquetnames
-- add list hu.txt & beginn translation <== hungary Bouquetnames
+- add list tr.txt <== turky Bouquetnames
+- add list hu.txt & beginn translation <== hungary Bouquetsname
 - removed download.txt
 - more language support:
-  arabic (Thx zozo1976)
-  hungary (Thx NaseDC & his wife)
-  turkey (Thx HasBahCa)
+  arabic (Thx @zozo1976)
+  hungary (Thx @NaseDC & his wife)
+  turkey (Thx @HasBahCa)
   dutch (Thx SatKiekerd, Black_64)
 - small fixes
 - language support for FAQ Files
 - NEW Boquets:
   - Brasil
   - Iran
-  - Egypt
+  - Egypten
   - Israel
-  - Turkey_Azerbaijani
+  - Turki_Azeri
+  -
 
 1.00 (24.06.2013):
 - added language support of plugin for de, en, it 
@@ -44,18 +47,19 @@ from 20.07.2013 - xx.xx.2013:
 - added language support of faq for de, en, it
   (more language to come)
 - changelog now in folder "changelog"
-- changed convert from scripts to python directly (Thx Black_64)
+- changed convert from scripts to python directly (Thx @Black_64 from www.openA.TV)
 - now TV Bouquets in Favourites TV
 - now Webcam Bouquets in Favourites TV
 - now Radio Bouquets in Favourites Radio
 - removes scripts, and folder "scripts"
 - added download.txt for convertation in folder "list"
-- added new flags (Thx NaseDC)
+- added new flags (Thx @NaseDC)
 - changed name in list for each country or continent
 - now separated python files for much easier coding
 - need only Flags in Format country.png 270*200 Pixel
 - now 147 Bouquets
 - compatible with OpenPLI
+-
 
 0.90 (15.06.2013):
 - renamed IPTV_Adult.sh -> IPTV_XXX.sh
@@ -100,7 +104,7 @@ from 20.07.2013 - xx.xx.2013:
   http://01.gen.tr/simple/turkvod/
 - added World Webcams from Internet
 - added Bouquet:  EX-Yu, Thai, Bangladesh, Greece, Filmon <== 
-  Thx for Help HasBahCa
+  Thx for Help @HasBahCa
 
 0.4-ANGA-edition (03.06.2013):
 - changed position of Adult

@@ -48,7 +48,6 @@ Misir_egypt TV http://01.gen.tr/simple/misir_egypt.m3u Ãgypten
 Music TV http://01.gen.tr/simple/muzik.m3u Musik
 Nilesat TV http://01.gen.tr/simple/turkvod/nilesat.m3u Nilsat
 Poland TV http://01.gen.tr/simple/polonya.m3u Polen
-Poland TV http://01.gen.tr/simple/polonya.m3u Polen_TV
 Romania-Moldavia TV http://01.gen.tr/simple/romanya.m3u Rumänien-Moldawien
 Russia TV http://01.gen.tr/simple/rus.m3u Russland
 Russia TV http://01.gen.tr/simple/RUS_movies.m3u Russische_Filme

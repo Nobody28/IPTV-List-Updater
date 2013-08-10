@@ -1,4 +1,4 @@
-<screen name="Start" position="center,center" size="820,450" title="IPTV List Updater V1.10" >
+<screen name="Start" position="center,center" size="820,450" title="IPTV List Updater" >
 	<ePixmap position="0,0" zPosition="0" size="820,450" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/IPTV-List-Updater/skins/original/images/back_main.png" />
 	<widget name="title" position="0,70" halign="center" size="820,26" zPosition="1" foregroundColor="#FFE500" font="Regular;22" valign="center" transparent="1" />
 	<widget name="maintain" position="0,92" halign="center" size="820,26" zPosition="1" foregroundColor="#FFE500" font="Regular;22" valign="center" transparent="1" />
