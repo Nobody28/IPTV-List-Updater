@@ -6,6 +6,7 @@ from 20.07.2013 - xx.xx.2013:
 - add 3D TV
 - small fixe
 - add Nilesat
+- fix GS at Filenames <3 Letters
 
 1.10 (19.07.2013):
 - changed buttons
