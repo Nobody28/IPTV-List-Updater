@@ -33,7 +33,7 @@ msgid "Changelog"
 msgstr "Versionshistorie"
 
 msgid "Select country from list to add into TV Bouquet or Radio Bouquet:"
-msgstr "Wähle ein Land aus & füge es als TV Bouquet oder Radio Bouquet ein: "
+msgstr "Wähle ein Land aus & füge es als TV oder Radio Bouquet ein:"
 
 msgid "Install"
 msgstr "Installiere"
