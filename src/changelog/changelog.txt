@@ -2,10 +2,14 @@ Changelog:
 
 from 20.07.2013 - xx.xx.2013:
 - delete unnecessary files in the picture folder
-- add polish FAQ, translation & Bouquetlist (Thx @miromoni)
-- add 3D TV
+- add polish FAQ, translation & Bouquetlist (Thx miromoni)
+- add Bouquet 3D TV
 - small fixe
-- add Nilesat
+- add Bouquet Nilesat
+- fix https streams (Thx Black_64)
+- added posibility for automatic updates (Thx Black_64)
+- added list ar.txt <== arabic Bouquetnames (Thx zozo1976)
+- update arabic faq (Thx zozo1976)
 - fix GS at Filenames <3 Letters
 
 1.10 (19.07.2013):
