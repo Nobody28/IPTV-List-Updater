@@ -9,6 +9,7 @@
 ########################################################################
 #
 3D TV http://01.gen.tr/simple/3d.m3u 3D_TV
+Adsiz TV http://01.gen.tr/simple/adsiz.m3u Adsiz_übersetzung_unbekannt
 XXX-Adult TV http://01.gen.tr/simple/turkvod/adult.m3u XXX_Aduld 
 Albania TV http://01.gen.tr/simple/albanien.m3u Albanien
 Germany TV http://01.gen.tr/simple/almanca.m3u Deutschland
@@ -21,6 +22,7 @@ Brasil TV http://01.gen.tr/simple/brasil.m3u Brasilien
 Bulgaria TV http://01.gen.tr/simple/bulgar.m3u Bulgarien
 China TV http://01.gen.tr/simple/china.m3u China
 Czech TV http://01.gen.tr/simple/czech.m3u Tschechische_Republik
+Denmark TV Adsiz TV http://01.gen.tr/simple/Denmark.m3u Dänemark
 Englishmovies TV http://01.gen.tr/simple/englishmovies.m3u Englische_Filme
 English TV http://01.gen.tr/simple/englishmovies_abc.m3u ENG_MOVIES_ABC
 English TV http://01.gen.tr/simple/englishmovies_def.m3u ENG_MOVIES_DEF
@@ -33,27 +35,39 @@ Ex-Yu TV http://01.gen.tr/simple/ex-yug.m3u Ex-Yu
 Filmon TV http://01.gen.tr/simple/filmon.m3u Filmon
 France TV http://01.gen.tr/simple/fransa.m3u Frankreich
 Greece TV http://01.gen.tr/simple/greek.m3u Griechenland
+Holland TV http://01.gen.tr/simple/Holland.m3u Niederland
 India TV http://01.gen.tr/simple/india.m3u Indien
 English TV http://01.gen.tr/simple/ingilizce.m3u England
 International-TV TV http://01.gen.tr/simple/int.m3u International_TV
 International-Radio RADIO http://01.gen.tr/simple/int_radio.m3u International_Radio
 Iran TV http://01.gen.tr/simple/iran.m3u Iran
 Spain TV http://01.gen.tr/simple/ispanya.m3u Spanien
-Israel TV http://01.gen.tr/simple/israil.m3u Israel
+# Israel TV http://01.gen.tr/simple/israil.m3u Israel
 Italy TV http://01.gen.tr/simple/italya.m3u Italien
 Japan TV http://01.gen.tr/simple/japan.m3u Japan
+Korea TV http://01.gen.tr/simple/Korea.me3 Korea
 Kurdish TV http://01.gen.tr/simple/kurdi.m3u Kurdistan
 Hungary TV http://01.gen.tr/simple/magyar.m3u Ungarn
+Makadonia TV http://01.gen.tr/simple/makadonia.m3u Mazedonien
 Misir_egypt TV http://01.gen.tr/simple/misir_egypt.m3u Ãgypten
 Music TV http://01.gen.tr/simple/muzik.m3u Musik
-Nilesat TV http://01.gen.tr/simple/turkvod/nilesat.m3u Nilsat
+# Nilesat TV http://01.gen.tr/simple/turkvod/nilesat.m3u Nilsat
+Norway TV http://01.gen.tr/simple/Norway.m3u Norwegen
+Pakistan TV http://01.gen.tr/simple/pakistan.m3u Pakistan
 Poland TV http://01.gen.tr/simple/polonya.m3u Polen
+Portugal TV http://01.gen.tr/simple/Portugal.m3u Portugal
 Romania-Moldavia TV http://01.gen.tr/simple/romanya.m3u Rumänien-Moldawien
 Russia TV http://01.gen.tr/simple/rus.m3u Russland
 Russia TV http://01.gen.tr/simple/RUS_movies.m3u Russische_Filme
+Serbia TV http://01.gen.tr/simple/Serbia.m3u Serbien
 Simpltvplayerbackup TV http://01.gen.tr/simple/simpltvplayerbackup.m3u Simpletvplayer
+Skandinavia TV http://01.gen.tr/simple/skandinav.m3u Skandinavien
+Slovakei TV http://01.gen.tr/simple/Slovakia.m3u Slovakei
 Sport TV http://01.gen.tr/simple/spor.m3u Sport
+Sweden TV http://01.gen.tr/simple/Sweden.m3u Schweden
 Thai TV http://01.gen.tr/simple/thai.m3u Thailand
+Turki_Azeri TV http://01.gen.tr/simple/turki.m3u Türkei_Aserbaidschan
+Turkey-Main TV http://01.gen.tr/simple/turkkomple.m3u Türkei_Komplett
 Turkey-Main TV http://01.gen.tr/simple/turk_belgesel_sinema.m3u Türkei_Doku_Filme
 Turkey-Main TV http://01.gen.tr/simple/turk_cocuk.m3u Türkei_Kinder
 Turkey-Main TV http://01.gen.tr/simple/turk_dini.m3u Türkei_Religion
@@ -61,22 +75,13 @@ Turkey-Main TV http://01.gen.tr/simple/turk_haber.m3u Türkei_Nachrichten
 Turkey-Main TV http://01.gen.tr/simple/turk_muzik.m3u Türkei_Musik
 Turkey-Main TV http://01.gen.tr/simple/turk_spor.m3u Türkei_Sport
 Turkey-Main TV http://01.gen.tr/simple/turk_ulusal.m3u Türkei_Hauptsender
+Turkey-Main TV http://01.gen.tr/simple/turk_ulusal_yedek.m3u Türkei
 Turkey-Local TV http://01.gen.tr/simple/turk_yerel.m3u Türkei_Lokalsender
-Turki_Azeri TV http://01.gen.tr/simple/turki.m3u Türkei_Aserbaidschan
-Turkey-Main TV http://01.gen.tr/simple/turkkomple.m3u Türkei_Komplett
-Radio-Turkey RADIO http://01.gen.tr/simple/turkvod/radyolar.m3u Türkei_Radio
+# Radio-Turkey RADIO http://01.gen.tr/simple/turkvod/radyolar.m3u Türkei_Radio
 Ukraine TV http://01.gen.tr/simple/ukraina.m3u Ukraine
 USA TV http://01.gen.tr/simple/usa.m3u USA
-WebCam WEBCAM http://01.gen.tr/simple/webcam.m3u WorldWebCams
-Slovakai TV http://01.gen.tr/simple/Slovakia.m3u Slovakaien
-Serbia TV http://01.gen.tr/simple/Serbia.m3u Serbien
-Sweden TV http://01.gen.tr/simple/Sweden.m3u Sweden
-Norway TV http://01.gen.tr/simple/Norway.m3u Norwegen
-Denmark TV http://01.gen.tr/simple/Denmark.m3u Denmark
-Portugal TV http://01.gen.tr/simple/Portugal.m3u Portugal
-Holland TV http://01.gen.tr/simple/Holland.m3u Niederland
 Vietnam TV http://01.gen.tr/simple/vietnam.m3u Vietnam
-Macedonia TV http://01.gen.tr/simple/makadonia.m3u Mazedonien
+WebCam WEBCAM http://01.gen.tr/simple/webcam.m3u WorldWebCams
 #
 ########################################################################
 #                                                                      #
