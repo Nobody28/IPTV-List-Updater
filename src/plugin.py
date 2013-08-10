@@ -24,6 +24,7 @@ from credits import Credits
 from faq import FAQ
 import os
 
+Version = "1.10.+git220+8e341cd"
 
 class Start(Screen):
 	
@@ -38,7 +39,7 @@ class Start(Screen):
 		
 		Screen.__init__(self, session)
 		
-		self["title"] = Label(_("Version 1.10"))
+		self["title"] = Label(_("Version %s" % Version))
 		self["maintain"] = Label(_("(c) by Nobody28 & satinfo"))
 		self["link1"] = Label(_("www.opena.tv"))
 		self["link2"] = Label(_("www.gigablue-support.com"))
@@ -63,11 +64,11 @@ class Start(Screen):
 		self["key_blue"] = Label(_("Credits"))
 	
 	def go(self):
-		self.session.open(IPTV)
+		self.session.open(IPTV, Version)
 		self.close()
 	
 	def mod(self):
-		self.session.open(IPTV_Mod)
+		self.session.open(IPTV_Mod, Version)
 		self.close()
 		
 	def credits(self):
@@ -88,5 +89,5 @@ def main(session, **kwargs):
 ###########################################################################
 
 def Plugins(**kwargs):
-	return [PluginDescriptor(name = "IPTV List Updater V1.10", description = "IPTV Bouquets by Nobody28 & satinfo", where = [PluginDescriptor.WHERE_PLUGINMENU], fnc = main, icon = "plugin.png"),
-			PluginDescriptor(name = "IPTV List Updater V1.10", description = "IPTV Bouquets by Nobody28 & satinfo", where = PluginDescriptor.WHERE_EXTENSIONSMENU, fnc=main)]
+	return [PluginDescriptor(name = "IPTV List Updater %s" % Version, description = "IPTV Bouquets by Nobody28 & satinfo", where = [PluginDescriptor.WHERE_PLUGINMENU], fnc = main, icon = "plugin.png"),
+			PluginDescriptor(name = "IPTV List Updater %s" % Version, description = "IPTV Bouquets by Nobody28 & satinfo", where = PluginDescriptor.WHERE_EXTENSIONSMENU, fnc=main)]

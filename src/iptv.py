@@ -35,6 +35,7 @@ class IPTV(Screen):
     def __init__(self, session, args = None):
 
         self.session = session
+        self.Version = args
         path = "/usr/lib/enigma2/python/Plugins/Extensions/IPTV-List-Updater/skins/original/IPTV.xml"
         print path
         with open(path, "r") as f:
@@ -145,7 +146,7 @@ class IPTV(Screen):
             return
 
         self.Convert_m3u(sel, file)
-        infotext = _('IPTV List Updater V1.10\n')
+        infotext = _('IPTV List Updater %s\n' % self.Version)
         infotext += _('(c) by Nobody28 & satinfo\n\n')
         infotext += _('IPTV Streams from HasBahCa & FreeTuxTV')
         infotext += _('\n\n\n')
@@ -260,7 +261,7 @@ class IPTV(Screen):
                 continue
 
             self.Convert_m3u(l[3], file)
-            infotext = _('IPTV List Updater V1.10\n')
+            infotext = _('IPTV List Updater %s\n' % self.Version)
             infotext += _('(c) by Nobody28 & satinfo\n\n')
             infotext += _('IPTV Streams from HasBahCa & FreeTuxTV')
             infotext += _('\n\n\n')
@@ -305,6 +306,7 @@ class IPTV_Mod(Screen):
     def __init__(self, session, args = None):
     
         self.session = session
+        self.Version = args
         path = "/usr/lib/enigma2/python/Plugins/Extensions/IPTV-List-Updater/skins/original/IPTV.xml"
         print path
         with open(path, "r") as f:
@@ -412,7 +414,7 @@ class IPTV_Mod(Screen):
             return
 
         self.Convert_m3u(sel, file)
-        infotext = _('IPTV List Updater V1.10\n')
+        infotext = _('IPTV List Updater %s\n' % self.Version)
         infotext += _('(c) by Nobody28 & satinfo\n\n')
         infotext += _('IPTV Streams from HasBahCa & FreeTuxTV')
         infotext += _('\n\n\n')
@@ -523,7 +525,7 @@ class IPTV_Mod(Screen):
                 continue
 
             self.Convert_m3u(l[3], file)
-            infotext = _('IPTV List Updater V1.10\n')
+            infotext = _('IPTV List Updater %s\n' % self.Version)
             infotext += _('(c) by Nobody28 & satinfo\n\n')
             infotext += _('IPTV Streams from HasBahCa & FreeTuxTV')
             infotext += _('\n\n\n')

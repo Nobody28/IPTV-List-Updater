@@ -11,6 +11,7 @@ from 20.07.2013 - xx.xx.2013:
 - added list ar.txt <== arabic Bouquetnames (Thx zozo1976)
 - update arabic faq (Thx zozo1976)
 - fix GS at Filenames <3 Letters
+- change Version to GIT Number 
 
 1.10 (19.07.2013):
 - changed buttons
