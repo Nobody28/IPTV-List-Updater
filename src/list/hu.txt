@@ -66,9 +66,24 @@ Turkey-Main TV http://01.gen.tr/simple/turk_belgesel_sinema.m3u Törökország_B
 Turkey-Main TV http://01.gen.tr/simple/turk_cocuk.m3u Törökország_COCUK
 Turkey-Main TV http://01.gen.tr/simple/turk_muzik.m3u Törökország_MUZiK
 Turkey-Main TV http://01.gen.tr/simple/turkkomple.m3u Törökország teljes mértékben
-Radio-Turkey RADIO http://01.gen.tr/simple/radyolar.m3u Törökország Radio
+Radio-Turkey RADIO http://01.gen.tr/simple/turkvod/radyolar.m3u Törökország Radio
 Ukraine TV http://01.gen.tr/simple/ukraina.m3u Ukrajna_tévé
 Vietnam TV http://01.gen.tr/simple/vietnam.m3u Vietnam_tévé 
+Iran TV http://01.gen.tr/simple/iran.m3u Iran
+Brasil TV http://01.gen.tr/simple/brasil.m3u Brasil
+Magyar TV http://01.gen.tr/simple/magyar.m3u Magyar
+Misir_egypt TV http://01.gen.tr/simple/misir_egypt.m3u Egypt
+Israel TV http://01.gen.tr/simple/israil.m3u Israel
+Pakistan TV http://01.gen.tr/simple/israil.m3u Pakistan
+Slovakai TV http://01.gen.tr/simple/Slovakia.m3u Slovakai
+Serbia TV http://01.gen.tr/simple/Serbia.m3u Serbia
+Sweden TV http://01.gen.tr/simple/Sweden.m3u Sweden
+Norway TV http://01.gen.tr/simple/Norway.m3u Norway
+Denmark TV http://01.gen.tr/simple/Denmark.m3u Denmark
+Portugal TV http://01.gen.tr/simple/Portugal.m3u Portugal
+Holland TV http://01.gen.tr/simple/Holland.m3u HOLLAND
+Macedonia TV http://01.gen.tr/simple/makadonia.m3u Macedonia
+USA TV http://01.gen.tr/simple/usa.m3u USA
 WebCam WEBCAM http://01.gen.tr/simple/webcam.m3u világ Webkamerák
 #
 ########################################################################
