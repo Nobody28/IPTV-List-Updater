@@ -113,6 +113,7 @@ class IPTV(Screen):
 
             ll = l.split(' ')
             if len(ll) >= 4:
+                ll[3] = ll[3].replace('_\xc3', ' \xc3')
                 ll[3] = ll[3].replace('_',' ')
                 self.downloadlist.append(ll)
                 self.iptvlist.append(ll[3])
