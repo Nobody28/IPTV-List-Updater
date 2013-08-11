@@ -22,7 +22,7 @@ Brasil TV http://01.gen.tr/simple/brasil.m3u Brasilien
 Bulgaria TV http://01.gen.tr/simple/bulgar.m3u Bulgarien
 China TV http://01.gen.tr/simple/china.m3u China
 Czech TV http://01.gen.tr/simple/czech.m3u Tschechische_Republik
-Denmark TV Adsiz TV http://01.gen.tr/simple/Denmark.m3u Dänemark
+Denmark TV http://01.gen.tr/simple/Denmark.m3u Dänemark
 Englishmovies TV http://01.gen.tr/simple/englishmovies.m3u Englische_Filme
 English TV http://01.gen.tr/simple/englishmovies_abc.m3u ENG_MOVIES_ABC
 English TV http://01.gen.tr/simple/englishmovies_def.m3u ENG_MOVIES_DEF
