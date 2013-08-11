@@ -24,7 +24,7 @@ from credits import Credits
 from faq import FAQ
 import os
 
-Version = "1.10.+git220+8e341cd"
+Version = "1.10.+git230+4d4d8ec-r7"
 
 class Start(Screen):
 	
