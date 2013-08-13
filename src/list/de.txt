@@ -19,7 +19,7 @@ Asia TV http://01.gen.tr/simple/asya.m3u Asien
 Europe TV http://01.gen.tr/simple/avrupa.m3u Europa
 Bangladesh TV http://01.gen.tr/simple/bangladesh.m3u Bangladesch
 Brasil TV http://01.gen.tr/simple/brasil.m3u Brasilien
-Bulgaria TV http://01.gen.tr/simple/bulgar.m3u Bulgarien
+Bulgaria TV http://01.gen.tr/simple/bulgar.m3u Bulgarien_BULSAT
 China TV http://01.gen.tr/simple/china.m3u China
 Czech TV http://01.gen.tr/simple/czech.m3u Tschechische_Republik
 Denmark TV http://01.gen.tr/simple/Denmark.m3u Dänemark
