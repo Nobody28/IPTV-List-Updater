@@ -75,4 +75,4 @@ msgid "Special thanks to following Users:"
 msgstr "Aşağıdaki emeği gecenlere, özel Teşekkürler:"
 
 msgid "Credits"
-msgstr "Emeği Geçenler"
+msgstr "Katkı"
