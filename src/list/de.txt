@@ -60,7 +60,6 @@ Romania-Moldavia TV http://01.gen.tr/simple/romanya.m3u Rumänien-Moldawien
 Russia TV http://01.gen.tr/simple/rus.m3u Russland
 Russia TV http://01.gen.tr/simple/RUS_movies.m3u Russische_Filme
 Serbia TV http://01.gen.tr/simple/Serbia.m3u Serbien
-Simpltvplayerbackup TV http://01.gen.tr/simple/simpltvplayerbackup.m3u Simpletvplayer
 Skandinavia TV http://01.gen.tr/simple/skandinav.m3u Skandinavien
 Slovakei TV http://01.gen.tr/simple/Slovakia.m3u Slovakei_Slowenien
 Sport TV http://01.gen.tr/simple/spor.m3u Sport
