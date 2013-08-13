@@ -9,6 +9,7 @@
 ########################################################################
 #  
 Turkey-Main TV http://01.gen.tr/simple/turk_ulusal.m3u TURKIYE_ULUSAL
+Turkey-Main TV http://01.gen.tr/simple/turk_ulusal_yedek.m3u TURKIYE_ULUSAL_YEDEK
 Turkey-Main TV http://01.gen.tr/simple/turk_yerel.m3u TURKIYE_YEREL
 Turkey TV http://01.gen.tr/simple/turki.m3u TURKI_ULKELER
 Turkey-Main TV http://01.gen.tr/simple/turk_dini.m3u TURKIYE_DiNi
@@ -20,6 +21,7 @@ Turkey-Main TV http://01.gen.tr/simple/turk_muzik.m3u TURKIYE_MUZiK
 3D TV http://01.gen.tr/simple/3d.m3u 3D_TV
 Albania TV http://01.gen.tr/simple/albanien.m3u ARNAVUTLUK
 Germany TV http://01.gen.tr/simple/almanca.m3u ALMANCA
+Germany TV http://01.gen.tr/simple/german_doppel.m3u ALMANCA_YEDEK
 America TV http://01.gen.tr/simple/amerika.m3u AMERIKA_KITASI
 Arabia TV http://01.gen.tr/simple/arap.m3u ARAPCA
 Asia TV http://01.gen.tr/simple/asya.m3u ASYA_KITASI
