@@ -12,7 +12,8 @@
 Adsiz TV http://01.gen.tr/simple/adsiz.m3u Adsiz_übersetzung_unbekannt
 XXX-Adult TV http://01.gen.tr/simple/turkvod/adult.m3u XXX_Aduld 
 Albania TV http://01.gen.tr/simple/albanien.m3u Albanien
-Germany TV http://01.gen.tr/simple/almanca.m3u Deutschland
+Germany TV http://01.gen.tr/simple/almanca.m3u Deutsch
+Germany TV http://01.gen.tr/simple/german_doppel.m3u Deutsch_doppel
 America TV http://01.gen.tr/simple/amerika.m3u Amerika
 Arabia TV http://01.gen.tr/simple/arap.m3u Arabien
 Asia TV http://01.gen.tr/simple/asya.m3u Asien
@@ -42,7 +43,7 @@ International-TV TV http://01.gen.tr/simple/int.m3u International_TV
 International-Radio RADIO http://01.gen.tr/simple/int_radio.m3u International_Radio
 Iran TV http://01.gen.tr/simple/iran.m3u Iran
 Spain TV http://01.gen.tr/simple/ispanya.m3u Spanien
-# Israel TV http://01.gen.tr/simple/israil.m3u Israel
+Israel TV http://01.gen.tr/simple/israil.m3u Israel
 Italy TV http://01.gen.tr/simple/italya.m3u Italien
 Japan TV http://01.gen.tr/simple/japan.m3u Japan
 Korea TV http://01.gen.tr/simple/Korea.me3 Korea
@@ -67,7 +68,7 @@ Sport TV http://01.gen.tr/simple/spor.m3u Sport
 Sweden TV http://01.gen.tr/simple/Sweden.m3u Schweden
 Thai TV http://01.gen.tr/simple/thai.m3u Thailand
 Turki_Azeri TV http://01.gen.tr/simple/turki.m3u Türkei_Aserbaidschan
-Turkey-Main TV http://01.gen.tr/simple/turkkomple.m3u Türkei_Komplett
+Turkey-Main TV http://01.gen.tr/simple/turk_ulusal_yedek.m3u Türkei_doppelt
 Turkey-Main TV http://01.gen.tr/simple/turk_belgesel_sinema.m3u Türkei_Doku_Filme
 Turkey-Main TV http://01.gen.tr/simple/turk_cocuk.m3u Türkei_Kinder
 Turkey-Main TV http://01.gen.tr/simple/turk_dini.m3u Türkei_Religion
