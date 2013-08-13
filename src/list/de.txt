@@ -13,6 +13,7 @@ Adsiz TV http://01.gen.tr/simple/adsiz.m3u Adsiz_übersetzung_unbekannt
 XXX-Adult TV http://01.gen.tr/simple/turkvod/adult.m3u XXX_Adult 
 Albania TV http://01.gen.tr/simple/albanien.m3u Albanien
 Germany TV http://01.gen.tr/simple/almanca.m3u Deutsch
+Germany TV http://01.gen.tr/simple/german_doppel.m3u Deutsch_doppellte
 America TV http://01.gen.tr/simple/amerika.m3u Amerika
 Arabia TV http://01.gen.tr/simple/arap.m3u Arabien
 Asia TV http://01.gen.tr/simple/asya.m3u Asien
@@ -34,7 +35,6 @@ Englishmovies TV http://01.gen.tr/simple/englishmovies_u-z.m3u Englische_Filme_U
 Ex-Yu TV http://01.gen.tr/simple/ex-yug.m3u Ex-Yu
 Filmon TV http://01.gen.tr/simple/filmon.m3u Filmon
 France TV http://01.gen.tr/simple/fransa.m3u Frankreich
-Germany TV http://01.gen.tr/simple/german_doppel.m3u Deutsch_doppel
 Greece TV http://01.gen.tr/simple/greek.m3u Griechenland
 Holland TV http://01.gen.tr/simple/Holland.m3u Niederland
 India TV http://01.gen.tr/simple/india.m3u Indien
@@ -47,7 +47,7 @@ Israel TV http://01.gen.tr/simple/israil.m3u Israel
 Italy TV http://01.gen.tr/simple/italya.m3u Italien
 Japan TV http://01.gen.tr/simple/japan.m3u Japan
 Korea TV http://01.gen.tr/simple/Korea.me3 Korea
-Kurdish TV http://01.gen.tr/simple/kurdi.m3u Kurdistan
+Kurdish TV http://01.gen.tr/simple/kurdi.m3u Kurdisch
 Hungary TV http://01.gen.tr/simple/magyar.m3u Ungarn
 Makadonia TV http://01.gen.tr/simple/makadonia.m3u Mazedonien
 Misir_egypt TV http://01.gen.tr/simple/misir_egypt.m3u Ãgypten
@@ -63,11 +63,11 @@ Russia TV http://01.gen.tr/simple/RUS_movies.m3u Russische_Filme
 Serbia TV http://01.gen.tr/simple/Serbia.m3u Serbien
 Simpltvplayerbackup TV http://01.gen.tr/simple/simpltvplayerbackup.m3u Simpletvplayer
 Skandinavia TV http://01.gen.tr/simple/skandinav.m3u Skandinavien
-Slovakei TV http://01.gen.tr/simple/Slovakia.m3u Slovakei
+Slovakei TV http://01.gen.tr/simple/Slovakia.m3u Slovakei_Slowenien
 Sport TV http://01.gen.tr/simple/spor.m3u Sport
 Sweden TV http://01.gen.tr/simple/Sweden.m3u Schweden
 Thai TV http://01.gen.tr/simple/thai.m3u Thailand
-Turki_Azeri TV http://01.gen.tr/simple/turki.m3u Türkei_Aserbaidschan
+Turki_Azeri TV http://01.gen.tr/simple/turki.m3u Türki_Aserbaidschan
 Turkey-Main TV http://01.gen.tr/simple/turk_ulusal_yedek.m3u Türkei_doppelt
 Turkey-Main TV http://01.gen.tr/simple/turk_belgesel_sinema.m3u Türkei_Doku_Filme
 Turkey-Main TV http://01.gen.tr/simple/turk_cocuk.m3u Türkei_Kinder
