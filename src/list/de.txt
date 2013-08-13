@@ -13,7 +13,6 @@ Adsiz TV http://01.gen.tr/simple/adsiz.m3u Adsiz_übersetzung_unbekannt
 XXX-Adult TV http://01.gen.tr/simple/turkvod/adult.m3u XXX_Aduld 
 Albania TV http://01.gen.tr/simple/albanien.m3u Albanien
 Germany TV http://01.gen.tr/simple/almanca.m3u Deutsch
-Germany TV http://01.gen.tr/simple/german_doppel.m3u Deutsch_doppel
 America TV http://01.gen.tr/simple/amerika.m3u Amerika
 Arabia TV http://01.gen.tr/simple/arap.m3u Arabien
 Asia TV http://01.gen.tr/simple/asya.m3u Asien
@@ -35,6 +34,7 @@ Englishmovies TV http://01.gen.tr/simple/englishmovies_u-z.m3u Englische_Filme_U
 Ex-Yu TV http://01.gen.tr/simple/ex-yug.m3u Ex-Yu
 Filmon TV http://01.gen.tr/simple/filmon.m3u Filmon
 France TV http://01.gen.tr/simple/fransa.m3u Frankreich
+Germany TV http://01.gen.tr/simple/german_doppel.m3u Deutsch_doppel
 Greece TV http://01.gen.tr/simple/greek.m3u Griechenland
 Holland TV http://01.gen.tr/simple/Holland.m3u Niederland
 India TV http://01.gen.tr/simple/india.m3u Indien
