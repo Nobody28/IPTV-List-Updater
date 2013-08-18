@@ -197,6 +197,7 @@ class IPTV(Screen):
                 if self.type.upper() == 'TV':
                     line = line.replace(':','%3a')
                     line = line.replace('rtmp%3a//$OPT%3artmp-raw=rtmp%3a','rtmp%3a')
+                    line = line.replace('rtmp%3a//$OPT%3artmp-raw=rtmpe%3a','rtmpe%3a')
                     if line.startswith('rtmp') or line.startswith('rtsp') or line.startswith('mms'):
                         line = '#SERVICE 4097:0:1:0:0:0:0:0:0:0:' + line
                     if not line.startswith("#SERVICE 4097:0:1:0:0:0:0:0:0:0:rt"):
@@ -207,6 +208,7 @@ class IPTV(Screen):
                 elif self.type.upper() == 'RADIO':
                     line = line.replace(':','%3a')
                     line = line.replace('rtmp%3a//$OPT%3artmp-raw=rtmp%3a','rtmp%3a')
+                    line = line.replace('rtmp%3a//$OPT%3artmp-raw=rtmpe%3a','rtmpe%3a')
                     if line.startswith('rtmp') or line.startswith('rtsp') or line.startswith('mms'):
                         line = '#SERVICE 4097:0:2:0:0:0:0:0:0:0:' + line
                     if not line.startswith("#SERVICE 4097:0:2:0:0:0:0:0:0:0:rt"):
@@ -461,6 +463,7 @@ class IPTV_Mod(Screen):
                 if self.type.upper() == 'TV':
                     line = line.replace(':','%3a')
                     line = line.replace('rtmp%3a//$OPT%3artmp-raw=rtmp%3a','rtmp%3a')
+                    line = line.replace('rtmp%3a//$OPT%3artmp-raw=rtmpe%3a','rtmpe%3a')
                     if line.startswith('rtmp') or line.startswith('rtsp') or line.startswith('mms'):
                         line = '#SERVICE 1:0:1:1:1:0:820000:0:0:0:' + line
                     if not line.startswith("#SERVICE 1:0:1:1:1:0:820000:0:0:0:rt"):
@@ -471,6 +474,7 @@ class IPTV_Mod(Screen):
                 elif self.type.upper() == 'RADIO':
                     line = line.replace(':','%3a')
                     line = line.replace('rtmp%3a//$OPT%3artmp-raw=rtmp%3a','rtmp%3a')
+                    line = line.replace('rtmp%3a//$OPT%3artmp-raw=rtmpe%3a','rtmpe%3a')
                     if line.startswith('rtmp') or line.startswith('rtsp') or line.startswith('mms'):
                         line = '#SERVICE 1:0:1:1:1:0:820000:0:0:0:' + line
                     if not line.startswith("#SERVICE 1:0:1:1:1:0:820000:0:0:0:rt"):
