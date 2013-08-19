@@ -63,8 +63,10 @@ Holland TV http://01.gen.tr/simple/Holland.m3u HOLLAND
 Vietnam TV http://01.gen.tr/simple/vietnam.m3u VIETNAM
 Macedonia TV http://01.gen.tr/simple/makadonia.m3u Macedonia
 USA TV http://01.gen.tr/simple/usa.m3u USA
+Lithuania TV http://01.gen.tr/simple/Lithuania.m3u Lithuania
+Korea TV http://01.gen.tr/simple/Korea.m3u Korea
 WebCam WEBCAM http://01.gen.tr/simple/webcam.m3u Świat_WebCams
-XXX-Adult TV http://01.gen.tr/simple/turkvod/adult.m3u XXX_TV 
+XXX-Adult TV http://01.gen.tr/simple/adult.m3u XXX_TV 
 #
 # FreetuxTV
 #
