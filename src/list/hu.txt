@@ -84,6 +84,9 @@ Portugal TV http://01.gen.tr/simple/Portugal.m3u Portugal
 Holland TV http://01.gen.tr/simple/Holland.m3u HOLLAND
 Macedonia TV http://01.gen.tr/simple/makadonia.m3u Macedonia
 USA TV http://01.gen.tr/simple/usa.m3u USA
+Lithuania TV http://01.gen.tr/simple/Lithuania.m3u Lithuania
+Korea TV http://01.gen.tr/simple/Korea.m3u Korea
+
 WebCam WEBCAM http://01.gen.tr/simple/webcam.m3u világ Webkamerák
 #
 ########################################################################
