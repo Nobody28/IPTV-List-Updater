@@ -19,3 +19,5 @@ Translations:	- arabic ==> zozo1976
 	- hungarian ==> NaseDC & wife
 	- italian ==> satinfo
 	- german & english ==> Nobody28 & satinfo
+	- russia ==> xosajin
+	- servia ==> Prokuplje
