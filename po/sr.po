@@ -1,0 +1,78 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: IPTV-List-Updater\n"
+"POT-Creation-Date: 2013-09-09 14:45+0100\n"
+"PO-Revision-Date: 2013-09-09 16:56+0100\n"
+"Last-Translator: Prokuplje\n"
+"Language-Team: \n"
+"Language: rs_SR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+
+msgid "Install & update IPTV streams from country list"
+msgstr "Instalirati i ažurirati IPTV od spisku zemalja"
+
+msgid "and add into TV Bouquet or Radio Bouquet"
+msgstr "i nalepite ga u TV ili radio buket"
+
+msgid "Special thanks goes to HasBahCa & FreeTuxTV for the links"
+msgstr "Zahvaljujući HasBahCa i FreeTukTV za linkove"
+
+msgid "Close"
+msgstr "Izađi"
+
+msgid "Start"
+msgstr "Početak"
+
+msgid "FAQ"
+msgstr "Česta pitanja"
+
+msgid "Changelog"
+msgstr "Spisak izmenena"
+
+msgid "Select country from list to add into TV Bouquet or Radio Bouquet:"
+msgstr "Izaberite zemlju i nalepite kao TV ili radio buket:"
+
+msgid "Install"
+msgstr "Instaliraj"
+
+msgid "Install all"
+msgstr "Instaliraj sve"
+
+msgid "Update list"
+msgstr "Osveži spisak"
+
+msgid "Reloading Bouquets and Services..."
+msgstr "Buketi i stanice se ponovo učitavaju..."
+
+msgid "Nothing to select !!"
+msgstr "Ništa za izbor"
+
+msgid "Update Bouquets and Services for:"
+msgstr "Ažuriraj buket i usluge za:"
+
+msgid "Press OK or EXIT to go back !"
+msgstr "Pritisnite OK ili EXIT da biste se vratili!"
+
+msgid "HTTP download ERROR:"
+msgstr "Greška u preuzimanja HTTP-a:"
+
+msgid "Converting Bouquet"
+msgstr "Preobratiti buket"
+
+msgid "UNKNOWN TYPE:"
+msgstr "Nepoznat tip:"
+
+msgid "Bouquetname exists, do nothing"
+msgstr "Buket već postoji"
+
+msgid "Bouquetname doesn't exists, adding it"
+msgstr "Buket ne postoji, biće postavljen"
+
+msgid "Special thanks to following Users:"
+msgstr "Posebno se zahvaljujemo sledećim korisnicima:"
+
+msgid "Credits"
+msgstr "Zahvaljivanje"
