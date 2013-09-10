@@ -82,3 +82,9 @@ msgstr "Название фаворита уже существует, ниче�
 
 msgid "bouquetname doesnt exists, adding it"
 msgstr "название фаворита не существует , добавить, что "
+
+msgid "Special thanks to following Users:"
+msgstr ""
+
+msgid "Credits"
+msgstr ""
