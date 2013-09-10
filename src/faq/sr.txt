@@ -1,0 +1,69 @@
+
+Česta pitanja - 24.07.2013
+
+1. Za koje sisteme je plugin? 
+    Plugin treba da radi na svim slikama OE2.0. 
+	Slike OE1.6 ne podržava IPTV bukete!
+
+2. Šta mogu da uradim ako ne mogu da instaliram plugin?
+    Raspakivaj plugin (npr. sa 7zip). 
+	Kopirajte sve datoteke sa FTP-programa (npr. FileZilla) na kutiji
+	
+3. Koje kutije mogu da odigraju MMS strimove?
+    Stanje: 23.06.2013:
+	VU+ nemaju mms podršku!
+	Samo svih Xtrend, dm500hd, dm800se i dm7020hd.
+
+4. Šta treba da uradim da bi dodao još strimove na spisku?
+    Tražite prikladne linkove ili spiskove iz interneta. 
+    Proverite i postavite ih u jednoj od teme iz IPTV-List-Updater
+	u narednim forumima:
+    www.opena.tv
+    www.vuplus-support.org
+    www.gigablue-support.com
+    Sigurnije je ako Nobodi28, Satinfo ili HasBahCa kontaktirate preko PP.
+	
+5. Kako mogu da izbrišem bukete?
+    Bukete možete izbrisati nakon izlaza iz plugin-a:
+	strelica nadole => Omiljeni TV (plavo dugme) => Idite na buket koji hoćete da izbrišite
+	=> Pritisnite taster Meni => Izbrište unos => OK-dugme
+	
+6. Mogu li da postavim svoje zastave?
+    Zastave moraju kao ime na prvoj posiciji, zavisno od GUI jezika postaviti u fajl jezika (npr. za nemački de.txt)
+	u imeniku /usr/lib/enigma2/python/Plugins/Extensions/IPTV-List-Updater/list i biti u formatu PNG
+	sa veličinom od 270 x 200 piksela (8 bit). Sačuvajte ili kopirajte u imenku 
+	/usr/lib/enigma2/python/Plugins/Extensions/IPTV-List-Updater/images.
+  
+7. Mogu da sakrijem pojedinačne spiskove?
+    Treba editirati u fasciklu /usr/lib/enigma2/python/Plugins/
+    Extensions/IPTV-List-Updater/list zavisno od GUI jezika npr. 
+	za nemački de.txt Notepad++ i izbrisati sve redove koji ne želite da koristite.
+	Ne zaboravite da pre toga sačuvajte fajl.
+	 
+8. Kako mogu da postavim svoje M3U fajlove i da ih neko konvertuje?
+    Zato je potrebno da sačuvate M3U-fajl npr. u Dropbox-u.
+	Onda morate (zavisno od GUI jezika) u fajl jezika 
+    (npr. za nemački de.txt) u /usr/lib/enigma2/python/Plugins/
+    Extensions/IPTV-List-Updater/list ubaciti novi red.
+    Te 4 podaci moraju biti unešeni:
+   
+   
+	Ime zastave vrsta buketa Preuzimna lokacija ime buketa
+	
+	- Ime zastave = birajte jedan od postojećih imena zastave ili 
+	  kreirajte, kako već na tačku 6 opisano, svoju ličnu zastavu
+	  
+	- vrsta buketa = Postoje 3 vrsta buketa (TV, RADIO ili WEBCAM)
+
+    - Preuzimna lokacija = 	Veza na m3u-fajlu na vašem serveru ili 
+	  kod Dropbox-a vezu morate da kopirate u "Download-Button" i kao 
+	  lokaciju preuzimanja postaviti u fajl jezika, i ne vezu od fajla m3u.
+	  
+	- Ime buketa  = Ovde možete da unesete vaše ime buketa kako vi želite da 
+	  bude pokažen u plugin-u posle instalacije u vašem buketu.
+	  
+	Sad morate samo još da odvorite plugin i 
+	da startujete instalaciju vašeg buekta.
+	
+	
+	
