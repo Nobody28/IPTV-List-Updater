@@ -87,4 +87,4 @@ msgid "Special thanks to following Users:"
 msgstr "Особая благодарность следующим пользователям"
 
 msgid "Credits"
-msgstr ""
+msgstr "Признательность"
