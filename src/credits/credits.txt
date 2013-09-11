@@ -20,4 +20,4 @@ Translations:	- arabic ==> zozo1976
 	- italian ==> satinfo
 	- german & english ==> Nobody28 & satinfo
 	- russia ==> xosajin
-	- servia ==> Prokuplje
+	- serbia ==> Prokuplje
