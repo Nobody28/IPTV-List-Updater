@@ -48,7 +48,7 @@ msgid "Reloading Bouquets and Services..."
 msgstr "Buketi i stanice se ponovo učitavaju..."
 
 msgid "Nothing to select !!"
-msgstr "Ništa za izbor"
+msgstr "Ništa za izbor !!"
 
 msgid "Update Bouquets and Services for:"
 msgstr "Ažuriraj buket i usluge za:"
