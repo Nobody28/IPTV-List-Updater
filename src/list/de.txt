@@ -74,7 +74,6 @@ Turkey-Main TV http://01.gen.tr/simple/turk_haber.m3u Türkei_Nachrichten
 Turkey-Main TV http://01.gen.tr/simple/turk_muzik.m3u Türkei_Musik
 Turkey-Main TV http://01.gen.tr/simple/turk_spor.m3u Türkei_Sport
 Turkey-Main TV http://01.gen.tr/simple/turk_ulusal.m3u Türkei_Hauptsender
-Turkey-Main TV http://01.gen.tr/simple/turk_ulusal_yedek.m3u Türkei
 Turkey-Local TV http://01.gen.tr/simple/turk_yerel.m3u Türkei_Lokalsender
 # Radio-Turkey RADIO http://01.gen.tr/simple/turkvod/radyolar.m3u Türkei_Radio
 Ukraine TV http://01.gen.tr/simple/ukraina.m3u Ukraine
