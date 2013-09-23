@@ -70,6 +70,10 @@ XXX-Adult TV http://01.gen.tr/simple/adult.m3u XXX_YETISKIN
 <<<<<<< HEAD
 Korea TV http://01.gen.tr/simple/Korea.m3u KORE
 Lithuania TV http://01.gen.tr/simple/Lithuania.m3u LITVANYA
+Belgium TV http://01.gen.tr/simple/Belgium.m3u BELCIKA
+Scandinavien TV http://01.gen.tr/simple/skandinav.m3u SKANDINAV_ULKELERI
+Africa TV http://01.gen.tr/simple/Afrika.m3u AFRIKA_KITASI
+English TV http://01.gen.tr/simple/ENGLISH_MOVIES_OLD.m3u ESKI_INGILIZCE_FILMLER
 =======
 >>>>>>> e9ab4775e28b167d04cc1a294f1a5b7f7adfcaca
 English TV http://01.gen.tr/simple/englishmovies_abc.m3u ENG_MOVIES_ABC
