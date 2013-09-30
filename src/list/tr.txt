@@ -82,6 +82,7 @@ English TV http://01.gen.tr/simple/englishmovies_prs.m3u ENG_MOVIES_PRS
 English TV http://01.gen.tr/simple/englishmovies_t.m3u ENG_MOVIES_T
 English TV http://01.gen.tr/simple/englishmovies_u-z.m3u ENG_MOVIES_U-Z
 English TV http://01.gen.tr/simple/ENGLISH_MOVIES_OLD.m3u ESKI_INGILIZCE_FILMLER
+Russia TV http://01.gen.tr/simple/RUS_movies.m3u RUSCA_FILMLER
 
 ########################################################################
 #                                                                      #
