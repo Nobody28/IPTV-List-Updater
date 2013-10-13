@@ -198,6 +198,7 @@ class IPTV(Screen):
                     line = line.replace(':','%3a')
                     line = line.replace('rtmp%3a//$OPT%3artmp-raw=rtmp%3a','rtmp%3a')
                     line = line.replace('rtmp%3a//$OPT%3artmp-raw=rtmpe%3a','rtmpe%3a')
+                    line = line.replace('rtp%3a//@','#SERVICE 1:0:1:1:1:0:820000:0:0:0:http%3a//127.0.0.1%3a4050/rtp/')
                     if line.startswith('rtmp') or line.startswith('rtsp') or line.startswith('mms'):
                         line = '#SERVICE 4097:0:1:0:0:0:0:0:0:0:' + line
                     if not line.startswith("#SERVICE 4097:0:1:0:0:0:0:0:0:0:rt"):
@@ -209,6 +210,7 @@ class IPTV(Screen):
                     line = line.replace(':','%3a')
                     line = line.replace('rtmp%3a//$OPT%3artmp-raw=rtmp%3a','rtmp%3a')
                     line = line.replace('rtmp%3a//$OPT%3artmp-raw=rtmpe%3a','rtmpe%3a')
+                    line = line.replace('rtp%3a//@','#SERVICE 1:0:1:1:1:0:820000:0:0:0:http%3a//127.0.0.1%3a4050/rtp/')
                     if line.startswith('rtmp') or line.startswith('rtsp') or line.startswith('mms'):
                         line = '#SERVICE 4097:0:2:0:0:0:0:0:0:0:' + line
                     if not line.startswith("#SERVICE 4097:0:2:0:0:0:0:0:0:0:rt"):
@@ -464,6 +466,7 @@ class IPTV_Mod(Screen):
                     line = line.replace(':','%3a')
                     line = line.replace('rtmp%3a//$OPT%3artmp-raw=rtmp%3a','rtmp%3a')
                     line = line.replace('rtmp%3a//$OPT%3artmp-raw=rtmpe%3a','rtmpe%3a')
+                    line = line.replace('rtp%3a//@','#SERVICE 1:0:1:1:1:0:820000:0:0:0:http%3a//127.0.0.1%3a4050/rtp/')
                     if line.startswith('rtmp') or line.startswith('rtsp') or line.startswith('mms'):
                         line = '#SERVICE 1:0:1:1:1:0:820000:0:0:0:' + line
                     if not line.startswith("#SERVICE 1:0:1:1:1:0:820000:0:0:0:rt"):
@@ -475,6 +478,7 @@ class IPTV_Mod(Screen):
                     line = line.replace(':','%3a')
                     line = line.replace('rtmp%3a//$OPT%3artmp-raw=rtmp%3a','rtmp%3a')
                     line = line.replace('rtmp%3a//$OPT%3artmp-raw=rtmpe%3a','rtmpe%3a')
+                    line = line.replace('rtp%3a//@','#SERVICE 1:0:1:1:1:0:820000:0:0:0:http%3a//127.0.0.1%3a4050/rtp/')
                     if line.startswith('rtmp') or line.startswith('rtsp') or line.startswith('mms'):
                         line = '#SERVICE 1:0:1:1:1:0:820000:0:0:0:' + line
                     if not line.startswith("#SERVICE 1:0:1:1:1:0:820000:0:0:0:rt"):
