@@ -13,7 +13,7 @@ XXX-Adult TV http://01.gen.tr/simple/adult.m3u XXX_Adult
 Africa TV http://01.gen.tr/simple/Afrika.m3u Africa
 Albania TV http://01.gen.tr/simple/albanien.m3u Albanien
 Germany TV http://01.gen.tr/simple/GERMAN_DEUTSCH.m3u Deutsch
-Germany TV http://01.gen.tr/simple/german_doppel.m3u Deutsch_doppellte
+Germany TV http://01.gen.tr/simple/german_doppel.m3u Deutsch_doppelte
 America TV http://01.gen.tr/simple/amerika.m3u Amerika
 Arabia TV http://01.gen.tr/simple/arap.m3u Arabien
 Asia TV http://01.gen.tr/simple/asya.m3u Asien
