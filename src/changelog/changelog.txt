@@ -1,5 +1,9 @@
 Changelog:
 
+from 14.10.2013:
+- add converter & Streamlist for T-Home Entertain (notready yet!)
+- 
+
 from 10.09.2013:
 - Add serbia Bouquetfile, FAQ & Language File
 - Add russia Language File
