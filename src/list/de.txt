@@ -1,6 +1,13 @@
 #
 # Aufbau:
 # Flaggenanzeige Bouquettyp Downloadlink Bouquetname(Unterstriche werden im Plugin ausgeblendet)
+########################################################################
+#                                                                      #
+#                         Sonstige Listen                              #
+#                                                                      #
+########################################################################
+#
+Germany TV http://grinch.itg-em.de/entertain/downloads/playlist.php?m3u T_Home_Entertain_noch_nicht_umgesetzt
 #
 ########################################################################
 #                                                                      #
