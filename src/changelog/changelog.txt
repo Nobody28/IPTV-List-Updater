@@ -1,5 +1,8 @@
 Changelog:
 
+from 21.10.2013:
+- add German WDR Radiostreams
+
 from 14.10.2013:
 - add converter & Streamlist for T-Home Entertain (notready yet!)
 - 
