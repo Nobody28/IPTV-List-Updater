@@ -3,9 +3,17 @@
 # Flaggenanzeige Bouquettyp Downloadlink Bouquetname(az alsovonalak a plugin-ban lathatatlanok)
 #
 ########################################################################
-# #
-# HasBahCa Listen #
-# #
+#                                                                      #
+#                             other Lists                              #
+#                                                                      #
+########################################################################
+#
+Germany RADIO https://dl.dropboxusercontent.com/s/w5yn96vtgyhulix/Radio-Deutschland-WDR2.m3u?token_hash=AAHFO74w9Ry8qvNtKcuDNNVaYa7bRBE21zlC0XHjH3hJFA&dl=1 German_WDR_Radiochannel
+#
+########################################################################
+#                                                                      #
+#                         HasBahCa Listen                              #
+#                                                                      #
 ########################################################################
 #
 3D TV http://01.gen.tr/simple/3d.m3u 3D_tévé
