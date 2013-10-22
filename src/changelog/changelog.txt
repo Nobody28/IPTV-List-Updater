@@ -1,5 +1,8 @@
 Changelog:
 
+from 22.10.2013:
+- change downloadlink for German WDR Radiostremas
+
 from 21.10.2013:
 - add German WDR Radiostreams
 
