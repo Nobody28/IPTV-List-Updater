@@ -8,7 +8,7 @@
 ########################################################################
 #
 Germany TV http://grinch.itg-em.de/entertain/downloads/playlist.php?m3u T_Home_Entertain_noch_nicht_umgesetzt
-Germany RADIO https://dl.dropboxusercontent.com/s/w5yn96vtgyhulix/Radio-Deutschland-WDR2.m3u?token_hash=AAHFO74w9Ry8qvNtKcuDNNVaYa7bRBE21zlC0XHjH3hJFA&dl=1 WDR_Radiosender
+Germany RADIO http://01.gen.tr/simple/Radio-Deutschland-WDR2.m3u WDR_Radiosender
 #
 ########################################################################
 #                                                                      #
