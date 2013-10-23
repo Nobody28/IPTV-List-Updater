@@ -8,7 +8,8 @@
 #                                                                      #
 ########################################################################
 #
-Germany RADIO http://01.gen.tr/simple/Radio-Deutschland-WDR2.m3u WDR_Radiosender
+Germany RADIO http://01.gen.tr/simple/Radio-Deutschland-WDR2.m3u German_WDR_Radiochannels
+Germany RADIO https://dl.dropboxusercontent.com/s/qis72mhv35r6n5q/Deutschland-Radio.m3u?token_hash=AAHBii3iCNyclwuwm7DFdn4BuWQveXor6RQrTY1nkq9bng&dl=1 German_Radio_Channels
 #
 ########################################################################
 #                                                                      #
