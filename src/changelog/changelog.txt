@@ -1,5 +1,8 @@
 Changelog:
 
+from 23.10.2013:
+- add german radio channels
+
 from 22.10.2013:
 - change downloadlink for German WDR Radiostremas
 
