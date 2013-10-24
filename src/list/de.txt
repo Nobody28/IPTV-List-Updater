@@ -20,7 +20,7 @@ Germany RADIO https://dl.dropboxusercontent.com/s/qis72mhv35r6n5q/Deutschland-Ra
 3D TV http://01.gen.tr/simple/3d.m3u 3D_TV
 XXX-Adult TV http://01.gen.tr/simple/XXX.m3u XXX_Adult 
 Africa TV http://01.gen.tr/simple/Afrika.m3u Africa
-Albania TV http://01.gen.tr/simple/albanien.m3u Albanien
+Albania TV http://01.gen.tr/simple/Albania.m3u Albanien
 Germany TV http://01.gen.tr/simple/GERMAN_DEUTSCH.m3u Deutsch
 Germany TV http://01.gen.tr/simple/german_doppel.m3u Deutsch_doppelte
 America TV http://01.gen.tr/simple/amerika.m3u Amerika
