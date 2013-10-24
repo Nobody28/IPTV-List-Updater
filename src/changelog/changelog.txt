@@ -1,6 +1,11 @@
 Changelog:
 
 from 23.10.2013:
+- add swiss radio channels
+- add austria radio channel
+- fix Streamlinks
+
+from 23.10.2013:
 - add german radio channels
 
 from 22.10.2013:
