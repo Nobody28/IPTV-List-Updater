@@ -34,7 +34,7 @@ Germany TV http://01.gen.tr/simple/german_doppel.m3u ALMANCA_YEDEK
 America TV http://01.gen.tr/simple/amerika.m3u AMERIKA_KITASI
 Arabia TV http://01.gen.tr/simple/Arabic.m3u ARAPCA
 Asia TV http://01.gen.tr/simple/asya.m3u ASYA_KITASI
-Europe TV http://01.gen.tr/simple/avrupa.m3u AVRUPA_KITASI
+Europe TV http://01.gen.tr/simple/avrupa_europa.m3u AVRUPA_KITASI
 Bangladesh TV http://01.gen.tr/simple/bangladesh.m3u BENGALDES
 Bulgaria TV http://01.gen.tr/simple/bulgar.m3u BULGAR_BULSAT
 China TV http://01.gen.tr/simple/china.m3u CIN_CHINA
