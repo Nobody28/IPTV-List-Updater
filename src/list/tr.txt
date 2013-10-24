@@ -10,6 +10,7 @@
 #
 Germany RADIO http://01.gen.tr/simple/Radio-Deutschland-WDR2.m3u German_WDR_Radiochannels
 Germany RADIO https://dl.dropboxusercontent.com/s/qis72mhv35r6n5q/Deutschland-Radio.m3u?token_hash=AAHBii3iCNyclwuwm7DFdn4BuWQveXor6RQrTY1nkq9bng&dl=1 German_Radio_Channels
+Austria RADIO https://dl.dropboxusercontent.com/s/fsk2mjvwsof6fmp/Oestereich-Radio.m3u?dl=1&token_hash=AAGbbarWoYEWrxpvR3PV0SO1wAE3FGJQJlZG8Qc0QwQoXA Austria_Radio
 #
 ########################################################################
 #                                                                      #
