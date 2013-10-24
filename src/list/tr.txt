@@ -29,10 +29,10 @@ Turkey-Main TV http://01.gen.tr/simple/turk_cocuk.m3u TURKIYE_COCUK
 Turkey-Main TV http://01.gen.tr/simple/turk_muzik.m3u TURKIYE_MUZiK
 3D TV http://01.gen.tr/simple/3d.m3u 3D_TV
 Albania TV http://01.gen.tr/simple/albanien.m3u ARNAVUTLUK
-Germany TV http://01.gen.tr/simple/almanca.m3u ALMANCA
+Germany TV http://01.gen.tr/simple/GERMAN_DEUTSCH.m3u ALMANCA
 Germany TV http://01.gen.tr/simple/german_doppel.m3u ALMANCA_YEDEK
 America TV http://01.gen.tr/simple/amerika.m3u AMERIKA_KITASI
-Arabia TV http://01.gen.tr/simple/arap.m3u ARAPCA
+Arabia TV http://01.gen.tr/simple/Arabic.m3u ARAPCA
 Asia TV http://01.gen.tr/simple/asya.m3u ASYA_KITASI
 Europe TV http://01.gen.tr/simple/avrupa.m3u AVRUPA_KITASI
 Bangladesh TV http://01.gen.tr/simple/bangladesh.m3u BENGALDES
@@ -44,7 +44,7 @@ Filmon TV http://01.gen.tr/simple/filmon.m3u Filmon
 France TV http://01.gen.tr/simple/fransa.m3u FRANSIZCA
 Greece TV http://01.gen.tr/simple/greek.m3u YUNANCA
 India TV http://01.gen.tr/simple/india.m3u HINDISTAN
-English TV http://01.gen.tr/simple/ingilizce.m3u INGILIZCE
+English TV http://01.gen.tr/simple/English.m3u INGILIZCE
 International-TV TV http://01.gen.tr/simple/int.m3u ULUSLARARASI
 Spain TV http://01.gen.tr/simple/ispanya.m3u ISPANYOLCA
 Italy TV http://01.gen.tr/simple/italya.m3u ITALYANCA
@@ -53,7 +53,7 @@ Kurdish TV http://01.gen.tr/simple/kurdi.m3u KURTCE
 Music TV http://01.gen.tr/simple/muzik.m3u MUZIK_KANALLARI
 Nilesat TV http://01.gen.tr/simple/nilesat.m3u NILESAT
 Poland TV http://01.gen.tr/simple/polonya.m3u POLONYA
-Romania-Moldavia TV http://01.gen.tr/simple/romanya.m3u ROMANYA_MOLDAVYA
+Romania-Moldavia TV http://01.gen.tr/simple/Romania_Moldova.m3u ROMANYA_MOLDAVYA
 Russia TV http://01.gen.tr/simple/rus.m3u RUSYA
 Sport TV http://01.gen.tr/simple/spor.m3u SPOR_KANALLARI
 Thai TV http://01.gen.tr/simple/thai.m3u TAYLAND
@@ -64,8 +64,8 @@ Brasil TV http://01.gen.tr/simple/brasil.m3u BREZILYA
 Magyar TV http://01.gen.tr/simple/magyar.m3u MACARISTAN
 Misir_egypt TV http://01.gen.tr/simple/misir_egypt.m3u MISIR
 Israel TV http://01.gen.tr/simple/israil.m3u ISRAIL
-Pakistan TV http://01.gen.tr/simple/israil.m3u PAKISTAN
-Slovakai TV http://01.gen.tr/simple/Slovakia.m3u SLOVAKYA
+Pakistan TV http://01.gen.tr/simple/pakistan.m3u PAKISTAN
+Slovakai TV http://01.gen.tr/simple/Slovakia_Slovenia.m3u SLOVAKYA_Slovenya
 Serbia TV http://01.gen.tr/simple/Serbia.m3u SIRBiSTAN
 Sweden TV http://01.gen.tr/simple/Sweden.m3u ISVEC
 Norway TV http://01.gen.tr/simple/Norway.m3u NORVEC
@@ -75,7 +75,7 @@ Holland TV http://01.gen.tr/simple/Holland.m3u HOLLANDA
 Vietnam TV http://01.gen.tr/simple/vietnam.m3u VIETNAM
 Macedonia TV http://01.gen.tr/simple/makadonia.m3u MAKEDONYA
 USA TV http://01.gen.tr/simple/usa.m3u ABD-USA
-XXX-Adult TV http://01.gen.tr/simple/adult.m3u XXX_YETISKIN
+XXX-Adult TV http://01.gen.tr/simple/XXX.m3u XXX_YETISKIN
 Korea TV http://01.gen.tr/simple/Korea.m3u KORE
 Lithuania TV http://01.gen.tr/simple/Lithuania.m3u LITVANYA
 Belgium TV http://01.gen.tr/simple/Belgium.m3u BELCIKA
