@@ -5,6 +5,7 @@ from 26.10.2013:
 - add udpxy to depends
 - add Austria & Swiss Flag (Thx NaseDC)
 - fix translation hu.txt (Thx NaseDC)
+- Change Plugin Version 1.20
 
 from 23.10.2013:
 - add swiss radio channels
