@@ -1,8 +1,10 @@
 Changelog:
 
-from 23.10.2013:
+from 26.10.2013:
 - build udpxy on GIT (Thx atvcaptain)
 - add udpxy to depends
+- add Austria & Swiss Flag (Thx NaseDC)
+- fix translation hu.txt (Thx NaseDC)
 
 from 23.10.2013:
 - add swiss radio channels
