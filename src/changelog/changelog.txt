@@ -1,6 +1,7 @@
 Changelog:
 
 from 23.10.2013:
+- build udpxy on GIT (Thx atvcaptain)
 - add udpxy to depends
 
 from 23.10.2013:
