@@ -1,5 +1,10 @@
 Changelog:
 
+from 29.10.2013:
+- some Flag (Thx NaseDC)
+- fix some Streamlinks
+- small fixes
+
 from 26.10.2013:
 - build udpxy on GIT (Thx atvcaptain)
 - add udpxy to depends

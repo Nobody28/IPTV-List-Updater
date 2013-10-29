@@ -146,7 +146,7 @@ Japan TV http://database.freetuxtv.net/playlists/playlist_webtv_ja.m3u Web_TV_(J
 Japan RADIO http://database.freetuxtv.net/playlists/playlist_webradio_ja.m3u Web_Radio_(Japan)
 Japan WEBCAM http://database.freetuxtv.net/playlists/playlist_webcam_ja.m3u Web_Cam_(Japan)
 Kazakhstan TV http://database.freetuxtv.net/playlists/playlist_webtv_kk.m3u Web_TV_(Kazakhstan)
-Korean TV http://database.freetuxtv.net/playlists/playlist_webtv_ko.m3u Web_TV_(Korea)
+Korea TV http://database.freetuxtv.net/playlists/playlist_webtv_ko.m3u Web_TV_(Korea)
 Kurdish TV http://database.freetuxtv.net/playlists/playlist_webtv_ku.m3u Web_TV_(Kurdish)
 Latin TV http://database.freetuxtv.net/playlists/playlist_webtv_la.m3u Web_TV_(Latin)
 Latvia_Lettish TV http://database.freetuxtv.net/playlists/playlist_webtv_lv.m3u Web_TV_(Latvia/Lettish)
