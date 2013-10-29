@@ -1,7 +1,7 @@
 Changelog:
 
 from 29.10.2013:
-- some Flag (Thx NaseDC)
+- add some Flag (Thx NaseDC)
 - fix some Streamlinks
 - small fixes
 
