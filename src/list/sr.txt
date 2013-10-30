@@ -20,17 +20,17 @@ Swiss RADIO https://dl.dropboxusercontent.com/s/df4tyw2ad3z9ybe/Schweiz-Radio.m3
 ########################################################################
 #
 3D TV http://01.gen.tr/simple/3d.m3u 3D_TV
-XXX-Adult TV http://01.gen.tr/simple/adult.m3u XXX_Adult
-Albania TV http://01.gen.tr/simple/albanien.m3u Albanija
-Germany TV http://01.gen.tr/simple/almanca.m3u Nemačka
+XXX-Adult TV http://01.gen.tr/simple/XXX.m3u XXX_Adult
+Albania TV http://01.gen.tr/simple/Albania.m3u Albanija
+Germany TV http://01.gen.tr/simple/GERMAN_DEUTSCH.m3u.m3u Nemačka
 Germany TV http://01.gen.tr/simple/german_doppel.m3u Nemačka_duplo
 America TV http://01.gen.tr/simple/amerika.m3u Amerika
 Arabia TV http://01.gen.tr/simple/arap.m3u Arabija
 Asia TV http://01.gen.tr/simple/asya.m3u Asija
-Europe TV http://01.gen.tr/simple/avrupa.m3u Evropa
+Europe TV http://01.gen.tr/simple/avrupa_europa.m3u Evropa
 Bangladesh TV http://01.gen.tr/simple/bangladesh.m3u Bangladeš
 Brasil TV http://01.gen.tr/simple/brasil.m3u Brasil
-Bulgaria TV http://01.gen.tr/simple/bulgar.m3u Bugarska_BULSAT
+Bulgaria TV http://01.gen.tr/simple/bulgar_bulsat.m3u Bugarska_BULSAT
 China TV http://01.gen.tr/simple/china.m3u Kina
 Czech TV http://01.gen.tr/simple/czech.m3u Češka Republika
 Denmark TV http://01.gen.tr/simple/Denmark.m3u Danska
@@ -48,11 +48,11 @@ France TV http://01.gen.tr/simple/fransa.m3u Francuska
 Greece TV http://01.gen.tr/simple/greek.m3u Grčka
 Holland TV http://01.gen.tr/simple/Holland.m3u Holandija
 India TV http://01.gen.tr/simple/india.m3u Indija
-English TV http://01.gen.tr/simple/ingilizce.m3u Engleska
+English TV http://01.gen.tr/simple/English.m3u Engleska
 International-TV TV http://01.gen.tr/simple/int.m3u Međunarodni_TV
 International-Radio RADIO http://01.gen.tr/simple/int_radio.m3u Međunarodni_Radio
 Iran TV http://01.gen.tr/simple/iran.m3u Iran
-Spain TV http://01.gen.tr/simple/ispanya.m3u Španija
+Spain TV http://01.gen.tr/simple/Spain.m3u Španija
 Israel TV http://01.gen.tr/simple/israil.m3u Israel
 Italy TV http://01.gen.tr/simple/italya.m3u Italija
 Japan TV http://01.gen.tr/simple/japan.m3u Japan
