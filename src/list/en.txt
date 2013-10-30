@@ -15,16 +15,16 @@ Swiss RADIO https://dl.dropboxusercontent.com/s/df4tyw2ad3z9ybe/Schweiz-Radio.m3
 # Flag Bouquettyp Downloadlink Bouquetname (Underline will be removed) #
 ########################################################################
 3D TV http://01.gen.tr/simple/3d.m3u 3D
-XXX-Adult TV http://01.gen.tr/simple/adult.m3u XXX-Adult
-Albania TV http://01.gen.tr/simple/albanien.m3u Albania
-Germany TV http://01.gen.tr/simple/almanca.m3u Germany
+XXX-Adult TV http://01.gen.tr/simple/XXX.m3u XXX-Adult
+Albania TV http://01.gen.tr/simple/Albania.m3u Albania
+Germany TV http://01.gen.tr/simple/GERMAN_DEUTSCH.m3u Germany
 America TV http://01.gen.tr/simple/amerika.m3u America
 Arabia TV http://01.gen.tr/simple/arap.m3u Arabia
 Asia TV http://01.gen.tr/simple/asya.m3u Asia
 Europe TV http://01.gen.tr/simple/avrupa.m3u Europe
 Bangladesh TV http://01.gen.tr/simple/bangladesh.m3u Bangladesh
 Brasil TV http://01.gen.tr/simple/brasil.m3u Brasil
-Bulgaria TV http://01.gen.tr/simple/bulgar.m3u Bulgaria
+Bulgaria TV http://01.gen.tr/simple/bulgar_bulsat.m3u Bulgaria
 China TV http://01.gen.tr/simple/china.m3u China
 Czech TV http://01.gen.tr/simple/czech.m3u Czech_Republic
 Englishmovies TV http://01.gen.tr/simple/englishmovies.m3u English_Movies
@@ -33,8 +33,10 @@ Filmon TV http://01.gen.tr/simple/filmon.m3u Filmon
 France TV http://01.gen.tr/simple/fransa.m3u France
 Greece TV http://01.gen.tr/simple/greek.m3u Greece
 India TV http://01.gen.tr/simple/india.m3u India
-English TV http://01.gen.tr/simple/ingilizce.m3u England
-International-TV TV http://01.gen.tr/simple/int.m3u International
+English TV http://01.gen.tr/simple/English.m3u England
+International-TV TV http://01.gen.tr/simple/Kids.m3u International_Childreen
+International-TV TV http://01.gen.tr/simple/int_others.m3u International_Others
+International-TV TV http://01.gen.tr/simple/int_mms.m3u International_MMS
 International-Radio RADIO http://01.gen.tr/simple/int_radio.m3u International
 Iran TV http://01.gen.tr/simple/iran.m3u Iran
 Spain TV http://01.gen.tr/simple/ispanya.m3u Spain
@@ -46,11 +48,10 @@ Magyar TV http://01.gen.tr/simple/magyar.m3u Hungary
 Misir_egypt TV http://01.gen.tr/simple/misir_egypt.m3u Egypt
 Music TV http://01.gen.tr/simple/muzik.m3u Music
 Nilesat TV http://01.gen.tr/simple/nilesat.m3u Nilesat
-Pakistan TV http://01.gen.tr/simple/turkvod/pakistan.m3u Pakistan
+Pakistan TV http://01.gen.tr/simple/pakistan.m3u Pakistan
 Poland TV http://01.gen.tr/simple/polonya.m3u Poland
 Romania-Moldavia TV http://01.gen.tr/simple/romanya.m3u Romania-Moldavia
 Russia TV http://01.gen.tr/simple/rus.m3u Russia
-Simpltvplayerbackup TV http://01.gen.tr/simple/simpletvplayerbackup.m3u SimpleTV_Player
 Sport TV http://01.gen.tr/simple/spor.m3u Sport
 Thai TV http://01.gen.tr/simple/thai.m3u Thai
 Turkey-Main TV http://01.gen.tr/simple/turk_belgesel_sinema.m3u Turkey_Docu_Cinema
@@ -70,8 +71,8 @@ Brasil TV http://01.gen.tr/simple/brasil.m3u Brasil
 Magyar TV http://01.gen.tr/simple/magyar.m3u Magyar
 Misir_egypt TV http://01.gen.tr/simple/misir_egypt.m3u Egypt
 Israel TV http://01.gen.tr/simple/israil.m3u Israel
-Pakistan TV http://01.gen.tr/simple/israil.m3u Pakistan
-Slovakai TV http://01.gen.tr/simple/Slovakia.m3u Slovakai
+Pakistan TV http://01.gen.tr/simple/pakistan.m3u Pakistan
+Slovakai TV http://01.gen.tr/simple/Slovakia_Slovenia.m3u Slovakai_Slovenia
 Serbia TV http://01.gen.tr/simple/Serbia.m3u Serbia
 Sweden TV http://01.gen.tr/simple/Sweden.m3u Sweden
 Norway TV http://01.gen.tr/simple/Norway.m3u Norway
