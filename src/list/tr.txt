@@ -19,6 +19,27 @@ Swiss RADIO https://dl.dropboxusercontent.com/s/df4tyw2ad3z9ybe/Schweiz-Radio.m3
 #                                                                      #
 ########################################################################
 #  
+#
+# Aufbau:
+# Flaggenanzeige Bouquettyp Downloadlink Bouquetname(Unterstriche werden im Plugin ausgeblendet)
+#
+########################################################################
+#                                                                      #
+#                             other Lists                              #
+#                                                                      #
+########################################################################
+#
+Germany RADIO http://01.gen.tr/simple/Radio-Deutschland-WDR2.m3u German_WDR_Radiochannels
+Germany RADIO https://dl.dropboxusercontent.com/s/qis72mhv35r6n5q/Deutschland-Radio.m3u?token_hash=AAHBii3iCNyclwuwm7DFdn4BuWQveXor6RQrTY1nkq9bng&dl=1 German_Radio_Channels
+Austria RADIO https://dl.dropboxusercontent.com/s/fsk2mjvwsof6fmp/Oestereich-Radio.m3u?dl=1&token_hash=AAGbbarWoYEWrxpvR3PV0SO1wAE3FGJQJlZG8Qc0QwQoXA Austria_Radio
+Swiss RADIO https://dl.dropboxusercontent.com/s/df4tyw2ad3z9ybe/Schweiz-Radio.m3u?dl=1&token_hash=AAGCe5uxgPAT-6N1RUtVf-OLg2c2v790JBuZZpukCY0yIQ Swiss_Radio
+#
+########################################################################
+#                                                                      #
+#                         HasBahCa Listen                              #
+#                                                                      #
+########################################################################
+#  
 Turkey-Main TV http://01.gen.tr/simple/turk_ulusal.m3u TURKIYE_ULUSAL
 Turkey-Main TV http://01.gen.tr/simple/turk_ulusal_yedek.m3u TURKIYE_ULUSAL_YEDEK
 Turkey-Main TV http://01.gen.tr/simple/turk_yerel.m3u TURKIYE_YEREL
@@ -38,7 +59,7 @@ Arabia TV http://01.gen.tr/simple/Arabic.m3u ARAPCA
 Asia TV http://01.gen.tr/simple/asya.m3u ASYA_KITASI
 Europe TV http://01.gen.tr/simple/avrupa_europa.m3u AVRUPA_KITASI
 Bangladesh TV http://01.gen.tr/simple/bangladesh.m3u BENGALDES
-Bulgaria TV http://01.gen.tr/simple/bulgar.m3u BULGAR_BULSAT
+Bulgaria TV http://01.gen.tr/simple/bulgar-bulsat.m3u BULGAR_BULSAT
 China TV http://01.gen.tr/simple/china.m3u CIN_CHINA
 Czech TV http://01.gen.tr/simple/czech.m3u CEK_CUMHURIYETI
 Ex-Yu TV http://01.gen.tr/simple/ex-yug.m3u ESKI_YUGOSLAVYA_ULKELERI
@@ -60,7 +81,7 @@ Russia TV http://01.gen.tr/simple/rus.m3u RUSYA
 Sport TV http://01.gen.tr/simple/spor.m3u SPOR_KANALLARI
 Thai TV http://01.gen.tr/simple/thai.m3u TAYLAND
 UKRAYNA TV http://01.gen.tr/simple/ukraina.m3u UKRAYNA
-WebCam WEBCAM http://01.gen.tr/simple/webcam.m3u WEBCAM
+WebCam TV http://01.gen.tr/simple/webcam.m3u WEBCAM
 Iran TV http://01.gen.tr/simple/iran.m3u IRAN
 Brasil TV http://01.gen.tr/simple/brasil.m3u BREZILYA
 Magyar TV http://01.gen.tr/simple/magyar.m3u MACARISTAN
@@ -96,6 +117,7 @@ English TV http://01.gen.tr/simple/englishmovies_t.m3u ENG_MOVIES_T
 English TV http://01.gen.tr/simple/englishmovies_u-z.m3u ENG_MOVIES_U-Z
 English TV http://01.gen.tr/simple/ENGLISH_MOVIES_OLD.m3u ESKI_INGILIZCE_FILMLER
 Russia TV http://01.gen.tr/simple/RUS_movies.m3u RUSCA_FILMLER
+
 
 ########################################################################
 #                                                                      #
