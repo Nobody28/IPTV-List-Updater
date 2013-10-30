@@ -83,6 +83,7 @@ Lithuania TV http://01.gen.tr/simple/Lithuania.m3u LITVANYA
 Belgium TV http://01.gen.tr/simple/Belgium.m3u BELCIKA
 Scandinavien TV http://01.gen.tr/simple/skandinav.m3u SKANDINAV_ULKELERI
 Switzerland TV http://01.gen.tr/simple/Switzerland.m3u İSVİÇRE
+Kids TV http://01.gen.tr/simple/Kids.m3u ÇOCUK_KANALLARI
 Africa TV http://01.gen.tr/simple/Afrika.m3u AFRIKA_KITASI
 ILIVE_TO TV http://01.gen.tr/simple/ilive_to.m3u ILIVE_TO
 English TV http://01.gen.tr/simple/englishmovies_abc.m3u ENG_MOVIES_ABC
