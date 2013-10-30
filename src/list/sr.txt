@@ -93,6 +93,12 @@ USA TV http://01.gen.tr/simple/usa.m3u SAD
 Vietnam TV http://01.gen.tr/simple/vietnam.m3u Vijetnam
 Lithuania TV http://01.gen.tr/simple/Lithuania.m3u Litvanija
 WebCam WEBCAM http://01.gen.tr/simple/webcam.m3u WorldWebCams
+Switzerland TV http://01.gen.tr/simple/Switzerland.m3u Switzerland
+Kids TV http://01.gen.tr/simple/Kids.m3u Kids
+Africa TV http://01.gen.tr/simple/Afrika.m3u AFRIKA
+ILIVE_TO TV http://01.gen.tr/simple/ilive_to.m3u ILIVE_TO
+English TV http://01.gen.tr/simple/ENGLISH_MOVIES_OLD.m3u OLD_ENG_FILM
+Russia TV http://01.gen.tr/simple/RUS_movies.m3u RUS_FILM
 #
 ########################################################################
 # #
