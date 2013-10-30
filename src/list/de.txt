@@ -55,7 +55,7 @@ English TV http://01.gen.tr/simple/English.m3u England
 International-TV TV http://01.gen.tr/simple/int.m3u International_TV
 International-Radio RADIO http://01.gen.tr/simple/int_radio.m3u International_Radio
 Iran TV http://01.gen.tr/simple/iran.m3u Iran
-Spain TV http://01.gen.tr/simple/ispanya.m3u Spanien
+Spain TV http://01.gen.tr/simple/Spain.m3u Spanien
 Israel TV http://01.gen.tr/simple/israil.m3u Israel
 Italy TV http://01.gen.tr/simple/italya.m3u Italien
 Japan TV http://01.gen.tr/simple/japan.m3u Japan
@@ -89,7 +89,7 @@ Turkey-Main TV http://01.gen.tr/simple/turk_muzik.m3u Türkei_Musik
 Turkey-Main TV http://01.gen.tr/simple/turk_spor.m3u Türkei_Sport
 Turkey-Main TV http://01.gen.tr/simple/turk_ulusal.m3u Türkei_Hauptsender
 Turkey-Local TV http://01.gen.tr/simple/turk_yerel.m3u Türkei_Lokalsender
-# Radio-Turkey RADIO http://01.gen.tr/simple/turkvod/radyolar.m3u Türkei_Radio
+# Radio-Turkey RADIO http://01.gen.tr/simple/radyolar.m3u Türkei_Radio
 Ukraine TV http://01.gen.tr/simple/ukraina.m3u Ukraine
 USA TV http://01.gen.tr/simple/usa.m3u USA
 Vietnam TV http://01.gen.tr/simple/vietnam.m3u Vietnam
@@ -97,6 +97,7 @@ Lithuania TV http://01.gen.tr/simple/Lithuania.m3u Litvanien
 WebCam WEBCAM http://01.gen.tr/simple/webcam.m3u WorldWebCams
 ILIVE_TO TV http://01.gen.tr/simple/ilive_to.m3u ILIVE_TO
 Switzerland TV http://01.gen.tr/simple/Switzerland.m3u Schweiz
+Kids TV http://01.gen.tr/simple/Kids.m3u Kinder_Kanale
 #
 ########################################################################
 #                                                                      #
