@@ -96,6 +96,7 @@ Vietnam TV http://01.gen.tr/simple/vietnam.m3u Vietnam
 Lithuania TV http://01.gen.tr/simple/Lithuania.m3u Litvanien
 WebCam WEBCAM http://01.gen.tr/simple/webcam.m3u WorldWebCams
 ILIVE_TO TV http://01.gen.tr/simple/ilive_to.m3u ILIVE_TO
+Switzerland TV http://01.gen.tr/simple/Switzerland.m3u Schweiz
 #
 ########################################################################
 #                                                                      #
