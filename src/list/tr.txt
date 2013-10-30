@@ -48,7 +48,7 @@ Greece TV http://01.gen.tr/simple/greek.m3u YUNANCA
 India TV http://01.gen.tr/simple/india.m3u HINDISTAN
 English TV http://01.gen.tr/simple/English.m3u INGILIZCE
 International-TV TV http://01.gen.tr/simple/int.m3u ULUSLARARASI
-Spain TV http://01.gen.tr/simple/ispanya.m3u ISPANYOLCA
+Spain TV http://01.gen.tr/simple/Spain.m3u ISPANYOLCA
 Italy TV http://01.gen.tr/simple/italya.m3u ITALYANCA
 Japan TV http://01.gen.tr/simple/japan.m3u JAPONYA
 Kurdish TV http://01.gen.tr/simple/kurdi.m3u KURTCE
@@ -82,6 +82,7 @@ Korea TV http://01.gen.tr/simple/Korea.m3u KORE
 Lithuania TV http://01.gen.tr/simple/Lithuania.m3u LITVANYA
 Belgium TV http://01.gen.tr/simple/Belgium.m3u BELCIKA
 Scandinavien TV http://01.gen.tr/simple/skandinav.m3u SKANDINAV_ULKELERI
+Switzerland TV http://01.gen.tr/simple/Switzerland.m3u İSVİÇRE
 Africa TV http://01.gen.tr/simple/Afrika.m3u AFRIKA_KITASI
 ILIVE_TO TV http://01.gen.tr/simple/ilive_to.m3u ILIVE_TO
 English TV http://01.gen.tr/simple/englishmovies_abc.m3u ENG_MOVIES_ABC
@@ -94,7 +95,6 @@ English TV http://01.gen.tr/simple/englishmovies_t.m3u ENG_MOVIES_T
 English TV http://01.gen.tr/simple/englishmovies_u-z.m3u ENG_MOVIES_U-Z
 English TV http://01.gen.tr/simple/ENGLISH_MOVIES_OLD.m3u ESKI_INGILIZCE_FILMLER
 Russia TV http://01.gen.tr/simple/RUS_movies.m3u RUSCA_FILMLER
-Switzerland TV http://01.gen.tr/simple/Switzerland.m3u İSVİÇRE
 
 ########################################################################
 #                                                                      #
