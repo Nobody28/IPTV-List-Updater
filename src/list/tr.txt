@@ -1,4 +1,5 @@
 #
+# Au#
 # Aufbau:
 # Flaggenanzeige Bouquettyp Downloadlink Bouquetname(Unterstriche werden im Plugin ausgeblendet)
 #
@@ -12,7 +13,9 @@ Germany RADIO http://01.gen.tr/simple/Radio-Deutschland-WDR2.m3u German_WDR_Radi
 Germany RADIO https://dl.dropboxusercontent.com/s/qis72mhv35r6n5q/Deutschland-Radio.m3u?token_hash=AAHBii3iCNyclwuwm7DFdn4BuWQveXor6RQrTY1nkq9bng&dl=1 German_Radio_Channels
 Austria RADIO https://dl.dropboxusercontent.com/s/fsk2mjvwsof6fmp/Oestereich-Radio.m3u?dl=1&token_hash=AAGbbarWoYEWrxpvR3PV0SO1wAE3FGJQJlZG8Qc0QwQoXA Austria_Radio
 Swiss RADIO https://dl.dropboxusercontent.com/s/df4tyw2ad3z9ybe/Schweiz-Radio.m3u?dl=1&token_hash=AAGCe5uxgPAT-6N1RUtVf-OLg2c2v790JBuZZpukCY0yIQ Swiss_Radio
-#
+Turkey RADIO http://01.gen.tr/simple/radyolar.m3u TURK_RADYO
+INT RADIO http://01.gen.tr/simple/int_radio.m3u INT_RADYO
+Balkan RADIO http://01.gen.tr/simple/balkan_radio.m3u BALKAN_RADYO
 ########################################################################
 #                                                                      #
 #                         HasBahCa Listen                              #
@@ -30,7 +33,7 @@ Turkey-Main TV http://01.gen.tr/simple/turk_belgesel_sinema.m3u TURKIYE_BELGESEL
 Turkey-Main TV http://01.gen.tr/simple/turk_cocuk.m3u TURKIYE_COCUK
 Turkey-Main TV http://01.gen.tr/simple/turk_muzik.m3u TURKIYE_MUZiK
 3D TV http://01.gen.tr/simple/3d.m3u 3D_TV
-Albania TV http://01.gen.tr/simple/Albania.m3u ARNAVUTLUK
+Albania TV http://01.gen.tr/simple/Albania.m3u ARNAVUTLUK_BOSNA
 Germany TV http://01.gen.tr/simple/GERMAN_DEUTSCH.m3u ALMANCA
 Germany TV http://01.gen.tr/simple/german_doppel.m3u ALMANCA_YEDEK
 America TV http://01.gen.tr/simple/amerika.m3u AMERIKA_KITASI
@@ -68,7 +71,7 @@ Misir_egypt TV http://01.gen.tr/simple/misir_egypt.m3u MISIR
 Israel TV http://01.gen.tr/simple/israil.m3u ISRAIL
 Pakistan TV http://01.gen.tr/simple/pakistan.m3u PAKISTAN
 Slovakai TV http://01.gen.tr/simple/Slovakia_Slovenia.m3u SLOVAKYA_Slovenya
-Serbia TV http://01.gen.tr/simple/Serbia.m3u SIRBiSTAN
+Serbia TV http://01.gen.tr/simple/Serbia.m3u SIRBiSTAN_HIRVATISTAN
 Sweden TV http://01.gen.tr/simple/Sweden.m3u ISVEC
 Norway TV http://01.gen.tr/simple/Norway.m3u NORVEC
 Denmark TV http://01.gen.tr/simple/Denmark.m3u DANiMARKA
@@ -82,8 +85,8 @@ Korea TV http://01.gen.tr/simple/Korea.m3u KORE
 Lithuania TV http://01.gen.tr/simple/Lithuania.m3u LITVANYA
 Belgium TV http://01.gen.tr/simple/Belgium.m3u BELCIKA
 Scandinavien TV http://01.gen.tr/simple/skandinav.m3u SKANDINAV_ULKELERI
-Switzerland TV http://01.gen.tr/simple/Switzerland.m3u İSVİÇRE
-Kids TV http://01.gen.tr/simple/Kids.m3u ÇOCUK_KANALLARI
+Switzerland TV http://01.gen.tr/simple/Switzerland.m3u ISVICRE
+Kids TV http://01.gen.tr/simple/Kids.m3u COCUK_KANALLARI
 Africa TV http://01.gen.tr/simple/Afrika.m3u AFRIKA_KITASI
 ILIVE_TO TV http://01.gen.tr/simple/ilive_to.m3u ILIVE_TO
 English TV http://01.gen.tr/simple/englishmovies_abc.m3u ENG_MOVIES_ABC
@@ -96,6 +99,7 @@ English TV http://01.gen.tr/simple/englishmovies_t.m3u ENG_MOVIES_T
 English TV http://01.gen.tr/simple/englishmovies_u-z.m3u ENG_MOVIES_U-Z
 English TV http://01.gen.tr/simple/ENGLISH_MOVIES_OLD.m3u ESKI_INGILIZCE_FILMLER
 Russia TV http://01.gen.tr/simple/RUS_movies.m3u RUSCA_FILMLER
+
 #
 ########################################################################
 #                                                                      #
