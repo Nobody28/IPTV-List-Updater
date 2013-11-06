@@ -41,7 +41,7 @@ Arabia TV http://01.gen.tr/simple/Arabic.m3u ARAPCA
 Asia TV http://01.gen.tr/simple/asya.m3u ASYA_KITASI
 Europe TV http://01.gen.tr/simple/avrupa_europa.m3u AVRUPA_KITASI
 Bangladesh TV http://01.gen.tr/simple/bangladesh.m3u BENGALDES
-Bulgaria TV http://01.gen.tr/simple/bulgar-bulsat.m3u BULGAR_BULSAT
+Bulgaria TV http://01.gen.tr/simple/bulgar_bulsat.m3u BULGAR_BULSAT
 China TV http://01.gen.tr/simple/china.m3u CIN_CHINA
 Czech TV http://01.gen.tr/simple/czech.m3u CEK_CUMHURIYETI
 Ex-Yu TV http://01.gen.tr/simple/ex-yug.m3u ESKI_YUGOSLAVYA_ULKELERI
