@@ -24,7 +24,7 @@ from credits import Credits
 from faq import FAQ
 import os
 
-Version = "1.20-04.11.13"
+Version = "1.20-08.11.13"
 
 class Start(Screen):
 	
