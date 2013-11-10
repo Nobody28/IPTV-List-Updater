@@ -1,5 +1,5 @@
 ﻿
-FAQ - 24.07.2013 !
+FAQ - 11.11.2013 !
 
 1. Für welche Systeme ist das Plugin gedacht?!
     Das Plugin sollte auf allen OE2.0 Images funktionieren. 
@@ -10,9 +10,10 @@ FAQ - 24.07.2013 !
     FTP-Programm (z.B. Filezilla) auf deine Box.
 
 3. Welche Boxen können mms Streams abspielen?
-    Stand: 23.06.2013:
+    Stand: 11.11.2013:
     VU+ haben kein mms support! 
-    Nur alle Xtrend, dm500hd, dm800se und dm7020hd 
+    Nur alle Xtrend, dm500hd, dm800se und dm7020hd, Odin M7, Odin M9,
+    Telestar Starsat LX, Axas Class M
 	
 4. Was muss ich tun, um weitere Streams in die Liste zu bekommen?
     Sucht entsprechende Links oder Listen im Internet. Testet sie und 
