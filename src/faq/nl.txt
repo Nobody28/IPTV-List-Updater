@@ -1,5 +1,5 @@
 ﻿
-FAQ - 23.06.2013 !
+FAQ - 11.11.2013 !
 
 1. Voor welk systeem is de plugin bedoeld?
     De plugin zou moeten werken in all OE2.0 images.
@@ -10,9 +10,10 @@ FAQ - 23.06.2013 !
     programma (b.v. Filezilla) naar uw ontvanger.
     
 3. Welke ontvangers kunnen MMS-streams afspelen?
-    23.06.2013:
+    11.11.2013:
     VU+ heeft geen MMS-ondersteuning!
-    Alleen alle Xtrend's, dm500hd,800se en 7020hd
+    Alleen alle Xtrend's, dm500hd,800se en 7020hd, Odin M7, Odin M9,
+    Telestar Starsat LX, Axas Class M
 	
 4. Wat moet ik doen om meer streams in de lijsten te krijgen?
     Zoek naar links of lijsten op internet. Test ze en post
