@@ -35,7 +35,7 @@ class Changelog(Screen):
         
         Screen.__init__(self, session)    
 
-        self["title"] = Label(_("Version 1.10"))
+        self["title"] = Label(_("Version 1.20"))
         self["text"] = ScrollLabel()
 
         self["actions"] = NumberActionMap(["WizardActions", "OkCancelActions", "ColorActions"],
