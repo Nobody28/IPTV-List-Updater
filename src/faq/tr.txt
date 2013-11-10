@@ -1,5 +1,5 @@
 ﻿
-FAQ - 15.06.2013 !
+FAQ - 11.11.2013 !
 
 1. Plugin hangi sistemlerde çalışır?
  	Plugin normal olarak tüm imajlarda çalışır.  
@@ -11,9 +11,10 @@ FAQ - 15.06.2013 !
  	dizinindeki dosyaların chmodd değerlerini 755 yap.
 
 3. Hangi Aletler MMS yayınlarını destekler?
-	Tarih: 15.06.2013
+	Tarih: 11.11.2013
 	VU+, 800HD PVR MMS yayınlarını desteklemez! 
-	MMS yayınları sadece Xtrend, dm500hd,800se,7020hd destekler 
+	MMS yayınları sadece Xtrend, dm500hd,800se,7020hd, Odin M7, Odin M9,
+        Telestar Starsat LX, Axas Class M destekler 
 
 4. Listeme daha fazla yayın eklemek için ne yapmam lazım?
 	Internetden yayın listelerini bulun. Test ederek çalışan linkleri Forumda paylaşın.
