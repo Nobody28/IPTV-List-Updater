@@ -1,5 +1,4 @@
-
-Česta pitanja - 24.07.2013
+Česta pitanja - 11.11.2013
 
 1. Za koje sisteme je plugin? 
     Plugin treba da radi na svim slikama OE2.0. 
@@ -10,9 +9,10 @@
 	Kopirajte sve datoteke sa FTP-programa (npr. FileZilla) na kutiji
 	
 3. Koje kutije mogu da odigraju MMS strimove?
-    Stanje: 23.06.2013:
-	VU+ nemaju mms podršku!
-	Samo svih Xtrend, dm500hd, dm800se i dm7020hd.
+    Stanje: 11.11.2013:
+    VU+ nemaju mms podršku!
+    Samo svih Xtrend, dm500hd, dm800se i dm7020hd, Odin M7, Odin M9,
+    Telestar Starsat LX, Axas Class M
 
 4. Šta treba da uradim da bi dodao još strimove na spisku?
     Tražite prikladne linkove ili spiskove iz interneta. 
