@@ -1,5 +1,5 @@
 FAQ dla IPTV List Updater Plugin!!!
-Z dnia: 23.06.2013
+Z dnia: 11.11.2013
 
 1. Dla jakich systemów nadaje się wtyczka?!
      Wtyczka powinna pracować na wszystkich OE2.0
@@ -12,9 +12,10 @@ Z dnia: 23.06.2013
      -IPTV-List-Updater".
 
 3 Które boxy mogę odtwarzać strumienie MMS?
-     Na dzień 23.06.2013:
-     VU + mają brak wsparcia mms! Tylko dm500hd, 
-	 800se, 7020HD
+     Na dzień 11.11.2013:
+     VU + mają brak wsparcia mms! Tylko dm500hd, dm800se, 
+     7020HD, Odin M7, Odin M9, Telestar Starsat LX, 
+     Axas Class M
 
 4 Co należy zrobić, aby uzyskać dodatkowe streamy 
      w listach?
