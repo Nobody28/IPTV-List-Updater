@@ -1,4 +1,4 @@
-Gyik gyüjtemeny - 2013/07/21 !
+Gyik gyüjtemeny - 2013/11/11 !
 
 1. Melyik Rendszernek szánják a plugint?
    A pluginnak működnie kell az összes OE2.0 systemmel.
@@ -12,9 +12,10 @@ Gyik gyüjtemeny - 2013/07/21 !
    a 755
 
 3. Milyen vevők játszhatnak mms stream?
-   Mivel a 2013/06/23:
+   Mivel a 2013/11/11:
    VU +, 800HD PVR nincs mms támogatást!
-   Csak Xtrend minden, dm500hd, 800se, 7020HD
+   Csak Xtrend minden, dm500hd, 800se, 7020HD, Odin M7, Odin M9,
+    Telestar Starsat LX, Axas Class M
 
 4. Mit kell tennem, hogy további patakokat a listákra tehessek?
    Keresi megfelelő linkre listák az interneten. Tesztelik, és tegye őket a
