@@ -9,9 +9,6 @@
 ########################################################################
 #
 Germany RADIO http://01.gen.tr/simple/Radio-Deutschland-WDR2.m3u German_WDR_Radiochannels
-Germany RADIO https://dl.dropboxusercontent.com/s/qis72mhv35r6n5q/Deutschland-Radio.m3u?token_hash=AAHBii3iCNyclwuwm7DFdn4BuWQveXor6RQrTY1nkq9bng&dl=1 German_Radio
-Austria RADIO https://dl.dropboxusercontent.com/s/fsk2mjvwsof6fmp/Oestereich-Radio.m3u?dl=1&token_hash=AAGbbarWoYEWrxpvR3PV0SO1wAE3FGJQJlZG8Qc0QwQoXA Austria_Radio
-Swiss RADIO https://dl.dropboxusercontent.com/s/df4tyw2ad3z9ybe/Schweiz-Radio.m3u?dl=1&token_hash=AAGCe5uxgPAT-6N1RUtVf-OLg2c2v790JBuZZpukCY0yIQ Swiss_Radio
 Turkey RADIO http://01.gen.tr/simple/radyolar.m3u TURK_RADIO
 INT RADIO http://01.gen.tr/simple/int_radio.m3u INT_RADIO
 Balkan RADIO http://01.gen.tr/simple/balkan_radio.m3u BALKAN_RADIO
@@ -218,3 +215,13 @@ Urdu TV http://database.freetuxtv.net/playlists/playlist_webtv_ur.m3u Web_TV_(Ur
 Uzbekistan TV http://database.freetuxtv.net/playlists/playlist_webtv_uz.m3u Web_TV_(Uzbekistan)
 Vietnam TV http://database.freetuxtv.net/playlists/playlist_webtv_vi.m3u Web_TV_(Vijetnam)
 Vietnam RADIO http://database.freetuxtv.net/playlists/playlist_webradio_vi.m3u Web_Radio_(Vijetnam)
+#
+########################################################################
+#                                                                      #
+#                         Nobody28 Listen                              #
+#                                                                      #
+########################################################################
+#
+Germany RADIO https://dl.dropboxusercontent.com/s/qis72mhv35r6n5q/Deutschland-Radio.m3u?token_hash=AAHBii3iCNyclwuwm7DFdn4BuWQveXor6RQrTY1nkq9bng&dl=1 Deutsche_Radiosender
+Austria RADIO https://dl.dropboxusercontent.com/s/fsk2mjvwsof6fmp/Oestereich-Radio.m3u?dl=1&token_hash=AAGbbarWoYEWrxpvR3PV0SO1wAE3FGJQJlZG8Qc0QwQoXA Östereich_Radiosender
+Swiss RADIO https://dl.dropboxusercontent.com/s/df4tyw2ad3z9ybe/Schweiz-Radio.m3u?dl=1&token_hash=AAGCe5uxgPAT-6N1RUtVf-OLg2c2v790JBuZZpukCY0yIQ Schweizer_Radiosender
