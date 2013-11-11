@@ -39,6 +39,7 @@ src/credits/Makefile
 src/faq/Makefile
 src/images/Makefile
 src/list/Makefile
+src/scripts/Makefile
 src/skins/Makefile
 src/skins/original/Makefile
 src/skins/original/buttons/Makefile
