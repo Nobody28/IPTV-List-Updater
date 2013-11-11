@@ -1,0 +1,2 @@
+cd /usr/bin/
+./udpxy -p 4050 &
