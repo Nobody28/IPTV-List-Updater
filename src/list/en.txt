@@ -9,11 +9,11 @@ Turkey RADIO http://01.gen.tr/simple/radyolar.m3u TURK_RADIO
 INT RADIO http://01.gen.tr/simple/int_radio.m3u INT_RADIO
 Balkan RADIO http://01.gen.tr/simple/balkan_radio.m3u BALKAN_RADIO
 #
-########################################################################
-#                             HasBahCa List                            #
-#                                                                      #
-# Flag Bouquettyp Downloadlink Bouquetname (Underline will be removed) #
-########################################################################
+###################################################################################
+#                             HasBahCa List                                       #
+#                                                                                 #
+# Flag Bouquettyp Downloadlink Bouquetname(Underline will be removed) Bouquetfile #
+###################################################################################
 3D TV http://01.gen.tr/simple/3d.m3u 3D
 XXX-Adult TV http://01.gen.tr/simple/XXX.m3u XXX-Adult
 Albania TV http://01.gen.tr/simple/Albania.m3u Albania
