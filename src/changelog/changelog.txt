@@ -1,4 +1,7 @@
 Changelog:
+from 11.11.2013:
+- add scripts folder for next version
+- add first scripts for next version
 
 from 29.10.2013:
 - add some Flag (Thx NaseDC)
