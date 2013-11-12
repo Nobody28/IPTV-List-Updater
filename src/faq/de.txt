@@ -11,7 +11,7 @@ FAQ - 11.11.2013 !
 
 3. Welche Boxen können mms Streams abspielen?
     Stand: 11.11.2013:
-    Nur alle Xtrend, dm500hd, dm800se und dm7020hd, Odin M7, Odin M9,
+    Alle Xtrend, dm500hd, dm800se und dm7020hd, Odin M7, Odin M9,
     Telestar Starsat LX, Axas Class M
 	
 4. Was muss ich tun, um weitere Streams in die Liste zu bekommen?
