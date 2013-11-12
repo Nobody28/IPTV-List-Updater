@@ -11,7 +11,6 @@ FAQ - 11.11.2013 !
 
 3. Welche Boxen können mms Streams abspielen?
     Stand: 11.11.2013:
-    VU+ haben kein mms support! 
     Nur alle Xtrend, dm500hd, dm800se und dm7020hd, Odin M7, Odin M9,
     Telestar Starsat LX, Axas Class M
 	
@@ -20,9 +19,8 @@ FAQ - 11.11.2013 !
     postet sie in einem der Threads vom IPTV-List-Updater in folgenden
     Foren:
     www.opena.tv
-    www.vuplus-support.org
     www.gigablue-support.com
-    Sicherer ist es, wenn ihr Nobody28, satinfo oder HasBahCa per PM 
+    Sicherer ist es, wenn ihr HasBahCa, Nobody28, oder satinfo per PM 
     kontaktiert.
 	
 5. Wie kann ich Bouquets wieder löschen?
