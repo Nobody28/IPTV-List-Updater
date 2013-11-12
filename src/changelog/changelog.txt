@@ -1,4 +1,9 @@
 Changelog:
+
+from 12.11.2013:
+- fix scripts rights
+- add DIGIBIT R1
+
 from 11.11.2013:
 - add scripts folder for next version
 - add first scripts for next version
