@@ -223,3 +223,5 @@ Germany RADIO https://dl.dropboxusercontent.com/s/qis72mhv35r6n5q/Deutschland-Ra
 Austria RADIO https://dl.dropboxusercontent.com/s/fsk2mjvwsof6fmp/Oestereich-Radio.m3u?dl=1&token_hash=AAGbbarWoYEWrxpvR3PV0SO1wAE3FGJQJlZG8Qc0QwQoXA Östereich_Radiosender
 Swiss RADIO https://dl.dropboxusercontent.com/s/df4tyw2ad3z9ybe/Schweiz-Radio.m3u?dl=1&token_hash=AAGCe5uxgPAT-6N1RUtVf-OLg2c2v790JBuZZpukCY0yIQ Schweizer_Radiosender
 Digibit TV http://DIGIBIT-000BCB:8080/m3u Digibit
+Germany TV https://dl.dropboxusercontent.com/s/al3cmo1slcgod3p/userbouquet.t_home_entertain.tv?dl=1&token_hash=AAHv5tdLx-0X4MjdPDuKwiAbTHtFkTGce1LgRSSO_xeIJA T_Home_Entertain B
+Teledunet TV https://dl.dropboxusercontent.com/s/4h52djay1lntvmv/userbouquet.teledunet.tv?dl=1&token_hash=AAF8g28Ow6CHOHEYszG4v65ICgibajehL7f0_WXTI_AtlA Teledunet B
