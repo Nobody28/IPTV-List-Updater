@@ -5,6 +5,7 @@ from 15.11.2013:
 - add Bouquetsupport (Thx Black64)
 - add Scriptsupport (Thx Black64)
 - add T-Home Entertain with EPG and Piconsupport
+- First steps for Teledunet (Thx testi for ID Update Script)
 
 from 12.11.2013:
 - fix scripts rights
