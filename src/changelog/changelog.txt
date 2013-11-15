@@ -1,5 +1,11 @@
 Changelog:
 
+from 15.11.2013:
+- Fix GS when URL doesn't exists. (Thx Black64)
+- add Bouquetsupport (Thx Black64)
+- add Scriptsupport (Thx Black64)
+- add T-Home Entertain with EPG and Piconsupport
+
 from 12.11.2013:
 - fix scripts rights
 - add DIGIBIT R1
