@@ -5,10 +5,10 @@
 #########################################
 
 from Screens.Screen import Screen
-from enigma import eConsoleAppContainer, eDVBDB
 from Screens.MessageBox import MessageBox
-from Components.ActionMap import ActionMap
 from Screens.Standby import TryQuitMainloop
+from Screens.Console import Console
+from Components.ActionMap import ActionMap
 from Components.Pixmap import Pixmap
 from Components.Sources.StaticText import StaticText
 from Components.Label import Label
@@ -19,7 +19,7 @@ from Components.Language import language
 from Tools.Directories import resolveFilename, SCOPE_PLUGINS
 from locale import _
 from os import path, walk
-from enigma import eEnv
+from enigma import eConsoleAppContainer, eDVBDB, eEnv
 from skin import *
 from faq import FAQ
 import os
@@ -122,27 +122,57 @@ class IPTV(Screen):
 
     def layoutFinished(self):
         self.loadCountry()
+
+    def Add_Script(self, Bname, startbefore):
+        if startbefore:
+            Bname = "B_" + Bname
+        else:
+            Bname = "E_" + Bname
+        startSH = '/usr/lib/enigma2/python/Plugins/Extensions/IPTV-List-Updater/scripts/%s.sh' % Bname
+        print "[IPTVList] Check if %s.sh exists" % Bname
+        if path.exists(startSH):
+            print"[IPTVList] Adding %s to run list" % startSH
+            self.ScriptList.append(startSH)
+            if startbefore:
+                self.Start_Script()
             
+    def Start_Script(self):
+        if self.ScriptList:
+            self.session.openWithCallback(self.Start_ScriptCB, Console, title = _("Running script(s) , Please wait ..."), cmdlist = self.ScriptList, closeOnSuccess = True)
+
+    def Start_ScriptCB(self):
+        self.ScriptList = []
+        pass
+          
     def ok(self):
         self.IPTVInstalled = True
-        url = None
+        self.ScriptList = []
+        self.type = "TV"
         sel = self["IPTVList"].l.getCurrentSelection()
         if sel == None:
             print"Nothing to select !!"
             return
         for l in self.downloadlist:
-            if len(sel) >= 3:
+            self.convert = True
+            if len(sel) >= 4:
                 if sel == l[3]:
                     url = l[2]
+                    if len(l) >= 5:
+                        if l[4] == "B":
+                            self.convert = False
                     self.type = l[1]
                     if self.type == "WEBCAM":
                         self.type = "TV"
                     break
+
         if url == None:
             self.session.open(MessageBox,_("Error, no url found"), MessageBox.TYPE_INFO)
             return
+
+        name_file = self.file_filter(sel)
+        self.Add_Script(name_file, True)
         file = self.Fetch_URL(url)
-        if file.startswith("HTTP ERROR:"):
+        if file.startswith("HTTP ERROR:") or file.startswith("HTTP download ERROR:") or file.startswith("HTTP URL ERROR:"):
             self.session.open(MessageBox,_(file), MessageBox.TYPE_INFO)
             return
 
@@ -156,9 +186,11 @@ class IPTV(Screen):
         infotext += _('Press OK or EXIT to go back !')
         
         self.session.open(MessageBox,_(infotext), MessageBox.TYPE_INFO)
+        self.Start_Script()
 
     def Fetch_URL(self, url):
         req = urllib2.Request(url)
+        print "[IPTV List] Fetch URL: %s" %url
         try:
             response = urllib2.urlopen(req)
             last_modified = response.info().getdate('last-modified')  #  example ==> (2013, 7, 21, 20, 49, 19, 0, 1, 0)
@@ -166,15 +198,23 @@ class IPTV(Screen):
                 last_modified_date = str(last_modified[3])+ ":" + str(last_modified[4]) + " " + str(last_modified[2]) + "." + str(last_modified[1]) + "." + str(last_modified[0])
                 print "File Last Modified: %s" % last_modified_date
             the_page = response.read()
-
+        except urllib2.URLError as e:
+            the_page = "HTTP URL ERROR: %s" % e
+            print the_page
         except urllib2.HTTPError as e:
-            print e.code
             the_page = "HTTP download ERROR: %s" % e.code
+            print the_page
         return the_page
 
-    def Convert_m3u(self, name, file):
+    def file_filter(self, name):
         name_file = name.replace('/','_')
         name_file = name_file.replace(' ','_')
+        name_file = name_file.replace('\r','')
+        name_file = name_file.replace('\n','')
+        return name_file
+
+    def Convert_m3u(self, name, file):
+        name_file = self.file_filter(name)
         bouquetname = 'userbouquet.%s.%s' %(name_file.lower(), self.type.lower())
         tmp = ''
         tmplist = []
@@ -183,7 +223,11 @@ class IPTV(Screen):
         tmplist.append('#DESCRIPTION --- %s ---' % name)
         print"Converting Bouquet %s" % name
         l = file.split('\n')
-        l.pop(0) # remove first line
+        if self.convert:
+            l.pop(0) # remove first line
+        else:
+            for t in range(1,4): # remove first 3 lines
+                l.pop(0)
 
         for line in l:
             if line == '':
@@ -194,7 +238,7 @@ class IPTV(Screen):
                 line = line.replace('#EXTINF:0,','#DESCRIPTION: ')
                 tmp = line
             else:
-                if self.type.upper() == 'TV':
+                if self.type.upper() == 'TV' and self.convert:
                     line = line.replace(':','%3a')
                     line = line.replace('rtmp%3a//$OPT%3artmp-raw=rtmp%3a','rtmp%3a')
                     line = line.replace('rtmp%3a//$OPT%3artmp-raw=rtmpe%3a','rtmpe%3a')
@@ -206,7 +250,7 @@ class IPTV(Screen):
                             line = '#SERVICE 4097:0:1:0:0:0:0:0:0:0:' + line
                     tmplist.append(line)
                     tmplist.append(tmp)
-                elif self.type.upper() == 'RADIO':
+                elif self.type.upper() == 'RADIO' and self.convert:
                     line = line.replace(':','%3a')
                     line = line.replace('rtmp%3a//$OPT%3artmp-raw=rtmp%3a','rtmp%3a')
                     line = line.replace('rtmp%3a//$OPT%3artmp-raw=rtmpe%3a','rtmpe%3a')
@@ -218,8 +262,13 @@ class IPTV(Screen):
                             line = '#SERVICE 4097:0:2:0:0:0:0:0:0:0:' + line
                     tmplist.append(line)
                     tmplist.append(tmp)
+                elif not self.convert:
+                    tmplist.append(line)
                 else:
                     print"UNKNOWN TYPE: %s" %self.type
+
+        # check for proxy script
+        self.Add_Script(name_file, False)
 
         # write bouquet file
         f = open('/etc/enigma2/' + bouquetname, 'w')
@@ -255,11 +304,19 @@ class IPTV(Screen):
             
     def install(self):
         self.IPTVInstalled = True
+        self.ScriptList = []
         for l in self.downloadlist:
+            self.convert = True
             url = l[2]
             self.type = l[1]
+            if len(l) >= 5:
+                if l[4] == "B":
+                    self.convert = False
             if self.type == "WEBCAM":
                 self.type = "TV"
+            name_file = self.file_filter(l[3])
+            print l[3], name_file
+            self.Add_Script(name_file, True)
             file = self.Fetch_URL(url)
             if file.startswith("HTTP ERROR:"):
                 self.session.open(MessageBox,_(file), MessageBox.TYPE_INFO)
@@ -275,6 +332,7 @@ class IPTV(Screen):
             infotext += _('Press OK or EXIT to go back !')
         
         self.session.open(MessageBox,_(infotext), MessageBox.TYPE_INFO)
+        self.Start_Script()
         
     def loadCountry(self):
         pngpath = self["IPTVList"].getCurrent()
@@ -400,21 +458,26 @@ class IPTV_Mod(Screen):
             
     def ok(self):
         self.IPTVInstalled = True
+        self.type = "TV"
         sel = self["IPTVList"].l.getCurrentSelection()
         if sel == None:
             print"Nothing to select !!"
             return
         for l in self.downloadlist:
+            self.convert = True
             if len(sel) >= 4:
                 if sel == l[3]:
                     url = l[2]
+                    if len(l) >= 5:
+                        if l[4] == "B":
+                            self.convert = False
                     self.type = l[1]
                     if self.type == "WEBCAM":
                         self.type = "TV"
                     break
 
         file = self.Fetch_URL(url)
-        if file.startswith("HTTP ERROR:"):
+        if file.startswith("HTTP ERROR:") or file.startswith("HTTP download ERROR:") or file.startswith("HTTP URL ERROR:"):
             self.session.open(MessageBox,_(file), MessageBox.TYPE_INFO)
             return
 
@@ -431,13 +494,20 @@ class IPTV_Mod(Screen):
 
     def Fetch_URL(self, url):
         req = urllib2.Request(url)
+        print "[IPTV List] Fetch URL: %s" %url
         try:
             response = urllib2.urlopen(req)
+            last_modified = response.info().getdate('last-modified')  #  example ==> (2013, 7, 21, 20, 49, 19, 0, 1, 0)
+            if last_modified:
+                last_modified_date = str(last_modified[3])+ ":" + str(last_modified[4]) + " " + str(last_modified[2]) + "." + str(last_modified[1]) + "." + str(last_modified[0])
+                print "File Last Modified: %s" % last_modified_date
             the_page = response.read()
-
+        except urllib2.URLError as e:
+            the_page = "HTTP URL ERROR: %s" % e
+            print the_page
         except urllib2.HTTPError as e:
-            print e.code
             the_page = "HTTP download ERROR: %s" % e.code
+            print the_page
         return the_page
 
     def Convert_m3u(self, name, file):
@@ -451,7 +521,11 @@ class IPTV_Mod(Screen):
         tmplist.append('#DESCRIPTION --- %s ---' % name)
         print"Converting Bouquet %s" % name
         l = file.split('\n')
-        l.pop(0) # remove first line
+        if self.convert:
+            l.pop(0) # remove first line
+        else:
+            for t in range(1,4): # remove first 3 lines
+                l.pop(0)
 
         for line in l:
             if line == '':
@@ -462,7 +536,7 @@ class IPTV_Mod(Screen):
                 line = line.replace('#EXTINF:0,','#DESCRIPTION: ')
                 tmp = line
             else:
-                if self.type.upper() == 'TV':
+                if self.type.upper() == 'TV' and self.convert:
                     line = line.replace(':','%3a')
                     line = line.replace('rtmp%3a//$OPT%3artmp-raw=rtmp%3a','rtmp%3a')
                     line = line.replace('rtmp%3a//$OPT%3artmp-raw=rtmpe%3a','rtmpe%3a')
@@ -474,7 +548,7 @@ class IPTV_Mod(Screen):
                             line = '#SERVICE 1:0:1:1:1:0:820000:0:0:0:' + line
                     tmplist.append(line)
                     tmplist.append(tmp)
-                elif self.type.upper() == 'RADIO':
+                elif self.type.upper() == 'RADIO' and self.convert:
                     line = line.replace(':','%3a')
                     line = line.replace('rtmp%3a//$OPT%3artmp-raw=rtmp%3a','rtmp%3a')
                     line = line.replace('rtmp%3a//$OPT%3artmp-raw=rtmpe%3a','rtmpe%3a')
@@ -486,6 +560,8 @@ class IPTV_Mod(Screen):
                             line = '#SERVICE 1:0:1:1:1:0:820000:0:0:0:' + line
                     tmplist.append(line)
                     tmplist.append(tmp)
+                elif not self.convert:
+                    tmplist.append(line)
                 else:
                     print"UNKNOWN TYPE: %s" %self.type
 
@@ -524,8 +600,12 @@ class IPTV_Mod(Screen):
     def install(self):
         self.IPTVInstalled = True
         for l in self.downloadlist:
+            self.convert = True
             url = l[2]
             self.type = l[1]
+            if len(l) >= 5:
+                if l[4] == "B":
+                    self.convert = False
             if self.type == "WEBCAM":
                 self.type = "TV"
             file = self.Fetch_URL(url)
