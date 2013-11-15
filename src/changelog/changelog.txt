@@ -7,6 +7,7 @@ from 15.11.2013:
 - add T-Home Entertain with EPG and Piconsupport
 - First steps for Teledunet (Thx testi for ID Update Script)
 - Update id0 every install/update Teledunet
+- add Pic for DIGIBIT
 
 from 12.11.2013:
 - fix scripts rights
