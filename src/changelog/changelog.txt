@@ -1,5 +1,8 @@
 Changelog:
 
+from 16.11.2013:
+- add Teledunet Flag (Thx NaseDC)
+
 from 15.11.2013:
 - Fix GS when URL doesn't exists. (Thx Black64)
 - add Bouquetsupport (Thx Black64)
