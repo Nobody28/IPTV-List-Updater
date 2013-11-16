@@ -28,6 +28,7 @@ Bulgaria TV http://01.gen.tr/simple/bulgar_bulsat.m3u Bulgaria
 China TV http://01.gen.tr/simple/china.m3u China
 Czech TV http://01.gen.tr/simple/czech.m3u Czech_Republic
 English TV http://01.gen.tr/simple/ENGLISH_MOVIES_OLD.m3u OLD_Englisch_Filme
+Englishmovies TV http://01.gen.tr/simple/englishmovies.m3u English_Movies_Full
 Englishmovies TV http://01.gen.tr/simple/englishmovies_abc.m3u Englische_Movies_ABC
 Englishmovies TV http://01.gen.tr/simple/englishmovies_def.m3u Englische_Filme_DEF
 Englishmovies TV http://01.gen.tr/simple/englishmovies_ghi.m3u Englische_Filme_GHI
