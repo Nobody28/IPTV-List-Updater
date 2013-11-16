@@ -10,7 +10,7 @@
 Germany RADIO http://01.gen.tr/simple/Radio-Deutschland-WDR2.m3u WDR_Radiosender
 Turkey RADIO http://01.gen.tr/simple/radyolar.m3u Turk_Radio
 INT RADIO http://01.gen.tr/simple/int_radio.m3u Int_Radio
-Balkan RADIO http://01.gen.tr/simple/balkan_radio.m3u Balkan_Radio
+Balkanradio RADIO http://01.gen.tr/simple/balkan_radio.m3u Balkan_Radio
 #
 ########################################################################
 #                                                                      #
