@@ -13,7 +13,7 @@ Balkanradio RADIO http://01.gen.tr/simple/balkan_radio.m3u BALKAN_RADIO
 #                                                                                 #
 # Flag Bouquettyp Downloadlink Bouquetname(Underline will be removed) Bouquetfile #
 ###################################################################################
-3D TV http://01.gen.tr/simple/3d.m3u 3D
+3D TV http://01.gen.tr/simple/3d.m3u 3D_TV
 XXX-Adult TV http://01.gen.tr/simple/XXX.m3u XXX-Adult
 Albania TV http://01.gen.tr/simple/Albania.m3u Albania
 Germany TV http://01.gen.tr/simple/GERMAN_DEUTSCH.m3u Germany
