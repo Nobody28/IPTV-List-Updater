@@ -16,6 +16,7 @@ Balkanradio RADIO http://01.gen.tr/simple/balkan_radio.m3u Balkan_Radio
 #
 # Państwo Typ Link Nazwa Bukietu(Podkreślenia nie będą wyświetlane)
 #
+3D TV http://01.gen.tr/simple/3d.m3u 3D_TV
 Misir_egypt TV http://01.gen.tr/simple/misir_egypt.m3u Egipt_TV
 Albania TV http://01.gen.tr/simple/albanien.m3u Albania_TV
 America TV http://01.gen.tr/simple/amerika.m3u Ameryka_TV
