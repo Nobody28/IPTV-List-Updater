@@ -1,5 +1,8 @@
 Changelog:
 
+from 17.11.2013:
+- small fixes
+
 from 16.11.2013:
 - add Teledunet Flag (Thx NaseDC)
 - add Balkanradio Flag (Thx NaseDC)
