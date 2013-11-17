@@ -74,6 +74,7 @@ class IPTV(Screen):
         self["key_green"] = Label(_("Install"))
         self["key_yellow"] = Label(_("Install all"))
         self["key_blue"] = Label(_("Update list"))
+        print"[IPTVList] Current Language: %s" % config.osd.language.getValue()
         self.onLayoutFinish.append(self.layoutFinished)
         
     def up(self):
@@ -148,13 +149,15 @@ class IPTV(Screen):
         self.IPTVInstalled = True
         self.ScriptList = []
         self.type = "TV"
+        url = None
         sel = self["IPTVList"].l.getCurrentSelection()
         if sel == None:
             print"Nothing to select !!"
             return
+        print"[IPTVList] Current selection: %s" % sel
         for l in self.downloadlist:
             self.convert = True
-            if len(sel) >= 4:
+            if len(sel) >= 3:
                 if sel == l[3]:
                     url = l[2]
                     if len(l) >= 5:
