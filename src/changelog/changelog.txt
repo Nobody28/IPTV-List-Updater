@@ -1,5 +1,8 @@
 Changelog:
 
+from 19.11.2013:
+- small fixes
+
 from 17.11.2013:
 - small fixes
 
