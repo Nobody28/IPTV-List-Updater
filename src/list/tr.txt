@@ -79,6 +79,7 @@ Vietnam TV http://01.gen.tr/simple/vietnam.m3u VIETNAM
 Macedonia TV http://01.gen.tr/simple/makadonia.m3u MAKEDONYA
 USA TV http://01.gen.tr/simple/usa.m3u ABD-USA
 XXX-Adult TV http://01.gen.tr/simple/XXX.m3u XXX_YETISKIN
+XXX-Adult TV http://01.gen.tr/tsmedia/int_movies/XXX_vod+18.m3u XXX_Adult_Movies
 Korea TV http://01.gen.tr/simple/Korea.m3u KORE
 Lithuania TV http://01.gen.tr/simple/Lithuania.m3u LITVANYA
 Belgium TV http://01.gen.tr/simple/Belgium.m3u BELCIKA
