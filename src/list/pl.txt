@@ -82,6 +82,7 @@ Lithuania TV http://01.gen.tr/simple/Lithuania.m3u Lithuania
 Korea TV http://01.gen.tr/simple/Korea.m3u Korea
 WebCam WEBCAM http://01.gen.tr/simple/webcam.m3u Świat_WebCams
 XXX-Adult TV http://01.gen.tr/simple/adult.m3u XXX_TV 
+XXX-Adult TV http://01.gen.tr/tsmedia/int_movies/XXX_vod+18.m3u XXX_Adult_Movies
 #
 # FreetuxTV
 #
