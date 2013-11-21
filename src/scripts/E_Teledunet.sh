@@ -2,10 +2,11 @@
 # created by Nobody28
 #
 clear
-echo '####################################'
-echo '#     Teledunet Auto ID Updater    #'
-echo '#             by Nobody28          #'
-echo '####################################'
+echo '#####################################################'
+echo '#     Installer for Teledunet ID Updater from testi #'
+echo '#                  (Thx for the Script!)            #'
+echo '#                       by Nobody28                 #'
+echo '#####################################################'
 echo $LINE 
 # echo 'Install Auto ID Updater every 24h'
 echo $LINE
