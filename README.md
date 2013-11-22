@@ -7,6 +7,11 @@ FUNKTIONEN:
 - Update id0 for Teledunet
 - Start Udpxy für T-Home Entertain
 
+FREIE STREAMQUELLEN (ohne Anmeldung!):
+
+http://database.freetuxtv.net/
+http://www.tvonlinestreams.com/
+
 
 FRAGEN / ANTWORTEN:
 
