@@ -10,6 +10,15 @@ FUNKTIONEN:
 
 WO FINDE ICH DIE INSTALLATIONSFILES?
 Hier ==> https://github.com/Nobody28/IPTV-List-Updater/tree/master/IPKs
+oder bei allen Teams der OE-Alliance auf dem Downloadfeed (Grüne Taste - Grüne Taste - Extensions)
+
+WIE KANN ICH DAS PLUGIN MANUELL INSTALLIEREN?
+Die Files von hier ==> https://github.com/Nobody28/IPTV-List-Updater/tree/master/IPKs/mips32el (oder von hier ==> https://github.com/Nobody28/IPTV-List-Updater/tree/master/IPKs/mips32el-nf) per FTP nach /tmp kopieren.
+Dann per Telnet folgende Befehle auf der Box absetzen:
+    cd /tmp
+    opkg update
+    opkg install *.ipk
+Normalerweise sollte dann das Plugin nach einem Boxneustart unter den Erweiterungen zu sehen sein!
 
 
 FREIE STREAMQUELLEN (ohne Anmeldung!):
