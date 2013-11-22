@@ -9,8 +9,8 @@ FUNKTIONEN:
 
 FREIE STREAMQUELLEN (ohne Anmeldung!):
 
-http://database.freetuxtv.net/
-http://www.tvonlinestreams.com/
+- http://database.freetuxtv.net/
+- http://www.tvonlinestreams.com/
 
 
 FRAGEN / ANTWORTEN:
