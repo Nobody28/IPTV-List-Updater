@@ -27,3 +27,16 @@ Warum keine LIG TV?
 Erstens LIG TV Mitarbeiter und Roboter verfolgen jedes LIG TV schreiben auf Internet und bekommst du ärger mit denen und plötzlich ein anzeige da.
 Zweitens . Jeder LIG TV link die du im Internet findest verschwindet innert kurze Zeit. 
 
+
+Wie kann ich Streams selber finden?
+
+- Den URLHELPER downloaden ==> http://www.streamingstar.com/download/urlhelper.exe
+- installieren und starten
+- jetzt auf die Webseite wechseln, wo Ihr den Kanal sehen wollt, dort seht Ihr Streamlinks in der Medialiste
+- den Link kopieren und auf dieser Seite einfügen ==> http://plst.agilityhoster.com/en/rtmp.html
+und process klicken.
+
+Jetzt habt ihr Eure Datei (Links) für den Simple TV Player!
+Leider werden diese Streams nicht alle funktionieren :(
+
+So, und nun wisst Ihr, wie man Streams fischen kann :)
