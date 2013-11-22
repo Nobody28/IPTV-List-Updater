@@ -7,6 +7,11 @@ FUNKTIONEN:
 - Update id0 for Teledunet
 - Start Udpxy für T-Home Entertain
 
+
+WO FINDE ICH DIE INSTALLATIONSFILES?
+Hier ==> https://github.com/Nobody28/IPTV-List-Updater/tree/master/IPKs
+
+
 FREIE STREAMQUELLEN (ohne Anmeldung!):
 
 - http://database.freetuxtv.net/
