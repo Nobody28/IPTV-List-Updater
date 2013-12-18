@@ -66,7 +66,7 @@ Macedonia TV http://01.gen.tr/simple/makadonia.m3u Mazedonien
 Misir_egypt TV http://01.gen.tr/simple/misir_egypt.m3u Ãgypten
 Music TV http://01.gen.tr/simple/muzik.m3u Musik
 # Nilesat TV http://01.gen.tr/simple/nilesat.m3u Nilsat
-Norway TV http://01.gen.tr/simple/Norway.m3u Norwegen
+#Norway TV http://01.gen.tr/simple/Norway.m3u Norwegen
 Pakistan TV http://01.gen.tr/simple/pakistan.m3u Pakistan
 Poland TV http://01.gen.tr/simple/polonya.m3u Polen
 Portugal TV http://01.gen.tr/simple/Portugal.m3u Portugal
