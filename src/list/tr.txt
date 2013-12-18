@@ -69,7 +69,7 @@ Misir_egypt TV http://01.gen.tr/simple/misir_egypt.m3u MISIR
 Israel TV http://01.gen.tr/simple/israil.m3u ISRAIL
 Pakistan TV http://01.gen.tr/simple/pakistan.m3u PAKISTAN
 Slovakai TV http://01.gen.tr/simple/Slovakia_Slovenia.m3u SLOVAKYA_Slovenya
-Serbia TV http://01.gen.tr/simple/Serbia.m3u SIRBiSTAN_HIRVATISTAN
+Serbia TV http://01.gen.tr/simple/Serbia_Croatia.m3u SIRBiSTAN_HIRVATISTAN
 #Sweden TV http://01.gen.tr/simple/Sweden.m3u ISVEC
 #Norway TV http://01.gen.tr/simple/Norway.m3u NORVEC
 #Denmark TV http://01.gen.tr/simple/Denmark.m3u DANiMARKA
@@ -81,7 +81,7 @@ USA TV http://01.gen.tr/simple/usa.m3u ABD-USA
 XXX-Adult TV http://01.gen.tr/simple/XXX.m3u XXX_YETISKIN
 #XXX-Adult TV http://01.gen.tr/tsmedia/int_movies/XXX_vod+18.m3u XXX_Adult_Movies
 Korea TV http://01.gen.tr/simple/Korea.m3u KORE
-Lithuania TV http://01.gen.tr/simple/Lithuania.m3u LITVANYA
+Lithuania TV http://01.gen.tr/simple/Baltic.m3u BALTiK_ULKELERI
 Belgium TV http://01.gen.tr/simple/Belgium.m3u BELCIKA
 Scandinavien TV http://01.gen.tr/simple/skandinav.m3u SKANDINAV_ULKELERI
 Switzerland TV http://01.gen.tr/simple/Switzerland.m3u ISVICRE
