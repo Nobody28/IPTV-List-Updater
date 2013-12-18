@@ -93,7 +93,7 @@ Turkey-Local TV http://01.gen.tr/simple/turk_yerel.m3u Türkei_Lokalsender
 Ukraine TV http://01.gen.tr/simple/ukraina.m3u Ukraine
 USA TV http://01.gen.tr/simple/usa.m3u USA
 Vietnam TV http://01.gen.tr/simple/vietnam.m3u Vietnam
-Lithuania TV http://01.gen.tr/simple/Lithuania.m3u Litvanien
+Lithuania TV http://01.gen.tr/simple/Baltic.m3u Litvanien_Baltic_Laender
 WebCam WEBCAM http://01.gen.tr/simple/webcam.m3u WorldWebCams
 ILIVE_TO TV http://01.gen.tr/simple/ilive_to.m3u ILIVE_TO
 Swiss TV http://01.gen.tr/simple/Switzerland.m3u Schweiz
