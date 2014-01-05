@@ -7,6 +7,8 @@ FUNKTIONEN:
 - Update id0 for Teledunet
 - Start Udpxy für T-Home Entertain
 
+Hier gibts ein Video zu sehen ==> http://m.youtube.com/watch?v=tc7zs4wRFYg&desktop_uri=%2Fwatch%3Fv%3Dtc7zs4wRFYg
+(Leider eine ältere Version, aber die Grundfunktion sieht man dort sehr gut :) )
 
 WO FINDE ICH DIE INSTALLATIONSFILES?
 Hier ==> https://github.com/Nobody28/IPTV-List-Updater/tree/master/IPKs
