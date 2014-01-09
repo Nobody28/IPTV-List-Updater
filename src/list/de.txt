@@ -2,9 +2,9 @@
 # Aufbau:
 # Flaggenanzeige Bouquettyp Downloadlink Bouquetname(Unterstriche werden im Plugin ausgeblendet) Bouquetfile
 ########################################################################
-# #
-# Sonstige Listen #
-# #
+#                                                                      #
+#                        Sonstige Listen                               #
+#                                                                      #
 ########################################################################
 #
 Germany RADIO http://01.gen.tr/HasBahCa_IPTV//Radio-Deutschland-WDR2.m3u WDR_Radiosender
@@ -12,9 +12,9 @@ Turkey RADIO http://01.gen.tr/HasBahCa_IPTV//radyolar.m3u Turk_Radio
 Balkanradio RADIO http://01.gen.tr/HasBahCa_IPTV//balkan_radio.m3u Balkan_Radio
 #
 ########################################################################
-# #
-# HasBahCa Listen #
-# #
+#                                                                      #
+#                       HasBahCa Listen                                #
+#                                                                      #
 ########################################################################
 #
 3D TV http://01.gen.tr/HasBahCa_IPTV/3d.m3u 3D_TV
