@@ -1,5 +1,8 @@
 Changelog:
 
+from 09.01.2014:
+- change Downloadsource for HasBahCa Links
+
 from 19.11.2013:
 - small fixes
 
