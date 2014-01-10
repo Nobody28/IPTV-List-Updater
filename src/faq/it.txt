@@ -11,7 +11,6 @@ FAQ - 11.11.2013 !
     
 3. Quali ricevitore possono riprodurre gli streams mms?
     11.11.2013:
-    VU+ non ha il supporto mms! 
     Solo tutti Xtrend, dm500hd,800se e 7020hd, Odin M7, Odin M9,
     Telestar Starsat LX, Axas Class M 
 	
@@ -20,7 +19,6 @@ FAQ - 11.11.2013 !
     nei fili della IPTV List Updater in seguenti forum:
     www.gigablue-support.com
     www.opena.tv
-    www.vuplus-support.org
     E 'più sicuro se si contatta Nobody28, Satinfo o HasBahCa via PM. 
 	
 5. Come posso eliminare Bouquets ?
