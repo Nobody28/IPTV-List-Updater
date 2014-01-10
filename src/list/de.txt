@@ -7,8 +7,8 @@
 #                                                                      #
 ########################################################################
 #
-Germany RADIO http://01.gen.tr/HasBahCa_IPTV//Radio-Deutschland-WDR2.m3u WDR_Radiosender
-Turkey RADIO http://01.gen.tr/HasBahCa_IPTV//radyolar.m3u Turk_Radio
+Germany RADIO http://01.gen.tr/HasBahCa_IPTV/Radio-Deutschland-WDR2.m3u WDR_Radiosender
+Turkey RADIO http://01.gen.tr/HasBahCa_IPTV/radyolar.m3u Turk_Radio
 Balkanradio RADIO http://01.gen.tr/HasBahCa_IPTV//balkan_radio.m3u Balkan_Radio
 #
 ########################################################################
