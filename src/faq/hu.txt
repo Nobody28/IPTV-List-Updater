@@ -15,7 +15,7 @@ Gyik gyüjtemeny - 2013/11/11 !
    Mivel a 2013/11/11:
    VU +, 800HD PVR nincs mms támogatást!
    Csak Xtrend minden, dm500hd, 800se, 7020HD, Odin M7, Odin M9,
-    Telestar Starsat LX, Axas Class M
+   Telestar Starsat LX, Axas Class M
 
 4. Mit kell tennem, hogy további patakokat a listákra tehessek?
    Keresi megfelelő linkre listák az interneten. Tesztelik, és tegye őket a
