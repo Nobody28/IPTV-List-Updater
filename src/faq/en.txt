@@ -10,8 +10,7 @@ FAQ - 11.11.2013 !
     program for example Filezilla to your receiver 
     
 3. Which receiver can play MMS streams?
-    11.11.2013:
-    VU+ has no mms support! 
+    10.01.2014:
     Only all Xtrend, dm500hd,800se and 7020hd, Odin M7, Odin M9,
     Telestar Starsat LX, Axas Class M 
 	
