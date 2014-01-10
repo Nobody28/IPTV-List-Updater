@@ -12,7 +12,7 @@ Gyik gyüjtemeny - 2013/11/11 !
    a 755
 
 3. Milyen vevők játszhatnak mms stream?
-   Mivel a 2013/11/11:
+   Mivel a 2014/01/10:
    VU +, 800HD PVR nincs mms támogatást!
    Csak Xtrend minden, dm500hd, 800se, 7020HD, Odin M7, Odin M9,
    Telestar Starsat LX, Axas Class M
