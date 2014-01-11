@@ -1,7 +1,10 @@
 Changelog:
 
+from 10.01.2014:
+- change Downloadsource for HasBahCa Links at other languages
+
 from 09.01.2014:
-- change Downloadsource for HasBahCa Links
+- change Downloadsource for HasBahCa Links at german & turkey language
 
 from 19.11.2013:
 - small fixes
