@@ -1,5 +1,9 @@
 Changelog:
 
+from 14.01.2014:
+- add curl as depend
+- change Version to 1.31
+
 from 13.01.2014:
 - fix Teledunet ID Update Thx testi
 
