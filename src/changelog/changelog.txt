@@ -1,5 +1,8 @@
 Changelog:
 
+from 13.01.2014:
+- fix Teledunet ID Update Thx testi
+
 from 10.01.2014:
 - change Downloadsource for HasBahCa Links at other languages
 
