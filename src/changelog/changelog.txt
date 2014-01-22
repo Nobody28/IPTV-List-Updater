@@ -1,5 +1,8 @@
 Changelog:
 
+from 22.01.2014:
+-Nilsat & USA Shows added
+
 from 14.01.2014:
 - add curl as depend
 - change Version to 1.31
