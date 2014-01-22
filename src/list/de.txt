@@ -98,6 +98,8 @@ WebCam WEBCAM http://01.gen.tr/HasBahCa_IPTV/webcam.m3u WorldWebCams
 ILIVE_TO TV http://01.gen.tr/HasBahCa_IPTV/ilive_to.m3u ILIVE_TO
 Swiss TV http://01.gen.tr/HasBahCa_IPTV/Switzerland.m3u Schweiz
 Kids TV http://01.gen.tr/HasBahCa_IPTV/Kids.m3u Kinder_Kanale
+USA TV http://01.gen.tr/HasBahCa_IPTV/usa_shows.m3u USA_SHOWS
+Nilesat TV http://01.gen.tr/HasBahCa_IPTV/nilesat.m3u NILESAT
 #
 ########################################################################
 #                                                                      #
