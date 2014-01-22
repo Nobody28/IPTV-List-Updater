@@ -82,7 +82,9 @@ Lithuania TV http://01.gen.tr/HasBahCa_IPTV/Lithuania.m3u Lithuania
 Korea TV http://01.gen.tr/HasBahCa_IPTV/Korea.m3u Korea
 WebCam WEBCAM http://01.gen.tr/HasBahCa_IPTV/webcam.m3u Świat_WebCams
 XXX-Adult TV http://01.gen.tr/HasBahCa_IPTV/adult.m3u XXX_TV 
-XXX-Adult TV http://01.gen.tr/tsmedia/int_movies/XXX_vod+18.m3u XXX_Adult_Movies
+USA TV http://01.gen.tr/HasBahCa_IPTV/usa_shows.m3u USA_SHOWS
+Nilesat TV http://01.gen.tr/HasBahCa_IPTV/nilesat.m3u NILESAT
+Kids TV http://01.gen.tr/HasBahCa_IPTV/Kids.m3u INT_Kids
 #
 # FreetuxTV
 #
