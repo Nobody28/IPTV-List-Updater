@@ -96,7 +96,8 @@ USA TV http://01.gen.tr/HasBahCa_IPTV/usa.m3u USA
 Lithuania TV http://01.gen.tr/HasBahCa_IPTV/Lithuania.m3u Lithuania
 Korea TV http://01.gen.tr/HasBahCa_IPTV/Korea.m3u Korea
 WebCam WEBCAM http://01.gen.tr/HasBahCa_IPTV/webcam.m3u WorldWebCams
-########################################################################
+USA TV http://01.gen.tr/HasBahCa_IPTV/usa_shows.m3u USA_SHOWS
+
 #                              FreetuxTV                               #
 #                                                                      #
 # Flag Bouquettyp Downloadlink Bouquetname (Underline will be removed) #
