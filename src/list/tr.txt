@@ -97,6 +97,8 @@ ILIVE_TO TV http://01.gen.tr/HasBahCa_IPTV/ilive_to.m3u ILIVE_TO
 #English TV http://01.gen.tr/HasBahCa_IPTV/englishmovies_u-z.m3u ENG_MOVIES_U-Z
 English TV http://01.gen.tr/HasBahCa_IPTV/ENGLISH_MOVIES_OLD.m3u ESKI_INGILIZCE_FILMLER
 Russia TV http://01.gen.tr/HasBahCa_IPTV/RUS_movies.m3u RUSCA_FILMLER
+USA TV http://01.gen.tr/HasBahCa_IPTV/usa_shows.m3u ABD_USA_SHOWS
+Nilesat TV http://01.gen.tr/HasBahCa_IPTV/nilesat.m3u NILESAT
 
 #
 ########################################################################
