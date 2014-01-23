@@ -3,7 +3,7 @@
 # Flaggenanzeige Bouquettyp Downloadlink Bouquetname(Unterstriche werden im Plugin ausgeblendet) Bouquetfile
 ########################################################################
 #                                                                      #
-#                        Sonstige Listen                               #
+#                        HasBahCa Radio Listen                         #
 #                                                                      #
 ########################################################################
 #
@@ -13,7 +13,7 @@ Balkanradio RADIO http://01.gen.tr/HasBahCa_IPTV//balkan_radio.m3u Balkan_Radio
 #
 ########################################################################
 #                                                                      #
-#                       HasBahCa Listen                                #
+#                       HasBahCa TV Listen                             #
 #                                                                      #
 ########################################################################
 #
@@ -99,6 +99,20 @@ Vietnam TV http://01.gen.tr/HasBahCa_IPTV/vietnam.m3u Vietnam
 Baltic_Laender TV http://01.gen.tr/HasBahCa_IPTV/Baltic.m3u Litvanien_Baltic_Laender
 WebCam WEBCAM http://01.gen.tr/HasBahCa_IPTV/webcam.m3u WorldWebCams
 ILIVE_TO TV http://01.gen.tr/HasBahCa_IPTV/ilive_to.m3u ILIVE_TO
+#
+########################################################################
+#                                                                      #
+#                         Nobody28 Listen                              #
+#                                                                      #
+########################################################################
+#
+Germany RADIO https://dl.dropboxusercontent.com/s/qis72mhv35r6n5q/Deutschland-Radio.m3u?token_hash=AAHBii3iCNyclwuwm7DFdn4BuWQveXor6RQrTY1nkq9bng&dl=1 Deutsche_Radiosender
+Austria RADIO https://dl.dropboxusercontent.com/s/fsk2mjvwsof6fmp/Oestereich-Radio.m3u?dl=1&token_hash=AAGbbarWoYEWrxpvR3PV0SO1wAE3FGJQJlZG8Qc0QwQoXA Östereich_Radiosender
+Swiss RADIO https://dl.dropboxusercontent.com/s/df4tyw2ad3z9ybe/Schweiz-Radio.m3u?dl=1&token_hash=AAGCe5uxgPAT-6N1RUtVf-OLg2c2v790JBuZZpukCY0yIQ Schweizer_Radiosender
+Digibit TV http://DIGIBIT-000BCB:8080/m3u Digibit
+Germany TV https://dl.dropboxusercontent.com/s/al3cmo1slcgod3p/userbouquet.t_home_entertain.tv?dl=1&token_hash=AAHv5tdLx-0X4MjdPDuKwiAbTHtFkTGce1LgRSSO_xeIJA T_Home_Entertain B
+Teledunet TV https://dl.dropboxusercontent.com/s/4h52djay1lntvmv/userbouquet.teledunet.tv?dl=1&token_hash=AAF8g28Ow6CHOHEYszG4v65ICgibajehL7f0_WXTI_AtlA Teledunet B
+Germany TV https://dl.dropboxusercontent.com/s/s2jqllru1x6jhcp/userbouquet.Deutschland_sonstige.tv?dl=1&token_hash=AAHfxv2G3s7e7da28IXWqteO6_dfZvV2bKJjUj4RLjq8tw Deutschland_sonstige B
 #
 ########################################################################
 #                                                                      #
@@ -215,17 +229,3 @@ Urdu TV http://database.freetuxtv.net/playlists/playlist_webtv_ur.m3u Web_TV_(Ur
 Uzbekistan TV http://database.freetuxtv.net/playlists/playlist_webtv_uz.m3u Web_TV_(Uzbekistan)
 Vietnam TV http://database.freetuxtv.net/playlists/playlist_webtv_vi.m3u Web_TV_(Vietnam)
 Vietnam RADIO http://database.freetuxtv.net/playlists/playlist_webradio_vi.m3u Web_Radio_(Vietnam)
-#
-########################################################################
-#                                                                      #
-#                         Nobody28 Listen                              #
-#                                                                      #
-########################################################################
-#
-Germany RADIO https://dl.dropboxusercontent.com/s/qis72mhv35r6n5q/Deutschland-Radio.m3u?token_hash=AAHBii3iCNyclwuwm7DFdn4BuWQveXor6RQrTY1nkq9bng&dl=1 Deutsche_Radiosender
-Austria RADIO https://dl.dropboxusercontent.com/s/fsk2mjvwsof6fmp/Oestereich-Radio.m3u?dl=1&token_hash=AAGbbarWoYEWrxpvR3PV0SO1wAE3FGJQJlZG8Qc0QwQoXA Östereich_Radiosender
-Swiss RADIO https://dl.dropboxusercontent.com/s/df4tyw2ad3z9ybe/Schweiz-Radio.m3u?dl=1&token_hash=AAGCe5uxgPAT-6N1RUtVf-OLg2c2v790JBuZZpukCY0yIQ Schweizer_Radiosender
-Digibit TV http://DIGIBIT-000BCB:8080/m3u Digibit
-Germany TV https://dl.dropboxusercontent.com/s/al3cmo1slcgod3p/userbouquet.t_home_entertain.tv?dl=1&token_hash=AAHv5tdLx-0X4MjdPDuKwiAbTHtFkTGce1LgRSSO_xeIJA T_Home_Entertain B
-Teledunet TV https://dl.dropboxusercontent.com/s/4h52djay1lntvmv/userbouquet.teledunet.tv?dl=1&token_hash=AAF8g28Ow6CHOHEYszG4v65ICgibajehL7f0_WXTI_AtlA Teledunet B
-Germany TV https://dl.dropboxusercontent.com/s/s2jqllru1x6jhcp/userbouquet.Deutschland_sonstige.tv?dl=1&token_hash=AAHfxv2G3s7e7da28IXWqteO6_dfZvV2bKJjUj4RLjq8tw Deutschland_sonstige B
