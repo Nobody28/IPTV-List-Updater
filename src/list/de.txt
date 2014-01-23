@@ -59,13 +59,14 @@ Spain TV http://01.gen.tr/HasBahCa_IPTV/Spain.m3u Spanien
 Israel TV http://01.gen.tr/HasBahCa_IPTV/israil.m3u Israel
 Italy TV http://01.gen.tr/HasBahCa_IPTV/italya.m3u Italien
 Japan TV http://01.gen.tr/HasBahCa_IPTV/japan.m3u Japan
+Kids TV http://01.gen.tr/HasBahCa_IPTV/Kids.m3u Kinder_Kanale
 Korea TV http://01.gen.tr/HasBahCa_IPTV/Korea.me3 Korea
 Kurdish TV http://01.gen.tr/HasBahCa_IPTV/kurdi.m3u Kurdisch
 Hungary TV http://01.gen.tr/HasBahCa_IPTV/magyar.m3u Ungarn
 Macedonia TV http://01.gen.tr/HasBahCa_IPTV/makadonia.m3u Mazedonien
 Misir_egypt TV http://01.gen.tr/HasBahCa_IPTV/misir_egypt.m3u Ãgypten
 Music TV http://01.gen.tr/HasBahCa_IPTV/muzik.m3u Musik
-# Nilesat TV http://01.gen.tr/HasBahCa_IPTV/nilesat.m3u Nilsat
+Nilesat TV http://01.gen.tr/HasBahCa_IPTV/nilesat.m3u Nilsat
 #Norway TV http://01.gen.tr/HasBahCa_IPTV/Norway.m3u Norwegen
 Pakistan TV http://01.gen.tr/HasBahCa_IPTV/pakistan.m3u Pakistan
 Poland TV http://01.gen.tr/HasBahCa_IPTV/polonya.m3u Polen
@@ -78,6 +79,7 @@ Skandinavia TV http://01.gen.tr/HasBahCa_IPTV/skandinav.m3u Skandinavien
 Slovakei TV http://01.gen.tr/HasBahCa_IPTV/Slovakia_Slovenia.m3u Slovakei_Slowenien
 Sport TV http://01.gen.tr/HasBahCa_IPTV/spor.m3u Sport
 #Sweden TV http://01.gen.tr/HasBahCa_IPTV/Sweden.m3u Schweden
+Swiss TV http://01.gen.tr/HasBahCa_IPTV/Switzerland.m3u Schweiz
 Thai TV http://01.gen.tr/HasBahCa_IPTV/thai.m3u Thailand
 Turki_Azeri TV http://01.gen.tr/HasBahCa_IPTV/turki.m3u Türki_Aserbaidschan
 Turkey-Main TV http://01.gen.tr/HasBahCa_IPTV/turk_ulusal_yedek.m3u Türkei_doppelt
@@ -92,14 +94,11 @@ Turkey-Local TV http://01.gen.tr/HasBahCa_IPTV/turk_yerel.m3u Türkei_Lokalsende
 # Radio-Turkey RADIO http://01.gen.tr/HasBahCa_IPTV/radyolar.m3u Türkei_Radio
 Ukraine TV http://01.gen.tr/HasBahCa_IPTV/ukraina.m3u Ukraine
 USA TV http://01.gen.tr/HasBahCa_IPTV/usa.m3u USA
+USA TV http://01.gen.tr/HasBahCa_IPTV/usa_shows.m3u USA_SHOWS
 Vietnam TV http://01.gen.tr/HasBahCa_IPTV/vietnam.m3u Vietnam
 Baltic_Laender TV http://01.gen.tr/HasBahCa_IPTV/Baltic.m3u Litvanien_Baltic_Laender
 WebCam WEBCAM http://01.gen.tr/HasBahCa_IPTV/webcam.m3u WorldWebCams
 ILIVE_TO TV http://01.gen.tr/HasBahCa_IPTV/ilive_to.m3u ILIVE_TO
-Swiss TV http://01.gen.tr/HasBahCa_IPTV/Switzerland.m3u Schweiz
-Kids TV http://01.gen.tr/HasBahCa_IPTV/Kids.m3u Kinder_Kanale
-USA TV http://01.gen.tr/HasBahCa_IPTV/usa_shows.m3u USA_SHOWS
-Nilesat TV http://01.gen.tr/HasBahCa_IPTV/nilesat.m3u NILESAT
 #
 ########################################################################
 #                                                                      #
