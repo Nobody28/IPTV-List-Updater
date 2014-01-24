@@ -8,9 +8,7 @@
 #                                                                      #
 ########################################################################
 #
-Turkey RADIO http://01.gen.tr/HasBahCa_IPTV/radyolar.m3u TURK_RADYO_HasBahCa
-Balkanradio RADIO http://01.gen.tr/HasBahCa_IPTV/balkan_radio.m3u BALKAN_RADYO_HasBahCa
-NesetErtas RADIO http://01.gen.tr/HasBahCa_IPTV/Neset_Ertas.m3u Neset_Ertas_HasBahCa
+
 
 #
 ########################################################################
@@ -69,9 +67,6 @@ Israel TV http://01.gen.tr/HasBahCa_IPTV/israil.m3u ISRAIL_HasBahCa
 Pakistan TV http://01.gen.tr/HasBahCa_IPTV/pakistan.m3u PAKISTAN_HasBahCa
 Slovakai TV http://01.gen.tr/HasBahCa_IPTV/Slovakia_Slovenia.m3u SLOVAKYA_Slovenya_HasBahCa
 Serbia TV http://01.gen.tr/HasBahCa_IPTV/Serbia_Croatia.m3u SIRBiSTAN_HIRVATISTAN_HasBahCa
-#Sweden TV http://01.gen.tr/HasBahCa_IPTV/Sweden.m3u ISVEC
-#Norway TV http://01.gen.tr/HasBahCa_IPTV/Norway.m3u NORVEC
-#Denmark TV http://01.gen.tr/HasBahCa_IPTV/Denmark.m3u DANiMARKA
 Portugal TV http://01.gen.tr/HasBahCa_IPTV/Portugal.m3u PORTEKiZ_HasBahCa
 Holland TV http://01.gen.tr/HasBahCa_IPTV/Holland.m3u HOLLANDA_HasBahCa
 Vietnam TV http://01.gen.tr/HasBahCa_IPTV/vietnam.m3u VIETNAM_HasBahCa
@@ -89,19 +84,14 @@ Africa TV http://01.gen.tr/HasBahCa_IPTV/Afrika.m3u AFRIKA_KITASI_HasBahCa
 Filmon TV http://01.gen.tr/HasBahCa_IPTV/filmon.m3u Filmon_HasBahCa
 ILIVE_TO TV http://01.gen.tr/HasBahCa_IPTV/ilive_to.m3u ILIVE_TO_HasBahCa
 Teledunet TV http://01.gen.tr/HasBahCa_IPTV/Teledunet.m3u Teledunet_HasBahCa
-#English TV http://01.gen.tr/HasBahCa_IPTV/englishmovies_abc.m3u ENG_MOVIES_ABC
-#English TV http://01.gen.tr/HasBahCa_IPTV/englishmovies_def.m3u ENG_MOVIES_DEF
-#English TV http://01.gen.tr/HasBahCa_IPTV/englishmovies_ghi.m3u ENG_MOVIES_GHI
-#English TV http://01.gen.tr/HasBahCa_IPTV/englishmovies_jkl.m3u ENG_MOVIES_JKL
-#English TV http://01.gen.tr/HasBahCa_IPTV/englishmovies_mno.m3u ENG_MOVIES_MNO
-#English TV http://01.gen.tr/HasBahCa_IPTV/englishmovies_prs.m3u ENG_MOVIES_PRS
-#English TV http://01.gen.tr/HasBahCa_IPTV/englishmovies_t.m3u ENG_MOVIES_T
-#English TV http://01.gen.tr/HasBahCa_IPTV/englishmovies_u-z.m3u ENG_MOVIES_U-Z
+#English TV http://01.gen.tr/HasBahCa_IPTV/englishmovies.m3u ENG_MOVIES_HasBahCa
 English TV http://01.gen.tr/HasBahCa_IPTV/ENGLISH_MOVIES_OLD.m3u ESKI_INGILIZCE_FILMLER_HasBahCa
 Russia TV http://01.gen.tr/HasBahCa_IPTV/RUS_movies.m3u RUSCA_FILMLER_HasBahCa
 USA TV http://01.gen.tr/HasBahCa_IPTV/usa_shows.m3u ABD-USA_SHOWS_HasBahCa
 Nilesat TV http://01.gen.tr/HasBahCa_IPTV/nilesat.m3u NILESAT_HasBahCa
-
+Turkey RADIO http://01.gen.tr/HasBahCa_IPTV/radyolar.m3u TURK_RADYO_HasBahCa
+Balkanradio RADIO http://01.gen.tr/HasBahCa_IPTV/balkan_radio.m3u BALKAN_RADYO_HasBahCa
+NesetErtas RADIO http://01.gen.tr/HasBahCa_IPTV/Neset_Ertas.m3u Neset_Ertas_HasBahCa
 #
 ########################################################################
 #                                                                      #
