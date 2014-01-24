@@ -19,7 +19,6 @@ NesetErtas RADIO http://01.gen.tr/HasBahCa_IPTV/Neset_Ertas.m3u Neset_Ertas_HasB
 #                                                                      #
 ########################################################################
 #  
-Turkey-Main TV http://01.gen.tr/templates/adsiz.m3u DIGITURK_DSMART
 Turkey-Main TV http://01.gen.tr/HasBahCa_IPTV/turk_ulusal.m3u TURKIYE_ULUSAL_HasBahCa
 Turkey-Main TV http://01.gen.tr/HasBahCa_IPTV/turk_ulusal_yedek.m3u TURKIYE_YEDEK_HasBahCa
 Turkey-Main TV http://01.gen.tr/HasBahCa_IPTV/turk_yerel.m3u TURKIYE_YEREL_HasBahCa
