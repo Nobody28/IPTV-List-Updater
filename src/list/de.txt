@@ -10,6 +10,7 @@
 Germany RADIO http://01.gen.tr/HasBahCa_IPTV/Radio-Deutschland-WDR2.m3u WDR_Radiosender
 Turkey RADIO http://01.gen.tr/HasBahCa_IPTV/radyolar.m3u Turk_Radio
 Balkanradio RADIO http://01.gen.tr/HasBahCa_IPTV//balkan_radio.m3u Balkan_Radio
+NesetErtas RADIO http://01.gen.tr/HasBahCa_IPTV/Neset_Ertas.m3u Neset_Ertas_by_HasBahCa
 #
 ########################################################################
 #                                                                      #
@@ -71,6 +72,7 @@ Holland TV http://01.gen.tr/HasBahCa_IPTV/Holland.m3u HOLLANDA_by_HasBahCa
 Vietnam TV http://01.gen.tr/HasBahCa_IPTV/vietnam.m3u VIETNAM_by_HasBahCa
 Macedonia TV http://01.gen.tr/HasBahCa_IPTV/makadonia.m3u MAKEDONYA_by_HasBahCa
 USA TV http://01.gen.tr/HasBahCa_IPTV/usa.m3u ABD-USA_by_HasBahCa
+USA TV http://01.gen.tr/HasBahCa_IPTV/usa_shows.m3u ABD-USA_SHOWS_by_HasBahCa
 XXX-Adult TV http://01.gen.tr/HasBahCa_IPTV/XXX.m3u XXX_YETISKIN
 #XXX-Adult TV http://01.gen.tr/tsmedia/int_movies/XXX_vod+18.m3u XXX_Adult_Movies
 Korea TV http://01.gen.tr/HasBahCa_IPTV/Korea.m3u KORE_by_HasBahCa
@@ -86,10 +88,8 @@ Teledunet TV http://01.gen.tr/HasBahCa_IPTV/Teledunet.m3u Teledunet_by_HasBahCa
 #English TV http://01.gen.tr/HasBahCa_IPTV/englishmovies.m3u ENG_MOVIES_by_HasBahCa
 English TV http://01.gen.tr/HasBahCa_IPTV/ENGLISH_MOVIES_OLD.m3u ESKI_INGILIZCE_FILMLER_by_HasBahCa
 Russia TV http://01.gen.tr/HasBahCa_IPTV/RUS_movies.m3u RUSCA_FILMLER_by_HasBahCa
-USA TV http://01.gen.tr/HasBahCa_IPTV/usa_shows.m3u ABD-USA_SHOWS_by_HasBahCa
 Nilesat TV http://01.gen.tr/HasBahCa_IPTV/nilesat.m3u NILESAT_by_HasBahCa
-Turkey RADIO http://01.gen.tr/HasBahCa_IPTV/radyolar.m3u TURK_RADYO_by_HasBahCa
-NesetErtas RADIO http://01.gen.tr/HasBahCa_IPTV/Neset_Ertas.m3u Neset_Ertas_by_HasBahCa
+
 #
 ########################################################################
 #                                                                      #
