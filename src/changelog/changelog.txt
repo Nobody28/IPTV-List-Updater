@@ -1,7 +1,7 @@
 Changelog:
 
 from 22.01.2014:
--Nilsat & USA Shows added
+- Nilsat & USA Shows added
 - first Steps for Piconsupport
 
 from 14.01.2014:
