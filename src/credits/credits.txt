@@ -1,6 +1,7 @@
 Coding:	- Nobody28
 	- satinfo
 	- Black_64
+	- testi
 	- 
 
 Graphics:	- Assimaschine
@@ -10,6 +11,7 @@ Graphics:	- Assimaschine
 
 Streamlinks:	- HasBahCa
 	- FreeTuxTV
+	- Nobody28
 	- 
 
 Translations:	- arabic ==> zozo1976
