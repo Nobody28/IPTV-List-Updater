@@ -10,9 +10,9 @@ FAQ - 11.11.2013 !
     con una programma FTP per esempio Filezilla sul ricevitore
     
 3. Quali ricevitore possono riprodurre gli streams mms?
-    10.01.2014:
+    28.01.2014:
     Solo tutti Xtrend, dm500hd,800se e 7020hd, Odin M7, Odin M9,
-    Telestar Starsat LX, Axas Class M 
+    Telestar Starsat LX, Axas Class M, VU+ 
 	
 4. Cosa devo fare per avere più streams in lista?
     Ricerca di Links o liste su internet. Testarli e postare loro
