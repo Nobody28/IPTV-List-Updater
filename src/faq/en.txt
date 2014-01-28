@@ -10,9 +10,9 @@ FAQ - 11.11.2013 !
     program for example Filezilla to your receiver 
     
 3. Which receiver can play MMS streams?
-    10.01.2014:
+    28.01.2014:
     Only all Xtrend, dm500hd,800se and 7020hd, Odin M7, Odin M9,
-    Telestar Starsat LX, Axas Class M 
+    Telestar Starsat LX, Axas Class M, all VU+ 
 	
 4. What should I do to get more streams in lists?
     Search for links or lists on the internet. Test them and post 
