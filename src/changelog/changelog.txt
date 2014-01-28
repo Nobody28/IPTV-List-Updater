@@ -1,6 +1,9 @@
 Changelog:
 
 from 22.01.2014:
+- add German Bouquet with Picons and EPG support
+
+from 22.01.2014:
 - Nilsat & USA Shows added
 - first Steps for Piconsupport
 
