@@ -10,9 +10,9 @@ FAQ - 11.11.2013 !
     FTP-Programm (z.B. Filezilla) auf deine Box.
 
 3. Welche Boxen können mms Streams abspielen?
-    Stand: 11.11.2013:
+    Stand: 28.01.2014:
     Alle Xtrend, dm500hd, dm800se und dm7020hd, Odin M7, Odin M9,
-    Telestar Starsat LX, Axas Class M
+    Telestar Starsat LX, Axas Class M, alle VU+
 	
 4. Was muss ich tun, um weitere Streams in die Liste zu bekommen?
     Sucht entsprechende Links oder Listen im Internet. Testet sie und 
