@@ -1,5 +1,5 @@
 ﻿
-FAQ - 11.11.2013 !
+FAQ - 28.01.2014 !
 
 1. Voor welk systeem is de plugin bedoeld?
     De plugin zou moeten werken in all OE2.0 images.
