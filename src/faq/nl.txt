@@ -10,9 +10,9 @@ FAQ - 11.11.2013 !
     programma (b.v. Filezilla) naar uw ontvanger.
     
 3. Welke ontvangers kunnen MMS-streams afspelen?
-    10.01.2014:
+    28.01.2014:
     Alleen alle Xtrend's, dm500hd,800se en 7020hd, Odin M7, Odin M9,
-    Telestar Starsat LX, Axas Class M
+    Telestar Starsat LX, Axas Class M, alle VU+
 	
 4. Wat moet ik doen om meer streams in de lijsten te krijgen?
     Zoek naar links of lijsten op internet. Test ze en post
