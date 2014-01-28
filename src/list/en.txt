@@ -92,7 +92,7 @@ Portugal TV http://01.gen.tr/HasBahCa_IPTV/Portugal.m3u Portugal
 Holland TV http://01.gen.tr/HasBahCa_IPTV/Holland.m3u HOLLAND
 Vietnam TV http://01.gen.tr/HasBahCa_IPTV/vietnam.m3u VIETNAM
 Macedonia TV http://01.gen.tr/HasBahCa_IPTV/makadonia.m3u Macedonia
-USA TV http://01.gen.tr/HasBahCa_IPTV/usa.m3u USA
+#USA TV http://01.gen.tr/HasBahCa_IPTV/usa.m3u USA
 Lithuania TV http://01.gen.tr/HasBahCa_IPTV/Lithuania.m3u Lithuania
 Korea TV http://01.gen.tr/HasBahCa_IPTV/Korea.m3u Korea
 WebCam WEBCAM http://01.gen.tr/HasBahCa_IPTV/webcam.m3u WorldWebCams
