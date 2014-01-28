@@ -90,7 +90,7 @@ Turkey-Main TV http://01.gen.tr/HasBahCa_IPTV/turk_ulusal_yedek.m3u Turska
 Turkey-Local TV http://01.gen.tr/HasBahCa_IPTV/turk_yerel.m3u Turska_Lokalni_program
 # Radio-Turkey RADIO http://01.gen.tr/HasBahCa_IPTV/turkvod/radyolar.m3u Turska_Radio
 Ukraine TV http://01.gen.tr/HasBahCa_IPTV/ukraina.m3u Ukraijna
-USA TV http://01.gen.tr/HasBahCa_IPTV/usa.m3u SAD
+#USA TV http://01.gen.tr/HasBahCa_IPTV/usa.m3u SAD
 Vietnam TV http://01.gen.tr/HasBahCa_IPTV/vietnam.m3u Vijetnam
 Lithuania TV http://01.gen.tr/HasBahCa_IPTV/Lithuania.m3u Litvanija
 WebCam WEBCAM http://01.gen.tr/HasBahCa_IPTV/webcam.m3u WorldWebCams
