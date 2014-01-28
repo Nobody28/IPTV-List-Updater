@@ -1,5 +1,5 @@
 ﻿
-FAQ - 11.11.2013 !
+FAQ - 28.01.2014 !
 
 1. For which systems the plugin is intended ?!
     The plugin should work on all OE2.0 Images. OE1.6 Images
