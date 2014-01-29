@@ -1,6 +1,6 @@
 Changelog:
 
-from 22.01.2014:
+from 29.01.2014:
 - add German Bouquet with Picons and EPG support
 
 from 22.01.2014:
