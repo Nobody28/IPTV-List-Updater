@@ -1,5 +1,9 @@
 Changelog:
 
+from 14.01.2014:
+- add new funktion for User downloadlist (/etc/enigma2/iptvlistupdater.user)
+- change Version to 1.32
+
 from 29.01.2014:
 - add German Bouquet with Picons and EPG support
 
