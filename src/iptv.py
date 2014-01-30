@@ -98,6 +98,8 @@ class IPTV(Screen):
         
     def getDownloadTxt(self):
         downloadPath = "/usr/lib/enigma2/python/Plugins/Extensions/IPTV-List-Updater/list/%s.txt" % language.getLanguage()[:2]
+        userlistPath = "/etc/enigma2/iptvlistupdater.user"
+        
         if not path.exists(downloadPath):
             downloadPath = "/usr/lib/enigma2/python/Plugins/Extensions/IPTV-List-Updater/list/en.txt"
 
@@ -105,7 +107,13 @@ class IPTV(Screen):
         f = open(downloadPath,'r')
         tmp = f.readlines()
         f.close
-                
+
+        if path.exists(userlistPath): # if user have his own list, then add this to the selection
+            f = open(userlistPath,'r')
+            userlisttmp = f.readlines()
+            f.close
+            tmp = tmp + userlisttmp
+
         for l in tmp:
             if l.startswith('#'):
                 continue
@@ -119,7 +127,7 @@ class IPTV(Screen):
                 self.downloadlist.append(ll)
                 self.iptvlist.append(ll[3])
             else:
-                continue
+                continue            
 
     def layoutFinished(self):
         self.loadCountry()
