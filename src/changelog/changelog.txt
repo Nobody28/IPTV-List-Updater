@@ -1,7 +1,7 @@
 Changelog:
 
 from 30.01.2014:
-- add new funktion for User downloadlist (/etc/enigma2/iptvlistupdater.user)
+- add new funktion for User downloadlist (/etc/enigma2/iptvlistupdater.user) Thx Black64
 - change Version to 1.32
 
 from 29.01.2014:
