@@ -1,5 +1,8 @@
 Changelog:
 
+from 06.02.2014:
+- add Olympia Livestreams
+
 from 30.01.2014:
 - add new funktion for User downloadlist (/etc/enigma2/iptvlistupdater.user) Thx Black64
 - change Version to 1.32
