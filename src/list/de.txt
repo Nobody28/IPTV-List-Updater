@@ -114,6 +114,7 @@ Germany TV https://dl.dropboxusercontent.com/s/al3cmo1slcgod3p/userbouquet.t_hom
 Teledunet TV https://dl.dropboxusercontent.com/s/4h52djay1lntvmv/userbouquet.teledunet.tv?dl=1&token_hash=AAF8g28Ow6CHOHEYszG4v65ICgibajehL7f0_WXTI_AtlA Teledunet B
 Germany TV https://dl.dropboxusercontent.com/s/s2jqllru1x6jhcp/userbouquet.Deutschland_sonstige.tv?dl=1&token_hash=AAHfxv2G3s7e7da28IXWqteO6_dfZvV2bKJjUj4RLjq8tw Deutschland_sonstige B
 Germany TV https://dl.dropboxusercontent.com/s/7ahmw1kdzbuyow4/userbouquet.deutsch_epg.tv?dl=1&token_hash=AAHTYf2gjBOnn0bRqBV2F2oiX8RjV7OcEhI1Lnpqp7lXOA Deutschland_mit_EPG B
+Sport TV https://dl.dropboxusercontent.com/s/pkjozqh52g78oyk/Olympia.m3u?dl=1&token_hash=AAGA5t628c_cG6UjADIVabkFamGz9F8UUqjkh0LoEU4vZg Olympia_2014
 #
 ########################################################################
 #                                                                      #
