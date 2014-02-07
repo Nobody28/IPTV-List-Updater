@@ -23,3 +23,4 @@ Translations:	- arabic ==> zozo1976
 	- german & english ==> Nobody28 & satinfo
 	- russia ==> xosajin
 	- serbia ==> Prokuplje
+	- persian ==> Eminem from openATV Forum
