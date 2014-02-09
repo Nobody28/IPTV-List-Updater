@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 #########################################
-#       IPTV List Updater		#
-#     by Nobody28 & satinfo 		#
+#       IPTV List Updater		            #
+#     by Nobody28 & satinfo 		        #
 #########################################
 
 from Screens.Screen import Screen
@@ -24,7 +24,7 @@ from credits import Credits
 from faq import FAQ
 import os
 
-Version = "1.33-09.02.14"
+Version = "1.40-10.02.14"
 
 class Start(Screen):
 	
