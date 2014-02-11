@@ -12,7 +12,7 @@ Hier gibts ein Video zu sehen ==> http://m.youtube.com/watch?v=tc7zs4wRFYg&deskt
 
 WO FINDE ICH DIE INSTALLATIONSFILES?
 Hier ==> https://github.com/Nobody28/IPTV-List-Updater/tree/master/IPKs
-oder bei allen Teams der OE-Alliance auf dem Downloadfeed (Grüne Taste - Grüne Taste - Extensions)
+oder bei allen Teams der OE-Alliance auf dem Downloadfeed (Grüne Taste - Grüne Taste - Extensions==> IPTV List Updater)
 
 WIE KANN ICH DAS PLUGIN MANUELL INSTALLIEREN?
 Die Files von hier ==> https://github.com/Nobody28/IPTV-List-Updater/tree/master/IPKs/mips32el (oder von hier ==> https://github.com/Nobody28/IPTV-List-Updater/tree/master/IPKs/mips32el-nf) per FTP nach /tmp kopieren.
