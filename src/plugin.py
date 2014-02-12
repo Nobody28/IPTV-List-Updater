@@ -75,7 +75,7 @@ class Start(Screen):
 		self.session.open(Credits)
 				
 	def change(self):
-		self.session.open(Changelog)
+		self.session.open(Changelog, Version)
 		
 	def faq(self):
 		self.session.open(FAQ)
@@ -89,5 +89,5 @@ def main(session, **kwargs):
 ###########################################################################
 
 def Plugins(**kwargs):
-	return [PluginDescriptor(name = "IPTV List Updater %s" % Version, description = "IPTV Bouquets by Nobody28 & satinfo", where = [PluginDescriptor.WHERE_PLUGINMENU], fnc = main, icon = "plugin.png"),
-			PluginDescriptor(name = "IPTV List Updater %s" % Version, description = "IPTV Bouquets by Nobody28 & satinfo", where = PluginDescriptor.WHERE_EXTENSIONSMENU, fnc=main)]
+	return [PluginDescriptor(name = "IPTV List Updater", description = "IPTV Bouquets by Nobody28 & satinfo", where = [PluginDescriptor.WHERE_PLUGINMENU], fnc = main, icon = "plugin.png"),
+			PluginDescriptor(name = "IPTV List Updater", description = "IPTV Bouquets by Nobody28 & satinfo", where = PluginDescriptor.WHERE_EXTENSIONSMENU, fnc=main)]

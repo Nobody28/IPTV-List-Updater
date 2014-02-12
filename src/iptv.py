@@ -177,13 +177,15 @@ class IPTV(Screen):
                     break
 
         if url == None:
-            self.session.open(MessageBox,_("Error, no url found"), MessageBox.TYPE_INFO)
+            msg = _('IPTV List Updater %s\n' % self.Version) + _("Error, no url found") + "\n" + _("Current selection: %s" % sel)
+            self.session.open(MessageBox, msg, MessageBox.TYPE_INFO)
             return
 
         name_file = self.file_filter(sel)
         self.Add_Script(name_file, True)
         file = self.Fetch_URL(url)
         if file.startswith("HTTP ERROR:") or file.startswith("HTTP download ERROR:") or file.startswith("HTTP URL ERROR:"):
+            file = _('IPTV List Updater %s\n' % self.Version) + "\n" + _("Current selection: %s" % sel) + "\n" + _("URL: %s" % url) + "\n" + file
             self.session.open(MessageBox,_(file), MessageBox.TYPE_INFO)
             return
 
