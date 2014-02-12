@@ -1,5 +1,11 @@
 Changelog:
 
+from 12.02.2014:
+- more Errorlogoutput (Thx Black64)
+- no Versionnumber at Plugindescription
+- no Versionnumber at Extensionsllist
+- add English Movies Bouquet (Thx HasBahCa)
+
 from 11.02.2014:
 - add Daenish Bouquet (Thx helveg6 from ATV Forum)
 
