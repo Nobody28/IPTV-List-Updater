@@ -36,7 +36,7 @@ China TV http://01.gen.tr/HasBahCa_IPTV/china.m3u China
 Czech TV http://01.gen.tr/HasBahCa_IPTV/czech.m3u Tschechische_Republik
 #Denmark TV http://01.gen.tr/HasBahCa_IPTV/Denmark.m3u Dänemark
 English TV http://01.gen.tr/HasBahCa_IPTV/ENGLISH_MOVIES_OLD.m3u Alte_Englisch_Filme
-#Englishmovies TV http://01.gen.tr/HasBahCa_IPTV/englishmovies.m3u Englische_Filme
+Englishmovies TV http://01.gen.tr/HasBahCa_IPTV/englishmovies.m3u Englische_Filme
 #Englishmovies TV http://01.gen.tr/HasBahCa_IPTV/englishmovies_abc.m3u Englische_Filme_ABC
 #Englishmovies TV http://01.gen.tr/HasBahCa_IPTV/englishmovies_def.m3u Englische_Filme_DEF
 #Englishmovies TV http://01.gen.tr/HasBahCa_IPTV/englishmovies_ghi.m3u Englische_Filme_GHI
