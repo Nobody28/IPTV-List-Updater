@@ -106,7 +106,7 @@ WebCam WEBCAM http://01.gen.tr/HasBahCa_IPTV/webcam.m3u WorldWebCams
 #                                                                      #
 ########################################################################
 #
-Germany RADIO https://dl.dropboxusercontent.com/s/qis72mhv35r6n5q/Deutschland-Radio.m3u?token_hash=AAHBii3iCNyclwuwm7DFdn4BuWQveXor6RQrTY1nkq9bng&dl=1 Deutsche_Radiosender
+Germany RADIO https://dl.dropboxusercontent.com/s/ggtl52kcpiod08j/Deutschland-Radio.m3u?dl=1&token_hash=AAGQ5LsncL9hOt6lAr1RE5h32Pu3lSkti5veXh9afsvPWw Deutsche_Radiosender
 Austria RADIO https://dl.dropboxusercontent.com/s/fsk2mjvwsof6fmp/Oestereich-Radio.m3u?dl=1&token_hash=AAGbbarWoYEWrxpvR3PV0SO1wAE3FGJQJlZG8Qc0QwQoXA Östereich_Radiosender
 Swiss RADIO https://dl.dropboxusercontent.com/s/df4tyw2ad3z9ybe/Schweiz-Radio.m3u?dl=1&token_hash=AAGCe5uxgPAT-6N1RUtVf-OLg2c2v790JBuZZpukCY0yIQ Schweizer_Radiosender
 Digibit TV http://DIGIBIT-000BCB:8080/m3u Digibit
