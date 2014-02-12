@@ -19,7 +19,7 @@ Balkanradio RADIO http://01.gen.tr/HasBahCa_IPTV//balkan_radio.m3u Balkan_Radio
 #
 3D TV http://01.gen.tr/HasBahCa_IPTV/3d.m3u 3D_TV
 XXX-Adult TV http://01.gen.tr/HasBahCa_IPTV/XXX.m3u XXX_Adult
-#XXX-Adult TV http://01.gen.tr/tsmedia/int_movies/XXX_vod+18.m3u XXX_Adult_Movies
+#XXX-Adult TV http://01.gen.tr/HasBahCa_IPTV/XXX_vod+18.m3u XXX_Adult_Movies
 Africa TV http://01.gen.tr/HasBahCa_IPTV/Afrika.m3u Africa
 Albania TV http://01.gen.tr/HasBahCa_IPTV/Albania.m3u Albanien
 Germany TV http://01.gen.tr/HasBahCa_IPTV/GERMAN_DEUTSCH.m3u Deutsch
