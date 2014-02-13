@@ -1,9 +1,9 @@
 Changelog:
 
 from 12.02.2014:
-- more Errorlogoutput (Thx Black64)
-- no Versionnumber at Plugindescription
-- no Versionnumber at Extensionsllist
+- more Errorlog output (Thx Black64)
+- no Versionnumber at Plugindescription (Thx Black64)
+- no Versionnumber at Extensionsllist (Thx Black64)
 - add English Movies Bouquet (Thx HasBahCa)
 
 from 11.02.2014:
