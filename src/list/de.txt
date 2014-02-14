@@ -99,7 +99,7 @@ Ukraine TV http://01.gen.tr/HasBahCa_IPTV/ukraina.m3u Ukraine
 USA TV http://01.gen.tr/HasBahCa_IPTV/usa_shows.m3u USA_SHOWS
 Vietnam TV http://01.gen.tr/HasBahCa_IPTV/vietnam.m3u Vietnam
 Baltic_Laender TV http://01.gen.tr/HasBahCa_IPTV/Baltic.m3u Litvanien_Baltic_Laender
-WebCam WEBCAM http://01.gen.tr/HasBahCa_IPTV/webcam.m3u WorldWebCams1
+WebCam WEBCAM http://01.gen.tr/HasBahCa_IPTV/webcam.m3u WorldWebCams_1
 #
 ########################################################################
 #                                                                      #
@@ -119,7 +119,7 @@ Germany Radio https://dl.dropboxusercontent.com/s/qsppqg0eop4njyh/userbouquet.Pa
 Olympia TV https://dl.dropboxusercontent.com/s/pkjozqh52g78oyk/Olympia.m3u?dl=1&token_hash=AAGA5t628c_cG6UjADIVabkFamGz9F8UUqjkh0LoEU4vZg Olympia_2014
 Russia TV http://iptv.lamp.ufa-it.ru/generate_m3u.php?num_list=001&shift=2 Russisch_SibirTelecom
 Denmark TV https://dl.dropboxusercontent.com/s/u15xiiedfoo1tu5/Daenisch.m3u?dl=1&token_hash=AAFQ8mKXCcTMPWmz-WRoWT4cvRNCTkdXv_cUjpo9HrLTkw Daenisch
-WebCam WEBCAM https://dl.dropboxusercontent.com/s/cfzrwoay9ndqnz2/userbouquet.livewebcams.tv?dl=1&token_hash=AAE4BAvdRLta_9Gz7Mg6gQ44rgQCqbMxR3Uu9D8CA0W4UQ WorlWebCams 2 B
+WebCam WEBCAM https://dl.dropboxusercontent.com/s/cfzrwoay9ndqnz2/userbouquet.livewebcams.tv?dl=1&token_hash=AAE4BAvdRLta_9Gz7Mg6gQ44rgQCqbMxR3Uu9D8CA0W4UQ WorlWebCams_2 B
 #
 ########################################################################
 #                                                                      #
