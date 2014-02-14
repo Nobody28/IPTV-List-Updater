@@ -1,5 +1,9 @@
 Changelog:
 
+from 14.02.2014:
+- change Deutsche Radiosender to EPG & Picon support
+- add first Streams Deutsche Partymusic
+
 from 12.02.2014:
 - more Errorlog output (Thx Black64)
 - no Versionnumber at Plugindescription (Thx Black64)
