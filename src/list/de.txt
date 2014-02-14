@@ -107,7 +107,6 @@ WebCam WEBCAM http://01.gen.tr/HasBahCa_IPTV/webcam.m3u WorldWebCams
 #                                                                      #
 ########################################################################
 #
-Germany RADIO https://dl.dropboxusercontent.com/s/ggtl52kcpiod08j/Deutschland-Radio.m3u?dl=1&token_hash=AAGQ5LsncL9hOt6lAr1RE5h32Pu3lSkti5veXh9afsvPWw Deutsche_Radiosender
 Austria RADIO https://dl.dropboxusercontent.com/s/fsk2mjvwsof6fmp/Oestereich-Radio.m3u?dl=1&token_hash=AAGbbarWoYEWrxpvR3PV0SO1wAE3FGJQJlZG8Qc0QwQoXA Östereich_Radiosender
 Swiss RADIO https://dl.dropboxusercontent.com/s/df4tyw2ad3z9ybe/Schweiz-Radio.m3u?dl=1&token_hash=AAGCe5uxgPAT-6N1RUtVf-OLg2c2v790JBuZZpukCY0yIQ Schweizer_Radiosender
 Digibit TV http://DIGIBIT-000BCB:8080/m3u Digibit
@@ -115,6 +114,8 @@ Germany TV https://dl.dropboxusercontent.com/s/al3cmo1slcgod3p/userbouquet.t_hom
 Teledunet TV https://dl.dropboxusercontent.com/s/4h52djay1lntvmv/userbouquet.teledunet.tv?dl=1&token_hash=AAF8g28Ow6CHOHEYszG4v65ICgibajehL7f0_WXTI_AtlA Teledunet B
 Germany TV https://dl.dropboxusercontent.com/s/s2jqllru1x6jhcp/userbouquet.Deutschland_sonstige.tv?dl=1&token_hash=AAHfxv2G3s7e7da28IXWqteO6_dfZvV2bKJjUj4RLjq8tw Deutschland_sonstige B
 Germany TV https://dl.dropboxusercontent.com/s/7ahmw1kdzbuyow4/userbouquet.deutsch_epg.tv?dl=1&token_hash=AAHTYf2gjBOnn0bRqBV2F2oiX8RjV7OcEhI1Lnpqp7lXOA Deutschland_mit_EPG B
+Germany Radio https://dl.dropboxusercontent.com/s/7cmzizxiryjdgdu/userbouquet.deutsche_radiosender_mit_EPG.radio?dl=1&token_hash=AAH3HXG5QifpVxfmv9K7ury4o0pSVPqXPsBewlWy3ZFDzg Deutsche_Radiosender B
+Germany Radio https://dl.dropboxusercontent.com/s/qsppqg0eop4njyh/userbouquet.Partymusik.radio?dl=1&token_hash=AAGini-qIzexgs_vbLv7bwBuqH-kj8Myz7MkCvpSSYJR1w Deutsche_Partymusik B
 Olympia TV https://dl.dropboxusercontent.com/s/pkjozqh52g78oyk/Olympia.m3u?dl=1&token_hash=AAGA5t628c_cG6UjADIVabkFamGz9F8UUqjkh0LoEU4vZg Olympia_2014
 Russia TV http://iptv.lamp.ufa-it.ru/generate_m3u.php?num_list=001&shift=2 Russisch_SibirTelecom
 Denmark TV https://dl.dropboxusercontent.com/s/u15xiiedfoo1tu5/Daenisch.m3u?dl=1&token_hash=AAFQ8mKXCcTMPWmz-WRoWT4cvRNCTkdXv_cUjpo9HrLTkw Daenisch
