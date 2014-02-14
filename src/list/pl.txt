@@ -80,7 +80,7 @@ Macedonia TV http://01.gen.tr/HasBahCa_IPTV/makadonia.m3u Macedonia
 USA TV http://01.gen.tr/HasBahCa_IPTV/usa.m3u USA
 Lithuania TV http://01.gen.tr/HasBahCa_IPTV/Lithuania.m3u Lithuania
 Korea TV http://01.gen.tr/HasBahCa_IPTV/Korea.m3u Korea
-WebCam WEBCAM http://01.gen.tr/HasBahCa_IPTV/webcam.m3u Świat_WebCams
+WebCam WEBCAM http://01.gen.tr/HasBahCa_IPTV/webcam.m3u Świat_WebCams_1
 XXX-Adult TV http://01.gen.tr/HasBahCa_IPTV/adult.m3u XXX_TV 
 USA TV http://01.gen.tr/HasBahCa_IPTV/usa_shows.m3u USA_SHOWS
 Nilesat TV http://01.gen.tr/HasBahCa_IPTV/nilesat.m3u NILESAT
@@ -99,6 +99,7 @@ Digibit TV http://DIGIBIT-000BCB:8080/m3u Digibit
 Germany TV https://dl.dropboxusercontent.com/s/al3cmo1slcgod3p/userbouquet.t_home_entertain.tv?dl=1&token_hash=AAHv5tdLx-0X4MjdPDuKwiAbTHtFkTGce1LgRSSO_xeIJA T_Home_Entertain B
 Teledunet TV https://dl.dropboxusercontent.com/s/4h52djay1lntvmv/userbouquet.teledunet.tv?dl=1&token_hash=AAF8g28Ow6CHOHEYszG4v65ICgibajehL7f0_WXTI_AtlA Teledunet B
 Germany TV https://dl.dropboxusercontent.com/s/7ahmw1kdzbuyow4/userbouquet.deutsch_epg.tv?dl=1&token_hash=AAHTYf2gjBOnn0bRqBV2F2oiX8RjV7OcEhI1Lnpqp7lXOA Deutschland_with_EPG B
+WebCam WEBCAM https://dl.dropboxusercontent.com/s/cfzrwoay9ndqnz2/userbouquet.livewebcams.tv?dl=1&token_hash=AAE4BAvdRLta_9Gz7Mg6gQ44rgQCqbMxR3Uu9D8CA0W4UQ WorlWebCams_2 B
 #
 ########################################################################
 #                                                                      #
