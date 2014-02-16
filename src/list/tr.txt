@@ -3,7 +3,7 @@
 # Flaggenanzeige Bouquettyp Downloadlink Bouquetname(Unterstriche werden im Plugin ausgeblendet) Bouquetfile
 ########################################################################
 #                                                                      #
-#                     HasBahCa Radio Listen                            #
+#                     HasBahCa Radio Lists                             #
 #                                                                      #
 ########################################################################
 #
@@ -15,7 +15,7 @@ INT_Radio RADIO http://01.gen.tr/HasBahCa_IPTV/int_radio.m3u INT_Radyolar_by_Has
 #
 ########################################################################
 #                                                                      #
-#                         HasBahCa TV Listen                           #
+#                         HasBahCa TV Lists                            #
 #                                                                      #
 ########################################################################
 #
@@ -106,6 +106,7 @@ Teledunet TV https://dl.dropboxusercontent.com/s/4h52djay1lntvmv/userbouquet.tel
 Germany TV https://dl.dropboxusercontent.com/s/s2jqllru1x6jhcp/userbouquet.Deutschland_sonstige.tv?dl=1&token_hash=AAHfxv2G3s7e7da28IXWqteO6_dfZvV2bKJjUj4RLjq8tw Deutschland_sonstige B
 Germany TV https://dl.dropboxusercontent.com/s/7ahmw1kdzbuyow4/userbouquet.deutsch_epg.tv?dl=1&token_hash=AAHTYf2gjBOnn0bRqBV2F2oiX8RjV7OcEhI1Lnpqp7lXOA Deutschland_with_EPG B
 WebCam WEBCAM https://dl.dropboxusercontent.com/s/cfzrwoay9ndqnz2/userbouquet.livewebcams.tv?dl=1&token_hash=AAE4BAvdRLta_9Gz7Mg6gQ44rgQCqbMxR3Uu9D8CA0W4UQ WorldWebCams_2 B
+Swiss TV https://dl.dropboxusercontent.com/s/ql8ihxn2fz3fm2u/userbouquet.schweiz_sonstige.tv?dl=1&token_hash=AAFVfmzH1Hb-QxRTAiNBX0wXIKksTagjQM4abRCyqJExQw Swiss_other B
 #
 ########################################################################
 #                                                                      #
