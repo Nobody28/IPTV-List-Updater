@@ -1,5 +1,8 @@
 Changelog:
 
+from 16.02.2014:
+- add Bouquet: Swiss other
+
 from 14.02.2014:
 - change Deutsche Radiosender to EPG & Picon support
 - add first Streams to Bouquet Deutsche Partymusic
