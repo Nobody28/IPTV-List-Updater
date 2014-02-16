@@ -120,6 +120,7 @@ Olympia TV https://dl.dropboxusercontent.com/s/pkjozqh52g78oyk/Olympia.m3u?dl=1&
 Russia TV http://iptv.lamp.ufa-it.ru/generate_m3u.php?num_list=001&shift=2 Russisch_SibirTelecom
 Denmark TV https://dl.dropboxusercontent.com/s/u15xiiedfoo1tu5/Daenisch.m3u?dl=1&token_hash=AAFQ8mKXCcTMPWmz-WRoWT4cvRNCTkdXv_cUjpo9HrLTkw Daenisch
 WebCam WEBCAM https://dl.dropboxusercontent.com/s/cfzrwoay9ndqnz2/userbouquet.livewebcams.tv?dl=1&token_hash=AAE4BAvdRLta_9Gz7Mg6gQ44rgQCqbMxR3Uu9D8CA0W4UQ WorldWebCams_2 B
+Swiss TV https://dl.dropboxusercontent.com/s/ql8ihxn2fz3fm2u/userbouquet.schweiz_sonstige.tv?dl=1&token_hash=AAFVfmzH1Hb-QxRTAiNBX0wXIKksTagjQM4abRCyqJExQw Schweiz_sonstige B
 #
 ########################################################################
 #                                                                      #
