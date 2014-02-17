@@ -1,4 +1,4 @@
-﻿
+
 FAQ - 28.01.2014 !
 
 1. Für welche Systeme ist das Plugin gedacht?!
@@ -52,7 +52,8 @@ FAQ - 28.01.2014 !
     Extensions/IPTV-List-Updater/list eine neue Zeile einfügen. 
     Die 4 Einträge müssen so lauten:
     
-    Flaggenname Bouquettyp Downloadpfad Bouquetname
+    Flaggenname Bouquettyp Downloadpfad Bouquetname B(für Bouquet-
+    file download)
     
     - Flaggenname = wählt entweder einen vorhandenen Flaggennamen 
       oder erstellt, wie unter 6. beschrieben, eine eigene Flagge
@@ -67,6 +68,19 @@ FAQ - 28.01.2014 !
     - Bouquetname = hier könnt ihr euer Bouquetnamen eintragen wie
       er im Plugin und nach Installation im TV Bouquet angezeigt
       wird.
+      
+    - Hier könnt Ihr ein B eintragen, dann wird das File nur
+      heruntergeladen und in Eurem System abgelegt.
     
     Nun müsst Ihr nur noch das Plugin aufrufen und die Installation
     für euer Bouquet ausführen.
+
+9. Wozu ist die iptvlistupdater.user Datei?
+    Die Datei dient dazu, dass Ihr Eure eigenen Downloadquellen 
+    speichern könnt, und diese nicht durch ein Pluginupdate über-
+    schrieben werden. Die Datei wird auch beim settings-Backup
+    gespeichert und kann bei einem neuflash wieder ergestellt 
+    werden!
+    
+    Wo muss diese Datei gespeichert werden?
+     In ==> /etc/enigma2
