@@ -32,6 +32,7 @@ Europe TV http://01.gen.tr/HasBahCa_IPTV/avrupa.m3u Europa_TV
 Ex-Yu TV http://01.gen.tr/HasBahCa_IPTV/ex-yug.m3u Ex-Jugosławia_TV
 Filmon TV http://01.gen.tr/HasBahCa_IPTV/filmon.m3u Filmon_TV
 France TV http://01.gen.tr/HasBahCa_IPTV/fransa.m3u Francja_TV
+Georgia TV http://01.gen.tr/HasBahCa_IPTV/Georgia.m3u Georgia_TV
 Greece TV http://01.gen.tr/HasBahCa_IPTV/greek.m3u Grecja_TV
 India TV http://01.gen.tr/HasBahCa_IPTV/india.m3u Indie_TV
 International-TV TV http://01.gen.tr/HasBahCa_IPTV/int.m3u International_TV
