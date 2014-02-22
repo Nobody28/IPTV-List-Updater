@@ -50,6 +50,7 @@ China TV http://01.gen.tr/HasBahCa_IPTV/china.m3u CIN_CHINA_by_HasBahCa
 Czech TV http://01.gen.tr/HasBahCa_IPTV/czech.m3u CEK_CUMHURIYETI_by_HasBahCa
 Ex-Yu TV http://01.gen.tr/HasBahCa_IPTV/ex-yug.m3u ESKI_YUGOSLAVYA_ULKELERI_by_HasBahCa
 France TV http://01.gen.tr/HasBahCa_IPTV/fransa.m3u FRANSIZCA_by_HasBahCa
+Georgia TV http://01.gen.tr/HasBahCa_IPTV/Georgia.m3u Georgien_by_HasBahCa
 Greece TV http://01.gen.tr/HasBahCa_IPTV/greek.m3u YUNANCA_by_HasBahCa
 Holland TV http://01.gen.tr/HasBahCa_IPTV/Holland.m3u HOLLANDA_by_HasBahCa
 India TV http://01.gen.tr/HasBahCa_IPTV/india.m3u HINDISTAN_by_HasBahCa
