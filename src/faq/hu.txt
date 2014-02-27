@@ -1,4 +1,4 @@
-Gyik gyüjtemény - 2013/11/11 !
+Gyik gyüjtemény - 2014/01/28 !
 
 1. Milyen rendszerekhez ajánlják a plugint?
    A pluginnak működnie kell az összes OE2.0 rendszerrel.
