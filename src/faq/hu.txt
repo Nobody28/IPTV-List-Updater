@@ -1,55 +1,72 @@
-Gyik gyüjtemeny - 2013/11/11 !
+Gyik gyüjtemény - 2013/11/11 !
 
-1. Melyik Rendszernek szánják a plugint?
-   A pluginnak működnie kell az összes OE2.0 systemmel.
-   Az OE 1.6 szisztema nem tamogatja a IPTV listakat.
+1. Milyen rendszerekhez ajánlják a plugint?
+   A pluginnak működnie kell az összes OE2.0 rendszerrel.
+   Az OE 1.6 rendszer nem támogatja a IPTV csomagokat.
 
 2. Mit tehetek, ha nem tudom telepíteni a plugint?
-   Bontsa ki a bővítmény példaul 7zip. Másolja az összes fájlt egy FTP
-   Program (pl. FileZilla) az a doboz, és tegye a jogait
-   Scripts mappában
+   Bontsd ki a plugint (pl. a 7zippel). Másold az összes fájlt egy FTP
+   Programmal (pl. FileZillával) a boxra, és tegyétek a jogait a
+   Scripts mappába.
    "/ usr/lib/enigma2/python/Plugins/Extensions/IPTV-List-Updater/scripts"
    a 755
 
-3. Milyen vevők játszhatnak mms stream?
-   Mivel a 2014/01/10:
-   VU +, 800HD PVR nincs mms támogatást!
-   Csak Xtrend minden, dm500hd, 800se, 7020HD, Odin M7, Odin M9,
-   Telestar Starsat LX, Axas Class M
+3. Milyen vevők tudják a sztreameket lejátszani? 
+   Állás: 2014/01/28:
+  Mindegyik Xtrend, dm500hd, dm800se és dm7020hd, Odin M7, Odin M9,
+   Telestar Starsat LX, Axas Class M, mindegyik VU+
+   
 
-4. Mit kell tennem, hogy további patakokat a listákra tehessek?
-   Keresi megfelelő linkre listák az interneten. Tesztelik, és tegye őket a
-   az egyik a sok szál. Ez biztonságosabb,
+4. Mit kell tennem, hogy további sztreameket tudjak a listára rakni?
+   Keress megfelelő linkeket vagy listákat az interneten. Teszteld le, és tedd őket a
+   következö fórumokba:
    www.opena.tv
    www.gigablue-support.com
-   Biztossabb, ha Nobody28-at, satinfo-t vagy HasBahCa-t
-   personal message-al kerdeztek meg.
+   Biztossabb, ha Nobody28-al, satinfo-val, vagy HasBahCa-val
+   felveszitek a kapcsolatot.
 
-5. Hogyan lehet törölni az adolistat megint?
-   Egyedi adolistat ismét törölheti a plugin befejezése után:
-   Lefelé mutató nyíl => kedvencek (kék gomb) => törlendő Bouquet
-   go => Menu => Bejegyzés törlése=>rendben van
+5. Hogyan lehet a listákat újra törölni?
+   A listákat  a plugin befejezése után tudjátok törölni:
+   Lefelé mutató nyíl => kedvencek (kék gomb) => a törlendő listára
+   menni => Menü gombot megnyomni => Bejegyzést törölni=>OK-gombot megnyomni
   
 
-6. Telepíthető saját zászló?
-   Zászlóknak kell nevezni, mint az első helyen a download.txt képest.txt   
+6. Telepíthetők saját zászlók?
+   A Zászlóknak mint az elsö pozíció nevének kell a GUI nyelv szerint a nyelvfájlban (pl. a némethez de.txt) az /usr/lib/enigma2/python/Plugins/Extensions/IPTV-List-Updater/list lenni neveknek kell nevezni, mint az első helyen a download.txt képest.txt
    a / usr/lib/enigma2/python/Plugins/Extensions/IPTV-List-
-   Updater / lista van, és a PNG formátumú és 270 * 200 pixel (8 bit) meretü.
-   Tarolva kell hogy legyenek /usr/lib/enigma2/python/Plugins/Extensions/IPTV-List-
-   Updater/images szisztema alatt.
+   Updater / list jegyzékben, PNG formátumban, 270x200 Pixel(8 Bit) méretben  lenni.
+   Ezeket aztán az /usr/lib/enigma2/python/Plugins/Extensions/IPTV-List-Updater/images jegyzékben kell  tárolni/kopírozni. 
 
-7. Tudok eggyes streaminglistakat lathatatlanna tenni?
-   Az aktaban atdolgozzuk az /usr/lib/enigma2/python/Plugins/
-   Extensions/IPTV-List-Updater/list adatot download.txt  peldaul Notepad++-al
-   es töröljetek minden jelet amit nem akartok hasznalni.
-   Ne felejtsetek az adatokat elöször biztositani vagy tarolni.
+7. Tudok egyedi streaminglistákat is láthatatlanná tenni?
+   Átdolgozod az  /usr/lib/enigma2/python/Plugins/
+   Extensions/IPTV-List-Updater/list aktában a GUI nyelv szerint,pl.deutsch de.txt Notepad++ adatot és kitörölsz minden sort, amit nem szeretnél használni. 
+   Ne felejtsd el az adatokat elöször biztositani.
 
-8. Hogyan tudok sajat m3u Files beepiteni es atvaltoztatni?
-   Ahhoz kell egy m3u File peldaul a dropbox-ra tölteni.
-   Utana a download.txt adatokban /usr/lib/enigma2
-   /python/Plugins/Extensions/IPTV-List-Updater/list egy uj bekezdest.
+8. Hogyan tudok saját m3u fájlokat beepiteni és konvertálni?
+   Ahhoz egy m3u fájlt pl.a dropboxra kell tölteni.  
+   Aztán a  GUI nyelv szerint a nyelvfájlba(pl.deutsch de.text) az /usr/lib/enigma2/python/Plugins/Extensions/IPTV-List-Updater/list /usr/lib/enigma2
+   /python/Plugins/Extensions/IPTV-List-Updater/list-be egy uj bekezdést kell rakni.
    A 4 beirasoknak igy kell hangzania:
 
-   Zaszlonev listatipus ( TV vagy radio ) letöltesi ut listanev
+   Zászlónév Listatipus ( TV vagy radio ) Letöltési út Listanév
 
-   Most mar csak a Plugin-t kell felhivni es az installatiot a listatokon veghezvinni.
+   Most már csak a Plugin-t kell felhivni es az installációt a listádon végrehajtani.
+
+- Zászlónév = válassz vagy egy már meglévö zászlónevet vagy hozz létre egy saját zászlót, úgy ahogy a 6-os pontban levan írva
+
+- Zászlótipus = 3 Zászlótipus van ( TV, RADIO vagy WEBCAM )
+
+- Letöltési út = Link az m3u fájlhoz a szervereden vagy a dropbox-nál kopíroznod kell a linket a "Letöltés"-be és mint Letöltési út a nyelvfájlba tenni és nem az m3u fájl linkjét.
+
+- Listanév = itt betudod rakni a listaneveteket hogy az a pluginban és az installáció után a TV listán hogyan jelenjen meg.
+
+- Itt ha beraksz rakni egy B-t,akkor a fájl csak le lessz töltve és a rendszeretekben lessz tárolva.
+
+Most már csak a plugint kell elöhívnod és az installációt a listádhoz elvégezni.
+
+9. Miért van az iptvlistupdater.user fájl?
+ 
+A fájl arra van hogy ti a saját letöltési forrásaitokat tárolni tudjátok és hogy ezek egy Plugin aktualizálás miatt ne íródjanak át.
+A fájlt egy beállítási biztosításnál is lehet tárolni és egy újraíndításnál megint létre lehet hozni!
+
+Hol kell ezt a fájlt tárolni?  ==>: /etc/enigma2
