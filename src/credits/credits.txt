@@ -18,7 +18,7 @@ Translations:	- arabic ==> zozo1976
 	- polish ==> miromoni
 	- turkish ==> HasBahCa
 	- dutch ==> SatKiekerd, Black_64
-	- hungarian ==> NaseDC & wife
+	- hungarian ==> pisti
 	- italian ==> satinfo
 	- german & english ==> Nobody28 & satinfo
 	- russia ==> xosajin
