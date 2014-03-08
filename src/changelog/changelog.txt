@@ -1,5 +1,8 @@
 Changelog:
 
+from 08.03.2014:
+- add Bouquet:  English Vietnam Movies
+
 from 27.02.2014:
 - add new language-file: hungary (Thx @pisti)
 
