@@ -34,15 +34,16 @@ Bulgaria TV http://01.gen.tr/HasBahCa_IPTV/bulgar_bulsat.m3u Bugarska_BULSAT
 China TV http://01.gen.tr/HasBahCa_IPTV/china.m3u Kina
 Czech TV http://01.gen.tr/HasBahCa_IPTV/czech.m3u Češka Republika
 Denmark TV http://01.gen.tr/HasBahCa_IPTV/Denmark.m3u Danska
-Englishmovies TV http://01.gen.tr/HasBahCa_IPTV/englishmovies.m3u Engleske_Filmove
-Englishmovies TV http://01.gen.tr/HasBahCa_IPTV/englishmovies.m3u English_Movies_Full
-Englishmovies TV http://01.gen.tr/HasBahCa_IPTV/englishmovies_abc.m3u Engleske_Filmove_ABC
-Englishmovies TV http://01.gen.tr/HasBahCa_IPTV/englishmovies_def.m3u Engleske_Filmove_DEF
-Englishmovies TV http://01.gen.tr/HasBahCa_IPTV/englishmovies_ghi.m3u Engleske_Filmove_GHI
-Englishmovies TV http://01.gen.tr/HasBahCa_IPTV/englishmovies_mno.m3u Engleske_Filmove_MNO
-Englishmovies TV http://01.gen.tr/HasBahCa_IPTV/englishmovies_prs.m3u Engleske_Filmove_PRS
-Englishmovies TV http://01.gen.tr/HasBahCa_IPTV/englishmovies_t.m3u Engleske_Filmove_T
-Englishmovies TV http://01.gen.tr/HasBahCa_IPTV/englishmovies_u-z.m3u Engleske_Filmove_U-Z
+#Englishmovies TV http://01.gen.tr/HasBahCa_IPTV/englishmovies.m3u Engleske_Filmove
+#Englishmovies TV http://01.gen.tr/HasBahCa_IPTV/englishmovies.m3u English_Movies_Full
+#Englishmovies TV http://01.gen.tr/HasBahCa_IPTV/englishmovies_abc.m3u Engleske_Filmove_ABC
+#Englishmovies TV http://01.gen.tr/HasBahCa_IPTV/englishmovies_def.m3u Engleske_Filmove_DEF
+#Englishmovies TV http://01.gen.tr/HasBahCa_IPTV/englishmovies_ghi.m3u Engleske_Filmove_GHI
+#Englishmovies TV http://01.gen.tr/HasBahCa_IPTV/englishmovies_mno.m3u Engleske_Filmove_MNO
+#Englishmovies TV http://01.gen.tr/HasBahCa_IPTV/englishmovies_prs.m3u Engleske_Filmove_PRS
+#Englishmovies TV http://01.gen.tr/HasBahCa_IPTV/englishmovies_t.m3u Engleske_Filmove_T
+#Englishmovies TV http://01.gen.tr/HasBahCa_IPTV/englishmovies_u-z.m3u Engleske_Filmove_U-Z
+Englishmovies TV http://01.gen.tr/HasBahCa_IPTV/English_Vietnam_Movies.m3u English_Vietnam_Movies
 Ex-Yu TV http://01.gen.tr/HasBahCa_IPTV/ex-yug.m3u Ex-Yu
 Filmon TV http://01.gen.tr/HasBahCa_IPTV/filmon.m3u Filmon
 France TV http://01.gen.tr/HasBahCa_IPTV/fransa.m3u Francuska
