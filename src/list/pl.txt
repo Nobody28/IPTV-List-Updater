@@ -28,6 +28,7 @@ Bulgaria TV http://01.gen.tr/HasBahCa_IPTV/bulgar.m3u Bułgaria_TV
 China TV http://01.gen.tr/HasBahCa_IPTV/china.m3u Chiny_TV
 Germany TV http://01.gen.tr/HasBahCa_IPTV/almanca.m3u Niemcy_TV
 English TV http://01.gen.tr/HasBahCa_IPTV/ingilizce.m3u Anglia_TV
+Englishmovies TV http://01.gen.tr/HasBahCa_IPTV/English_Vietnam_Movies.m3u Anglia_Vietnam_Movies
 Europe TV http://01.gen.tr/HasBahCa_IPTV/avrupa.m3u Europa_TV
 Ex-Yu TV http://01.gen.tr/HasBahCa_IPTV/ex-yug.m3u Ex-Jugosławia_TV
 Filmon TV http://01.gen.tr/HasBahCa_IPTV/filmon.m3u Filmon_TV
