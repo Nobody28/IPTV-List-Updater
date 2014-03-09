@@ -252,6 +252,11 @@ class IPTV(Screen):
                 line = line.replace('#EXTINF:0,','#DESCRIPTION: ')
                 line = line.replace('#EXTINF:-1 tvg-name=','#DESCRIPTION: ')
                 line = line.replace('#EXTINF:-1 tvg-shift=2 ,','#DESCRIPTION: ')
+                line = line.replace('#EXTINF:-1 group-title=','#DESCRIPTION: ')
+                line = line.replace('tvg-name=','')
+                line = line.replace('tvg-shift=2 ,','')
+                line = line.replace('tvg-shift=2 tvg-logo=-TV ,','')
+                line = line.replace('tvg-shift=2 tvg-logo=','')
                 tmp = line
             else:
                 if self.type.upper() == 'TV' and self.convert:
@@ -553,6 +558,11 @@ class IPTV_Mod(Screen):
                 line = line.replace('#EXTINF:0,','#DESCRIPTION: ')
                 line = line.replace('#EXTINF:-1 tvg-name=','#DESCRIPTION: ')
                 line = line.replace('#EXTINF:-1 tvg-shift=2 ,','#DESCRIPTION: ')
+                line = line.replace('#EXTINF:-1 group-title=','#DESCRIPTION: ')
+                line = line.replace('tvg-name=','')
+                line = line.replace('tvg-shift=2 ,','')
+                line = line.replace('tvg-shift=2 tvg-logo=-TV ,','')
+                line = line.replace('tvg-shift=2 tvg-logo=','')
                 tmp = line
             else:
                 if self.type.upper() == 'TV' and self.convert:

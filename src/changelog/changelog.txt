@@ -1,5 +1,8 @@
 Changelog:
 
+from 09.03.2014:
+- fix Converter: Russia SibirTelecom
+
 from 08.03.2014:
 - add Bouquet:  English Vietnam Movies
 
