@@ -3,22 +3,23 @@
 # Flaggenanzeige Bouquettyp Downloadlink Bouquetname(Unterstriche werden im Plugin ausgeblendet) Bouquetfile
 ########################################################################
 #                                                                      #
-#                     HasBahCa Radio Lists                             #
+#                     HasBahCa Radio Listen                            #
 #                                                                      #
 ########################################################################
 #
+INT_RADIO RADIO http://01.gen.tr/HasBahCa_IPTV/int_radio.m3u ULUSLARARASI_RADYOLAR
 Germany RADIO http://01.gen.tr/HasBahCa_IPTV/Radio-Deutschland-WDR2.m3u WDR_Radiosender
-Turkey RADIO http://01.gen.tr/HasBahCa_IPTV/radyolar.m3u Turk_Radio
-Balkanradio RADIO http://01.gen.tr/HasBahCa_IPTV/balkan_radio.m3u Balkan_Radio
+Turkey RADIO http://01.gen.tr/HasBahCa_IPTV/radyolar.m3u Turk_Radyolari_by HasBahCa
+Balkanradio RADIO http://01.gen.tr/HasBahCa_IPTV//balkan_radio.m3u Balkan_Radyolari_by_HasBahCa
 NesetErtas RADIO http://01.gen.tr/HasBahCa_IPTV/Neset_Ertas.m3u Neset_Ertas_by_HasBahCa
-INT_Radio RADIO http://01.gen.tr/HasBahCa_IPTV/int_radio.m3u INT_Radyolar_by_HasBahCa
 #
 ########################################################################
 #                                                                      #
-#                         HasBahCa TV Lists                            #
+#                         HasBahCa TV Listen                           #
 #                                                                      #
 ########################################################################
 #
+Turkey-Main TV http://01.gen.tr/templates/adsiz.m3u DSMART_DIGITURK
 Turkey-Main TV http://01.gen.tr/HasBahCa_IPTV/turk_ulusal.m3u TURKIYE_ULUSAL_by_HasBahCa
 Turkey-Main TV http://01.gen.tr/HasBahCa_IPTV/turk_ulusal_yedek.m3u TURKIYE_YEDEK_by_HasBahCa
 Turkey-Main TV http://01.gen.tr/HasBahCa_IPTV/turk_yerel.m3u TURKIYE_YEREL_by_HasBahCa
@@ -50,7 +51,6 @@ China TV http://01.gen.tr/HasBahCa_IPTV/china.m3u CIN_CHINA_by_HasBahCa
 Czech TV http://01.gen.tr/HasBahCa_IPTV/czech.m3u CEK_CUMHURIYETI_by_HasBahCa
 Ex-Yu TV http://01.gen.tr/HasBahCa_IPTV/ex-yug.m3u ESKI_YUGOSLAVYA_ULKELERI_by_HasBahCa
 France TV http://01.gen.tr/HasBahCa_IPTV/fransa.m3u FRANSIZCA_by_HasBahCa
-Georgia TV http://01.gen.tr/HasBahCa_IPTV/Georgia.m3u Georgien_by_HasBahCa
 Greece TV http://01.gen.tr/HasBahCa_IPTV/greek.m3u YUNANCA_by_HasBahCa
 Holland TV http://01.gen.tr/HasBahCa_IPTV/Holland.m3u HOLLANDA_by_HasBahCa
 India TV http://01.gen.tr/HasBahCa_IPTV/india.m3u HINDISTAN_by_HasBahCa
@@ -78,38 +78,47 @@ Switzerland TV http://01.gen.tr/HasBahCa_IPTV/Switzerland.m3u ISVICRE_by_HasBahC
 Slovakai TV http://01.gen.tr/HasBahCa_IPTV/Slovakia_Slovenia.m3u SLOVAKYA_Slovenya_by_HasBahCa
 Serbia TV http://01.gen.tr/HasBahCa_IPTV/Serbia_Croatia.m3u SIRBiSTAN_HIRVATISTAN_by_HasBahCa
 Vietnam TV http://01.gen.tr/HasBahCa_IPTV/vietnam.m3u VIETNAM_by_HasBahCa
-UKRAYNA TV http://01.gen.tr/HasBahCa_IPTV/ukraina.m3u UKRAYNA_by_HasBahCa
 USA TV http://01.gen.tr/HasBahCa_IPTV/usa.m3u ABD-USA_by_HasBahCa
 USA TV http://01.gen.tr/HasBahCa_IPTV/usa_shows.m3u ABD-USA_SHOWS_by_HasBahCa
 Filmon TV http://01.gen.tr/HasBahCa_IPTV/filmon.m3u Filmon_by_HasBahCa
 ILIVE_TO TV http://01.gen.tr/HasBahCa_IPTV/ilive_to.m3u ILIVE_TO_by_HasBahCa
 Teledunet TV http://01.gen.tr/HasBahCa_IPTV/Teledunet.m3u Teledunet_by_HasBahCa
-WebCam TV http://01.gen.tr/HasBahCa_IPTV/webcam.m3u WEBCAM_1_by_HasBahCa
+WebCam TV http://01.gen.tr/HasBahCa_IPTV/webcam.m3u WEBCAM_by_HasBahCa
 English TV http://01.gen.tr/HasBahCa_IPTV/English.m3u INGILIZCE_by_HasBahCa
+English TV http://01.gen.tr/HasBahCa_IPTV/englishmovies.m3u ENG_MOVIES_by_HasBahCa
 English TV http://01.gen.tr/HasBahCa_IPTV/ENGLISH_MOVIES_OLD.m3u ESKI_INGILIZCE_FILMLER_by_HasBahCa
-Englishmovies TV http://01.gen.tr/HasBahCa_IPTV/English_Vietnam_Movies.m3u English_Vietnam_Movies_by_HasBahCa
 Russia TV http://01.gen.tr/HasBahCa_IPTV/RUS_movies.m3u RUSCA_FILMLER_by_HasBahCa
-Nilesat TV http://01.gen.tr/HasBahCa_IPTV/nilesat.m3u NILESAT_by_HasBahCa
+#Nilesat TV http://01.gen.tr/HasBahCa_IPTV/nilesat.m3u NILESAT_by_HasBahCa
 XXX-Adult TV http://01.gen.tr/HasBahCa_IPTV/XXX.m3u XXX_YETISKIN
 #XXX-Adult TV http://01.gen.tr/tsmedia/int_movies/XXX_vod+18.m3u XXX_Adult_Movies
+Russia TV http://iptv.lamp.ufa-it.ru/generate_m3u.php?num_list=001 RUS_SIBIR_TELEKOM
+Georgia TV http://01.gen.tr/HasBahCa_IPTV/Georgia.m3u GÜRCISTAN_by_HasBahCa
+YOUTUBE TV http://01.gen.tr/HasBahCa_IPTV/youtube.m3u YOUTUBE_by_HasBahCa
+Vietnam TV http://01.gen.tr/HasBahCa_IPTV/vietnam_series_karakoe_clip.m3u Vietnam_Series_Karakoe_Clip
+Vietnam TV http://01.gen.tr/HasBahCa_IPTV/English_Vietnam_Movies.m3u Vietnam_English_Movies
+Cartoons TV http://01.gen.tr/HasBahCa_IPTV/cartoons.m3u CARTOONS
 #
 ########################################################################
 #                                                                      #
-#                          Nobody28 Lists                              #
+#                         Nobody28 Listen                              #
 #                                                                      #
 ########################################################################
 #
-Germany RADIO https://dl.dropboxusercontent.com/s/qis72mhv35r6n5q/Deutschland-Radio.m3u?token_hash=AAHBii3iCNyclwuwm7DFdn4BuWQveXor6RQrTY1nkq9bng&dl=1 Deutsche_Radiosender
 Austria RADIO https://dl.dropboxusercontent.com/s/fsk2mjvwsof6fmp/Oestereich-Radio.m3u?dl=1&token_hash=AAGbbarWoYEWrxpvR3PV0SO1wAE3FGJQJlZG8Qc0QwQoXA Östereich_Radiosender
 Swiss RADIO https://dl.dropboxusercontent.com/s/df4tyw2ad3z9ybe/Schweiz-Radio.m3u?dl=1&token_hash=AAGCe5uxgPAT-6N1RUtVf-OLg2c2v790JBuZZpukCY0yIQ Schweizer_Radiosender
 Digibit TV http://DIGIBIT-000BCB:8080/m3u Digibit
 Germany TV https://dl.dropboxusercontent.com/s/al3cmo1slcgod3p/userbouquet.t_home_entertain.tv?dl=1&token_hash=AAHv5tdLx-0X4MjdPDuKwiAbTHtFkTGce1LgRSSO_xeIJA T_Home_Entertain B
 Teledunet TV https://dl.dropboxusercontent.com/s/4h52djay1lntvmv/userbouquet.teledunet.tv?dl=1&token_hash=AAF8g28Ow6CHOHEYszG4v65ICgibajehL7f0_WXTI_AtlA Teledunet B
 Germany TV https://dl.dropboxusercontent.com/s/s2jqllru1x6jhcp/userbouquet.Deutschland_sonstige.tv?dl=1&token_hash=AAHfxv2G3s7e7da28IXWqteO6_dfZvV2bKJjUj4RLjq8tw Deutschland_sonstige B
-Germany TV https://dl.dropboxusercontent.com/s/7ahmw1kdzbuyow4/userbouquet.deutsch_epg.tv?dl=1&token_hash=AAHTYf2gjBOnn0bRqBV2F2oiX8RjV7OcEhI1Lnpqp7lXOA Deutschland_with_EPG B
+Germany TV https://dl.dropboxusercontent.com/s/7ahmw1kdzbuyow4/userbouquet.deutsch_epg.tv?dl=1&token_hash=AAHTYf2gjBOnn0bRqBV2F2oiX8RjV7OcEhI1Lnpqp7lXOA Deutschland_mit_EPG B
+Germany Radio https://dl.dropboxusercontent.com/s/7cmzizxiryjdgdu/userbouquet.deutsche_radiosender_mit_EPG.radio?dl=1&token_hash=AAH3HXG5QifpVxfmv9K7ury4o0pSVPqXPsBewlWy3ZFDzg Deutsche_Radiosender B
+Germany Radio https://dl.dropboxusercontent.com/s/qsppqg0eop4njyh/userbouquet.Partymusik.radio?dl=1&token_hash=AAGini-qIzexgs_vbLv7bwBuqH-kj8Myz7MkCvpSSYJR1w Deutsche_Partymusik B
+Russia TV http://iptv.lamp.ufa-it.ru/generate_m3u.php?num_list=001&shift=2 Russisch_SibirTelecom
+Denmark TV https://dl.dropboxusercontent.com/s/u15xiiedfoo1tu5/Daenisch.m3u?dl=1&token_hash=AAFQ8mKXCcTMPWmz-WRoWT4cvRNCTkdXv_cUjpo9HrLTkw Daenisch
 WebCam WEBCAM https://dl.dropboxusercontent.com/s/cfzrwoay9ndqnz2/userbouquet.livewebcams.tv?dl=1&token_hash=AAE4BAvdRLta_9Gz7Mg6gQ44rgQCqbMxR3Uu9D8CA0W4UQ WorldWebCams_2 B
-Swiss TV https://dl.dropboxusercontent.com/s/ql8ihxn2fz3fm2u/userbouquet.schweiz_sonstige.tv?dl=1&token_hash=AAFVfmzH1Hb-QxRTAiNBX0wXIKksTagjQM4abRCyqJExQw Swiss_other B
-Sport TV https://dl.dropboxusercontent.com/s/o4a3944g460tqci/userbouquet.deutsch_sport.tv?dl=1&token_hash=AAFXzgYviaApQd_YYlLKLPrMx7tK-jbhly3dmvGFZybzbw German_Sport B
+Swiss TV https://dl.dropboxusercontent.com/s/ql8ihxn2fz3fm2u/userbouquet.schweiz_sonstige.tv?dl=1&token_hash=AAFVfmzH1Hb-QxRTAiNBX0wXIKksTagjQM4abRCyqJExQw Schweiz_sonstige B
+Sport TV https://dl.dropboxusercontent.com/s/o4a3944g460tqci/userbouquet.deutsch_sport.tv?dl=1&token_hash=AAFXzgYviaApQd_YYlLKLPrMx7tK-jbhly3dmvGFZybzbw Deutsch_Sport B
+#
 #
 ########################################################################
 #                                                                      #
