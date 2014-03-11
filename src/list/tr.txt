@@ -96,7 +96,7 @@ Georgia TV http://01.gen.tr/HasBahCa_IPTV/Georgia.m3u GÜRCISTAN_by_HasBahCa
 YOUTUBE TV http://01.gen.tr/HasBahCa_IPTV/youtube.m3u YOUTUBE_by_HasBahCa
 Vietnam TV http://01.gen.tr/HasBahCa_IPTV/vietnam_series_karakoe_clip.m3u Vietnam_Series_Karakoe_Clip
 Vietnam TV http://01.gen.tr/HasBahCa_IPTV/English_Vietnam_Movies.m3u Vietnam_English_Movies
-Cartoons TV http://01.gen.tr/HasBahCa_IPTV/cartoons.m3u CARTOONS
+Cartoons TV http://01.gen.tr/HasBahCa_IPTV/cartoons.m3u ÇİZGİ_FİLM
 #
 ########################################################################
 #                                                                      #
