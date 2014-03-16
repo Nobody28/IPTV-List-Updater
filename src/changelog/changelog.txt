@@ -1,5 +1,8 @@
 Changelog:
 
+from 16.03.2014:
+- add first Streams for Livestreamer (Thx @mydebian)
+
 from 09.03.2014:
 - fix Converter: Russia SibirTelecom
 
