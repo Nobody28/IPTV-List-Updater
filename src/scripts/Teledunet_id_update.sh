@@ -1,8 +1,9 @@
 ##!/bin/sh
+#added UA 18.03.2014 testi
 #Get time_player
 
 curl -c "teledunet.cks" "http://www.teledunet.com" > /dev/null 2>&1
-id0=`curl -b "teledunet.cks" -e "http://www.teledunet.com" "http://www.teledunet.com/tv_/?teledunet&no_pub" 2>/dev/null | sed -n '/^time_player/{s/^time_player=\([0-9.+E]\+\);.*$/\1/p;q}'`
+id0=`curl -A "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14" -b "teledunet.cks" -e "http://www.teledunet.com" "http://www.teledunet.com/tv_/?teledunet&no_pub" 2>/dev/null | sed -n '/^time_player/{s/^time_player=\([0-9.+E]\+\);.*$/\1/p;q}'`
 id0=`printf "%13.0f" $id0`
 echo $id0
 
