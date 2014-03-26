@@ -1,5 +1,11 @@
 Changelog:
 
+from 26.03.2014:
+- several fixes: (Thx Black_64)
+  - fix hu.txt
+  - fix ( ) in bouquet name
+  - added socket timeout
+
 from 20.03.2014:
 - fix ID0 Update Teledunet (Thx testi)
 
