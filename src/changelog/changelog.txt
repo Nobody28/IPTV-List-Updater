@@ -6,7 +6,8 @@ from 26.03.2014:
   - fix ( ) in bouquet name
   - added socket timeout
   - add version to debug 
-  
+-fix ar.txt
+
 from 20.03.2014:
 - fix ID0 Update Teledunet (Thx testi)
 
