@@ -37,7 +37,6 @@ class IPTV(Screen):
         self.session = session
         self.Version = args
         path = "/usr/lib/enigma2/python/Plugins/Extensions/IPTV-List-Updater/skins/original/IPTV.xml"
-        print path
         with open(path, "r") as f:
             self.skin = f.read()
             f.close()
@@ -74,6 +73,7 @@ class IPTV(Screen):
         self["key_green"] = Label(_("Install"))
         self["key_yellow"] = Label(_("Install all"))
         self["key_blue"] = Label(_("Update list"))
+        print"[IPTVList] Current Version: %s" % self.Version
         print"[IPTVList] Current Language: %s" % config.osd.language.getValue()
         self.onLayoutFinish.append(self.layoutFinished)
         
@@ -99,7 +99,7 @@ class IPTV(Screen):
     def getDownloadTxt(self):
         downloadPath = "/usr/lib/enigma2/python/Plugins/Extensions/IPTV-List-Updater/list/%s.txt" % language.getLanguage()[:2]
         userlistPath = "/etc/enigma2/iptvlistupdater.user"
-        print downloadPath
+
         if not path.exists(downloadPath):
             downloadPath = "/usr/lib/enigma2/python/Plugins/Extensions/IPTV-List-Updater/list/en.txt"
 
