@@ -25,7 +25,7 @@ from faq import FAQ
 import os
 import urllib2
 import ssl
-
+import socket
 
 class IPTV(Screen):
                 
@@ -99,7 +99,7 @@ class IPTV(Screen):
     def getDownloadTxt(self):
         downloadPath = "/usr/lib/enigma2/python/Plugins/Extensions/IPTV-List-Updater/list/%s.txt" % language.getLanguage()[:2]
         userlistPath = "/etc/enigma2/iptvlistupdater.user"
-        
+        print downloadPath
         if not path.exists(downloadPath):
             downloadPath = "/usr/lib/enigma2/python/Plugins/Extensions/IPTV-List-Updater/list/en.txt"
 
@@ -184,12 +184,13 @@ class IPTV(Screen):
         name_file = self.file_filter(sel)
         self.Add_Script(name_file, True)
         file = self.Fetch_URL(url)
-        if file.startswith("HTTP ERROR:") or file.startswith("HTTP download ERROR:") or file.startswith("HTTP URL ERROR:"):
+        if file.startswith("HTTP ERROR:") or file.startswith("HTTP download ERROR:") or file.startswith("HTTP URL ERROR:") or file.startswith("SOCKET TIMEOUT ERROR:"):
             file = _('IPTV List Updater %s\n' % self.Version) + "\n" + _("Current selection: %s" % sel) + "\n" + _("URL: %s" % url) + "\n" + file
             self.session.open(MessageBox,_(file), MessageBox.TYPE_INFO)
             return
 
         self.Convert_m3u(sel, file)
+        self.Remove_hooks()
         infotext = _('IPTV List Updater %s\n' % self.Version)
         infotext += _('(c) by Nobody28 & satinfo\n\n')
         infotext += _('IPTV Streams from HasBahCa & FreeTuxTV')
@@ -202,6 +203,7 @@ class IPTV(Screen):
         self.Start_Script()
 
     def Fetch_URL(self, url):
+        socket.setdefaulttimeout(1)
         req = urllib2.Request(url)
         print "[IPTV List] Fetch URL: %s" %url
         try:
@@ -211,12 +213,17 @@ class IPTV(Screen):
                 last_modified_date = str(last_modified[3])+ ":" + str(last_modified[4]) + " " + str(last_modified[2]) + "." + str(last_modified[1]) + "." + str(last_modified[0])
                 print "File Last Modified: %s" % last_modified_date
             the_page = response.read()
+        except socket.timeout:
+            the_page = "SOCKET TIMEOUT ERROR:\n%s" %url
+            print the_page
         except urllib2.URLError as e:
             the_page = "HTTP URL ERROR: %s" % e
             print the_page
         except urllib2.HTTPError as e:
             the_page = "HTTP download ERROR: %s" % e.code
             print the_page
+        except socket.error: print('fail')
+        except socket.timeout: print('fail')
         return the_page
 
     def file_filter(self, name):
@@ -224,6 +231,8 @@ class IPTV(Screen):
         name_file = name_file.replace(' ','_')
         name_file = name_file.replace('\r','')
         name_file = name_file.replace('\n','')
+        name_file = name_file.replace('(','')
+        name_file = name_file.replace(')','')
         return name_file
 
     def Convert_m3u(self, name, file):
@@ -314,7 +323,20 @@ class IPTV(Screen):
             nline = '#SERVICE: 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "%s" ORDER BY bouquet\n' % bouquetname
             ff.write(nline)
         ff.close
-        
+
+    def Remove_hooks(self):
+        ff = open('/etc/enigma2/bouquets.%s' % self.type.lower(), 'r+')
+        bouquets = ff.readlines()
+        ff.close()
+
+        ff = open('/etc/enigma2/bouquets.%s' % self.type.lower(), 'w+')
+        for line in bouquets:
+            if line.find('(') > -1 or line.find(')') > -1:
+                print "Removing line %s from bouquets.tv" % line
+            else:
+                ff.write(line)
+        ff.close()
+       
     def cancel(self):
         if self.IPTVInstalled is True:
             infobox = self.session.open(MessageBox,_("Reloading Bouquets and Services..."), MessageBox.TYPE_INFO, timeout=5)
@@ -351,14 +373,15 @@ class IPTV(Screen):
             infotext += _('Update Bouquets and Services for:')
             infotext += _('\n')
             infotext += _('Press OK or EXIT to go back !')
-        
+
+        self.Remove_hooks()
         self.session.open(MessageBox,_(infotext), MessageBox.TYPE_INFO)
         self.Start_Script()
         
     def loadCountry(self):
         pngpath = self["IPTVList"].getCurrent()
 
-        if pngpath == None:
+        if pngpath == None or pngpath.find('\0') > -1:
             return
 
         for l in self.downloadlist:
