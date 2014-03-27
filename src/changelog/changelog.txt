@@ -1,6 +1,10 @@
 Changelog:
 
 from 26.03.2014:
+- fix Oestereich & Swiss Radio
+- 
+
+from 26.03.2014:
 - several fixes: (Thx Black_64)
   - fix hu.txt
   - fix ( ) in bouquet name
@@ -227,63 +231,4 @@ from 20.07.2013 - 09.09.2013:
 - changed buttons 
 - some code cleanup in the scripts
 
-0.80 (13.06.2013):
-- added script "IPTV_All_Update.sh"
-- added script "IPTV_China.sh"
-- added rtmpt support
-- added more converter in Asia & China Bouquet 
-- changed to mips32el (OE1.6 don't support IPTV from Bouquet!)
-
-0.70 (10.06.2013):
-- separated scripts
-- now help from my friend Satinfo to implement all in python ;)
-- you can select your IPTV Bouquet from plugin ;)
-- added some code in scripts
-- add more convert of streams
-
-0.60 (09.06.2013):
-- same translations
-- changed order of List now from A to Z (before from Z to A )
-
-0.51 (09.06.2013):
-- fixed errors from V. 0.5
-- deleted unused text 
-
-0.5 (08.06.2013):
-- changed all download sources to ==> 
-  http://01.gen.tr/simple/turkvod/
-- added World Webcams from Internet
-- added Bouquet:  EX-Yu, Thai, Bangladesh, Greece, Filmon <== 
-  Thx for Help @HasBahCa
-
-0.4-ANGA-edition (03.06.2013):
-- changed position of Adult
-- rollback to download path http://01.gen.tr/simple/turkvod/ for 
-  german streams
-- added convert for: mmsh:// and rtmpe:// streams for germany 
-  bouquet
-- changed some Bouquet names
-- added static World Webcams
-
-0.4 (30.05.2013):
-- added Bouquets:
-   Europe, Bulgaria, France, India, England, International, Spain, 
-   Moldavia, Music, Poland, Radio, Romania, Russia, Sports, 
-   SimpleTVPlayerBackup, Turkey, Turkey_mms, Turkey_local, 
-   Turkey_main
-
-0.3 (30.05.2013):
-- changed download source
-- changed some code again
-
-0.2 (30.05.2013):
-- changed download source
-- changed plugin icon
-- changed some code in scripts
-- added script Int. Radio
-
-0.1 (29.05.2013):
-- first official release
-
-0.1 Beta (28.05.2013) NonPublic:
-- first test release
+0.
