@@ -2,7 +2,7 @@ Changelog:
 
 from 26.03.2014:
 - fix Oestereich & Swiss Radio
-- 
+- fix Timeout & GS
 
 from 26.03.2014:
 - several fixes: (Thx Black_64)
