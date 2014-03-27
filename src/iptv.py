@@ -203,7 +203,7 @@ class IPTV(Screen):
         self.Start_Script()
 
     def Fetch_URL(self, url):
-        socket.setdefaulttimeout(1)
+        socket.setdefaulttimeout(5)
         req = urllib2.Request(url)
         print "[IPTV List] Fetch URL: %s" %url
         try:
@@ -361,8 +361,7 @@ class IPTV(Screen):
             print l[3], name_file
             self.Add_Script(name_file, True)
             file = self.Fetch_URL(url)
-            if file.startswith("HTTP ERROR:"):
-                self.session.open(MessageBox,_(file), MessageBox.TYPE_INFO)
+            if file.startswith("HTTP ERROR:") or file.startswith("SOCKET TIMEOUT ERROR:") or file.startswith("HTTP download ERROR:") or file.startswith("HTTP URL ERROR:"):
                 continue
 
             self.Convert_m3u(l[3], file)
@@ -521,7 +520,7 @@ class IPTV_Mod(Screen):
                     break
 
         file = self.Fetch_URL(url)
-        if file.startswith("HTTP ERROR:") or file.startswith("HTTP download ERROR:") or file.startswith("HTTP URL ERROR:"):
+        if file.startswith("HTTP ERROR:") or file.startswith("SOCKET TIMEOUT ERROR:") or file.startswith("HTTP download ERROR:") or file.startswith("HTTP URL ERROR:"):
             self.session.open(MessageBox,_(file), MessageBox.TYPE_INFO)
             return
 
