@@ -57,7 +57,7 @@ Leider werden diese Streams nicht alle funktionieren :(
 
 So, und nun wisst Ihr, wie man Streams fischen kann :)
 
-Hier mal div. Links zu den Threads in div. Foren(ich denke bei den meisten müsst Ihr Euch anmelden. Sorry!):
+Hier mal div. Links zu den Threads in div. Foren (ich denke bei den meisten müsst Ihr Euch anmelden. Sorry!):
 http://www.gigablue-support.com/index.php?page=Thread&threadID=4525&pageNo=1
 http://www.opena.tv/forum/showthread.php?1014-IPTV-List-Updater
 http://www.et-view-support.com/Forum/showthread.php?11681-IPTV-List-Updater
