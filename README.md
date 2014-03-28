@@ -65,4 +65,5 @@ http://www.vuplus-support.org/wbb3/index.php?page=Thread&threadID=48434
 http://www.i-have-a-dreambox.com/wbb2/thread.php?threadid=178662
 http://www.digital-eliteboard.com/showthread.php?266216-Laberthread-IPTV-List-Updater / http://www.digital-eliteboard.com/showthread.php?265508-IPTV-List-Updater&goto=newpost
 http://www.sat-ulc.eu/showthread.php?t=25917889
+http://www.turk-dreamworld.com/f149-dreambox-plugins-enigma2/1115753-guencel-iptv-list-updater.html
 
