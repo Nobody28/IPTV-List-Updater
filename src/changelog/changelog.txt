@@ -1,6 +1,9 @@
 Changelog:
 
-from 26.03.2014:
+from 28.03.2014:
+- fix Germanbouquetfile
+
+from 27.03.2014:
 - fix Oestereich & Swiss Radio
 - fix Timeout & GS
 
