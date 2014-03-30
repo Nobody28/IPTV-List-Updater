@@ -1,5 +1,8 @@
 Changelog:
 
+from 30.03.2014:
+- add Bouquet: Deutsch_mit_diversen_S_k_y
+
 from 28.03.2014:
 - fix Germanbouquetfile
 
