@@ -24,3 +24,4 @@ Translations:	- arabic ==> zozo1976
 	- russia ==> xosajin
 	- serbia ==> Prokuplje
 	- persian ==> Eminem from openATV Forum
+	- slowenish ==> Advance155 from openATV Forum

@@ -1,5 +1,9 @@
 Changelog:
 
+from 31.03.2014:
+- add Language: Slowenish (Thx Advance155))
+- change to Version 1.41
+
 from 30.03.2014:
 - add Bouquet: Deutsch_mit_diversen_S_k_y
 
