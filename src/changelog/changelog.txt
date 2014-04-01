@@ -1,7 +1,7 @@
 Changelog:
 
 from 31.03.2014:
-- add Language: Slowenish (Thx Advance155))
+- add Language: Slowakisch  (Thx Advance155))
 - change to Version 1.41
 
 from 30.03.2014:
