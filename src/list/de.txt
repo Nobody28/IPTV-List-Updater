@@ -98,7 +98,7 @@ Ukraine TV http://01.gen.tr/HasBahCa_IPTV/ukraina.m3u Ukraine
 #USA TV http://01.gen.tr/HasBahCa_IPTV/usa.m3u USA
 USA TV http://01.gen.tr/HasBahCa_IPTV/usa_shows.m3u USA_SHOWS
 Vietnam TV http://01.gen.tr/HasBahCa_IPTV/vietnam.m3u Vietnam
-Baltic_Laender TV http://01.gen.tr/HasBahCa_IPTV/Baltic.m3u Litvanien_Baltic_Laender
+Baltic_Laender TV http://01.gen.tr/HasBahCa_IPTV/Baltic.m3u Litvanien_Baltic_Länder
 WebCam WEBCAM http://01.gen.tr/HasBahCa_IPTV/webcam.m3u WorldWebCams_1
 #
 ########################################################################
