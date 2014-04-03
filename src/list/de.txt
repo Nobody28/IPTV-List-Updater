@@ -10,6 +10,9 @@
 Turkey RADIO http://01.gen.tr/HasBahCa_IPTV/radyolar.m3u Turk_Radio
 Balkanradio RADIO http://01.gen.tr/HasBahCa_IPTV//balkan_radio.m3u Balkan_Radio
 INT_Radio RADIO http://01.gen.tr/HasBahCa_IPTV/int_radio.m3u INT_Radios
+NesetErtas RADIO http://01.gen.tr/HasBahCa_IPTV/radios/Neset_Ertas.m3u Neset_Ertas_by_HasBahCa
+Africa RADIO http://01.gen.tr/HasBahCa_IPTV/radios/Afrika_Radios.m3u Afrikanisches_Radio
+America RADIO http://01.gen.tr/HasBahCa_IPTV/radios/South_Amerika_Radios.m3u Amerikanisches_Radio
 #
 ########################################################################
 #                                                                      #
@@ -31,6 +34,7 @@ Europe TV http://01.gen.tr/HasBahCa_IPTV/avrupa_europa.m3u Europa
 Baltic_Laender TV http://01.gen.tr/HasBahCa_IPTV/Baltic.m3u Litvanien_Baltic_Länder
 Bangladesh TV http://01.gen.tr/HasBahCa_IPTV/bangladesh.m3u Bangladesch
 Belgium TV http://01.gen.tr/HasBahCa_IPTV/Belgium.m3u Belgien
+Bosnien TV http://01.gen.tr/HasBahCa_IPTV/movies/Bosnia_Subtitle_Movies.m3u Bosnische_Subtitle_Filme
 Brasil TV http://01.gen.tr/HasBahCa_IPTV/brasil.m3u Brasilien
 Bulgaria TV http://01.gen.tr/HasBahCa_IPTV/bulgar_bulsat.m3u Bulgarien_BulSat
 Cartoons TV http://01.gen.tr/HasBahCa_IPTV/cartoons.m3u Cartoons
@@ -61,6 +65,7 @@ International-TV TV http://01.gen.tr/HasBahCa_IPTV/int.m3u International_TV
 International-Radio RADIO http://01.gen.tr/HasBahCa_IPTV/int_radio.m3u International_Radio
 Iran TV http://01.gen.tr/HasBahCa_IPTV/iran.m3u Iran
 Spain TV http://01.gen.tr/HasBahCa_IPTV/Spain.m3u Spanien
+Spain TV http://01.gen.tr/HasBahCa_IPTV/movies/spain_movies.m3u Spanische_Filme
 Israel TV http://01.gen.tr/HasBahCa_IPTV/israil.m3u Israel
 Italy TV http://01.gen.tr/HasBahCa_IPTV/italya.m3u Italien
 Japan TV http://01.gen.tr/HasBahCa_IPTV/japan.m3u Japan
