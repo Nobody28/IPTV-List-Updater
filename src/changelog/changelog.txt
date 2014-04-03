@@ -1,5 +1,9 @@
 Changelog:
 
+from 03.04.2014:
+- add Bouquet: Cartoons
+- add Bouquet: Vietnam Series Karakoe Clip
+
 from 31.03.2014:
 - add Language: Slowakisch  (Thx Advance155))
 - change to Version 1.41
