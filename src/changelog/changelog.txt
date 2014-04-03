@@ -1,5 +1,9 @@
 Changelog:
 
+from 04.04.2014:
+- new funktion: take Bouquetdownloadfile from Internet (Fallback to local File!) Thx Black64
+- change Version to 1.50
+
 from 03.04.2014:
 - add Bouquet: Cartoons
 - add Bouquet: Vietnam Series Karakoe Clip
