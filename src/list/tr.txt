@@ -19,7 +19,6 @@ NesetErtas RADIO http://01.gen.tr/HasBahCa_IPTV/Neset_Ertas.m3u Neset_Ertas_by_H
 #                                                                      #
 ########################################################################
 #
-Turkey-Main TV http://01.gen.tr/templates/adsiz.m3u DSMART_DIGITURK
 Turkey-Main TV http://01.gen.tr/HasBahCa_IPTV/turk_ulusal.m3u TURKIYE_ULUSAL_by_HasBahCa
 Turkey-Main TV http://01.gen.tr/HasBahCa_IPTV/turk_ulusal_yedek.m3u TURKIYE_YEDEK_by_HasBahCa
 Turkey-Main TV http://01.gen.tr/HasBahCa_IPTV/turk_yerel.m3u TURKIYE_YEREL_by_HasBahCa
@@ -30,7 +29,6 @@ Turkey-Main TV http://01.gen.tr/HasBahCa_IPTV/turk_spor.m3u TURKIYE_SPOR_by_HasB
 Turkey-Main TV http://01.gen.tr/HasBahCa_IPTV/turk_belgesel_sinema.m3u TURKIYE_BELGESEL_SINEMA
 Turkey-Main TV http://01.gen.tr/HasBahCa_IPTV/turk_cocuk.m3u TURKIYE_COCUK_by_HasBahCa
 Turkey-Main TV http://01.gen.tr/HasBahCa_IPTV/turk_muzik.m3u TURKIYE_MUZiK_by_HasBahCa
-Turkey-Main TV http://01.gen.tr/HasBahCa_IPTV/Turk_Filmleri.m3u TURK_FILMLERI_by_HasBahCa
 Germany TV http://01.gen.tr/HasBahCa_IPTV/GERMAN_DEUTSCH.m3u ALMANCA_by_HasBahCa
 Germany TV http://01.gen.tr/HasBahCa_IPTV/german_doppel.m3u ALMANCA_YEDEK_by_HasBahCa
 Sport TV http://01.gen.tr/HasBahCa_IPTV/spor.m3u SPOR_KANALLARI_by_HasBahCa
@@ -85,18 +83,26 @@ ILIVE_TO TV http://01.gen.tr/HasBahCa_IPTV/ilive_to.m3u ILIVE_TO_by_HasBahCa
 Teledunet TV http://01.gen.tr/HasBahCa_IPTV/Teledunet.m3u Teledunet_by_HasBahCa
 WebCam TV http://01.gen.tr/HasBahCa_IPTV/webcam.m3u WEBCAM_by_HasBahCa
 English TV http://01.gen.tr/HasBahCa_IPTV/English.m3u INGILIZCE_by_HasBahCa
-English TV http://01.gen.tr/HasBahCa_IPTV/englishmovies.m3u ENG_MOVIES_by_HasBahCa
-English TV http://01.gen.tr/HasBahCa_IPTV/ENGLISH_MOVIES_OLD.m3u ESKI_INGILIZCE_FILMLER_by_HasBahCa
-Russia TV http://01.gen.tr/HasBahCa_IPTV/RUS_movies.m3u RUSCA_FILMLER_by_HasBahCa
-#Nilesat TV http://01.gen.tr/HasBahCa_IPTV/nilesat.m3u NILESAT_by_HasBahCa
+Nilesat TV http://01.gen.tr/HasBahCa_IPTV/nilesat.m3u NILESAT_by_HasBahCa
 XXX-Adult TV http://01.gen.tr/HasBahCa_IPTV/XXX.m3u XXX_YETISKIN
-#XXX-Adult TV http://01.gen.tr/tsmedia/int_movies/XXX_vod+18.m3u XXX_Adult_Movies
 Russia TV http://iptv.lamp.ufa-it.ru/generate_m3u.php?num_list=001 RUS_SIBIR_TELEKOM
 Georgia TV http://01.gen.tr/HasBahCa_IPTV/Georgia.m3u GÜRCISTAN_by_HasBahCa
-YOUTUBE TV http://01.gen.tr/HasBahCa_IPTV/youtube.m3u YOUTUBE_by_HasBahCa
-Vietnam TV http://01.gen.tr/HasBahCa_IPTV/vietnam_series_karakoe_clip.m3u Vietnam_Series_Karakoe_Clip
-Vietnam TV http://01.gen.tr/HasBahCa_IPTV/English_Vietnam_Movies.m3u Vietnam_English_Movies
-Cartoons TV http://01.gen.tr/HasBahCa_IPTV/cartoons.m3u ÇİZGİ_FİLM
+#
+########################################################################
+#                                                                      #
+#                         HasBahCa MOVIES Listen                       #
+#                                                                      #
+########################################################################
+#
+Turkey-Main TV http://01.gen.tr/HasBahCa_IPTV/movies/Turk_Filmleri.m3u TURK_FILMLERI_by_HasBahCa
+Cartoons TV http://01.gen.tr/HasBahCa_IPTV/movies/cartoons.m3u CiZGi_FiLMLER_by_HasBahCa
+English TV http://01.gen.tr/HasBahCa_IPTV/movies/englishmovies.m3u ENG_MOVIES_by_HasBahCa
+English TV http://01.gen.tr/HasBahCa_IPTV/movies/ENGLISH_MOVIES_OLD.m3u ESKI_INGILIZCE_FILMLER_by_HasBahCa
+Russia TV http://01.gen.tr/HasBahCa_IPTV/movies/RUS_movies.m3u RUSCA_FILMLER_by_HasBahCa
+Vietnam TV http://01.gen.tr/HasBahCa_IPTV/movies/vietnam_series_karakoe_clip.m3u Vietnam_Series_Karakoe_Clip
+Vietnam TV http://01.gen.tr/HasBahCa_IPTV/movies/English_Vietnam_Movies.m3u Vietnam_English_Movies
+Spain TV http://01.gen.tr/HasBahCa_IPTV/movies/spain_movies.m3u ISPANYOLCA_FILMLER_by_HasBahCa
+Bosnien TV http://01.gen.tr/HasBahCa_IPTV/movies/Bosnia_Subtitle_Movies.m3u Bosnia_Subtitle_Movies
 #
 ########################################################################
 #                                                                      #
