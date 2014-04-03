@@ -99,14 +99,22 @@ class IPTV(Screen):
     def getDownloadTxt(self):
         downloadPath = "/usr/lib/enigma2/python/Plugins/Extensions/IPTV-List-Updater/list/%s.txt" % language.getLanguage()[:2]
         userlistPath = "/etc/enigma2/iptvlistupdater.user"
+        TxtURL='https://raw.githubusercontent.com/Nobody28/IPTV-List-Updater/master/src/list/'
+        DownloadTxtURL = '%s%s.txt' %(TxtURL, language.getLanguage()[:2])
 
         if not path.exists(downloadPath):
             downloadPath = "/usr/lib/enigma2/python/Plugins/Extensions/IPTV-List-Updater/list/en.txt"
+            #DownloadTxtURL = '%sen.txt' % TxtURL
 
         self.downloadlist = []
-        f = open(downloadPath,'r')
-        tmp = f.readlines()
-        f.close
+        try:
+            response = urllib2.urlopen(DownloadTxtURL)
+            tmp = response.readlines()
+        except:
+            print "[IPTVList] Failed to load %s, using local file" % DownloadTxtURL
+            f = open(downloadPath,'r')
+            tmp = f.readlines()
+            f.close
 
         if path.exists(userlistPath): # if user have his own list, then add this to the selection
             f = open(userlistPath,'r')
@@ -184,7 +192,7 @@ class IPTV(Screen):
         name_file = self.file_filter(sel)
         self.Add_Script(name_file, True)
         file = self.Fetch_URL(url)
-        if file.startswith("HTTP ERROR:") or file.startswith("HTTP download ERROR:") or file.startswith("HTTP URL ERROR:") or file.startswith("SOCKET TIMEOUT ERROR:"):
+        if file.startswith("HTTP ERROR:") or file.startswith("HTTP download ERROR:") or file.startswith("HTTP URL ERROR:") or file.startswith("SOCKET TIMEOUT ERROR:") or file.startswith("SOCKET ERROR:"):
             file = _('IPTV List Updater %s\n' % self.Version) + "\n" + _("Current selection: %s" % sel) + "\n" + _("URL: %s" % url) + "\n" + file
             self.session.open(MessageBox,_(file), MessageBox.TYPE_INFO)
             return
@@ -216,14 +224,19 @@ class IPTV(Screen):
         except socket.timeout:
             the_page = "SOCKET TIMEOUT ERROR:\n%s" %url
             print the_page
+        except socket.error:
+            the_page = "SOCKET ERROR:\n%s" %url
+            print the_page
         except urllib2.URLError as e:
             the_page = "HTTP URL ERROR: %s" % e
             print the_page
         except urllib2.HTTPError as e:
             the_page = "HTTP download ERROR: %s" % e.code
             print the_page
-        except socket.error: print('fail')
         except socket.timeout: print('fail')
+        except:
+            the_page = "HTTP URL ERROR: %s" % e
+            print the_page
         return the_page
 
     def file_filter(self, name):
