@@ -28,10 +28,12 @@ America TV http://01.gen.tr/HasBahCa_IPTV/amerika.m3u Amerika
 Arabia TV http://01.gen.tr/HasBahCa_IPTV/Arabic.m3u Arabien
 Asia TV http://01.gen.tr/HasBahCa_IPTV/asya.m3u Asien
 Europe TV http://01.gen.tr/HasBahCa_IPTV/avrupa_europa.m3u Europa
+Baltic_Laender TV http://01.gen.tr/HasBahCa_IPTV/Baltic.m3u Litvanien_Baltic_Länder
 Bangladesh TV http://01.gen.tr/HasBahCa_IPTV/bangladesh.m3u Bangladesch
 Belgium TV http://01.gen.tr/HasBahCa_IPTV/Belgium.m3u Belgien
 Brasil TV http://01.gen.tr/HasBahCa_IPTV/brasil.m3u Brasilien
 Bulgaria TV http://01.gen.tr/HasBahCa_IPTV/bulgar_bulsat.m3u Bulgarien_BulSat
+Cartoons TV http://01.gen.tr/HasBahCa_IPTV/cartoons.m3u Cartoons
 China TV http://01.gen.tr/HasBahCa_IPTV/china.m3u China
 Czech TV http://01.gen.tr/HasBahCa_IPTV/czech.m3u Tschechische_Republik
 #Denmark TV http://01.gen.tr/HasBahCa_IPTV/Denmark.m3u Dänemark
@@ -98,7 +100,7 @@ Ukraine TV http://01.gen.tr/HasBahCa_IPTV/ukraina.m3u Ukraine
 #USA TV http://01.gen.tr/HasBahCa_IPTV/usa.m3u USA
 USA TV http://01.gen.tr/HasBahCa_IPTV/usa_shows.m3u USA_SHOWS
 Vietnam TV http://01.gen.tr/HasBahCa_IPTV/vietnam.m3u Vietnam
-Baltic_Laender TV http://01.gen.tr/HasBahCa_IPTV/Baltic.m3u Litvanien_Baltic_Länder
+Vietnam TV http://01.gen.tr/HasBahCa_IPTV/vietnam_series_karakoe_clip.m3u Vietnam_Series_Karakoe_Clip
 WebCam WEBCAM http://01.gen.tr/HasBahCa_IPTV/webcam.m3u WorldWebCams_1
 #
 ########################################################################
