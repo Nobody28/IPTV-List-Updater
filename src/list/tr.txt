@@ -7,11 +7,13 @@
 #                                                                      #
 ########################################################################
 #
-INT_RADIO RADIO http://01.gen.tr/HasBahCa_IPTV/int_radio.m3u ULUSLARARASI_RADYOLAR
-Germany RADIO http://01.gen.tr/HasBahCa_IPTV/Radio-Deutschland-WDR2.m3u WDR_Radiosender
-Turkey RADIO http://01.gen.tr/HasBahCa_IPTV/radyolar.m3u Turk_Radyolari_by HasBahCa
-Balkanradio RADIO http://01.gen.tr/HasBahCa_IPTV//balkan_radio.m3u Balkan_Radyolari_by_HasBahCa
-NesetErtas RADIO http://01.gen.tr/HasBahCa_IPTV/Neset_Ertas.m3u Neset_Ertas_by_HasBahCa
+INT_RADIO RADIO http://01.gen.tr/HasBahCa_IPTV/radios/int_radio.m3u ULUSLARARASI_RADYOLAR
+Germany RADIO http://01.gen.tr/HasBahCa_IPTV/radios/Radio-Deutschland-WDR2.m3u WDR_Radiosender
+Turkey RADIO http://01.gen.tr/HasBahCa_IPTV/radios/Turkce_Radyolar.m3u Turk_Radyolari_by HasBahCa
+Balkanradio RADIO http://01.gen.tr/HasBahCa_IPTV/radios/balkan_radio.m3u Balkan_Radyolari_by_HasBahCa
+NesetErtas RADIO http://01.gen.tr/HasBahCa_IPTV/radios/Neset_Ertas.m3u Neset_Ertas_by_HasBahCa
+AFRIKA RADIO http://01.gen.tr/HasBahCa_IPTV/radios/Afrika_Radios.m3u Afrika_Radyolari
+SUD_AMERIKA RADIO http://01.gen.tr/HasBahCa_IPTV/radios/South_Amerika_Radios.m3u Güney_Amerika_Radyolari
 #
 ########################################################################
 #                                                                      #
@@ -81,13 +83,14 @@ USA TV http://01.gen.tr/HasBahCa_IPTV/usa_shows.m3u ABD-USA_SHOWS_by_HasBahCa
 Filmon TV http://01.gen.tr/HasBahCa_IPTV/filmon.m3u Filmon_by_HasBahCa
 ILIVE_TO TV http://01.gen.tr/HasBahCa_IPTV/ilive_to.m3u ILIVE_TO_by_HasBahCa
 Teledunet TV http://01.gen.tr/HasBahCa_IPTV/Teledunet.m3u Teledunet_by_HasBahCa
-WebCam TV http://01.gen.tr/HasBahCa_IPTV/webcam.m3u WEBCAM_by_HasBahCa
 English TV http://01.gen.tr/HasBahCa_IPTV/English.m3u INGILIZCE_by_HasBahCa
 Nilesat TV http://01.gen.tr/HasBahCa_IPTV/nilesat.m3u NILESAT_by_HasBahCa
 XXX-Adult TV http://01.gen.tr/HasBahCa_IPTV/XXX.m3u XXX_YETISKIN
 Russia TV http://iptv.lamp.ufa-it.ru/generate_m3u.php?num_list=001 RUS_SIBIR_TELEKOM
 Georgia TV http://01.gen.tr/HasBahCa_IPTV/Georgia.m3u GÜRCISTAN_by_HasBahCa
 #
+WebCam TV http://01.gen.tr/HasBahCa_IPTV/webcam.m3u WEBCAM_by_HasBahCa
+*
 ########################################################################
 #                                                                      #
 #                         HasBahCa MOVIES Listen                       #
