@@ -21,8 +21,6 @@ America RADIO http://01.gen.tr/HasBahCa_IPTV/radios/South_Amerika_Radios.m3u Ame
 ########################################################################
 #
 3D TV http://01.gen.tr/HasBahCa_IPTV/3d.m3u 3D_TV
-XXX-Adult TV http://01.gen.tr/HasBahCa_IPTV/XXX.m3u XXX_Adult
-#XXX-Adult TV http://01.gen.tr/HasBahCa_IPTV/XXX_vod+18.m3u XXX_Adult_Movies
 Africa TV http://01.gen.tr/HasBahCa_IPTV/Afrika.m3u Africa
 Albania TV http://01.gen.tr/HasBahCa_IPTV/Albania.m3u Albanien
 Germany TV http://01.gen.tr/HasBahCa_IPTV/GERMAN_DEUTSCH.m3u Deutsch
@@ -41,6 +39,7 @@ Cartoons TV http://01.gen.tr/HasBahCa_IPTV/cartoons.m3u Cartoons
 China TV http://01.gen.tr/HasBahCa_IPTV/china.m3u China
 Czech TV http://01.gen.tr/HasBahCa_IPTV/czech.m3u Tschechische_Republik
 #Denmark TV http://01.gen.tr/HasBahCa_IPTV/Denmark.m3u Dänemark
+DSmart_dturk TV http://01.gen.tr/HasBahCa_IPTV/dsmart_dturk.m3u DSmart_dturk
 English TV http://01.gen.tr/HasBahCa_IPTV/English.m3u Englisch
 Englishmovies TV http://01.gen.tr/HasBahCa_IPTV/ENGLISH_MOVIES_OLD.m3u Alte_Englisch_Filme
 Englishmovies TV http://01.gen.tr/HasBahCa_IPTV/englishmovies.m3u Englische_Filme
@@ -102,12 +101,16 @@ Turkey-Main TV http://01.gen.tr/HasBahCa_IPTV/turk_muzik.m3u Türkei_Musik
 Turkey-Main TV http://01.gen.tr/HasBahCa_IPTV/turk_spor.m3u Türkei_Sport
 Turkey-Main TV http://01.gen.tr/HasBahCa_IPTV/turk_ulusal.m3u Türkei_Hauptsender
 Turkey-Local TV http://01.gen.tr/HasBahCa_IPTV/turk_yerel.m3u Türkei_Lokalsender
+Turkey-Main TV http://01.gen.tr/HasBahCa_IPTV/movies/Turk_Filmleri.m3u Türkische_Filme 1
+Turkey-Main TV http://01.gen.tr/HasBahCa_IPTV/movies/Turk_Filmleri_2.m3u Türkische_Filme 2
 Ukraine TV http://01.gen.tr/HasBahCa_IPTV/ukraina.m3u Ukraine
 #USA TV http://01.gen.tr/HasBahCa_IPTV/usa.m3u USA
 USA TV http://01.gen.tr/HasBahCa_IPTV/usa_shows.m3u USA_SHOWS
 Vietnam TV http://01.gen.tr/HasBahCa_IPTV/vietnam.m3u Vietnam
 Vietnam TV http://01.gen.tr/HasBahCa_IPTV/vietnam_series_karakoe_clip.m3u Vietnam_Series_Karakoe_Clip
 WebCam WEBCAM http://01.gen.tr/HasBahCa_IPTV/webcam.m3u WorldWebCams_1
+XXX-Adult TV http://01.gen.tr/HasBahCa_IPTV/XXX.m3u XXX_Adult
+XXX-Adult TV http://01.gen.tr/HasBahCa_IPTV/XXX_vod+18.m3u XXX_Adult_Movies
 #
 ########################################################################
 #                                                                      #
