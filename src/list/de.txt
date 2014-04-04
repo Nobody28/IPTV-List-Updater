@@ -69,6 +69,7 @@ Spain TV http://01.gen.tr/HasBahCa_IPTV/movies/spain_movies.m3u Spanische_Filme
 Israel TV http://01.gen.tr/HasBahCa_IPTV/israil.m3u Israel
 Italy TV http://01.gen.tr/HasBahCa_IPTV/italya.m3u Italien
 Japan TV http://01.gen.tr/HasBahCa_IPTV/japan.m3u Japan
+KemalSunal TV http://01.gen.tr/HasBahCa_IPTV/KemalSunal.m3u Kemal_Sunal
 Kids TV http://01.gen.tr/HasBahCa_IPTV/Kids.m3u Kinder_Kanäle
 Korea TV http://01.gen.tr/HasBahCa_IPTV/Korea.me3 Korea
 Kurdish TV http://01.gen.tr/HasBahCa_IPTV/kurdi.m3u Kurdisch
