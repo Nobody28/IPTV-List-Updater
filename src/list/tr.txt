@@ -8,7 +8,7 @@
 ########################################################################
 #
 INT_RADIO RADIO http://01.gen.tr/HasBahCa_IPTV/radios/int_radio.m3u ULUSLARARASI_RADYOLAR
-Germany RADIO http://01.gen.tr/HasBahCa_IPTV/radios/Radio-Deutschland-WDR2.m3u WDR_Radiosender
+Germany RADIO https://dl.dropboxusercontent.com/s/7cmzizxiryjdgdu/userbouquet.deutsche_radiosender_mit_EPG.radio?dl=1&token_hash=AAH3HXG5QifpVxfmv9K7ury4o0pSVPqXPsBewlWy3ZFDzg Deutsche_Radiosender_by_Nobody28 B
 Turkey RADIO http://01.gen.tr/HasBahCa_IPTV/radios/Turkce_Radyolar.m3u Turk_Radyolari_by HasBahCa
 Balkanradio RADIO http://01.gen.tr/HasBahCa_IPTV/radios/balkan_radio.m3u Balkan_Radyolari_by_HasBahCa
 NesetErtas RADIO http://01.gen.tr/HasBahCa_IPTV/radios/Neset_Ertas.m3u Neset_Ertas_by_HasBahCa
