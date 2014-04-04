@@ -10,7 +10,7 @@
 Turkey RADIO http://01.gen.tr/HasBahCa_IPTV/radyolar.m3u Turk_Radio
 Balkanradio RADIO http://01.gen.tr/HasBahCa_IPTV//balkan_radio.m3u Balkan_Radio
 INT_Radio RADIO http://01.gen.tr/HasBahCa_IPTV/int_radio.m3u INT_Radios
-NesetErtas RADIO http://01.gen.tr/HasBahCa_IPTV/radios/Neset_Ertas.m3u Neset_Ertas_by_HasBahCa
+NesetErtas RADIO http://01.gen.tr/HasBahCa_IPTV/radios/Neset_Ertas.m3u Neset_Ertas
 Africa RADIO http://01.gen.tr/HasBahCa_IPTV/radios/Afrika_Radios.m3u Afrikanisches_Radio
 America RADIO http://01.gen.tr/HasBahCa_IPTV/radios/South_Amerika_Radios.m3u Amerikanisches_Radio
 #
