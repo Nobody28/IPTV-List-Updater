@@ -63,8 +63,6 @@ ILIVE_TO TV http://01.gen.tr/HasBahCa_IPTV/ilive_to.m3u iLIVE_to
 International-TV TV http://01.gen.tr/HasBahCa_IPTV/int.m3u International_TV
 International-Radio RADIO http://01.gen.tr/HasBahCa_IPTV/int_radio.m3u International_Radio
 Iran TV http://01.gen.tr/HasBahCa_IPTV/iran.m3u Iran
-Spain TV http://01.gen.tr/HasBahCa_IPTV/Spain.m3u Spanien
-Spain TV http://01.gen.tr/HasBahCa_IPTV/movies/spain_movies.m3u Spanische_Filme
 Israel TV http://01.gen.tr/HasBahCa_IPTV/israil.m3u Israel
 Italy TV http://01.gen.tr/HasBahCa_IPTV/italya.m3u Italien
 Japan TV http://01.gen.tr/HasBahCa_IPTV/japan.m3u Japan
@@ -87,6 +85,8 @@ Russia TV http://01.gen.tr/HasBahCa_IPTV/RUS_movies.m3u Russische_Filme
 Serbia TV http://01.gen.tr/HasBahCa_IPTV/Serbia_Croatia.m3u Serbien_Kroatien
 Skandinavia TV http://01.gen.tr/HasBahCa_IPTV/skandinav.m3u Skandinavien
 Slovakei TV http://01.gen.tr/HasBahCa_IPTV/Slovakia_Slovenia.m3u Slovakei_Slowenien
+Spain TV http://01.gen.tr/HasBahCa_IPTV/Spain.m3u Spanien
+Spain TV http://01.gen.tr/HasBahCa_IPTV/movies/spain_movies.m3u Spanische_Filme
 Sport TV http://01.gen.tr/HasBahCa_IPTV/spor.m3u Sport
 #Sweden TV http://01.gen.tr/HasBahCa_IPTV/Sweden.m3u Schweden
 Swiss TV http://01.gen.tr/HasBahCa_IPTV/Switzerland.m3u Schweiz
