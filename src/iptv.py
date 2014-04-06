@@ -235,7 +235,7 @@ class IPTV(Screen):
             print the_page
         except socket.timeout: print('fail')
         except:
-            the_page = "HTTP URL ERROR: %s" % e
+            the_page = "HTTP URL ERROR: unknown error"
             print the_page
         return the_page
 
