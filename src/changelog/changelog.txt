@@ -1,5 +1,8 @@
 Changelog:
 
+from 09.04.2014:
+- fix IO0 Update Script (Thx szudena)
+
 from 06.04.2014:
 - small fix for GS! Thx Black64
 - change Version to 1.51
