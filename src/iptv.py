@@ -104,7 +104,6 @@ class IPTV(Screen):
 
         if not path.exists(downloadPath):
             downloadPath = "/usr/lib/enigma2/python/Plugins/Extensions/IPTV-List-Updater/list/en.txt"
-            #DownloadTxtURL = '%sen.txt' % TxtURL
 
         self.downloadlist = []
         try:
@@ -362,6 +361,9 @@ class IPTV(Screen):
         self.IPTVInstalled = True
         self.ScriptList = []
         for l in self.downloadlist:
+            if l[0].upper() == 'XXX-ADULT':
+                print "Skip Adult channels"
+                continue
             self.convert = True
             url = l[2]
             self.type = l[1]
