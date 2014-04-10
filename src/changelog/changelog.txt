@@ -1,5 +1,9 @@
 Changelog:
 
+from 10.04.2014:
+- don't install adult channels with install all (yellow button)Thx Black64
+- change Version to 1.52
+
 from 09.04.2014:
 - fix IO0 Update Script (Thx szudena)
 
