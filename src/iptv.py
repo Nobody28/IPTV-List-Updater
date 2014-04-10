@@ -66,13 +66,13 @@ class IPTV(Screen):
             "left": self.left,
             "right": self.right,
             "yellow": self.install,
-            "blue": self.update,
+            #"blue": self.update,
             "info": self.faq,
         }, -1)
         self["key_red"] = Label(_("Close"))
         self["key_green"] = Label(_("Install"))
         self["key_yellow"] = Label(_("Install all"))
-        self["key_blue"] = Label(_("Update list"))
+        #self["key_blue"] = Label(_("Update list"))
         print"[IPTVList] Current Version: %s" % self.Version
         print"[IPTVList] Current Language: %s" % config.osd.language.getValue()
         self.onLayoutFinish.append(self.layoutFinished)
