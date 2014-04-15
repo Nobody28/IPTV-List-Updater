@@ -13,6 +13,8 @@ INT_Radio RADIO http://01.gen.tr/HasBahCa_IPTV/int_radio.m3u INT_Radios
 NesetErtas RADIO http://01.gen.tr/HasBahCa_IPTV/radios/Neset_Ertas.m3u Neset_Ertas
 Africa RADIO http://01.gen.tr/HasBahCa_IPTV/radios/Afrika_Radios.m3u Afrikanisches_Radio
 America RADIO http://01.gen.tr/HasBahCa_IPTV/radios/South_Amerika_Radios.m3u Süd_Amerikanisches_Radio
+USA RADIO http://01.gen.tr/HasBahCa_IPTV/radios/USA_Radios.m3u USA_Radio
+UK RADIO http://01.gen.tr/HasBahCa_IPTV/radios/UK_Radios.m3u UK_Radio
 #
 ########################################################################
 #                                                                      #
