@@ -2,6 +2,7 @@ Changelog:
 
 from 15.04.2014:
 - add Bouquet: Sky Sports UK 
+- add Bouquet: Deutsche Serien 
 
 from 10.04.2014:
 - don't install adult channels with install all (yellow button)Thx Black64
