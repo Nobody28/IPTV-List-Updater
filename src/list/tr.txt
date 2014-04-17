@@ -14,6 +14,8 @@ Balkanradio RADIO http://01.gen.tr/HasBahCa_IPTV/radios/balkan_radio.m3u Balkan_
 NesetErtas RADIO http://01.gen.tr/HasBahCa_IPTV/radios/Neset_Ertas.m3u Neset_Ertas_by_HasBahCa
 AFRIKA RADIO http://01.gen.tr/HasBahCa_IPTV/radios/Afrika_Radios.m3u Afrika_Radyolari
 SUD_AMERIKA RADIO http://01.gen.tr/HasBahCa_IPTV/radios/South_Amerika_Radios.m3u Güney_Amerika_Radyolari
+UK RADIO http://01.gen.tr/HasBahCa_IPTV/radios/UK_Radios.m3u UK_Ingiltere_Radyolari
+USA RADIO http://01.gen.tr/HasBahCa_IPTV/radios/USA_Radios.m3u ABD_USA_Radyolari
 #
 ########################################################################
 #                                                                      #
@@ -32,6 +34,7 @@ Turkey-Main TV http://01.gen.tr/HasBahCa_IPTV/turk_belgesel_sinema.m3u TURKIYE_B
 Turkey-Main TV http://01.gen.tr/HasBahCa_IPTV/turk_cocuk.m3u TURKIYE_COCUK_by_HasBahCa
 Turkey-Main TV http://01.gen.tr/HasBahCa_IPTV/turk_muzik.m3u TURKIYE_MUZiK_by_HasBahCa
 Germany TV http://01.gen.tr/HasBahCa_IPTV/GERMAN_DEUTSCH.m3u ALMANCA_by_HasBahCa
+Germany TV http://01.gen.tr/HasBahCa_IPTV/Deutsch_Serien.m3u ALMANCA_DiZiLER_by_HasBahCa
 Germany TV http://01.gen.tr/HasBahCa_IPTV/german_doppel.m3u ALMANCA_YEDEK_by_HasBahCa
 Sport TV http://01.gen.tr/HasBahCa_IPTV/spor.m3u SPOR_KANALLARI_by_HasBahCa
 Music TV http://01.gen.tr/HasBahCa_IPTV/muzik.m3u MUZIK_KANALLARI_by_HasBahCa
