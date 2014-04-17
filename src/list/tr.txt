@@ -75,7 +75,7 @@ Romania-Moldavia TV http://01.gen.tr/HasBahCa_IPTV/Romania_Moldova.m3u ROMANYA_M
 Russia TV http://01.gen.tr/HasBahCa_IPTV/rus.m3u RUSCA_by_HasBahCa
 Thai TV http://01.gen.tr/HasBahCa_IPTV/thai.m3u TAYLAND_by_HasBahCa
 UKRAYNA TV http://01.gen.tr/HasBahCa_IPTV/ukraina.m3u UKRAYNA_by_HasBahCa
-International-TV TV http://01.gen.tr/HasBahCa_IPTV/int.m3u ULUSLARARASI_by_HasBahCa
+International-TV TV http://01.gen.tr/HasBahCa_IPTV/int_others.m3u ULUSLARARASI_by_HasBahCa
 Scandinavien TV http://01.gen.tr/HasBahCa_IPTV/skandinav.m3u SKANDINAV_ULKELERI_by_HasBahCa
 Switzerland TV http://01.gen.tr/HasBahCa_IPTV/Switzerland.m3u ISVICRE_by_HasBahCa
 Slovakai TV http://01.gen.tr/HasBahCa_IPTV/Slovakia_Slovenia.m3u SLOVAKYA_Slovenya_by_HasBahCa
