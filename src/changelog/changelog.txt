@@ -1,5 +1,9 @@
 Changelog:
 
+from 18.04.2014:
+- add Language: frensh  (Thx milouille)
+- change to Version 1.55
+
 from 15.04.2014:
 - add Bouquet: Sky Sports UK 
 - add Bouquet: Deutsche Serien 

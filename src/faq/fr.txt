@@ -1,0 +1,32 @@
+﻿FAQ - 18/04/2014 !
+
+1 . Pour quels systèmes le plugin est destiné !
+    Le plugin devrait fonctionner sur toutes les images OE2.0. L'image OE1.6 
+    ne prend pas en charge IPTV bouquets !
+
+2 . Que puis-je faire si je ne peux pas installer le plugin ?
+    Décompressez le plugin par exemple avec 7zip . Copiez tous les fichiers avec un serveur FTP
+    par exemple Filezilla vers votre récepteur.
+    
+3 . Quel récepteur peut lire les flux MMS ?
+    28/01/2014 :
+    Seulement tous les Xtrend , DM500HD , 800se et 7020hd , Odin M7 , M9 Odin ,
+    Telestar Starsat LX , Axas Classe M , tous VU +
+
+4 . Que dois-je faire pour obtenir plus de liens dans les listes ?
+    Recherchez des liens ou des listes sur Internet . Testez-les et après
+    postez les dans les discutions dédiés à la liste de mise à jour IPTV dans les forums suivants :
+    www.gigablue -support.com
+    www.opena.tv
+    Le mieux serait de contacter Nobody28 , Satinfo ou HasBahCa par PM .
+
+5 . Comment puis-je supprimer les Bouquets ?
+    Les bouquets peuvent être supprimés qu'après la fermeture du plugin:
+    Flèche vers le bas => Favoris TV (bouton bleu) = > sélectionner le bouquet que vous voulez
+    supprimer = > appuyez sur le bouton menu = > retirer entrée = > appuyez sur OK
+
+6 . Puis-je utiliser mes propres drapeaux ?
+    Les drapeaux doivent avoir le même nom que la position d'origine de chaque lien
+    de download.txt dans le dossier / usr/lib/enigma2/python/Plugins/Extensions /
+    IPTV-List-Updater/list / . La taille des drapeaux doit être 270x200 pixels
+    et doivent être enregistré au format PNG .

@@ -1,0 +1,78 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: IPTV-List-Updater\n"
+"POT-Creation-Date: 2014-04-17 00:00+0100\n"
+"PO-Revision-Date: 2014-04-17 00:00+0100\n"
+"Last-Translator: milouille\n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+
+msgid "Install & update IPTV streams from country list"
+msgstr "Installer et mettre à jour les flux IPTV via la liste des pays"
+
+msgid "and add into TV Bouquet or Radio Bouquet"
+msgstr "et ajouter au bouquet TV ou au bouquet radio"
+
+msgid "Special thanks goes to HasBahCa & FreeTuxTV for the links"
+msgstr "Remerciements particuliers à HasBahCa & FreetuxTV pour les liens"
+
+msgid "Close"
+msgstr "Fermer"
+
+msgid "Start"
+msgstr "Demarrer"
+
+msgid "FAQ"
+msgstr "FAQ"
+
+msgid "Changelog"
+msgstr "Historique des  modifications"
+
+msgid "Select country from list to add into TV Bouquet or Radio Bouquet:"
+msgstr "Sélectionnez un pays de la liste pour l'ajouter au bouquet TV ou au bouquet radio:"
+
+msgid "Install"
+msgstr "Installer"
+
+msgid "Install all"
+msgstr "Installer tous"
+
+msgid "Update list"
+msgstr "Mise à jour liste"
+
+msgid "Reloading Bouquets and Services..."
+msgstr "Recharger bouquets et services..."
+
+msgid "Nothing to select !!"
+msgstr "Rien à sélectionner"
+
+msgid "Update Bouquets and Services for:"
+msgstr "Mettre à jour les bouquets et les services pour:"
+
+msgid "Press OK or EXIT to go back !"
+msgstr "Appuyez sur OK ou EXIT pour revenir !"
+
+msgid "HTTP download ERROR:"
+msgstr "Téléchargement HTTP ERREUR:"
+
+msgid "Converting Bouquet"
+msgstr "Conversion Bouquet"
+
+msgid "UNKNOWN TYPE:"
+msgstr "TYPE INCONNU:"
+
+msgid "Bouquetname exists, do nothing"
+msgstr "Bouquetname existe, ne rien faire"
+
+msgid "Bouquetname doesn't exists, adding it"
+msgstr "Bouquetname n'existe pas, ajouter le"
+
+msgid "Special thanks to following Users:"
+msgstr "Remerciements particuliers aux utilisateurs suivants:"
+
+msgid "Credits"
+msgstr "Crédits"
