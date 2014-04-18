@@ -3,6 +3,7 @@ Changelog:
 from 18.04.2014:
 - add Language: frensh  (Thx milouille)
 - change to Version 1.55
+- add Converter: https://
 
 from 15.04.2014:
 - add Bouquet: Sky Sports UK 

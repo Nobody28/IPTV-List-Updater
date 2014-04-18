@@ -288,7 +288,7 @@ class IPTV(Screen):
                     if line.startswith('rtmp') or line.startswith('rtsp') or line.startswith('mms'):
                         line = '#SERVICE 4097:0:1:0:0:0:0:0:0:0:' + line
                     if not line.startswith("#SERVICE 4097:0:1:0:0:0:0:0:0:0:rt"):
-                        if line.startswith('http%3a'):
+                        if line.startswith('http'):
                             line = '#SERVICE 4097:0:1:0:0:0:0:0:0:0:' + line
                     tmplist.append(line)
                     tmplist.append(tmp)
@@ -300,7 +300,7 @@ class IPTV(Screen):
                     if line.startswith('rtmp') or line.startswith('rtsp') or line.startswith('mms'):
                         line = '#SERVICE 4097:0:2:0:0:0:0:0:0:0:' + line
                     if not line.startswith("#SERVICE 4097:0:2:0:0:0:0:0:0:0:rt"):
-                        if line.startswith('http%3a'):
+                        if line.startswith('http'):
                             line = '#SERVICE 4097:0:2:0:0:0:0:0:0:0:' + line
                     tmplist.append(line)
                     tmplist.append(tmp)
@@ -610,7 +610,7 @@ class IPTV_Mod(Screen):
                     if line.startswith('rtmp') or line.startswith('rtsp') or line.startswith('mms'):
                         line = '#SERVICE 1:0:1:1:1:0:820000:0:0:0:' + line
                     if not line.startswith("#SERVICE 1:0:1:1:1:0:820000:0:0:0:rt"):
-                        if line.startswith('http%3a'):
+                        if line.startswith('http'):
                             line = '#SERVICE 1:0:1:1:1:0:820000:0:0:0:' + line
                     tmplist.append(line)
                     tmplist.append(tmp)
@@ -622,7 +622,7 @@ class IPTV_Mod(Screen):
                     if line.startswith('rtmp') or line.startswith('rtsp') or line.startswith('mms'):
                         line = '#SERVICE 1:0:1:1:1:0:820000:0:0:0:' + line
                     if not line.startswith("#SERVICE 1:0:1:1:1:0:820000:0:0:0:rt"):
-                        if line.startswith('http%3a'):
+                        if line.startswith('http'):
                             line = '#SERVICE 1:0:1:1:1:0:820000:0:0:0:' + line
                     tmplist.append(line)
                     tmplist.append(tmp)
