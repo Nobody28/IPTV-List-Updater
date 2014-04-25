@@ -14,14 +14,14 @@ Streamlinks:	- HasBahCa
 	- Nobody28
 	- zozo1976
 
-Translations:	- arabic ==> zozo1976
+Translations:	- arabic ==> zozo1976 from www.gigablue-support.com Forum
 	- polish ==> miromoni
 	- turkish ==> HasBahCa
 	- dutch ==> SatKiekerd, Black_64
 	- hungarian ==> pisti
 	- italian ==> satinfo
 	- german & english ==> Nobody28 & satinfo
-	- russia ==> xosajin
+	- russia ==> xosajin from www.gigablue-support.com Forum
 	- serbia ==> Prokuplje
 	- persian ==> Eminem from openATV Forum
 	- slowakisch  ==> Advance155 from openATV Forum

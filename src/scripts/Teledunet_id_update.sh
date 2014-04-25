@@ -11,7 +11,14 @@ echo $id0
 #
 #now let`s update the id0 in the channellist
 #
-sed -i 's/id0=[0-9]\{14\}/id0='$id0/g /etc/enigma2/userbouquet.teledunet.tv
+if [ -f /etc/enigma2/userbouquet.teledunet.tv ]
+	then
+	sed -i 's/id0=[0-9]\{14\}/id0='$id0/g /etc/enigma2/userbouquet.teledunet.tv
+fi
+if [ -f /etc/enigma2/userbouquet.ilu_teledunet.tv ]
+	then
+	sed -i 's/id0=[0-9]\{14\}/id0='$id0/g /etc/enigma2/userbouquet.ilu_teledunet.tv
+fi
 #
 #now reload servicelist
 wget -q -O - http://127.0.0.1/web/servicelistreload?mode=2 > /dev/null 2>&1

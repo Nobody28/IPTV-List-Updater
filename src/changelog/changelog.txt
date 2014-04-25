@@ -1,5 +1,9 @@
 Changelog:
 
+from 25.04.2014:
+- add "ilu_" to Bouquetfilenames (no more collision with Userbouquenames!) thx Black_64
+- change Version to 1.60
+
 from 18.04.2014:
 - add Language: frensh  (Thx milouille)
 - change to Version 1.55

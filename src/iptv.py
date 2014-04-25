@@ -249,7 +249,7 @@ class IPTV(Screen):
 
     def Convert_m3u(self, name, file):
         name_file = self.file_filter(name)
-        bouquetname = 'userbouquet.%s.%s' %(name_file.lower(), self.type.lower())
+        bouquetname = 'userbouquet.ilu_%s.%s' %(name_file.lower(), self.type.lower())
         tmp = ''
         tmplist = []
         tmplist.append('#NAME IPTV %s (%s)' % (name,self.type))
