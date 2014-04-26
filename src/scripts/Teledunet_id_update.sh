@@ -1,6 +1,8 @@
 ##!/bin/sh
 # 18.03.2014 testi: added
 # 09.04.2014 szudena: fix Player URL
+# 25.04.2014 nobody28: fix Bouquetname for Ver. 1.60
+# 26.04.2014 nobody28: remove teledunet.cks
 #
 #Get time_player
 #
@@ -24,4 +26,5 @@ fi
 wget -q -O - http://127.0.0.1/web/servicelistreload?mode=2 > /dev/null 2>&1
 echo "id0 updated "
 #
+rm -f teledunet.cks
 exit 0  
