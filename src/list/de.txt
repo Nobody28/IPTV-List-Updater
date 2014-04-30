@@ -27,7 +27,7 @@ Africa TV http://01.gen.tr/HasBahCa_IPTV/Afrika.m3u Africa
 Albania TV http://01.gen.tr/HasBahCa_IPTV/Albania.m3u Albanien_Bosnien
 Germany TV http://01.gen.tr/HasBahCa_IPTV/GERMAN_DEUTSCH.m3u Deutsch
 Germany TV http://01.gen.tr/HasBahCa_IPTV/german_doppel.m3u Deutsch_doppelte
-Germany TV http://01.gen.tr/HasBahCa_IPTV/Deutsch_Serien.m3u Deutsche_Serien
+#Germany TV http://01.gen.tr/HasBahCa_IPTV/Deutsch_Serien.m3u Deutsche_Serien
 America TV http://01.gen.tr/HasBahCa_IPTV/amerika.m3u Amerika_Latino
 Arabia TV http://01.gen.tr/HasBahCa_IPTV/Arabic.m3u Arabien
 Asia TV http://01.gen.tr/HasBahCa_IPTV/asya.m3u Asien
