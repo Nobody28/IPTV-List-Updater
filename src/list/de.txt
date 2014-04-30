@@ -126,6 +126,7 @@ Sport TV https://dl.dropboxusercontent.com/s/o4a3944g460tqci/userbouquet.deutsch
 Germany TV https://dl.dropboxusercontent.com/s/0zrswsenbx4s2mm/userbouquet.deutsch_mit_livestreamer.tv?dl=1&token_hash=AAERnrNiUnBXaAuXR9l975RZm_UjkFk46-XAIrt0nRIMaQ Deutschland_nur_mit_Livestreamer_IPK B
 English TV https://dl.dropboxusercontent.com/s/zg2nsql1qzpnp05/Sky_SPORT_UK.m3u?dl=1&token_hash=AAFwCz4YJIUiBJRV9938pMnnyX0PJp1WIMvuiocSWsBlUQ Sky_Sports_UK
 Germany TV http://80.152.183.29:3000/channels.m3u Deutsch_mit_diversen_S_k_y
+Germany TV https://dl.dropboxusercontent.com/s/7bgqc6pd1m4pkhl/Deutsche-Serien.m3u?dl=1&token_hash=AAE5WOFsxaCf_c_fe4pfKDDA5o2ZMKl7jKGIO7DnrVFyUw Deutsche_Serien
 #
 ########################################################################
 #                                                                      #
