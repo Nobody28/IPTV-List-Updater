@@ -127,6 +127,7 @@ Germany TV https://dl.dropboxusercontent.com/s/0zrswsenbx4s2mm/userbouquet.deuts
 English TV https://dl.dropboxusercontent.com/s/zg2nsql1qzpnp05/Sky_SPORT_UK.m3u?dl=1&token_hash=AAFwCz4YJIUiBJRV9938pMnnyX0PJp1WIMvuiocSWsBlUQ Sky_Sports_UK
 Germany TV http://80.152.183.29:3000/channels.m3u Deutsch_mit_diversen_S_k_y
 Germany TV https://dl.dropboxusercontent.com/s/8eqbnv7vcofoxxo/userbouquet.deutsche_serien.tv?dl=1&token_hash=AAFwc96sgBephOjghDs1Y-nHNeIMJq1uYWEtZiajYkzJ1Q Deutsche_Serien B
+Germany TV https://dl.dropboxusercontent.com/s/2gbgj35xcn45gex/Deutsche-Serien-Livestreamer.m3u?dl=1&token_hash=AAFrwzfD14CgwGfSa5mH_qQJjweECu2FEvJwIdIgOrHlWA&expiry=1399640468 Deutsche_Serien_mit_Livestreamer B
 #
 ########################################################################
 #                                                                      #
