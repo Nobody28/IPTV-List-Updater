@@ -1,4 +1,7 @@
 Changelog:
+from 09.05.2014:
+- fix Depend: librtmp1
+- change Version to 1.61
 
 from 25.04.2014:
 - fix Bouquet: Deutsche Serien (Thx @humiboy)
