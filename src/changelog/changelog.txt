@@ -1,4 +1,7 @@
 Changelog:
+from 10.05.2014:
+- fix Teledunet ID0 Update (Thx testi)
+
 from 09.05.2014:
 - fix Depend: librtmp1
 - change Version to 1.61
