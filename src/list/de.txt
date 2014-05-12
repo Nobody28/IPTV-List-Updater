@@ -128,7 +128,7 @@ English TV https://dl.dropboxusercontent.com/s/zg2nsql1qzpnp05/Sky_SPORT_UK.m3u?
 Germany TV http://80.152.183.29:3000/channels.m3u Deutsch_mit_diversen_S_k_y
 Germany TV https://dl.dropboxusercontent.com/s/8eqbnv7vcofoxxo/userbouquet.deutsche_serien.tv?dl=1&token_hash=AAFwc96sgBephOjghDs1Y-nHNeIMJq1uYWEtZiajYkzJ1Q Deutsche_Serien B
 Germany TV https://dl.dropboxusercontent.com/s/2gbgj35xcn45gex/Deutsche-Serien-Livestreamer.m3u?dl=1&token_hash=AAFrwzfD14CgwGfSa5mH_qQJjweECu2FEvJwIdIgOrHlWA&expiry=1399640468 Deutsche_Serien_mit_Livestreamer B
-#
+Germany TV https://dl.dropboxusercontent.com/s/axcnbyq3fv6qfbs/userbouquet.ilu_deutsche_serien_experimentel_mit_livestreamer.tv?dl=1&token_hash=AAHWDXvJjzBM70cVgghyIRTFxogerwAS-b1P46Jvmb3X1Q&expiry=1399922326 Deutsche_Serien__experimentel_mit_Livestreamer B#
 ########################################################################
 #                                                                      #
 #                         FreetuxTV Listen                             #
