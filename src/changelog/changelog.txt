@@ -1,4 +1,8 @@
 Changelog:
+
+from 17.05.2014:
+- disable HasBahCa Bouquets (Server is down!)
+
 from 10.05.2014:
 - fix Teledunet ID0 Update (Thx testi)
 
