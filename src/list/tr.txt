@@ -129,7 +129,7 @@ Denmark TV https://dl.dropboxusercontent.com/s/u15xiiedfoo1tu5/Daenisch.m3u?dl=1
 WebCam WEBCAM https://dl.dropboxusercontent.com/s/cfzrwoay9ndqnz2/userbouquet.livewebcams.tv?dl=1&token_hash=AAE4BAvdRLta_9Gz7Mg6gQ44rgQCqbMxR3Uu9D8CA0W4UQ WorldWebCams_2 B
 Swiss TV https://dl.dropboxusercontent.com/s/ql8ihxn2fz3fm2u/userbouquet.schweiz_sonstige.tv?dl=1&token_hash=AAFVfmzH1Hb-QxRTAiNBX0wXIKksTagjQM4abRCyqJExQw Schweiz_sonstige B
 Sport TV https://dl.dropboxusercontent.com/s/o4a3944g460tqci/userbouquet.deutsch_sport.tv?dl=1&token_hash=AAFXzgYviaApQd_YYlLKLPrMx7tK-jbhly3dmvGFZybzbw Deutsch_Sport B
-XXX-Adult TV https://dl.dropboxusercontent.com/s/h6ln6hb8l0hl4wo/userbouquet.ilu_xxx_adult.tv?dl=1&token_hash=AAGWfbJ_JxR677AAKB3Vbqxfmth7BzxbJu64uSdpOMRd6A&expiry=1400359022 XXX_Adult
+XXX-Adult TV https://dl.dropboxusercontent.com/s/h6ln6hb8l0hl4wo/userbouquet.ilu_xxx_adult.tv?dl=1&token_hash=AAGXNUUoQs_6kNFrZzSEo8OQjVwKSQcIrsgVM4VbsORgew&expiry=1400359776 XXX_Adult B
 #
 #
 ########################################################################
