@@ -1,5 +1,10 @@
 Changelog:
 
+from 18.05.2014:
+- add Bouquets from ALBA1976
+- add Intersport Flag
+- add neu Streams "Deutsche Serien" (Thx caster from openA.TV Forum)
+
 from 17.05.2014:
 - disable HasBahCa Bouquets (Server is down!)
 
