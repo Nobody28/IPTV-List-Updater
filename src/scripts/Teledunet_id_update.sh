@@ -16,11 +16,11 @@ echo $id0
 #
 if [ -f /etc/enigma2/userbouquet.teledunet.tv ]
 	then
-	sed -i "s/id0=[0-9]\{14\}/id0="$id0/g /etc/enigma2/userbouquet.teledunet.tv
+	sed -i "s/id0=[0-9]\{14\}\n/id0="$id0/g /etc/enigma2/userbouquet.teledunet.tv
 fi
 if [ -f /etc/enigma2/userbouquet.ilu_teledunet.tv ]
 	then
-	sed -i "s/id0=[0-9]\{14\}/id0="$id0/g /etc/enigma2/userbouquet.ilu_teledunet.tv
+	sed -i "s/id0=[0-9]\{14\}\n/id0="$id0/g /etc/enigma2/userbouquet.ilu_teledunet.tv
 fi
 #
 #now reload servicelist
