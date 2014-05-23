@@ -1,5 +1,8 @@
 Changelog:
 
+from 23.05.2014:
+- fix Teledunet (Thx testi)
+
 from 18.05.2014:
 - add Bouquets from ALBA1976
 - add Intersport Flag
