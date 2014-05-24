@@ -1,5 +1,8 @@
 Changelog:
 
+from 24.05.2014:
+- fix Teledunet (Thx szudena)
+
 from 23.05.2014:
 - fix Teledunet (Thx testi)
 
