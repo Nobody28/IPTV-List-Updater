@@ -13,6 +13,36 @@ Germany RADIO https://dl.dropboxusercontent.com/s/qis72mhv35r6n5q/Deutschland-Ra
 Austria RADIO https://dl.dropboxusercontent.com/s/fsk2mjvwsof6fmp/Oestereich-Radio.m3u?dl=1&token_hash=AAGbbarWoYEWrxpvR3PV0SO1wAE3FGJQJlZG8Qc0QwQoXA Ausztria_rádió
 Swiss RADIO https://dl.dropboxusercontent.com/s/df4tyw2ad3z9ybe/Schweiz-Radio.m3u?dl=1&token_hash=AAGCe5uxgPAT-6N1RUtVf-OLg2c2v790JBuZZpukCY0yIQ Svájc_rádió
 #
+#
+########################################################################
+#                                                                      #
+#                        Nobody28 Lists                                #
+#                                                                      #
+########################################################################
+#
+Germany RADIO https://dl.dropboxusercontent.com/s/qis72mhv35r6n5q/Deutschland-Radio.m3u?token_hash=AAHBii3iCNyclwuwm7DFdn4BuWQveXor6RQrTY1nkq9bng&dl=1 Deutsche_Radiosender
+Austria RADIO https://dl.dropboxusercontent.com/s/fsk2mjvwsof6fmp/Oestereich-Radio.m3u?dl=1&token_hash=AAGbbarWoYEWrxpvR3PV0SO1wAE3FGJQJlZG8Qc0QwQoXA Östereich_Radiosender
+Swiss RADIO https://dl.dropboxusercontent.com/s/df4tyw2ad3z9ybe/Schweiz-Radio.m3u?dl=1&token_hash=AAGCe5uxgPAT-6N1RUtVf-OLg2c2v790JBuZZpukCY0yIQ Schweizer_Radiosender
+Digibit TV http://DIGIBIT-000BCB:8080/m3u Digibit
+Germany TV https://dl.dropboxusercontent.com/s/al3cmo1slcgod3p/userbouquet.t_home_entertain.tv?dl=1&token_hash=AAHv5tdLx-0X4MjdPDuKwiAbTHtFkTGce1LgRSSO_xeIJA T_Home_Entertain B
+Teledunet TV https://dl.dropboxusercontent.com/s/4h52djay1lntvmv/userbouquet.teledunet.tv?dl=1&token_hash=AAF8g28Ow6CHOHEYszG4v65ICgibajehL7f0_WXTI_AtlA Teledunet B
+Germany TV https://dl.dropboxusercontent.com/s/7ahmw1kdzbuyow4/userbouquet.deutsch_epg.tv?dl=1&token_hash=AAHTYf2gjBOnn0bRqBV2F2oiX8RjV7OcEhI1Lnpqp7lXOA Deutschland_with_EPG B
+WebCam WEBCAM https://dl.dropboxusercontent.com/s/cfzrwoay9ndqnz2/userbouquet.livewebcams.tv?dl=1&token_hash=AAE4BAvdRLta_9Gz7Mg6gQ44rgQCqbMxR3Uu9D8CA0W4UQ WorldWebCams_2 B
+Swiss TV https://dl.dropboxusercontent.com/s/ql8ihxn2fz3fm2u/userbouquet.schweiz_sonstige.tv?dl=1&token_hash=AAFVfmzH1Hb-QxRTAiNBX0wXIKksTagjQM4abRCyqJExQw Swiss_other B
+Sport TV https://dl.dropboxusercontent.com/s/o4a3944g460tqci/userbouquet.deutsch_sport.tv?dl=1&token_hash=AAFXzgYviaApQd_YYlLKLPrMx7tK-jbhly3dmvGFZybzbw German_Sport B
+XXX-Adult TV https://dl.dropboxusercontent.com/s/h6ln6hb8l0hl4wo/userbouquet.ilu_xxx_adult.tv?dl=1&token_hash=AAGXNUUoQs_6kNFrZzSEo8OQjVwKSQcIrsgVM4VbsORgew&expiry=1400359776 XXX_Adult B
+#
+########################################################################
+#                                                                      #
+#                         ALBA1976 Lists                               #
+#                                                                      #
+########################################################################
+#
+Albania Radio https://dl.dropboxusercontent.com/s/bgst8rgtorw1xpf/Radio%20albania.m3u?dl=1&token_hash=AAEL2Lqr6hKcJxeqEpl2u8PrYJeZ_ULS10T6zLS3BimzIA&expiry=1400353344 Albania_Radio
+Poland TV https://dl.dropboxusercontent.com/s/9rjvyq4a9a9s03v/POLAND%20TV.m3u?dl=1&token_hash=AAEIc9MC5rOgZXy3OwZNzifgIYP-XUxrcpAtpzuGIASJdA&expiry=1400366411 Poland_Tv
+Intersport TV https://dl.dropboxusercontent.com/s/psctm2ae4au03ry/INTERSPORT%20TV.m3u?dl=1&token_hash=AAGxyM7D_rj1P9aNMTFC8EXRmS-DvtZNF1MW144HOtswOg&expiry=1400434112 Intersport_Tv
+Balkan tv https://dl.dropboxusercontent.com/s/g1y98a8zbuuyde2/ALBANIA%20TV.m3u?dl=1&token_hash=AAHrnTr1Qw3Seh_rWQy84TJ6uYlJh1MNQwhnHX_BhWhSGw&expiry=1400434204 Balkan_Tv
+#
 ########################################################################
 #                                                                      #
 #           HasBahCa Lists / HasBahCa listák                           #
