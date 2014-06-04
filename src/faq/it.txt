@@ -1,5 +1,5 @@
 ﻿
-FAQ - 11.11.2013 !
+FAQ - 28.01.2014 !
 
 1. Per i sistemi che il plugin è destinato ?!
     Il plugin dovrebbe funzionare su tutti OE2.0 Firmware. 
@@ -32,3 +32,46 @@ FAQ - 11.11.2013 !
     link del file download.txt nella cartella /usr/lib/enigma2/python/
     Plugins/Extensions/IPTV-List-Updater/list/. La dimensione delle 
     bandiere sono 270x200 pixel e devono essere salvati in formato PNG. 
+
+7. Posso nascondere le liste di streaming individuali ?
+    Devi modificare nella cartella /usr/lib/enigma2/python/Plugins/
+    Extensions/IPTV-List-Updater/list (dipende della lingua GUI, ad 
+    esempio, per lingua italiana it.txt) con Notepad++ il file e 
+    cancella tutte le linie che non volete usare. Non dimenticate di 
+    salvare il file.
+
+8. Come posso integrare i propri file m3u e come posso convertire ?
+    Dovete caricare un file m3u per esempio su Dropbox. Devi modificare 
+    nella cartella /usr/lib/enigma2/python/Plugins/Extensions/IPTV-List-
+    Updater/list (dipende della lingua GUI, ad esempio, per lingua 
+    italiana it.txt) con Notepad++ il file e aggiungere una nouva riga.
+    Le quattro iscrizioni devono essere espressi cosi:
+    
+    Nome del bandiera - Tipo Bouquet - Link per scaricare - Nome 
+    Bouquet - B (per scarica il bouquet)
+    
+    - Nome del bandiera = seleziona sia un nome di bandiera esistenti 
+      o crea un nuovo (come e scritto sotto nummero 6)
+    
+    - Tipo Bouquet = Ci sono 3 tipi Bouquet (TV, RADIO o WEBCAM)
+    
+    - Link per scaricare = Link a m3u file sul server o Dropbox è 
+      necessario collegare il pulsante "Download " per copiare e 
+      incollarlo come un percorso di download nel file di lingua , e non
+      il collegamento al file m3u
+    
+    - Nome Bouquet = qui è possibile inserire il proprio nome come il 
+      tuo bouquet appare nel plugin e nel Bouquet TV.
+      
+    - B = Qui è possibile inserire una B , cosi scarica il file del 
+      Bouquet che e poi viene memorizzato nel vostro sistema .
+    
+    Ora è necessario avviare solo il plugin e l'installazione corri per
+    il vostro bouquet .
+
+9. Perchè il file iptvlistupdater.user ?
+    Il file è di garantire che i vostri download link può essere 
+    salvato e non vengono sovrascritti da un aggiornamento del plugin. 
+    Il file anche viene salvato con il backup dei lista canali e poi
+    ripristinare questi dopo un flash nuovo. Questo file deve essere 
+    salvato in == > / etc/enigma2
