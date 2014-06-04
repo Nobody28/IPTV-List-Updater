@@ -31,3 +31,46 @@ FAQ - 28.01.2014 !
     of download.txt in folder /usr/lib/enigma2/python/Plugins/Extensions/
     IPTV-List-Updater/list/. The size of the flags must be 270x200 pixels 
     and must be saved in PNG format. 	
+
+7. Can I hide individual streaming lists?
+    You must modify in folder /usr/lib/enigma2/python/Plugins/Extensions/
+    IPTV-List-Updater/list (depending on the GUI language for example
+    de.txt for German) with Notepad++ and delete all the lines which you 
+    do not want to use. Do not forget to save the file.
+
+8. How can I integrate and convert own m3u files ?
+    This requires an m3u file that is loaded on Dropbox for example.
+    Then modify in folder /usr/lib/enigma2/python/Plugins/Extensions/
+    IPTV-List-Updater/list language file (depending on the GUI language, 
+    fro example de.txt for German ) with Notepad++ and add a new row .
+    The four entries must be expressed as :
+    
+    Flagname Bouquettype Downloadpath Bouquetname B ( for bouquet
+    file download )
+    
+    - Flag Name = select an existing flag name or create a new one
+      (as Number 6 describes its own flag)
+    
+    - Bouquettype = There are 3 types of Bouquet (TV, RADIO or WEBCAM)
+    
+    - Downloadpath = Link to m3u file on your server or Dropbox 
+      you have to copy the link in the "Download-Button" and paste it 
+      as a downloadpath in the language file, and not the link to the 
+      m3u file.
+    
+    - Bouquetname = here you can enter the Bouquetname how it will 
+      appear in the plugin and in the TV Bouquet of installation.
+      
+    - B = Here you can enter a B, then the file is only downloaded and
+      stored in your system.
+    
+    Now, you must only call up the plugin and let run the installation
+    for your bouquet.
+
+9. What is the iptvlistupdater.user file ?
+    The file is to ensure that you can save your own download sources.
+    This will not be overwritten by update. The file is also stored in 
+    the settings backup and you can restore it after flashing firmware new !
+    
+    Where this file must be saved ?
+     in == > / etc/enigma2
