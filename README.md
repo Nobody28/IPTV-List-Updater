@@ -40,8 +40,9 @@ Beim nächsten Aufruf des Plugins werden die Bouquets aber wieder angelegt!
 
 Warum keine LIG TV?
 
-Erstens LIG TV Mitarbeiter und Roboter verfolgen jedes LIG TV schreiben auf Internet und bekommst du ärger mit denen und plötzlich ein anzeige da.
-Zweitens . Jeder LIG TV link die du im Internet findest verschwindet innert kurze Zeit. 
+Zitat von HasBahCa:
+" Erstens LIG TV Mitarbeiter und Roboter verfolgen jedes LIG TV schreiben auf Internet und bekommst du ärger mit denen und plötzlich ein anzeige da.
+Zweitens . Jeder LIG TV link die du im Internet findest verschwindet innert kurze Zeit." 
 
 
 Wie kann ich Streams selber finden?
