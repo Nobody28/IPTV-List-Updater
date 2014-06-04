@@ -1,0 +1,261 @@
+#
+# Aufbau:
+# Flaggenanzeige Bouquettyp Downloadlink Bouquetname(Unterstriche werden im Plugin ausgeblendet) Bouquetfile
+########################################################################
+#                                                                      #
+#                        HasBahCa Radio Listen                         #
+#                                                                      #
+########################################################################
+#
+#Turkey RADIO http://01.gen.tr/HasBahCa_IPTV/radyolar.m3u Turk_Radio
+#Balkanradio RADIO http://01.gen.tr/HasBahCa_IPTV/balkan_radio.m3u Balkan_Radio
+#INT_Radio RADIO http://01.gen.tr/HasBahCa_IPTV/int_radio.m3u INT_Radios
+#NesetErtas RADIO http://01.gen.tr/HasBahCa_IPTV/radios/Neset_Ertas.m3u Neset_Ertas
+#Africa RADIO http://01.gen.tr/HasBahCa_IPTV/radios/Afrika_Radios.m3u Afrikanisches_Radio
+#America RADIO http://01.gen.tr/HasBahCa_IPTV/radios/South_Amerika_Radios.m3u Süd_Amerikanisches_Radio
+#USA RADIO http://01.gen.tr/HasBahCa_IPTV/radios/USA_Radios.m3u USA_Radio
+#UK RADIO http://01.gen.tr/HasBahCa_IPTV/radios/UK_Radios.m3u UK_Radio
+#
+########################################################################
+#                                                                      #
+#                       HasBahCa TV Listen                             #
+#                                                                      #
+########################################################################
+#
+#3D TV http://01.gen.tr/HasBahCa_IPTV/3d.m3u 3D_TV
+#Africa TV http://01.gen.tr/HasBahCa_IPTV/Afrika.m3u Africa
+#Albania TV http://01.gen.tr/HasBahCa_IPTV/Albania.m3u Albanien_Bosnien
+#Germany TV http://01.gen.tr/HasBahCa_IPTV/GERMAN_DEUTSCH.m3u Deutsch
+#Germany TV http://01.gen.tr/HasBahCa_IPTV/german_doppel.m3u Deutsch_doppelte
+#Germany TV http://01.gen.tr/HasBahCa_IPTV/Deutsch_Serien.m3u Deutsche_Serien
+#America TV http://01.gen.tr/HasBahCa_IPTV/amerika.m3u Amerika_Latino
+#Arabia TV http://01.gen.tr/HasBahCa_IPTV/Arabic.m3u Arabien
+#Asia TV http://01.gen.tr/HasBahCa_IPTV/asya.m3u Asien
+#Europe TV http://01.gen.tr/HasBahCa_IPTV/avrupa_europa.m3u Europa
+#Baltic_Laender TV http://01.gen.tr/HasBahCa_IPTV/Baltic.m3u Litvanien_Baltic_Länder
+#Bangladesh TV http://01.gen.tr/HasBahCa_IPTV/bangladesh.m3u Bangladesch
+#Belgium TV http://01.gen.tr/HasBahCa_IPTV/Belgium.m3u Belgien
+#Bosnien TV http://01.gen.tr/HasBahCa_IPTV/movies/Bosnia_Subtitle_Movies.m3u Bosnische_Subtitle_Filme
+#Brasil TV http://01.gen.tr/HasBahCa_IPTV/brasil.m3u Brasilien
+#Bulgaria TV http://01.gen.tr/HasBahCa_IPTV/bulgar_bulsat.m3u Bulgarien_BulSat
+#Cartoons TV http://01.gen.tr/HasBahCa_IPTV/cartoons.m3u Cartoons
+#China TV http://01.gen.tr/HasBahCa_IPTV/china.m3u China
+#Czech TV http://01.gen.tr/HasBahCa_IPTV/czech.m3u Tschechische_Republik
+#DSmart_dturk TV http://01.gen.tr/HasBahCa_IPTV/dsmart_dturk.m3u DSmart_dturk
+#English TV http://01.gen.tr/HasBahCa_IPTV/English.m3u Englisch
+#Englishmovies TV http://01.gen.tr/HasBahCa_IPTV/movies/ENGLISH_MOVIES_OLD.m3u Alte_Englisch_Filme
+#Englishmovies TV http://01.gen.tr/HasBahCa_IPTV/movies/englishmovies.m3u Englische_Filme
+#Englishmovies TV http://01.gen.tr/HasBahCa_IPTV/movies/English_Vietnam_Movies.m3u English_Vietnam_Filme
+#Ex-Yu TV http://01.gen.tr/HasBahCa_IPTV/ex-yug.m3u Ex-Yu
+#Filmon TV http://01.gen.tr/HasBahCa_IPTV/filmon.m3u Filmon
+#France TV http://01.gen.tr/HasBahCa_IPTV/fransa.m3u Frankreich
+#Georgia TV http://01.gen.tr/HasBahCa_IPTV/Georgia.m3u Georgien
+#Greece TV http://01.gen.tr/HasBahCa_IPTV/greek.m3u Griechenland
+#Holland TV http://01.gen.tr/HasBahCa_IPTV/Holland.m3u Niederland
+#India TV http://01.gen.tr/HasBahCa_IPTV/india.m3u Indien
+#ILIVE_TO TV http://01.gen.tr/HasBahCa_IPTV/ilive_to.m3u iLIVE_to
+#International-TV TV http://01.gen.tr/HasBahCa_IPTV/int_others.m3u International_nicht_kategoziert_TV
+#International-Radio RADIO http://01.gen.tr/HasBahCa_IPTV/radios/int_radio.m3u International_Radio
+#Iran TV http://01.gen.tr/HasBahCa_IPTV/iran.m3u Iran
+#Israel TV http://01.gen.tr/HasBahCa_IPTV/israil.m3u Israel
+#Italy TV http://01.gen.tr/HasBahCa_IPTV/italya.m3u Italien
+#Japan TV http://01.gen.tr/HasBahCa_IPTV/japan.m3u Japan
+#Kids TV http://01.gen.tr/HasBahCa_IPTV/Kids.m3u Kinder_Kanäle
+#Korea TV http://01.gen.tr/HasBahCa_IPTV/Korea.me3 Korea
+#Kurdish TV http://01.gen.tr/HasBahCa_IPTV/kurdi.m3u Kurdisch
+#Hungary TV http://01.gen.tr/HasBahCa_IPTV/magyar.m3u Ungarn
+#Macedonia TV http://01.gen.tr/HasBahCa_IPTV/makadonia.m3u Mazedonien
+#Misir_egypt TV http://01.gen.tr/HasBahCa_IPTV/misir_egypt.m3u Ägypten
+#Music TV http://01.gen.tr/HasBahCa_IPTV/muzik.m3u Musik
+#Nilesat TV http://01.gen.tr/HasBahCa_IPTV/nilesat.m3u Nilsat
+#Pakistan TV http://01.gen.tr/HasBahCa_IPTV/pakistan.m3u Pakistan
+#Poland TV http://01.gen.tr/HasBahCa_IPTV/polonya.m3u Polen
+#Portugal TV http://01.gen.tr/HasBahCa_IPTV/Portugal.m3u Portugal
+#Romania-Moldavia TV http://01.gen.tr/HasBahCa_IPTV/Romania_Moldova.m3u Rumänien-Moldawien
+#Russia TV http://01.gen.tr/HasBahCa_IPTV/rus.m3u Russland
+#Russia TV http://01.gen.tr/HasBahCa_IPTV/movies/RUS_movies.m3u Russische_Filme
+#Serbia TV http://01.gen.tr/HasBahCa_IPTV/Serbia_Croatia.m3u Serbien_Kroatien
+#Skandinavia TV http://01.gen.tr/HasBahCa_IPTV/skandinav.m3u Skandinavien
+#Slovakei TV http://01.gen.tr/HasBahCa_IPTV/Slovakia_Slovenia.m3u Slovakei_Slowenien
+#Spain TV http://01.gen.tr/HasBahCa_IPTV/Spain.m3u Spanien
+#Spain TV http://01.gen.tr/HasBahCa_IPTV/movies/spain_movies.m3u Spanische_Filme
+#Sport TV http://01.gen.tr/HasBahCa_IPTV/spor.m3u Sport
+#Swiss TV http://01.gen.tr/HasBahCa_IPTV/Switzerland.m3u Schweiz
+#Thai TV http://01.gen.tr/HasBahCa_IPTV/thai.m3u Thailand
+#Turki_Azeri TV http://01.gen.tr/HasBahCa_IPTV/turki.m3u Türki_Aserbaidschan
+#Turkey-Main TV http://01.gen.tr/HasBahCa_IPTV/turk_ulusal_yedek.m3u Türkei_doppelt
+#Turkey-Main TV http://01.gen.tr/HasBahCa_IPTV/turk_belgesel_sinema.m3u Türkei_Doku_Filme
+#Turkey-Main TV http://01.gen.tr/HasBahCa_IPTV/turk_cocuk.m3u Türkei_Kinder
+#Turkey-Main TV http://01.gen.tr/HasBahCa_IPTV/turk_dini.m3u Türkei_Religion
+#Turkey-Main TV http://01.gen.tr/HasBahCa_IPTV/turk_haber.m3u Türkei_Nachrichten
+#Turkey-Main TV http://01.gen.tr/HasBahCa_IPTV/turk_muzik.m3u Türkei_Musik
+#Turkey-Main TV http://01.gen.tr/HasBahCa_IPTV/turk_spor.m3u Türkei_Sport
+#Turkey-Main TV http://01.gen.tr/HasBahCa_IPTV/turk_ulusal.m3u Türkei_Hauptsender
+#Turkey-Local TV http://01.gen.tr/HasBahCa_IPTV/turk_yerel.m3u Türkei_Lokalsender
+#Turkey-Main TV http://01.gen.tr/HasBahCa_IPTV/movies/Turk_Filmleri.m3u Türkische_Filme 1
+#Turkey-Main TV http://01.gen.tr/HasBahCa_IPTV/movies/Turk_Filmleri_2.m3u Türkische_Filme 2
+#Ukraine TV http://01.gen.tr/HasBahCa_IPTV/ukraina.m3u Ukraine
+#USA TV http://01.gen.tr/HasBahCa_IPTV/usa.m3u USA
+#USA TV http://01.gen.tr/HasBahCa_IPTV/usa_shows.m3u USA_SHOWS
+#Vietnam TV http://01.gen.tr/HasBahCa_IPTV/vietnam.m3u Vietnam
+#Vietnam TV http://01.gen.tr/HasBahCa_IPTV/movies/vietnam_series_karakoe_clip.m3u Vietnam_Series_Karakoe_Clip
+#WebCam WEBCAM http://01.gen.tr/HasBahCa_IPTV/webcam.m3u WorldWebCams_1
+#XXX-Adult TV http://01.gen.tr/HasBahCa_IPTV/XXX.m3u XXX_Adult
+#XXX-Adult TV http://01.gen.tr/HasBahCa_IPTV/XXX_vod+18.m3u XXX_Adult_Movies
+#
+########################################################################
+#                                                                      #
+#                         Nobody28 Listen                              #
+#                                                                      #
+########################################################################
+#
+Austria RADIO https://dl.dropboxusercontent.com/s/09b9tuw9prvr0gs/Oestereich-Radio.m3u?dl=1&token_hash=AAF0Hdxku4ay-_4wAKU576HxnYTumJ4wrvkx9nt48yMtuw Östereich_Radiosender
+Swiss RADIO https://dl.dropboxusercontent.com/s/lbqumuha70t00b8/Schweiz-Radio.m3u?dl=1&token_hash=AAEasDaU-jChwyiEQe6P-j9cW2TT0UWHeP8BZw7gutjMsw Schweizer_Radiosender
+Digibit TV http://DIGIBIT-000BCB:8080/m3u Digibit
+Germany TV https://dl.dropboxusercontent.com/s/al3cmo1slcgod3p/userbouquet.t_home_entertain.tv?dl=1&token_hash=AAHv5tdLx-0X4MjdPDuKwiAbTHtFkTGce1LgRSSO_xeIJA T_Home_Entertain B
+Teledunet TV https://dl.dropboxusercontent.com/s/4h52djay1lntvmv/userbouquet.teledunet.tv?dl=1&token_hash=AAF8g28Ow6CHOHEYszG4v65ICgibajehL7f0_WXTI_AtlA Teledunet B
+Germany TV https://dl.dropboxusercontent.com/s/s2jqllru1x6jhcp/userbouquet.Deutschland_sonstige.tv?dl=1&token_hash=AAHfxv2G3s7e7da28IXWqteO6_dfZvV2bKJjUj4RLjq8tw Deutschland_sonstige B
+Germany TV https://dl.dropboxusercontent.com/s/7ahmw1kdzbuyow4/userbouquet.deutsch_epg.tv?dl=1&token_hash=AAHTYf2gjBOnn0bRqBV2F2oiX8RjV7OcEhI1Lnpqp7lXOA Deutschland_mit_EPG B
+Germany RADIO https://dl.dropboxusercontent.com/s/7cmzizxiryjdgdu/userbouquet.deutsche_radiosender_mit_EPG.radio?dl=1&token_hash=AAH3HXG5QifpVxfmv9K7ury4o0pSVPqXPsBewlWy3ZFDzg Deutsche_Radiosender B
+Germany RADIO https://dl.dropboxusercontent.com/s/qsppqg0eop4njyh/userbouquet.Partymusik.radio?dl=1&token_hash=AAGini-qIzexgs_vbLv7bwBuqH-kj8Myz7MkCvpSSYJR1w Deutsche_Partymusik B
+Russia TV http://iptv.lamp.ufa-it.ru/generate_m3u.php?num_list=001&shift=2 Russisch_SibirTelecom
+Denmark TV https://dl.dropboxusercontent.com/s/u15xiiedfoo1tu5/Daenisch.m3u?dl=1&token_hash=AAFQ8mKXCcTMPWmz-WRoWT4cvRNCTkdXv_cUjpo9HrLTkw Daenisch
+WebCam WEBCAM https://dl.dropboxusercontent.com/s/cfzrwoay9ndqnz2/userbouquet.livewebcams.tv?dl=1&token_hash=AAE4BAvdRLta_9Gz7Mg6gQ44rgQCqbMxR3Uu9D8CA0W4UQ WorldWebCams_2 B
+Swiss TV https://dl.dropboxusercontent.com/s/ql8ihxn2fz3fm2u/userbouquet.schweiz_sonstige.tv?dl=1&token_hash=AAFVfmzH1Hb-QxRTAiNBX0wXIKksTagjQM4abRCyqJExQw Schweiz_sonstige B
+Sport TV https://dl.dropboxusercontent.com/s/o4a3944g460tqci/userbouquet.deutsch_sport.tv?dl=1&token_hash=AAFXzgYviaApQd_YYlLKLPrMx7tK-jbhly3dmvGFZybzbw Deutsch_Sport B
+Germany TV https://dl.dropboxusercontent.com/s/0zrswsenbx4s2mm/userbouquet.deutsch_mit_livestreamer.tv?dl=1&token_hash=AAERnrNiUnBXaAuXR9l975RZm_UjkFk46-XAIrt0nRIMaQ Deutschland_nur_mit_Livestreamer_IPK B
+English TV https://dl.dropboxusercontent.com/s/zg2nsql1qzpnp05/Sky_SPORT_UK.m3u?dl=1&token_hash=AAFwCz4YJIUiBJRV9938pMnnyX0PJp1WIMvuiocSWsBlUQ Sky_Sports_UK
+Germany TV http://80.152.183.29:3000/channels.m3u Deutsch_mit_diversen_S_k_y
+Germany TV https://dl.dropboxusercontent.com/s/8eqbnv7vcofoxxo/userbouquet.deutsche_serien.tv?dl=1&token_hash=AAFwc96sgBephOjghDs1Y-nHNeIMJq1uYWEtZiajYkzJ1Q Deutsche_Serien B
+Germany TV https://dl.dropboxusercontent.com/s/2gbgj35xcn45gex/Deutsche-Serien-Livestreamer.m3u?dl=1&token_hash=AAFrwzfD14CgwGfSa5mH_qQJjweECu2FEvJwIdIgOrHlWA&expiry=1399640468 Deutsche_Serien_mit_Livestreamer B
+Germany TV https://dl.dropboxusercontent.com/s/axcnbyq3fv6qfbs/userbouquet.ilu_deutsche_serien_experimentel_mit_livestreamer.tv?dl=1&token_hash=AAHWDXvJjzBM70cVgghyIRTFxogerwAS-b1P46Jvmb3X1Q&expiry=1399922326 Deutsche_Serien_experimentel_mit_Livestreamer B#
+XXX-Adult TV https://dl.dropboxusercontent.com/s/h6ln6hb8l0hl4wo/userbouquet.ilu_xxx_adult.tv?dl=1&token_hash=AAGXNUUoQs_6kNFrZzSEo8OQjVwKSQcIrsgVM4VbsORgew&expiry=1400359776 XXX_Adult B
+#
+#
+########################################################################
+#                                                                      #
+#                         ALBA1976 Listen                             #
+#                                                                      #
+########################################################################
+#
+Albania Radio https://dl.dropboxusercontent.com/s/bgst8rgtorw1xpf/Radio%20albania.m3u?dl=1&token_hash=AAEL2Lqr6hKcJxeqEpl2u8PrYJeZ_ULS10T6zLS3BimzIA&expiry=1400353344 Albania_Radio
+Poland TV https://dl.dropboxusercontent.com/s/9rjvyq4a9a9s03v/POLAND%20TV.m3u?dl=1&token_hash=AAEIc9MC5rOgZXy3OwZNzifgIYP-XUxrcpAtpzuGIASJdA&expiry=1400366411 Poland_Tv
+Intersport TV https://dl.dropboxusercontent.com/s/psctm2ae4au03ry/INTERSPORT%20TV.m3u?dl=1&token_hash=AAGxyM7D_rj1P9aNMTFC8EXRmS-DvtZNF1MW144HOtswOg&expiry=1400434112 Intersport_Tv
+Balcan tv https://dl.dropboxusercontent.com/s/g1y98a8zbuuyde2/ALBANIA%20TV.m3u?dl=1&token_hash=AAHrnTr1Qw3Seh_rWQy84TJ6uYlJh1MNQwhnHX_BhWhSGw&expiry=1400434204 Balkan_Tv
+#
+#
+########################################################################
+#                                                                      #
+#                         FreetuxTV Listen                             #
+#                                                                      #
+########################################################################
+#
+NoLang TV http://database.freetuxtv.net/playlists/playlist_webtv_none.m3u Web_TV_(No_lang)
+NoLang RADIO http://database.freetuxtv.net/playlists/playlist_webradio_none.m3u Web_Radio_(No-lang)
+NoLang TV http://database.freetuxtv.net/playlists/playlist_programmes_none.m3u Web_Programmes_(No_lang)
+NoLang TV http://database.freetuxtv.net/playlists/playlist_webcam_none.m3u Web_Cam_(No_lang)
+Africa TV http://database.freetuxtv.net/playlists/playlist_webtv_af.m3u Web_TV_(Africa)
+Albania TV http://database.freetuxtv.net/playlists/playlist_webtv_sq.m3u Web_TV_(Albania)
+Amharic TV http://database.freetuxtv.net/playlists/playlist_webtv_am.m3u Web_TV_(Amharic)
+Arabia TV http://database.freetuxtv.net/playlists/playlist_webtv_am.m3u Web_TV_(Arabia)
+Arabia RADIO http://database.freetuxtv.net/playlists/playlist_webradio_ar.m3u Web_Radio_(Arabia)
+Arabia WEBCAM http://database.freetuxtv.net/playlists/playlist_webcam_ar.m3u Web_Cam_(Arabia)
+Armenia TV http://database.freetuxtv.net/playlists/playlist_webtv_hy.m3u Web_TV_(Armenia)
+Azerbaijan TV http://database.freetuxtv.net/playlists/playlist_webtv_az.m3u Web_TV_(Azerbaijan)
+Bengali_Bangla TV http://database.freetuxtv.net/playlists/playlist_webtv_bn.m3u Web_TV_(Bengali/Bangla)
+Bulgaria TV http://database.freetuxtv.net/playlists/playlist_webtv_bg.m3u Web_TV_(Bulgaria)
+Cambodia TV http://database.freetuxtv.net/playlists/playlist_webtv_km.m3u Web_TV_(Cambodia)
+Catalan TV http://database.freetuxtv.net/playlists/playlist_webtv_ca.m3u Web_TV_(Catalan)
+Catalan RADIO http://database.freetuxtv.net/playlists/playlist_webradio_ca.m3u Web_Radio_(Catalan)
+China TV http://database.freetuxtv.net/playlists/playlist_webtv_zh.m3u Web_TV_(China)
+China RADIO http://database.freetuxtv.net/playlists/playlist_webradio_zh.m3u Web_Radio_(China)
+Croatia TV http://database.freetuxtv.net/playlists/playlist_webtv_hr.m3u Web_TV_(Croatia)
+Croatia RADIO http://database.freetuxtv.net/playlists/playlist_webradio_hr.m3u Web_Radio_(Croatia)
+Czech TV http://database.freetuxtv.net/playlists/playlist_webtv_cs.m3u Web_TV_(Czech_Republic)
+Czech RADIO http://database.freetuxtv.net/playlists/playlist_webradio_cs.m3u Web_Radio_(Czech_Republic)
+Denmark TV http://database.freetuxtv.net/playlists/playlist_webtv_da.m3u Web_TV_(Denmark)
+Dutch TV http://database.freetuxtv.net/playlists/playlist_webtv_nl.m3u Web_TV_(Netherland)
+Dutch RADIO http://database.freetuxtv.net/playlists/playlist_webradio_nl.m3u Web_Radio_(Netherland)
+Dutch WEBCAM http://database.freetuxtv.net/playlists/playlist_webcam_nl.m3u Web_Cam_(Netherland)
+English TV http://database.freetuxtv.net/playlists/playlist_webtv_en.m3u Web_TV_(English)
+English RADIO http://database.freetuxtv.net/playlists/playlist_webradio_en.m3u Web_Radio_(English)
+English TV http://database.freetuxtv.net/playlists/playlist_programmes_en.m3u Web_Programmes_(English)
+English WEBCAM http://database.freetuxtv.net/playlists/playlist_webcam_en.m3u Web_Cam_(English)
+Estonia TV http://database.freetuxtv.net/playlists/playlist_webtv_et.m3u Web_TV_(Estonian)
+Finland TV http://database.freetuxtv.net/playlists/playlist_webtv_fi.m3u Web_TV_(Finland)
+France TV http://database.freetuxtv.net/playlists/playlist_webtv_fr.m3u Web_TV_(France)
+France RADIO http://database.freetuxtv.net/playlists/playlist_webradio_fr.m3u Web_Radio_(France)
+France TV http://database.freetuxtv.net/playlists/playlist_programmes_fr.m3u Web_Programmes_(France)
+Georgia TV http://database.freetuxtv.net/playlists/playlist_webtv_ka.m3u Web_TV_(Georgia)
+Germany TV http://database.freetuxtv.net/playlists/playlist_webtv_de.m3u Web_TV_(Germany)
+Germany RADIO http://database.freetuxtv.net/playlists/playlist_webradio_de.m3u Web_Radio_(Germany)
+Greece TV http://database.freetuxtv.net/playlists/playlist_webtv_el.m3u Web_TV_(Greece)
+Greece RADIO http://database.freetuxtv.net/playlists/playlist_webradio_el.m3u Web_Radio_(Greece)
+Hebrew TV http://database.freetuxtv.net/playlists/playlist_webtv_iw.m3u Web_TV_(Hebrew)
+Hebrew RADIO http://database.freetuxtv.net/playlists/playlist_webradio_iw.m3u Web_Radio_(Hebrew)
+Hebrew WEBCAM http://database.freetuxtv.net/playlists/playlist_webcam_iw.m3u Web_Cam_(Hebrew)
+Hindi TV http://database.freetuxtv.net/playlists/playlist_webtv_hi.m3u Web_TV_(Hindi)
+Hindi RADIO http://database.freetuxtv.net/playlists/playlist_webradio_hi.m3u Web_Radio_(Hindi)
+Hungary TV http://database.freetuxtv.net/playlists/playlist_webtv_hu.m3u Web_TV_(Hungary)
+Indonesia TV http://database.freetuxtv.net/playlists/playlist_webtv_in.m3u Web_TV_(Indonesia)
+Indonesia RADIO http://database.freetuxtv.net/playlists/playlist_webradio_ia.m3u Web_Radio_(Indonesia)
+Irland TV http://database.freetuxtv.net/playlists/playlist_webtv_ga.m3u Web_TV_(Irland)
+Irland RADIO http://database.freetuxtv.net/playlists/playlist_webradio_ga.m3u Web_Radio_(Irland)
+Italy TV http://database.freetuxtv.net/playlists/playlist_webtv_it.m3u Web_TV_(Italy)
+Italy RADIO http://database.freetuxtv.net/playlists/playlist_webradio_it.m3u Web_Radio_(Italy)
+Japan TV http://database.freetuxtv.net/playlists/playlist_webtv_ja.m3u Web_TV_(Japan)
+Japan RADIO http://database.freetuxtv.net/playlists/playlist_webradio_ja.m3u Web_Radio_(Japan)
+Japan WEBCAM http://database.freetuxtv.net/playlists/playlist_webcam_ja.m3u Web_Cam_(Japan)
+Kazakhstan TV http://database.freetuxtv.net/playlists/playlist_webtv_kk.m3u Web_TV_(Kazakh)
+Korean TV http://database.freetuxtv.net/playlists/playlist_webtv_ko.m3u Web_TV_(Korea)
+Kurdish TV http://database.freetuxtv.net/playlists/playlist_webtv_ku.m3u Web_TV_(Kurdish)
+Latin TV http://database.freetuxtv.net/playlists/playlist_webtv_la.m3u Web_TV_(Latin)
+Latvia_Lettish TV http://database.freetuxtv.net/playlists/playlist_webtv_lv.m3u Web_TV_(Latvia/Lettish)
+Lithuania TV http://database.freetuxtv.net/playlists/playlist_webtv_lt.m3u Web_TV_(Lithuania)
+Lithuania RADIO http://database.freetuxtv.net/playlists/playlist_webradio_lt.m3u Web_Radio_(Lithuania)
+Macedonia TV http://database.freetuxtv.net/playlists/playlist_webtv_mk.m3u Web_TV_(Macedonia)
+Macedonia RADIO http://database.freetuxtv.net/playlists/playlist_webradio_mk.m3u Web_Radio_(Macedonia)
+Malay TV http://database.freetuxtv.net/playlists/playlist_webtv_ms.m3u Web_TV_(Malay)
+Malayalam TV http://database.freetuxtv.net/playlists/playlist_webtv_ml.m3u Web_TV_(Malayalam)
+Malta TV http://database.freetuxtv.net/playlists/playlist_webtv_mt.m3u Web_TV_(Malta)
+Malta RADIO http://database.freetuxtv.net/playlists/playlist_webradio_mt.m3u Web_Radio_(Malta)
+Moldavia TV http://database.freetuxtv.net/playlists/playlist_webtv_mo.m3u Web_TV_(Moldavia)
+Mongolia TV http://database.freetuxtv.net/playlists/playlist_webtv_mn.m3u Web_TV_(Mongolia)
+Norway TV http://database.freetuxtv.net/playlists/playlist_webtv_no.m3u Web_TV_(Norway)
+Persian TV http://database.freetuxtv.net/playlists/playlist_webtv_fa.m3u Web_TV_(Persian)
+Poland TV http://database.freetuxtv.net/playlists/playlist_webtv_pl.m3u Web_TV_(Poland)
+Poland RADIO http://database.freetuxtv.net/playlists/playlist_webradio_pl.m3u Web_Radio_(Poland)
+Poland WEBCAM http://database.freetuxtv.net/playlists/playlist_webcam_pl.m3u Web_Cam_(Poland)
+Portugal TV http://database.freetuxtv.net/playlists/playlist_webtv_pt.m3u Web_TV_(Portugal)
+Portugal RADIO http://database.freetuxtv.net/playlists/playlist_webradio_pt.m3u Web_Radio_(Portugal)
+Punjabi TV http://database.freetuxtv.net/playlists/playlist_webtv_pa.m3u Web_TV_(Punjabi)
+Romania TV http://database.freetuxtv.net/playlists/playlist_webtv_ro.m3u Web_TV_(Romania)
+Romania RADIO http://database.freetuxtv.net/playlists/playlist_webradio_ro.m3u Web_Radio_(Romania)
+Russia TV http://database.freetuxtv.net/playlists/playlist_webtv_ru.m3u Web_TV_(Russia)
+Russia RADIO http://database.freetuxtv.net/playlists/playlist_webradio_ru.m3u Web_Radio_(Russia)
+Serbia TV http://database.freetuxtv.net/playlists/playlist_webtv_sr.m3u Web_TV_(Serbia)
+Serbia RADIO http://database.freetuxtv.net/playlists/playlist_webradio_sr.m3u Web_Radio_(Serbia)
+Serbia_Croatia TV http://database.freetuxtv.net/playlists/playlist_webtv_sh.m3u Web_TV_(Serbia-Croatia)
+Serbia_Croatia RADIO http://database.freetuxtv.net/playlists/playlist_webradio_sh.m3u Web_Radio_(Serbia-Croatia)
+Slovakia TV http://database.freetuxtv.net/playlists/playlist_webtv_sk.m3u Web_TV_(Slovakia)
+Slovakia RADIO http://database.freetuxtv.net/playlists/playlist_webradio_sk.m3u Web_Radio_(Slovakia)
+Slovenia TV http://database.freetuxtv.net/playlists/playlist_webtv_sl.m3u Web_TV_(Slovenia)
+Slovenia RADIO http://database.freetuxtv.net/playlists/playlist_webradio_sl.m3u Web_Radio_(Slovenia)
+Spain TV http://database.freetuxtv.net/playlists/playlist_webtv_es.m3u Web_TV_(Spain)
+Spain RADIO http://database.freetuxtv.net/playlists/playlist_webradio_es.m3u Web_Radio_(Spain)
+Spain TV http://database.freetuxtv.net/playlists/playlist_programmes_es.m3u Web_Programmes_(Spain)
+Spain WEBCAM http://database.freetuxtv.net/playlists/playlist_webcam_es.m3u Web_Cam_(Spain)
+Sweden TV http://database.freetuxtv.net/playlists/playlist_webtv_sv.m3u Web_TV_(Sweden)
+Tagalog TV http://database.freetuxtv.net/playlists/playlist_webtv_tl.m3u Web_TV_(Tagalog)
+Tamil TV http://database.freetuxtv.net/playlists/playlist_webtv_ta.m3u Web_TV_(Tamil)
+Thai TV http://database.freetuxtv.net/playlists/playlist_webtv_th.m3u Web_TV_(Thai)
+Turkey TV http://database.freetuxtv.net/playlists/playlist_webtv_tr.m3u Web_TV_(Turkey)
+Turkey RADIO http://database.freetuxtv.net/playlists/playlist_webradio_tr.m3u Web_Radio_(Turkey)
+Turkmen TV http://database.freetuxtv.net/playlists/playlist_webtv_tk.m3u Web_TV_(Turkmen)
+Ukraine TV http://database.freetuxtv.net/playlists/playlist_webtv_uk.m3u Web_TV_(Ukraine)
+Ukraine RADIO http://database.freetuxtv.net/playlists/playlist_webradio_uk.m3u Web_Radio_(Ukraine)
+Ukraine WEBCAM http://database.freetuxtv.net/playlists/playlist_webcam_uk.m3u Web_Cam_(Ukraine)
+Urdu TV http://database.freetuxtv.net/playlists/playlist_webtv_ur.m3u Web_TV_(Urdu)
+Uzbekistan TV http://database.freetuxtv.net/playlists/playlist_webtv_uz.m3u Web_TV_(Uzbekistan)
+Vietnam TV http://database.freetuxtv.net/playlists/playlist_webtv_vi.m3u Web_TV_(Vietnam)
+Vietnam RADIO http://database.freetuxtv.net/playlists/playlist_webradio_vi.m3u Web_Radio_(Vietnam)
