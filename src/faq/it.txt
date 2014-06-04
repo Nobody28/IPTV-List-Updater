@@ -57,8 +57,8 @@ FAQ - 28.01.2014 !
     
     - Link per scaricare = Link a m3u file sul server o Dropbox è 
       necessario collegare il pulsante "Download " per copiare e 
-      incollarlo come un percorso di download nel file di lingua , e non
-      il collegamento al file m3u
+      incollarlo come downloadlink nel file di lingua, e non il
+      link del file m3u
     
     - Nome Bouquet = qui è possibile inserire il proprio nome come il 
       tuo bouquet appare nel plugin e nel Bouquet TV.
