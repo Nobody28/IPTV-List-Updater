@@ -1,5 +1,9 @@
 Changelog:
 
+from 11.06.2014:
+- add HasBahCa Bouquetfiles (please wait for HasBahCa Stream Updates)
+- change Version to 1.62-11.06.14
+
 from 24.05.2014:
 - fix Teledunet (Thx szudena)
 
