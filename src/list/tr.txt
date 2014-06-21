@@ -83,7 +83,7 @@ Slovakai TV http://01.gen.tr/HasBahCa_IPTV/Slovakia_Slovenia.m3u SLOVAKYA_Sloven
 Serbia TV http://01.gen.tr/HasBahCa_IPTV/Serbia_Croatia.m3u SIRBiSTAN_HIRVATISTAN_by_HasBahCa
 Vietnam TV http://01.gen.tr/HasBahCa_IPTV/vietnam.m3u VIETNAM_by_HasBahCa
 USA TV http://01.gen.tr/HasBahCa_IPTV/usa.m3u ABD-USA_by_HasBahCa
-#USA TV http://01.gen.tr/HasBahCa_IPTV/usa_shows.m3u ABD-USA_SHOWS_by_HasBahCa
+USA TV http://01.gen.tr/HasBahCa_IPTV/usa_shows.m3u ABD-USA_SHOWS_by_HasBahCa
 Filmon TV http://01.gen.tr/HasBahCa_IPTV/filmon.m3u Filmon_by_HasBahCa
 ILIVE_TO TV http://01.gen.tr/HasBahCa_IPTV/ilive_to.m3u ILIVE_TO_by_HasBahCa
 English TV http://01.gen.tr/HasBahCa_IPTV/English.m3u INGILIZCE_by_HasBahCa
