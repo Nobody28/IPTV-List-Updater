@@ -60,13 +60,7 @@ Brasil TV http://01.gen.tr/HasBahCa_IPTV/brasil.m3u Brasil_tévé
 Bulgaria TV http://01.gen.tr/HasBahCa_IPTV/bulgar.m3u Bulgária_tévé
 China TV http://01.gen.tr/HasBahCa_IPTV/china.m3u Kína_tévé
 Czech TV http://01.gen.tr/HasBahCa_IPTV/czech.m3u Csehország_tévé
-Englishmovies TV http://01.gen.tr/HasBahCa_IPTV/englishmovies_abc.m3u angol_filmek_ABC
-Englishmovies TV http://01.gen.tr/HasBahCa_IPTV/englishmovies_def.m3u angol_filmek_DEF
-Englishmovies TV http://01.gen.tr/HasBahCa_IPTV/englishmovies_ghi.m3u angol_filmek_GHI
-Englishmovies TV http://01.gen.tr/HasBahCa_IPTV/englishmovies_mno.m3u angol_filmek_MNO
-Englishmovies TV http://01.gen.tr/HasBahCa_IPTV/englishmovies_prs.m3u angol_filmek_PRS
-Englishmovies TV http://01.gen.tr/HasBahCa_IPTV/englishmovies_t.m3u angol_filmek_T
-Englishmovies TV http://01.gen.tr/HasBahCa_IPTV/englishmovies_u-z.m3u angol_filmek_U-Z
+Englishmovies TV http://01.gen.tr/HasBahCa_IPTV/movies/englishmovies.m3u angol_filmek
 English TV http://01.gen.tr/HasBahCa_IPTV/ingilizce.m3u Anglia_tévé
 Europe TV http://01.gen.tr/HasBahCa_IPTV/avrupa.m3u Európa_tévé
 Ex-Yu TV http://01.gen.tr/HasBahCa_IPTV/ex-yug.m3u Ex-Yu_tévé
@@ -105,7 +99,7 @@ Turkey-Main TV http://01.gen.tr/HasBahCa_IPTV/turk_dini.m3u Törökország_DiNi
 Turkey-Main TV http://01.gen.tr/HasBahCa_IPTV/turk_haber.m3u Törökország_HABER
 Turkey-Main TV http://01.gen.tr/HasBahCa_IPTV/turk_spor.m3u Törökország_SPORT
 Turkey-Main TV http://01.gen.tr/HasBahCa_IPTV/turk_belgesel_sinema.m3u Törökország_BELGESEL_SINEMA
-#Turkey-Main TV http://01.gen.tr/HasBahCa_IPTV/turk_cocuk.m3u Törökország_COCUK
+Turkey-Main TV http://01.gen.tr/HasBahCa_IPTV/turk_cocuk.m3u Törökország_COCUK
 Turkey-Main TV http://01.gen.tr/HasBahCa_IPTV/turk_muzik.m3u Törökország_MUZiK
 Turkey-Main TV http://01.gen.tr/HasBahCa_IPTV/turkkomple.m3u Törökország teljes mértékben
 Radio-Turkey RADIO http://01.gen.tr/HasBahCa_IPTV/turkvod/radyolar.m3u Törökország Radio
