@@ -93,6 +93,7 @@ Russia TV http://iptv.lamp.ufa-it.ru/generate_m3u.php?num_list=001 RUS_SIBIR_TEL
 Georgia TV http://01.gen.tr/HasBahCa_IPTV/Georgia.m3u GÜRCISTAN_by_HasBahCa
 WebCam TV http://01.gen.tr/HasBahCa_IPTV/webcam.m3u WEBCAM_by_HasBahCa
 International-TV TV http://01.gen.tr/HasBahCa_IPTV/simpltvplayerbackup_iptv.m3u HasBahCa_IPTV_FULL
+DSmart_dturk TV http://01.gen.tr/HasBahCa_IPTV/dsmart_dturk.m3u DSmart_DTurk
 *
 ########################################################################
 #                                                                      #
