@@ -63,7 +63,7 @@ Italy TV http://01.gen.tr/HasBahCa_IPTV/italya.m3u ITALYANCA_by_HasBahCa
 Iran TV http://01.gen.tr/HasBahCa_IPTV/iran.m3u IRAN_by_HasBahCa
 Israel TV http://01.gen.tr/HasBahCa_IPTV/israil.m3u ISRAIL_by_HasBahCa
 Japan TV http://01.gen.tr/HasBahCa_IPTV/japan.m3u JAPONYA_by_HasBahCa
-#Korea TV http://01.gen.tr/HasBahCa_IPTV/Korea.m3u KORE_by_HasBahCa
+Korea TV http://01.gen.tr/HasBahCa_IPTV/Korea.m3u KORE_by_HasBahCa
 Kurdish TV http://01.gen.tr/HasBahCa_IPTV/kurdi.m3u KURTCE_by_HasBahCa
 Lithuania TV http://01.gen.tr/HasBahCa_IPTV/Baltic.m3u BALTiK_ULKELERI_by_HasBahCa
 Magyar TV http://01.gen.tr/HasBahCa_IPTV/magyar.m3u MACARISTAN_by_HasBahCa
@@ -84,14 +84,15 @@ Serbia TV http://01.gen.tr/HasBahCa_IPTV/Serbia_Croatia.m3u SIRBiSTAN_HIRVATISTA
 Vietnam TV http://01.gen.tr/HasBahCa_IPTV/vietnam.m3u VIETNAM_by_HasBahCa
 USA TV http://01.gen.tr/HasBahCa_IPTV/usa.m3u ABD-USA_by_HasBahCa
 USA TV http://01.gen.tr/HasBahCa_IPTV/usa_shows.m3u ABD-USA_SHOWS_by_HasBahCa
-Filmon TV http://01.gen.tr/HasBahCa_IPTV/filmon.m3u Filmon_by_HasBahCa
-ILIVE_TO TV http://01.gen.tr/HasBahCa_IPTV/ilive_to.m3u ILIVE_TO_by_HasBahCa
+#Filmon TV http://01.gen.tr/HasBahCa_IPTV/filmon.m3u Filmon_by_HasBahCa
+#ILIVE_TO TV http://01.gen.tr/HasBahCa_IPTV/ilive_to.m3u ILIVE_TO_by_HasBahCa
 English TV http://01.gen.tr/HasBahCa_IPTV/English.m3u INGILIZCE_by_HasBahCa
-Nilesat TV http://01.gen.tr/HasBahCa_IPTV/nilesat.m3u NILESAT_by_HasBahCa
+#Nilesat TV http://01.gen.tr/HasBahCa_IPTV/nilesat.m3u NILESAT_by_HasBahCa
 XXX-Adult TV http://01.gen.tr/HasBahCa_IPTV/XXX.m3u XXX_YETISKIN
 Russia TV http://iptv.lamp.ufa-it.ru/generate_m3u.php?num_list=001 RUS_SIBIR_TELEKOM
 Georgia TV http://01.gen.tr/HasBahCa_IPTV/Georgia.m3u GÜRCISTAN_by_HasBahCa
 WebCam TV http://01.gen.tr/HasBahCa_IPTV/webcam.m3u WEBCAM_by_HasBahCa
+International-TV TV http://01.gen.tr/HasBahCa_IPTV/simpltvplayerbackup_iptv.m3u HasBahCa_IPTV_FULL
 *
 ########################################################################
 #                                                                      #
