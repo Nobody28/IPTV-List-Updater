@@ -61,7 +61,7 @@ Israel TV http://01.gen.tr/HasBahCa_IPTV/israil.m3u Israel
 Italy TV http://01.gen.tr/HasBahCa_IPTV/italya.m3u Italien
 Japan TV http://01.gen.tr/HasBahCa_IPTV/japan.m3u Japan
 Kids TV http://01.gen.tr/HasBahCa_IPTV/Kids.m3u Kinder_Kanäle
-#Korea TV http://01.gen.tr/HasBahCa_IPTV/Korea.me3 Korea
+Korea TV http://01.gen.tr/HasBahCa_IPTV/Korea.me3 Korea
 Kurdish TV http://01.gen.tr/HasBahCa_IPTV/kurdi.m3u Kurdisch
 Hungary TV http://01.gen.tr/HasBahCa_IPTV/magyar.m3u Ungarn
 Macedonia TV http://01.gen.tr/HasBahCa_IPTV/makadonia.m3u Mazedonien
@@ -102,6 +102,7 @@ Vietnam TV http://01.gen.tr/HasBahCa_IPTV/movies/vietnam_series_karakoe_clip.m3u
 WebCam WEBCAM http://01.gen.tr/HasBahCa_IPTV/webcam.m3u WorldWebCams_1
 XXX-Adult TV http://01.gen.tr/HasBahCa_IPTV/XXX.m3u XXX_Adult
 XXX-Adult TV http://01.gen.tr/HasBahCa_IPTV/movies/XXX_vod+18.m3u XXX_Adult_Movies
+International-TV TV http://01.gen.tr/HasBahCa_IPTV/simpltvplayerbackup_iptv.m3u HasBahCa_IPTV_FULL
 #
 ########################################################################
 #                                                                      #
