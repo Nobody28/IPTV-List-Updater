@@ -31,7 +31,7 @@ Germany TV http://01.gen.tr/HasBahCa_IPTV/Deutsch_Serien.m3u Deutsche_Serien
 America TV http://01.gen.tr/HasBahCa_IPTV/amerika.m3u Amerika_Latino
 Arabia TV http://01.gen.tr/HasBahCa_IPTV/Arabic.m3u Arabien
 Asia TV http://01.gen.tr/HasBahCa_IPTV/asya.m3u Asien
-Europe TV http://01.gen.tr/HasBahCa_IPTV/avrupa_europa.m3u Europa
+#Europe TV http://01.gen.tr/HasBahCa_IPTV/avrupa_europa.m3u Europa
 Baltic_Laender TV http://01.gen.tr/HasBahCa_IPTV/Baltic.m3u Litvanien_Baltic_Länder
 Bangladesh TV http://01.gen.tr/HasBahCa_IPTV/bangladesh.m3u Bangladesch
 Belgium TV http://01.gen.tr/HasBahCa_IPTV/Belgium.m3u Belgien
@@ -41,19 +41,19 @@ Bulgaria TV http://01.gen.tr/HasBahCa_IPTV/bulgar_bulsat.m3u Bulgarien_BulSat
 Cartoons TV http://01.gen.tr/HasBahCa_IPTV/cartoons.m3u Cartoons
 China TV http://01.gen.tr/HasBahCa_IPTV/china.m3u China
 Czech TV http://01.gen.tr/HasBahCa_IPTV/czech.m3u Tschechische_Republik
-DSmart_dturk TV http://01.gen.tr/HasBahCa_IPTV/dsmart_dturk.m3u DSmart_dturk
+#DSmart_dturk TV http://01.gen.tr/HasBahCa_IPTV/dsmart_dturk.m3u DSmart_dturk
 English TV http://01.gen.tr/HasBahCa_IPTV/English.m3u Englisch
 Englishmovies TV http://01.gen.tr/HasBahCa_IPTV/movies/ENGLISH_MOVIES_OLD.m3u Alte_Englisch_Filme
 Englishmovies TV http://01.gen.tr/HasBahCa_IPTV/movies/englishmovies.m3u Englische_Filme
 Englishmovies TV http://01.gen.tr/HasBahCa_IPTV/movies/English_Vietnam_Movies.m3u English_Vietnam_Filme
 Ex-Yu TV http://01.gen.tr/HasBahCa_IPTV/ex-yug.m3u Ex-Yu
-Filmon TV http://01.gen.tr/HasBahCa_IPTV/filmon.m3u Filmon
+#Filmon TV http://01.gen.tr/HasBahCa_IPTV/filmon.m3u Filmon
 France TV http://01.gen.tr/HasBahCa_IPTV/fransa.m3u Frankreich
 Georgia TV http://01.gen.tr/HasBahCa_IPTV/Georgia.m3u Georgien
 Greece TV http://01.gen.tr/HasBahCa_IPTV/greek.m3u Griechenland
 Holland TV http://01.gen.tr/HasBahCa_IPTV/Holland.m3u Niederland
 India TV http://01.gen.tr/HasBahCa_IPTV/india.m3u Indien
-ILIVE_TO TV http://01.gen.tr/HasBahCa_IPTV/ilive_to.m3u iLIVE_to
+#ILIVE_TO TV http://01.gen.tr/HasBahCa_IPTV/ilive_to.m3u iLIVE_to
 International-TV TV http://01.gen.tr/HasBahCa_IPTV/int_others.m3u International_nicht_kategoziert_TV
 International-Radio RADIO http://01.gen.tr/HasBahCa_IPTV/radios/int_radio.m3u International_Radio
 Iran TV http://01.gen.tr/HasBahCa_IPTV/iran.m3u Iran
@@ -67,7 +67,7 @@ Hungary TV http://01.gen.tr/HasBahCa_IPTV/magyar.m3u Ungarn
 Macedonia TV http://01.gen.tr/HasBahCa_IPTV/makadonia.m3u Mazedonien
 Misir_egypt TV http://01.gen.tr/HasBahCa_IPTV/misir_egypt.m3u Ägypten
 Music TV http://01.gen.tr/HasBahCa_IPTV/muzik.m3u Musik
-Nilesat TV http://01.gen.tr/HasBahCa_IPTV/nilesat.m3u Nilsat
+#Nilesat TV http://01.gen.tr/HasBahCa_IPTV/nilesat.m3u Nilsat
 Pakistan TV http://01.gen.tr/HasBahCa_IPTV/pakistan.m3u Pakistan
 Poland TV http://01.gen.tr/HasBahCa_IPTV/polonya.m3u Polen
 Portugal TV http://01.gen.tr/HasBahCa_IPTV/Portugal.m3u Portugal
@@ -93,7 +93,7 @@ Turkey-Main TV http://01.gen.tr/HasBahCa_IPTV/turk_spor.m3u Türkei_Sport
 Turkey-Main TV http://01.gen.tr/HasBahCa_IPTV/turk_ulusal.m3u Türkei_Hauptsender
 Turkey-Local TV http://01.gen.tr/HasBahCa_IPTV/turk_yerel.m3u Türkei_Lokalsender
 Turkey-Main TV http://01.gen.tr/HasBahCa_IPTV/movies/Turk_Filmleri.m3u Türkische_Filme 1
-Turkey-Main TV http://01.gen.tr/HasBahCa_IPTV/movies/Turk_Filmleri_2.m3u Türkische_Filme 2
+#Turkey-Main TV http://01.gen.tr/HasBahCa_IPTV/movies/Turk_Filmleri_2.m3u Türkische_Filme 2
 Ukraine TV http://01.gen.tr/HasBahCa_IPTV/ukraina.m3u Ukraine
 USA TV http://01.gen.tr/HasBahCa_IPTV/usa.m3u USA
 USA TV http://01.gen.tr/HasBahCa_IPTV/usa_shows.m3u USA_SHOWS
@@ -101,7 +101,7 @@ Vietnam TV http://01.gen.tr/HasBahCa_IPTV/vietnam.m3u Vietnam
 Vietnam TV http://01.gen.tr/HasBahCa_IPTV/movies/vietnam_series_karakoe_clip.m3u Vietnam_Series_Karakoe_Clip
 WebCam WEBCAM http://01.gen.tr/HasBahCa_IPTV/webcam.m3u WorldWebCams_1
 XXX-Adult TV http://01.gen.tr/HasBahCa_IPTV/XXX.m3u XXX_Adult
-XXX-Adult TV http://01.gen.tr/HasBahCa_IPTV/movies/XXX_vod+18.m3u XXX_Adult_Movies
+#XXX-Adult TV http://01.gen.tr/HasBahCa_IPTV/movies/XXX_vod+18.m3u XXX_Adult_Movies
 International-TV TV http://01.gen.tr/HasBahCa_IPTV/simpltvplayerbackup_iptv.m3u HasBahCa_IPTV_FULL
 #
 ########################################################################
