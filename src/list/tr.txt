@@ -94,6 +94,7 @@ Georgia TV http://01.gen.tr/HasBahCa_IPTV/Georgia.m3u GÜRCISTAN_by_HasBahCa
 WebCam TV http://01.gen.tr/HasBahCa_IPTV/webcam.m3u WEBCAM_by_HasBahCa
 International-TV TV http://01.gen.tr/HasBahCa_IPTV/simpltvplayerbackup_iptv.m3u HasBahCa_IPTV_FULL
 DSmart_dturk TV http://01.gen.tr/HasBahCa_IPTV/dsmart_dturk.m3u DSmart_DTurk
+International-TV TV http://01.gen.tr/HasBahCa_IPTV/Unistream.m3u Unistream_TR_DE_ENG_AR_SKAN_MULTI
 *
 ########################################################################
 #                                                                      #
