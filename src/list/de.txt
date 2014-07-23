@@ -103,6 +103,7 @@ WebCam WEBCAM http://01.gen.tr/HasBahCa_IPTV/webcam.m3u WorldWebCams_1
 XXX-Adult TV http://01.gen.tr/HasBahCa_IPTV/XXX.m3u XXX_Adult
 #XXX-Adult TV http://01.gen.tr/HasBahCa_IPTV/movies/XXX_vod+18.m3u XXX_Adult_Movies
 International-TV TV http://01.gen.tr/HasBahCa_IPTV/simpltvplayerbackup_iptv.m3u HasBahCa_IPTV_FULL
+International-TV TV http://01.gen.tr/HasBahCa_IPTV/Unistream.m3u Unistream_TR_DE_ENG_AR_SKAN_MULTI
 #
 ########################################################################
 #                                                                      #
