@@ -3,11 +3,20 @@
 #                             other Lists                              #
 #                                                                      #
 ########################################################################
+########################################################################
+# #
+# HasBahCa Radio Listen #
+# #
+########################################################################
 #
-Germany RADIO http://01.gen.tr/HasBahCa_IPTV/Radio-Deutschland-WDR2.m3u German_WDR_Radiochannels
-#Turkey RADIO http://01.gen.tr/HasBahCa_IPTV/radyolar.m3u TURK_RADIO
-Balkanradio RADIO http://01.gen.tr/HasBahCa_IPTV/balkan_radio.m3u BALKAN_RADIO
-#
+INT_RADIO RADIO http://01.gen.tr/HasBahCa_IPTV/radios/int_radio.m3u INT_RADIOS
+Germany RADIO https://dl.dropboxusercontent.com/s/7cmzizxiryjdgdu/userbouquet.deutsche_radiosender_mit_EPG.radio?dl=1&token_hash=AAH3HXG5QifpVxfmv9K7ury4o0pSVPqXPsBewlWy3ZFDzg Deutsche_Radiosender_by_Nobody28 B
+Turkey RADIO http://01.gen.tr/HasBahCa_IPTV/radios/Turkce_Radyolar.m3u Turkish_Radios_by HasBahCa
+Balkanradio RADIO http://01.gen.tr/HasBahCa_IPTV/radios/balkan_radio.m3u Balkan_Radios_by_HasBahCa
+AFRIKA RADIO http://01.gen.tr/HasBahCa_IPTV/radios/Afrika_Radios.m3u Afrika_Radios_by_HasBahCa
+SUD_AMERIKA RADIO http://01.gen.tr/HasBahCa_IPTV/radios/South_Amerika_Radios.m3u Süd_Amerika_Radios_by_HasBahCa
+UK RADIO http://01.gen.tr/HasBahCa_IPTV/radios/UK_Radios.m3u UK_ENG_RADIOS
+USA RADIO http://01.gen.tr/HasBahCa_IPTV/radios/USA_Radios.m3u ABD_USA_Radios_by_HasBahCa
 ###################################################################################
 #                             HasBahCa List                                       #
 #                                                                                 #
@@ -18,7 +27,9 @@ XXX-Adult TV http://01.gen.tr/HasBahCa_IPTV/XXX.m3u XXX-Adult
 #XXX-Adult TV http://01.gen.tr/tsmedia/int_movies/XXX_vod+18.m3u XXX_Adult_Movies
 Albania TV http://01.gen.tr/HasBahCa_IPTV/Albania.m3u Albania_Bosnia
 Germany TV http://01.gen.tr/HasBahCa_IPTV/GERMAN_DEUTSCH.m3u Germany
-America TV http://01.gen.tr/HasBahCa_IPTV/amerika.m3u America
+Germany TV http://01.gen.tr/HasBahCa_IPTV/Deutsch_Serien.m3u GERMAN_SERIES_by_HasBahCa
+Germany TV http://01.gen.tr/HasBahCa_IPTV/german_doppel.m3u GERMAN_DOPPELL_by_HasBahCa
+America TV http://01.gen.tr/HasBahCa_IPTV/amerika.m3u America_Latino
 Arabia TV http://01.gen.tr/HasBahCa_IPTV/arap.m3u Arabia
 Asia TV http://01.gen.tr/HasBahCa_IPTV/asya.m3u Asia
 #Europe TV http://01.gen.tr/HasBahCa_IPTV/avrupa.m3u Europe
@@ -35,11 +46,10 @@ France TV http://01.gen.tr/HasBahCa_IPTV/fransa.m3u France
 Georgia TV http://01.gen.tr/HasBahCa_IPTV/Georgia.m3u Georgien
 Greece TV http://01.gen.tr/HasBahCa_IPTV/greek.m3u Greece
 India TV http://01.gen.tr/HasBahCa_IPTV/india.m3u India
-English TV http://01.gen.tr/HasBahCa_IPTV/English.m3u England
+English TV http://01.gen.tr/HasBahCa_IPTV/English.m3u English
 International-TV TV http://01.gen.tr/HasBahCa_IPTV/Kids.m3u International_Childreen
 International-TV TV http://01.gen.tr/HasBahCa_IPTV/int_others.m3u International_Others
 International-TV TV http://01.gen.tr/HasBahCa_IPTV/int_mms.m3u International_MMS
-International-Radio RADIO http://01.gen.tr/HasBahCa_IPTV/int_radio.m3u International
 Iran TV http://01.gen.tr/HasBahCa_IPTV/iran.m3u Iran
 Israel TV http://01.gen.tr/HasBahCa_IPTV/israil.m3u Israel
 Italy TV http://01.gen.tr/HasBahCa_IPTV/italya.m3u Italy
@@ -54,7 +64,6 @@ Pakistan TV http://01.gen.tr/HasBahCa_IPTV/pakistan.m3u Pakistan
 Poland TV http://01.gen.tr/HasBahCa_IPTV/polonya.m3u Poland
 Romania-Moldavia TV http://01.gen.tr/HasBahCa_IPTV/Romania_Moldova.m3u Romania-Moldavia
 Russia TV http://01.gen.tr/HasBahCa_IPTV/rus.m3u Russia
-Russia TV http://01.gen.tr/HasBahCa_IPTV/RUS_movies.m3u RUS_movies
 Sport TV http://01.gen.tr/HasBahCa_IPTV/spor.m3u Sport
 Thai TV http://01.gen.tr/HasBahCa_IPTV/thai.m3u Thai
 Turkey-Main TV http://01.gen.tr/HasBahCa_IPTV/turk_belgesel_sinema.m3u Turkey_Docu_Cinema
@@ -67,7 +76,6 @@ Turkey-Main TV http://01.gen.tr/HasBahCa_IPTV/turk_ulusal.m3u Turkey-Main
 Turkey-Local TV http://01.gen.tr/HasBahCa_IPTV/turk_yerel.m3u Turkey-Local
 Turki_Azeri TV http://01.gen.tr/HasBahCa_IPTV/turki.m3u Turkey_Azerbaijani
 Turkey-Main TV http://01.gen.tr/HasBahCa_IPTV/turkkomple.m3u Turkey_Complete
-Turkey-Main RADIO http://01.gen.tr/radyolar.m3u Turkey_Radio
 Ukraine TV http://01.gen.tr/HasBahCa_IPTV/ukraina.m3u Ucraine
 Iran TV http://01.gen.tr/HasBahCa_IPTV/iran.m3u Iran
 Brasil TV http://01.gen.tr/HasBahCa_IPTV/brasil.m3u Brasil
@@ -86,7 +94,6 @@ Holland TV http://01.gen.tr/HasBahCa_IPTV/Holland.m3u HOLLAND
 Vietnam TV http://01.gen.tr/HasBahCa_IPTV/vietnam.m3u VIETNAM
 Macedonia TV http://01.gen.tr/HasBahCa_IPTV/makadonia.m3u Macedonia
 USA TV http://01.gen.tr/HasBahCa_IPTV/usa.m3u USA
-USA TV http://01.gen.tr/HasBahCa_IPTV/usa_shows.m3u USA_SHOWS
 WebCam WEBCAM http://01.gen.tr/HasBahCa_IPTV/webcam.m3u WorldWebCams_1
 International-TV TV http://01.gen.tr/HasBahCa_IPTV/Unistream.m3u Unistream_TR_DE_ENG_AR_SKAN_MULTI
 Scandinavien TV http://01.gen.tr/HasBahCa_IPTV/skandinav.m3u SKANDINAVIEN_by_HasBahCa
@@ -107,6 +114,7 @@ Vietnam TV http://01.gen.tr/HasBahCa_IPTV/movies/vietnam_series_karakoe_clip.m3u
 Vietnam TV http://01.gen.tr/HasBahCa_IPTV/movies/English_Vietnam_Movies.m3u Vietnam_English_Movies
 Spain TV http://01.gen.tr/HasBahCa_IPTV/movies/spain_movies.m3u SPAIN_MOVIES_by_HasBahCa
 Bosnien TV http://01.gen.tr/HasBahCa_IPTV/movies/Bosnia_Subtitle_Movies.m3u Bosnia_Subtitle_Movies
+USA TV http://01.gen.tr/HasBahCa_IPTV/usa_shows.m3u USA_SHOWS
 #
 #
 ########################################################################
