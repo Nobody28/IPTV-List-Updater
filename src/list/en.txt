@@ -41,7 +41,6 @@ International-TV TV http://01.gen.tr/HasBahCa_IPTV/int_others.m3u International_
 International-TV TV http://01.gen.tr/HasBahCa_IPTV/int_mms.m3u International_MMS
 International-Radio RADIO http://01.gen.tr/HasBahCa_IPTV/int_radio.m3u International
 Iran TV http://01.gen.tr/HasBahCa_IPTV/iran.m3u Iran
-Spain TV http://01.gen.tr/HasBahCa_IPTV/ispanya.m3u Spain
 Israel TV http://01.gen.tr/HasBahCa_IPTV/israil.m3u Israel
 Italy TV http://01.gen.tr/HasBahCa_IPTV/italya.m3u Italy
 Japan TV http://01.gen.tr/HasBahCa_IPTV/japan.m3u Japan
