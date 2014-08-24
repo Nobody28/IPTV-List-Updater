@@ -11,6 +11,7 @@
 Germany RADIO http://01.gen.tr/HasBahCa_IPTV/Radio-Deutschland-WDR2.m3u German_WDR_Radiochannels
 #Turkey RADIO http://01.gen.tr/HasBahCa_IPTV/radyolar.m3u TURK_RADIO
 Balkanradio RADIO http://01.gen.tr/HasBahCa_IPTV/balkan_radio.m3u BALKAN_RADIO
+International-TV TV http://tvtuxlive.com/de.m3u TUXLIVE_TV_RADIOS
 #
 ########################################################################
 #                                                                      #
