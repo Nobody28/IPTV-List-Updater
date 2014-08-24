@@ -15,6 +15,7 @@ Africa RADIO http://01.gen.tr/HasBahCa_IPTV/radios/Afrika_Radios.m3u Afrikanisch
 America RADIO http://01.gen.tr/HasBahCa_IPTV/radios/South_Amerika_Radios.m3u Süd_Amerikanisches_Radio
 USA RADIO http://01.gen.tr/HasBahCa_IPTV/radios/USA_Radios.m3u USA_Radio
 UK RADIO http://01.gen.tr/HasBahCa_IPTV/radios/UK_Radios.m3u UK_Radio
+International-TV TV http://tvtuxlive.com/de.m3u TUXLIVE_TV_RADIOS
 #
 ########################################################################
 #                                                                      #
@@ -41,7 +42,7 @@ Bulgaria TV http://01.gen.tr/HasBahCa_IPTV/bulgar_bulsat.m3u Bulgarien_BulSat
 Cartoons TV http://01.gen.tr/HasBahCa_IPTV/cartoons.m3u Cartoons
 China TV http://01.gen.tr/HasBahCa_IPTV/china.m3u China
 Czech TV http://01.gen.tr/HasBahCa_IPTV/czech.m3u Tschechische_Republik
-#DSmart_dturk TV http://01.gen.tr/HasBahCa_IPTV/dsmart_dturk.m3u DSmart_dturk
+DSmart_dturk TV http://01.gen.tr/HasBahCa_IPTV/dsmart_dturk.m3u DSmart_dturk
 English TV http://01.gen.tr/HasBahCa_IPTV/English.m3u Englisch
 Englishmovies TV http://01.gen.tr/HasBahCa_IPTV/movies/ENGLISH_MOVIES_OLD.m3u Alte_Englisch_Filme
 Englishmovies TV http://01.gen.tr/HasBahCa_IPTV/movies/englishmovies.m3u Englische_Filme
