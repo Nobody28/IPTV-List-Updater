@@ -7,6 +7,7 @@
 #ermany RADIO http://01.gen.tr/HasBahCa_IPTV/Radio-Deutschland-WDR2.m3u German_WDR_Radiochannels
 #Turkey RADIO http://01.gen.tr/HasBahCa_IPTV/radyolar.m3u Turk_Radio
 Balkanradio RADIO http://01.gen.tr/HasBahCa_IPTV/balkan_radio.m3u Balkan_Radio
+International-TV TV http://tvtuxlive.com/de.m3u TUXLIVE_TV_RADIOS
 #
 ########################################################################
 #                                                                      #
@@ -43,7 +44,7 @@ Israel TV http://01.gen.tr/HasBahCa_IPTV/israil.m3u Izrael_TV
 Italy TV http://01.gen.tr/HasBahCa_IPTV/italya.m3u Włochy_TV
 Japan TV http://01.gen.tr/HasBahCa_IPTV/japan.m3u Japonia_TV
 Kids TV http://01.gen.tr/HasBahCa_IPTV/Kids.m3u INT_Kids
-#Korea TV http://01.gen.tr/HasBahCa_IPTV/Korea.m3u Korea
+Korea TV http://01.gen.tr/HasBahCa_IPTV/Korea.m3u Korea
 Kurdish TV http://01.gen.tr/HasBahCa_IPTV/kurdi.m3u Kurdystan_TV
 Music TV http://01.gen.tr/HasBahCa_IPTV/muzik.m3u Muzyka_TV
 Pakistan TV http://01.gen.tr/HasBahCa_IPTV/turkvod/pakistan.m3u Pakistan
@@ -63,7 +64,6 @@ Turkey-Main TV http://01.gen.tr/HasBahCa_IPTV/turk_spor.m3u Turcja_Sport_TV
 Turkey-Main TV http://01.gen.tr/HasBahCa_IPTV/turk_belgesel_sinema.m3u Turcja_Doku_Filmy_TV
 Turkey-Main TV http://01.gen.tr/HasBahCa_IPTV/turk_cocuk.m3u Turcja_Dzieci_TV
 Turkey-Main TV http://01.gen.tr/HasBahCa_IPTV/turk_muzik.m3u Turcja_Muzyka_TV
-Radio-Turkey RADIO http://01.gen.tr/HasBahCa_IPTV/turkvod/radyolar.m3u Turcja_Radio
 Hungary TV http://01.gen.tr/HasBahCa_IPTV/magyar.m3u Węgry_TV
 Ukraine TV http://01.gen.tr/HasBahCa_IPTV/ukraina.m3u Ukraina_TV
 Iran TV http://01.gen.tr/HasBahCa_IPTV/iran.m3u Iran
