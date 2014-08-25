@@ -28,3 +28,5 @@ Translations:	- arabic ==> zozo1976 from www.gigablue-support.com Forum
 	- persian ==> Eminem from openATV Forum
 	- slowakisch  ==> Advance155 from openATV Forum
 	- frensh ==> milouille from www.gigablue-support.com Forum
+Hardware: 
+        - Raspberry Pi - capture99 from openATV Forum
