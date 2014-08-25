@@ -4,7 +4,6 @@ from 25.08.2014:
 - add many Bouquetfiles from TVtuxLive.com
 - change Version to 1.62-25.08.14
 
-
 from 11.06.2014:
 - add HasBahCa Bouquetfiles (please wait for HasBahCa Stream Updates)
 - change Version to 1.62-11.06.14
