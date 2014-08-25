@@ -15,7 +15,6 @@ Africa RADIO http://01.gen.tr/HasBahCa_IPTV/radios/Afrika_Radios.m3u Afrikanisch
 America RADIO http://01.gen.tr/HasBahCa_IPTV/radios/South_Amerika_Radios.m3u Süd_Amerikanisches_Radio
 USA RADIO http://01.gen.tr/HasBahCa_IPTV/radios/USA_Radios.m3u USA_Radio
 UK RADIO http://01.gen.tr/HasBahCa_IPTV/radios/UK_Radios.m3u UK_Radio
-International-TV TV http://tvtuxlive.com/de.m3u TUXLIVE_TV_RADIOS
 #
 ########################################################################
 #                                                                      #
@@ -146,6 +145,30 @@ Poland TV https://dl.dropboxusercontent.com/s/9rjvyq4a9a9s03v/POLAND%20TV.m3u?dl
 Intersport TV https://dl.dropboxusercontent.com/s/psctm2ae4au03ry/INTERSPORT%20TV.m3u?dl=1&token_hash=AAGxyM7D_rj1P9aNMTFC8EXRmS-DvtZNF1MW144HOtswOg&expiry=1400434112 Intersport_Tv
 Balcan TV https://dl.dropboxusercontent.com/s/g1y98a8zbuuyde2/ALBANIA%20TV.m3u?dl=1&token_hash=AAHrnTr1Qw3Seh_rWQy84TJ6uYlJh1MNQwhnHX_BhWhSGw&expiry=1400434204 Balkan_Tv
 #
+#
+########################################################################
+#                                                                      #
+#                        TVtuxLive Listen                              #
+#                                                                      #
+########################################################################
+#
+Aljier TV http://tvtuxlive.com/alj.m3u Aljier_TUXLIVE
+Argentinien TV http://tvtuxlive.com/arg.m3u Argentinien_TUXLIVE
+Brasil TV http://tvtuxlive.com/brasil.m3u Brasilien_TUXLIVE_1
+Chile Tv http://tvtuxlive.com/chile.m3u Chile_TUXLIVE
+Czech TV http://tvtuxlive.com/czech.m3u Tschechische_TUXLIVE_1
+Czech TV http://tvtuxlive.com/czech1.m3u Tschechische_TUXLIVE_2
+Dänemark TV http://tvtuxlive.com/denmark.m3u Dänemark_TUXLIVE
+France TV http://tvtuxlive.com/french.m3u Frankreich_TUXLIVE
+German TV http://tvtuxlive.com/de.m3u Deutschland_TUXLIVE#
+Russia TV http://tvtuxlive.com/rukino.m3u Russland_Kino_TUXLIVE
+Russia TV http://tvtuxlive.com/rusfe.m3u Russland_FE_TUXLIVE
+Russia TV http://tvtuxlive.com/ru1.m3u Russland_TUXLIVE_1
+Russia TV http://tvtuxlive.com/ru2.m3u Russland_TUXLIVE_2
+Russia TV http://tvtuxlive.com/ru3.m3u Russland_TUXLIVE_3
+Russia TV http://tvtuxlive.com/ru4.m3u Russland_TUXLIVE_4
+Russia TV http://tvtuxlive.com/ru5.m3u Russland_TUXLIVE_5
+Russia TV http://tvtuxlive.com/rusport.m3u Russland_Sport_TUXLIVE
 #
 ########################################################################
 #                                                                      #
