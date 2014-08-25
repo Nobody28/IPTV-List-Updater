@@ -152,6 +152,9 @@ Balcan TV https://dl.dropboxusercontent.com/s/g1y98a8zbuuyde2/ALBANIA%20TV.m3u?d
 #                                                                      #
 ########################################################################
 #
+News TV http://tvtuxlive.com/news.m3u News_TUXLIVE
+Webcam WEBCAM http://tvtuxlive.com/cams.m3u Webcam_TUXLIVE
+Albania TV http://tvtuxlive.com/albania.m3u Albanien_TUXLIVE
 Aljier TV http://tvtuxlive.com/alj.m3u Aljier_TUXLIVE
 Argentinien TV http://tvtuxlive.com/arg.m3u Argentinien_TUXLIVE
 Brasil TV http://tvtuxlive.com/brasil.m3u Brasilien_TUXLIVE_1
