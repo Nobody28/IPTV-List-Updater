@@ -160,7 +160,7 @@ Czech TV http://tvtuxlive.com/czech.m3u Tschechische_TUXLIVE_1
 Czech TV http://tvtuxlive.com/czech1.m3u Tschechische_TUXLIVE_2
 Dänemark TV http://tvtuxlive.com/denmark.m3u Dänemark_TUXLIVE
 France TV http://tvtuxlive.com/french.m3u Frankreich_TUXLIVE
-German TV http://tvtuxlive.com/de.m3u Deutschland_TUXLIVE#
+German TV http://tvtuxlive.com/de.m3u Deutschland_TUXLIVE
 Russia TV http://tvtuxlive.com/rukino.m3u Russland_Kino_TUXLIVE
 Russia TV http://tvtuxlive.com/rusfe.m3u Russland_FE_TUXLIVE
 Russia TV http://tvtuxlive.com/ru1.m3u Russland_TUXLIVE_1
