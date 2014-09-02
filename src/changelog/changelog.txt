@@ -1,5 +1,9 @@
 Changelog:
 
+from 02.09.2014:
+- fix Teledunet ID0
+- change Version to 1.62-02.09.14
+
 from 25.08.2014:
 - add many Bouquetfiles from TVtuxLive.com
 - change Version to 1.62-25.08.14
