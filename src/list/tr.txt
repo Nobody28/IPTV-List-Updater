@@ -134,6 +134,8 @@ WebCam WEBCAM https://dl.dropboxusercontent.com/s/cfzrwoay9ndqnz2/userbouquet.li
 Swiss TV https://dl.dropboxusercontent.com/s/ql8ihxn2fz3fm2u/userbouquet.schweiz_sonstige.tv?dl=1&token_hash=AAFVfmzH1Hb-QxRTAiNBX0wXIKksTagjQM4abRCyqJExQw Schweiz_sonstige B
 Sport TV https://dl.dropboxusercontent.com/s/o4a3944g460tqci/userbouquet.deutsch_sport.tv?dl=1&token_hash=AAFXzgYviaApQd_YYlLKLPrMx7tK-jbhly3dmvGFZybzbw Deutsch_Sport B
 XXX-Adult TV https://dl.dropboxusercontent.com/s/h6ln6hb8l0hl4wo/userbouquet.ilu_xxx_adult.tv?dl=1&token_hash=AAGXNUUoQs_6kNFrZzSEo8OQjVwKSQcIrsgVM4VbsORgew&expiry=1400359776 XXX_Adult B
+Germany TV http://iptv-list-updater.is-great.net/IPTV-List-Updater/gigablueacademy/gigablueacademy.m3u Gigablue_Academy
+Germany TV http://iptv-list-updater.is-great.net/IPTV-List-Updater/dreamscreencast/dreamscreencast.m3u Dreamscreencast
 #
 #
 ########################################################################
