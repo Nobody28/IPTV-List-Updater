@@ -41,13 +41,13 @@ Bulgaria TV http://01.gen.tr/HasBahCa_IPTV/bulgar_bulsat.m3u Bulgarien_BulSat
 Cartoons TV http://01.gen.tr/HasBahCa_IPTV/cartoons.m3u Cartoons
 China TV http://01.gen.tr/HasBahCa_IPTV/china.m3u China
 Czech TV http://01.gen.tr/HasBahCa_IPTV/czech.m3u Tschechische_Republik
-DSmart_dturk TV http://01.gen.tr/HasBahCa_IPTV/dsmart_dturk.m3u DSmart_dturk
+Türkey_Main TV http://01.gen.tr/HasBahCa_IPTV/dsmart_dturk.m3u Turkei_DSmart_dturk
 English TV http://01.gen.tr/HasBahCa_IPTV/English.m3u Englisch
 Englishmovies TV http://01.gen.tr/HasBahCa_IPTV/movies/ENGLISH_MOVIES_OLD.m3u Alte_Englisch_Filme
 Englishmovies TV http://01.gen.tr/HasBahCa_IPTV/movies/englishmovies.m3u Englische_Filme
 Englishmovies TV http://01.gen.tr/HasBahCa_IPTV/movies/English_Vietnam_Movies.m3u English_Vietnam_Filme
 Ex-Yu TV http://01.gen.tr/HasBahCa_IPTV/ex-yug.m3u Ex-Yu
-#Filmon TV http://01.gen.tr/HasBahCa_IPTV/filmon.m3u Filmon
+Filmon TV http://01.gen.tr/HasBahCa_IPTV/filmon.m3u Filmon
 France TV http://01.gen.tr/HasBahCa_IPTV/fransa.m3u Frankreich
 Georgia TV http://01.gen.tr/HasBahCa_IPTV/Georgia.m3u Georgien
 Greece TV http://01.gen.tr/HasBahCa_IPTV/greek.m3u Griechenland
@@ -93,7 +93,7 @@ Turkey-Main TV http://01.gen.tr/HasBahCa_IPTV/turk_spor.m3u Türkei_Sport
 Turkey-Main TV http://01.gen.tr/HasBahCa_IPTV/turk_ulusal.m3u Türkei_Hauptsender
 Turkey-Local TV http://01.gen.tr/HasBahCa_IPTV/turk_yerel.m3u Türkei_Lokalsender
 Turkey-Main TV http://01.gen.tr/HasBahCa_IPTV/movies/Turk_Filmleri.m3u Türkische_Filme 1
-#Turkey-Main TV http://01.gen.tr/HasBahCa_IPTV/movies/Turk_Filmleri_2.m3u Türkische_Filme 2
+Turkey-Main TV http://01.gen.tr/HasBahCa_IPTV/turkkomple.m3u Türkei_TV_RADIO_MOVIES
 Ukraine TV http://01.gen.tr/HasBahCa_IPTV/ukraina.m3u Ukraine
 USA TV http://01.gen.tr/HasBahCa_IPTV/usa.m3u USA
 USA TV http://01.gen.tr/HasBahCa_IPTV/usa_shows.m3u USA_SHOWS
