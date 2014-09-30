@@ -31,7 +31,7 @@ Albania TV http://01.gen.tr/HasBahCa_IPTV/Albania.m3u Albania_Bosnia
 Germany TV http://01.gen.tr/HasBahCa_IPTV/GERMAN_DEUTSCH.m3u Germany
 Germany TV http://01.gen.tr/HasBahCa_IPTV/Deutsch_Serien.m3u GERMAN_SERIES_by_HasBahCa
 Germany TV http://01.gen.tr/HasBahCa_IPTV/german_doppel.m3u GERMAN_DOPPELL_by_HasBahCa
-America TV http://01.gen.tr/HasBahCa_IPTV/amerika.m3u America_Latino
+America TV http://01.gen.tr/HasBahCa_IPTV/amerika_latino.m3u America_Latino
 Arabia TV http://01.gen.tr/HasBahCa_IPTV/arap.m3u Arabia
 Asia TV http://01.gen.tr/HasBahCa_IPTV/asya.m3u Asia
 #Europe TV http://01.gen.tr/HasBahCa_IPTV/avrupa.m3u Europe
@@ -47,7 +47,7 @@ Filmon TV http://01.gen.tr/HasBahCa_IPTV/filmon.m3u Filmon
 France TV http://01.gen.tr/HasBahCa_IPTV/fransa.m3u France
 Georgia TV http://01.gen.tr/HasBahCa_IPTV/Georgia.m3u Georgien
 Greece TV http://01.gen.tr/HasBahCa_IPTV/greek.m3u Greece
-India TV http://01.gen.tr/HasBahCa_IPTV/india.m3u India
+India TV http://01.gen.tr/HasBahCa_IPTV/india_tamil.m3u India
 English TV http://01.gen.tr/HasBahCa_IPTV/English.m3u English
 International-TV TV http://01.gen.tr/HasBahCa_IPTV/Kids.m3u International_Childreen
 International-TV TV http://01.gen.tr/HasBahCa_IPTV/int_others.m3u International_Others
