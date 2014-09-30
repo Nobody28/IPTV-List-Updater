@@ -24,11 +24,11 @@ UK RADIO http://01.gen.tr/HasBahCa_IPTV/radios/UK_Radios.m3u UK_Radio
 #
 3D TV http://01.gen.tr/HasBahCa_IPTV/3d.m3u 3D_TV
 Africa TV http://01.gen.tr/HasBahCa_IPTV/Afrika.m3u Africa
-Albania TV http://01.gen.tr/HasBahCa_IPTV/Albania.m3u Albanien_Bosnien
+Albania TV http://01.gen.tr/HasBahCa_IPTV/albania_bosnia.m3u Albanien_Bosnien
 Germany TV http://01.gen.tr/HasBahCa_IPTV/GERMAN_DEUTSCH.m3u Deutsch
 Germany TV http://01.gen.tr/HasBahCa_IPTV/german_doppel.m3u Deutsch_doppelte
 Germany TV http://01.gen.tr/HasBahCa_IPTV/Deutsch_Serien.m3u Deutsche_Serien
-America TV http://01.gen.tr/HasBahCa_IPTV/amerika.m3u Amerika_Latino
+America TV http://01.gen.tr/HasBahCa_IPTV/amerika_latino.m3u Amerika_Latino
 Arabia TV http://01.gen.tr/HasBahCa_IPTV/Arabic.m3u Arabien
 Asia TV http://01.gen.tr/HasBahCa_IPTV/asya.m3u Asien
 #Europe TV http://01.gen.tr/HasBahCa_IPTV/avrupa_europa.m3u Europa
@@ -52,7 +52,7 @@ France TV http://01.gen.tr/HasBahCa_IPTV/fransa.m3u Frankreich
 Georgia TV http://01.gen.tr/HasBahCa_IPTV/Georgia.m3u Georgien
 Greece TV http://01.gen.tr/HasBahCa_IPTV/greek.m3u Griechenland
 Holland TV http://01.gen.tr/HasBahCa_IPTV/Holland.m3u Niederland
-India TV http://01.gen.tr/HasBahCa_IPTV/india.m3u Indien
+India TV http://01.gen.tr/HasBahCa_IPTV/india_tamil.m3u Indien
 #ILIVE_TO TV http://01.gen.tr/HasBahCa_IPTV/ilive_to.m3u iLIVE_to
 International-TV TV http://01.gen.tr/HasBahCa_IPTV/int_others.m3u International_nicht_kategoziert_TV
 International-Radio RADIO http://01.gen.tr/HasBahCa_IPTV/radios/int_radio.m3u International_Radio
@@ -93,7 +93,7 @@ Turkey-Main TV http://01.gen.tr/HasBahCa_IPTV/turk_spor.m3u Türkei_Sport
 Turkey-Main TV http://01.gen.tr/HasBahCa_IPTV/turk_ulusal.m3u Türkei_Hauptsender
 Turkey-Local TV http://01.gen.tr/HasBahCa_IPTV/turk_yerel.m3u Türkei_Lokalsender
 Turkey-Main TV http://01.gen.tr/HasBahCa_IPTV/movies/Turk_Filmleri.m3u Türkische_Filme 1
-Turkey-Main TV http://01.gen.tr/HasBahCa_IPTV/turkkomple.m3u Türkei_TV_RADIO_MOVIES
+#Turkey-Main TV http://01.gen.tr/HasBahCa_IPTV/turkkomple.m3u Türkei_TV_RADIO_MOVIES
 Ukraine TV http://01.gen.tr/HasBahCa_IPTV/ukraina.m3u Ukraine
 USA TV http://01.gen.tr/HasBahCa_IPTV/usa.m3u USA
 USA TV http://01.gen.tr/HasBahCa_IPTV/usa_shows.m3u USA_SHOWS
@@ -157,26 +157,7 @@ Balcan TV https://dl.dropboxusercontent.com/s/g1y98a8zbuuyde2/ALBANIA%20TV.m3u?d
 #                                                                      #
 ########################################################################
 #
-News TV http://tvtuxlive.com/news.m3u News_TUXLIVE
-Webcam WEBCAM http://tvtuxlive.com/cams.m3u Webcam_TUXLIVE
-Albania TV http://tvtuxlive.com/albania.m3u Albanien_TUXLIVE
-Aljier TV http://tvtuxlive.com/alj.m3u Aljier_TUXLIVE
-Argentinien TV http://tvtuxlive.com/arg.m3u Argentinien_TUXLIVE
-Brasil TV http://tvtuxlive.com/brasil.m3u Brasilien_TUXLIVE_1
-Chile Tv http://tvtuxlive.com/chile.m3u Chile_TUXLIVE
-Czech TV http://tvtuxlive.com/czech.m3u Tschechische_TUXLIVE_1
-Czech TV http://tvtuxlive.com/czech1.m3u Tschechische_TUXLIVE_2
-Dänemark TV http://tvtuxlive.com/denmark.m3u Dänemark_TUXLIVE
-France TV http://tvtuxlive.com/french.m3u Frankreich_TUXLIVE
-German TV http://tvtuxlive.com/de.m3u Deutschland_TUXLIVE
-Russia TV http://tvtuxlive.com/rukino.m3u Russland_Kino_TUXLIVE
-Russia TV http://tvtuxlive.com/rusfe.m3u Russland_FE_TUXLIVE
-Russia TV http://tvtuxlive.com/ru1.m3u Russland_TUXLIVE_1
-Russia TV http://tvtuxlive.com/ru2.m3u Russland_TUXLIVE_2
-Russia TV http://tvtuxlive.com/ru3.m3u Russland_TUXLIVE_3
-Russia TV http://tvtuxlive.com/ru4.m3u Russland_TUXLIVE_4
-Russia TV http://tvtuxlive.com/ru5.m3u Russland_TUXLIVE_5
-Russia TV http://tvtuxlive.com/rusport.m3u Russland_Sport_TUXLIVE
+News TV http://tvtuxlive.com/de.m3u TUXLIVE_TV_RADIO
 #
 ########################################################################
 #                                                                      #
