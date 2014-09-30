@@ -25,11 +25,11 @@ International-TV TV http://tvtuxlive.com/de.m3u TUXLIVE_TV_RADIOS
 #
 3D TV http://01.gen.tr/HasBahCa_IPTV/3d.m3u 3D_TV
 Africa TV http://01.gen.tr/HasBahCa_IPTV/Afrika.m3u Africa
-Albania TV http://01.gen.tr/HasBahCa_IPTV/Albania.m3u Albanien_Bosnien
+Albania TV http://01.gen.tr/HasBahCa_IPTV/albania_bosnia.m3u Albanien_Bosnien
 Germany TV http://01.gen.tr/HasBahCa_IPTV/GERMAN_DEUTSCH.m3u Deutsch
 Germany TV http://01.gen.tr/HasBahCa_IPTV/german_doppel.m3u Deutsch_doppelte
 Germany TV http://01.gen.tr/HasBahCa_IPTV/Deutsch_Serien.m3u Deutsche_Serien
-America TV http://01.gen.tr/HasBahCa_IPTV/amerika.m3u Amerika_Latino
+America TV http://01.gen.tr/HasBahCa_IPTV/amerika_latino.m3u Amerika_Latino
 Arabia TV http://01.gen.tr/HasBahCa_IPTV/Arabic.m3u Arabien
 Asia TV http://01.gen.tr/HasBahCa_IPTV/asya.m3u Asien
 Europe TV http://01.gen.tr/HasBahCa_IPTV/avrupa_europa.m3u Europa
@@ -53,7 +53,7 @@ France TV http://01.gen.tr/HasBahCa_IPTV/fransa.m3u Frankreich
 Georgia TV http://01.gen.tr/HasBahCa_IPTV/Georgia.m3u Georgien
 Greece TV http://01.gen.tr/HasBahCa_IPTV/greek.m3u Griechenland
 Holland TV http://01.gen.tr/HasBahCa_IPTV/Holland.m3u Niederland
-India TV http://01.gen.tr/HasBahCa_IPTV/india.m3u Indien
+India TV http://01.gen.tr/HasBahCa_IPTV/india_tamil.m3u Indien
 ILIVE_TO TV http://01.gen.tr/HasBahCa_IPTV/ilive_to.m3u iLIVE_to
 International-TV TV http://01.gen.tr/HasBahCa_IPTV/int_others.m3u International_nicht_kategoziert_TV
 International-Radio RADIO http://01.gen.tr/HasBahCa_IPTV/radios/int_radio.m3u International_Radio
