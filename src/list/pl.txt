@@ -86,7 +86,8 @@ Lithuania TV http://01.gen.tr/HasBahCa_IPTV/Lithuania.m3u Lithuania
 WebCam WEBCAM http://01.gen.tr/HasBahCa_IPTV/webcam.m3u Świat_WebCams_1
 USA TV http://01.gen.tr/HasBahCa_IPTV/usa_shows.m3u USA_SHOWS
 Nilesat TV http://01.gen.tr/HasBahCa_IPTV/nilesat.m3u NILESAT
-XXX-Adult TV http://01.gen.tr/HasBahCa_IPTV/adult.m3u XXX_TV 
+XXX-Adult TV http://01.gen.tr/HasBahCa_IPTV/adult.m3u XXX_TV
+XXX-Adult TV http://01.gen.tr/HasBahCa_IPTV/movies/XXX-VOD.m3u XXX_Adult_VOD
 #
 ########################################################################
 #                                                                      #
