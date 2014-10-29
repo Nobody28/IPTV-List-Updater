@@ -54,6 +54,7 @@ Balkan tv https://dl.dropboxusercontent.com/s/g1y98a8zbuuyde2/ALBANIA%20TV.m3u?d
 #
 3D TV http://01.gen.tr/HasBahCa_IPTV/3d.m3u 3D_tévé
 XXX-Adult TV http://01.gen.tr/HasBahCa_IPTV/adult.m3u XXX-felnőtt_tévé
+XXX-Adult TV http://01.gen.tr/HasBahCa_IPTV/movies/XXX-VOD.m3u XXX_Adult_VOD
 Albania TV http://01.gen.tr/HasBahCa_IPTV/albania_bosnia.m3u Albánia_Bosnia_tévé
 America TV http://01.gen.tr/HasBahCa_IPTV/amerika_latino.m3u Amerika_Latino_tévé
 Arabia TV http://01.gen.tr/HasBahCa_IPTV/arap.m3u Arabia_tévé
