@@ -90,6 +90,7 @@ Filmon TV http://01.gen.tr/HasBahCa_IPTV/filmon.m3u Filmon_by_HasBahCa
 English TV http://01.gen.tr/HasBahCa_IPTV/English.m3u INGILIZCE_by_HasBahCa
 #Nilesat TV http://01.gen.tr/HasBahCa_IPTV/nilesat.m3u NILESAT_by_HasBahCa
 XXX-Adult TV http://01.gen.tr/HasBahCa_IPTV/XXX.m3u XXX_YETISKIN
+XXX-Adult TV http://01.gen.tr/HasBahCa_IPTV/movies/XXX-VOD.m3u XXX_YETISKIN_VOD
 Russia TV http://iptv.lamp.ufa-it.ru/generate_m3u.php?num_list=001 RUS_SIBIR_TELEKOM
 Georgia TV http://01.gen.tr/HasBahCa_IPTV/Georgia.m3u GÜRCISTAN_by_HasBahCa
 WebCam TV http://01.gen.tr/HasBahCa_IPTV/webcam.m3u WEBCAM_by_HasBahCa
