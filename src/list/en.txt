@@ -26,6 +26,7 @@ International-TV TV http://tvtuxlive.com/de.m3u TUXLIVE_TV_RADIOS
 ###################################################################################
 3D TV http://01.gen.tr/HasBahCa_IPTV/3d.m3u 3D_TV
 XXX-Adult TV http://01.gen.tr/HasBahCa_IPTV/XXX.m3u XXX-Adult
+XXX-Adult TV http://01.gen.tr/HasBahCa_IPTV/movies/XXX-VOD.m3u XXX_Adult_VOD
 #XXX-Adult TV http://01.gen.tr/tsmedia/int_movies/XXX_vod+18.m3u XXX_Adult_Movies
 Albania TV http://01.gen.tr/HasBahCa_IPTV/Albania.m3u Albania_Bosnia
 Germany TV http://01.gen.tr/HasBahCa_IPTV/GERMAN_DEUTSCH.m3u Germany
