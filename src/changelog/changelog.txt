@@ -1,5 +1,8 @@
 Changelog:
 
+from 29.10.2014:
+- add Bouquet: XXX Adult VOD
+
 from 05.09.2014:
 - add Bouquet: Gigablue Academy
 - add Bouquet: Dreamscreencast
