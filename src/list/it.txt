@@ -103,6 +103,7 @@ Vietnam TV http://01.gen.tr/HasBahCa_IPTV/vietnam.m3u Vietnam
 Vietnam TV http://01.gen.tr/HasBahCa_IPTV/movies/vietnam_series_karakoe_clip.m3u Vietnam_Series_Karakoe_Clip
 WebCam WEBCAM http://01.gen.tr/HasBahCa_IPTV/webcam.m3u WorldWebCams_1
 XXX-Adult TV http://01.gen.tr/HasBahCa_IPTV/XXX.m3u XXX_Adult
+XXX-Adult TV http://01.gen.tr/HasBahCa_IPTV/movies/XXX-VOD.m3u XXX_Adult_VOD
 #XXX-Adult TV http://01.gen.tr/HasBahCa_IPTV/XXX_vod+18.m3u XXX_Adult_Movies
 #
 ########################################################################
