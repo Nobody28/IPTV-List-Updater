@@ -7,14 +7,14 @@
 #                                                                      #
 ########################################################################
 #
-#Turkey RADIO http://01.gen.tr/HasBahCa_IPTV/radyolar.m3u Turk_Radio
-Balkanradio RADIO http://01.gen.tr/HasBahCa_IPTV/balkan_radio.m3u Balkan_Radio
-INT_Radio RADIO http://01.gen.tr/HasBahCa_IPTV/int_radio.m3u INT_Radios
-NesetErtas RADIO http://01.gen.tr/HasBahCa_IPTV/radios/Neset_Ertas.m3u Neset_Ertas
-Africa RADIO http://01.gen.tr/HasBahCa_IPTV/radios/Afrika_Radios.m3u Afrikanisches_Radio
-America RADIO http://01.gen.tr/HasBahCa_IPTV/radios/South_Amerika_Radios.m3u Süd_Amerikanisches_Radio
-USA RADIO http://01.gen.tr/HasBahCa_IPTV/radios/USA_Radios.m3u USA_Radio
-UK RADIO http://01.gen.tr/HasBahCa_IPTV/radios/UK_Radios.m3u UK_Radio
+Afrika RADIO http://01.gen.tr/HasBahCa/radios/Afrika_Radios.m3u Afrika_Radios_by_HasBahCa
+Deutsch RADIO http://01.gen.tr/HasBahCa/radios/Radio-Deutschland-WDR2.m3u Radio-Deutschland-WDR2_by_HasBahCa
+South_Amerika RADIO http://01.gen.tr/HasBahCa/radios/South_Amerika_Radios.m3u South_Amerika_Radios_by_HasBahCa
+Turkey RADIO http://01.gen.tr/HasBahCa/radios/Turkce_Radyolar.m3u Turkce_Radyolar_by_HasBahCa
+UK RADIO http://01.gen.tr/HasBahCa/radios/UK_Radios.m3u UK_Radios_by_HasBahCa
+USA RADIO http://01.gen.tr/HasBahCa/radios/USA_Radios.m3u USA_Radios_by_HasBahCa
+Balkan RADIO http://01.gen.tr/HasBahCa/radios/balkan_radio.m3u balkan_radio_by_HasBahCa
+INT RADIO http://01.gen.tr/HasBahCa/radios/int_radio.m3u int_radio_by_HasBahCa
 #
 ########################################################################
 #                                                                      #
@@ -22,89 +22,89 @@ UK RADIO http://01.gen.tr/HasBahCa_IPTV/radios/UK_Radios.m3u UK_Radio
 #                                                                      #
 ########################################################################
 #
-3D TV http://01.gen.tr/HasBahCa_IPTV/3d.m3u 3D_TV
-Africa TV http://01.gen.tr/HasBahCa_IPTV/Afrika.m3u Africa
-Albania TV http://01.gen.tr/HasBahCa_IPTV/albania_bosnia.m3u Albanien_Bosnien
-Germany TV http://01.gen.tr/HasBahCa_IPTV/GERMAN_DEUTSCH.m3u Deutsch
-Germany TV http://01.gen.tr/HasBahCa_IPTV/german_doppel.m3u Deutsch_doppelte
-Germany TV http://01.gen.tr/HasBahCa_IPTV/Deutsch_Serien.m3u Deutsche_Serien
-America TV http://01.gen.tr/HasBahCa_IPTV/amerika_latino.m3u Amerika_Latino
-Arabia TV http://01.gen.tr/HasBahCa_IPTV/Arabic.m3u Arabien
-Asia TV http://01.gen.tr/HasBahCa_IPTV/asya.m3u Asien
-#Europe TV http://01.gen.tr/HasBahCa_IPTV/avrupa_europa.m3u Europa
-Baltic_Laender TV http://01.gen.tr/HasBahCa_IPTV/Baltic.m3u Litvanien_Baltic_Länder
-Bangladesh TV http://01.gen.tr/HasBahCa_IPTV/bangladesh.m3u Bangladesch
-Belgium TV http://01.gen.tr/HasBahCa_IPTV/Belgium.m3u Belgien
-Bosnien TV http://01.gen.tr/HasBahCa_IPTV/movies/Bosnia_Subtitle_Movies.m3u Bosnische_Subtitle_Filme
-Brasil TV http://01.gen.tr/HasBahCa_IPTV/brasil.m3u Brasilien
-Bulgaria TV http://01.gen.tr/HasBahCa_IPTV/bulgar_bulsat.m3u Bulgarien_BulSat
-Cartoons TV http://01.gen.tr/HasBahCa_IPTV/cartoons.m3u Cartoons
-China TV http://01.gen.tr/HasBahCa_IPTV/china.m3u China
-Czech TV http://01.gen.tr/HasBahCa_IPTV/czech.m3u Tschechische_Republik
-Türkey_Main TV http://01.gen.tr/HasBahCa_IPTV/dsmart_dturk.m3u Turkei_DSmart_dturk
-English TV http://01.gen.tr/HasBahCa_IPTV/English.m3u Englisch
-Englishmovies TV http://01.gen.tr/HasBahCa_IPTV/movies/ENGLISH_MOVIES_OLD.m3u Alte_Englisch_Filme
-Englishmovies TV http://01.gen.tr/HasBahCa_IPTV/movies/englishmovies.m3u Englische_Filme
-Englishmovies TV http://01.gen.tr/HasBahCa_IPTV/movies/English_Vietnam_Movies.m3u English_Vietnam_Filme
-Ex-Yu TV http://01.gen.tr/HasBahCa_IPTV/ex-yug.m3u Ex-Yu
-Filmon TV http://01.gen.tr/HasBahCa_IPTV/filmon.m3u Filmon
-France TV http://01.gen.tr/HasBahCa_IPTV/fransa.m3u Frankreich
-Georgia TV http://01.gen.tr/HasBahCa_IPTV/Georgia.m3u Georgien
-Greece TV http://01.gen.tr/HasBahCa_IPTV/greek.m3u Griechenland
-Holland TV http://01.gen.tr/HasBahCa_IPTV/Holland.m3u Niederland
-India TV http://01.gen.tr/HasBahCa_IPTV/india_tamil.m3u Indien
-#ILIVE_TO TV http://01.gen.tr/HasBahCa_IPTV/ilive_to.m3u iLIVE_to
-International-TV TV http://01.gen.tr/HasBahCa_IPTV/int_others.m3u International_nicht_kategoziert_TV
-International-Radio RADIO http://01.gen.tr/HasBahCa_IPTV/radios/int_radio.m3u International_Radio
-Iran TV http://01.gen.tr/HasBahCa_IPTV/iran.m3u Iran
-Israel TV http://01.gen.tr/HasBahCa_IPTV/israil.m3u Israel
-Italy TV http://01.gen.tr/HasBahCa_IPTV/italya.m3u Italien
-Japan TV http://01.gen.tr/HasBahCa_IPTV/japan.m3u Japan
-Kids TV http://01.gen.tr/HasBahCa_IPTV/Kids.m3u Kinder_Kanäle
-Korea TV http://01.gen.tr/HasBahCa_IPTV/Korea.me3 Korea
-Kurdish TV http://01.gen.tr/HasBahCa_IPTV/kurdi.m3u Kurdisch
-Hungary TV http://01.gen.tr/HasBahCa_IPTV/magyar.m3u Ungarn
-Macedonia TV http://01.gen.tr/HasBahCa_IPTV/makadonia.m3u Mazedonien
-Misir_egypt TV http://01.gen.tr/HasBahCa_IPTV/misir_egypt.m3u Ägypten
-Music TV http://01.gen.tr/HasBahCa_IPTV/muzik.m3u Musik
-#Nilesat TV http://01.gen.tr/HasBahCa_IPTV/nilesat.m3u Nilsat
-Pakistan TV http://01.gen.tr/HasBahCa_IPTV/pakistan.m3u Pakistan
-Poland TV http://01.gen.tr/HasBahCa_IPTV/polonya.m3u Polen
-Portugal TV http://01.gen.tr/HasBahCa_IPTV/Portugal.m3u Portugal
-Romania-Moldavia TV http://01.gen.tr/HasBahCa_IPTV/Romania_Moldova.m3u Rumänien-Moldawien
-Russia TV http://01.gen.tr/HasBahCa_IPTV/rus.m3u Russland
-Russia TV http://01.gen.tr/HasBahCa_IPTV/movies/RUS_movies.m3u Russische_Filme
-Serbia TV http://01.gen.tr/HasBahCa_IPTV/Serbia_Croatia.m3u Serbien_Kroatien
-Skandinavia TV http://01.gen.tr/HasBahCa_IPTV/skandinav.m3u Skandinavien
-Slovakei TV http://01.gen.tr/HasBahCa_IPTV/Slovakia_Slovenia.m3u Slovakei_Slowenien
-Spain TV http://01.gen.tr/HasBahCa_IPTV/Spain.m3u Spanien
-Spain TV http://01.gen.tr/HasBahCa_IPTV/movies/spain_movies.m3u Spanische_Filme
-Sport TV http://01.gen.tr/HasBahCa_IPTV/spor.m3u Sport
-Swiss TV http://01.gen.tr/HasBahCa_IPTV/Switzerland.m3u Schweiz
-Thai TV http://01.gen.tr/HasBahCa_IPTV/thai.m3u Thailand
-Turki_Azeri TV http://01.gen.tr/HasBahCa_IPTV/turki.m3u Türki_Aserbaidschan
-Turkey-Main TV http://01.gen.tr/HasBahCa_IPTV/turk_ulusal_yedek.m3u Türkei_doppelt
-Turkey-Main TV http://01.gen.tr/HasBahCa_IPTV/turk_belgesel_sinema.m3u Türkei_Doku_Filme
-Turkey-Main TV http://01.gen.tr/HasBahCa_IPTV/turk_cocuk.m3u Türkei_Kinder
-Turkey-Main TV http://01.gen.tr/HasBahCa_IPTV/turk_dini.m3u Türkei_Religion
-Turkey-Main TV http://01.gen.tr/HasBahCa_IPTV/turk_haber.m3u Türkei_Nachrichten
-Turkey-Main TV http://01.gen.tr/HasBahCa_IPTV/turk_muzik.m3u Türkei_Musik
-Turkey-Main TV http://01.gen.tr/HasBahCa_IPTV/turk_spor.m3u Türkei_Sport
-Turkey-Main TV http://01.gen.tr/HasBahCa_IPTV/turk_ulusal.m3u Türkei_Hauptsender
-Turkey-Local TV http://01.gen.tr/HasBahCa_IPTV/turk_yerel.m3u Türkei_Lokalsender
-Turkey-Main TV http://01.gen.tr/HasBahCa_IPTV/movies/Turk_Filmleri.m3u Türkische_Filme 1
-#Turkey-Main TV http://01.gen.tr/HasBahCa_IPTV/turkkomple.m3u Türkei_TV_RADIO_MOVIES
-Ukraine TV http://01.gen.tr/HasBahCa_IPTV/ukraina.m3u Ukraine
-USA TV http://01.gen.tr/HasBahCa_IPTV/usa.m3u USA
-USA TV http://01.gen.tr/HasBahCa_IPTV/usa_shows.m3u USA_SHOWS
-Vietnam TV http://01.gen.tr/HasBahCa_IPTV/vietnam.m3u Vietnam
-Vietnam TV http://01.gen.tr/HasBahCa_IPTV/movies/vietnam_series_karakoe_clip.m3u Vietnam_Series_Karakoe_Clip
-WebCam WEBCAM http://01.gen.tr/HasBahCa_IPTV/webcam.m3u WorldWebCams_1
-XXX-Adult TV http://01.gen.tr/HasBahCa_IPTV/XXX.m3u XXX_Adult
-XXX-Adult TV http://01.gen.tr/HasBahCa_IPTV/movies/XXX-VOD.m3u XXX_Adult_VOD
-#XXX-Adult TV http://01.gen.tr/HasBahCa_IPTV/movies/XXX_vod+18.m3u XXX_Adult_Movies
-International-TV TV http://01.gen.tr/HasBahCa_IPTV/simpltvplayerbackup_iptv.m3u HasBahCa_IPTV_FULL
-International-TV TV http://01.gen.tr/HasBahCa_IPTV/Unistream.m3u Unistream_TR_DE_ENG_AR_SKAN_MULTI
+3D TV http://01.gen.tr/HasBahCa/3d.m3u 3D_TV_by_HasBahCa
+Africa TV http://01.gen.tr/HasBahCa/Afrika.m3u Africa_by_HasBahCa
+Albania TV http://01.gen.tr/HasBahCa/albania_bosnia.m3u Albanien_Bosnien_by_HasBahCa
+Germany TV http://01.gen.tr/HasBahCa/GERMAN_DEUTSCH.m3u Deutsch_by_HasBahCa
+Germany TV http://01.gen.tr/HasBahCa/german_doppel.m3u Deutsch_doppelte_by_HasBahCa
+Germany TV http://01.gen.tr/HasBahCa/Deutsch_Serien.m3u Deutsche_Serien_by_HasBahCa
+America TV http://01.gen.tr/HasBahCa/amerika_latino.m3u Amerika_Latino_by_HasBahCa
+Arabia TV http://01.gen.tr/HasBahCa/Arabic.m3u Arabien_by_HasBahCa
+Asia TV http://01.gen.tr/HasBahCa/asya.m3u Asien_by_HasBahCa
+#Europe TV http://01.gen.tr/HasBahCa/avrupa_europa.m3u Europa
+Baltic_Laender TV http://01.gen.tr/HasBahCa/Baltic.m3u Baltic_Länder_by_HasBahCa
+Bangladesh TV http://01.gen.tr/HasBahCa/bangladesh.m3u Bangladesch_by_HasBahCa
+Belgium TV http://01.gen.tr/HasBahCa/Belgium.m3u Belgien_by_HasBahCa
+Brasil TV http://01.gen.tr/HasBahCa/brasil.m3u Brasilien_by_HasBahCa
+Bulgaria TV http://01.gen.tr/HasBahCa/bulgar_bulsat.m3u Bulgarien_BulSat_by_HasBahCa
+China TV http://01.gen.tr/HasBahCa/china.m3u China_by_HasBahCa
+Czech TV http://01.gen.tr/HasBahCa/czech.m3u Tscheckei_by_HasBahCa
+Türkey_Main TV http://01.gen.tr/HasBahCa/dsmart_dturk.m3u Turkei_DSmart_dturk
+English TV http://01.gen.tr/HasBahCa/English.m3u Englisch_by_HasBahCa
+Ex-Yu TV http://01.gen.tr/HasBahCa/ex-yug.m3u Ex-Yu_by_HasBahCa
+Filmon TV http://01.gen.tr/HasBahCa/filmon.m3u Filmon_by_HasBahCa
+France TV http://01.gen.tr/HasBahCa/fransa.m3u Frankreich_by_HasBahCa
+Georgia TV http://01.gen.tr/HasBahCa/Georgia.m3u Georgien_by_HasBahCa
+Greece TV http://01.gen.tr/HasBahCa/greek.m3u Griechenland_by_HasBahCa
+Holland TV http://01.gen.tr/HasBahCa/Holland.m3u Niederland_by_HasBahCa
+India TV http://01.gen.tr/HasBahCa/india_tamil.m3u Indien_tamil_by_HasBahCa
+International-TV TV http://01.gen.tr/HasBahCa/int_others.m3u International_nicht_kategoziert_TV
+Iran TV http://01.gen.tr/HasBahCa/iran.m3u Iran_by_HasBahCa
+Israel TV http://01.gen.tr/HasBahCa/israil.m3u Israel_by_HasBahCa
+Italy TV http://01.gen.tr/HasBahCa/italya.m3u Italien_by_HasBahCa
+Japan TV http://01.gen.tr/HasBahCa/japan.m3u Japan_by_HasBahCa
+Kids TV http://01.gen.tr/HasBahCa/Kids.m3u Kinder_Kanäle_by_HasBahCa
+Korea TV http://01.gen.tr/HasBahCa/Korea.me3 Korea_by_HasBahCa
+Kurdish TV http://01.gen.tr/HasBahCa/kurdi.m3u Kurdisch_by_HasBahCa
+Hungary TV http://01.gen.tr/HasBahCa/magyar.m3u Ungarn_by_HasBahCa
+Macedonia TV http://01.gen.tr/HasBahCa/makadonia.m3u Mazedonien_by_HasBahCa
+Misir_egypt TV http://01.gen.tr/HasBahCa/misir_egypt.m3u Ägypten_by_HasBahCa
+Music TV http://01.gen.tr/HasBahCa/muzik.m3u Musik_by_HasBahCa
+Pakistan TV http://01.gen.tr/HasBahCa/pakistan.m3u Pakistan_by_HasBahCa
+Poland TV http://01.gen.tr/HasBahCa/polonya.m3u Polen_by_HasBahCa
+Portugal TV http://01.gen.tr/HasBahCa/Portugal.m3u Portugal_by_HasBahCa
+Romania-Moldavia TV http://01.gen.tr/HasBahCa/Romania_Moldova.m3u Rumänien-Moldawien_by_HasBahCa
+Russia TV http://01.gen.tr/HasBahCa/rus.m3u Russland_by_HasBahCa
+Serbia TV http://01.gen.tr/HasBahCa/Serbia_Croatia.m3u Serbien_Kroatien_by_HasBahCa
+Skandinavia TV http://01.gen.tr/HasBahCa/skandinav.m3u Skandinavien_by_HasBahCa
+Slovakei TV http://01.gen.tr/HasBahCa/Slovakia_Slovenia.m3u Slovakei_Slowenien_by_HasBahCa
+Spain TV http://01.gen.tr/HasBahCa/Spain.m3u Spanien_by_HasBahCa
+Sport TV http://01.gen.tr/HasBahCa/spor.m3u Sport_by_HasBahCa
+Swiss TV http://01.gen.tr/HasBahCa/Switzerland.m3u Schweiz_by_HasBahCa
+Thai TV http://01.gen.tr/HasBahCa/thai.m3u Thailand_by_HasBahCa
+Turki_Azeri TV http://01.gen.tr/HasBahCa/turki.m3u Türki_by_HasBahCa
+Turkey-Main TV http://01.gen.tr/HasBahCa/turk_ulusal_yedek.m3u Türkei_doppelt_by_HasBahCa
+Turkey-Main TV http://01.gen.tr/HasBahCa/turk_belgesel_sinema.m3u Türkei_Doku_Filme
+Turkey-Main TV http://01.gen.tr/HasBahCa/turk_ulusal.m3u Türkei_Haupt_by_HasBahCa
+Turkey-Local TV http://01.gen.tr/HasBahCa/turk_yerel.m3u Türkei_Lokal_by_HasBahCa
+Ukraine TV http://01.gen.tr/HasBahCa/ukraina.m3u Ukraine_by_HasBahCa
+USA TV http://01.gen.tr/HasBahCa/usa.m3u USA_by_HasBahCa
+USA TV http://01.gen.tr/HasBahCa/usa_shows.m3u USA_ENG_SHOWS_by_HasBahCa
+Vietnam TV http://01.gen.tr/HasBahCa/vietnam.m3u Vietnam_by_HasBahCa
+WebCam WEBCAM http://01.gen.tr/HasBahCa/webcam.m3u WorldWebCams_by_HasBahCa
+XXX-Adult TV http://01.gen.tr/HasBahCa/XXX.m3u XXX_Adult_by_HasBahCa
+########################################################################
+#                                                                      #
+#                        HasBahCa Movie Listen                         #
+#                                                                      #
+########################################################################
+#
+Bosnien TV http://01.gen.tr/HasBahCa/movies/Bosnia_Subtitle_Movies.m3u Bosnia_Subtitle_Movies_by_HasBahCa
+ENGLISH TV http://01.gen.tr/HasBahCa/movies/ENGLISH_MOVIES_OLD.m3u ENGLISH_MOVIES_OLD_by_HasBahCa
+VIETNAM TV http://01.gen.tr/HasBahCa/movies/English_Vietnam_Movies.m3u English_Vietnam_Movies_by_HasBahCa
+RUS TV http://01.gen.tr/HasBahCa/movies/RUS_movies.m3u RUS_movies_by_HasBahCa
+RUS TV http://01.gen.tr/HasBahCa/movies/RUS_movies_kril.m3u RUS_movies_kril_by_HasBahCa
+TURKEY TV http://01.gen.tr/HasBahCa/movies/Turk_Filmleri.m3u Turk_Filmleri_by_HasBahCa
+ADULT TV http://01.gen.tr/HasBahCa/movies/XXX_vod+18.m3u XXX_vod+18_by_HasBahCa
+INT TV http://01.gen.tr/HasBahCa/movies/archive_org_movies.m3u archive_org_movies_by_HasBahCa
+INT TV http://01.gen.tr/HasBahCa/movies/cartoons.m3u cartoons_by_HasBahCa
+ENGLISH TV http://01.gen.tr/HasBahCa/movies/englishmovies.m3u englishmovies_by_HasBahCa
+INT TV http://01.gen.tr/HasBahCa/movies/myvideoaz-isimsiz.m3u myvideoaz-noname_by_HasBahCa
+TURKEY TV http://01.gen.tr/HasBahCa/movies/myvideoaz_turkfilmleri.m3u myvideoaz_turkfilmleri_by_HasBahCa
+SPAIN TV http://01.gen.tr/HasBahCa/movies/spain_movies.m3u spain_movies_by_HasBahCa
+VIETNAM TV http://01.gen.tr/HasBahCa/movies/vietnam_series_karakoe_clip.m3u vietnam_series_karakoe_clip_by_HasBahCa
+########################################################################
+#
 #
 ########################################################################
 #                                                                      #
