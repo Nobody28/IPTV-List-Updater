@@ -1,5 +1,8 @@
 Changelog:
 
+from 01.11.2014:
+- disable Bouquet: Teledunet
+
 from 29.10.2014:
 - add Bouquet: XXX Adult VOD
 
