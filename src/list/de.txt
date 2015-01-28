@@ -8,7 +8,7 @@
 ########################################################################
 #
 Afrika RADIO http://hasbahcaiptv.com/m3u/radios/Afrika_Radios.m3u Afrika_Radios_by_HasBahCa
-Deutsch RADIO http://hasbahcaiptv.com/m3u/radios/Radio-Deutschland-WDR2.m3u Radio-Deutschland-WDR2_by_HasBahCa
+Germany RADIO http://hasbahcaiptv.com/m3u/radios/Radio-Deutschland-WDR2.m3u Radio-Deutschland-WDR2_by_HasBahCa
 South_Amerika RADIO http://hasbahcaiptv.com/m3u/radios/South_Amerika_Radios.m3u South_Amerika_Radios_by_HasBahCa
 Turkey RADIO http://hasbahcaiptv.com/m3u/radios/Turkce_Radyolar.m3u Turkce_Radyolar_by_HasBahCa
 UK RADIO http://hasbahcaiptv.com/m3u/radios/UK_Radios.m3u UK_Radios_by_HasBahCa
