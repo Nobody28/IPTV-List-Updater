@@ -137,6 +137,7 @@ Germany TV https://www.dropbox.com/s/h3adap293piz844/Sky%20Germany.m3u?dl=1 Deut
 Greece TV http://iptv-list-updater.is-great.net/IPTV-List-Updater/greekstreamtv/userbouquet.ILU_greekstreamtv.tv GreekstreamTV B
 Germany TV http://iptv-list-updater.is-great.net/IPTV-List-Updater/gigablueacademy/gigablueacademy.m3u Gigablue_Academy
 Germany TV http://iptv-list-updater.is-great.net/IPTV-List-Updater/dreamscreencast/dreamscreencast.m3u Dreamscreencast
+Germany TV http://tiny.cc/iptvde Deutsch_by_Tiny.cc
 #XXX-Adult TV https://dl.dropboxusercontent.com/s/h6ln6hb8l0hl4wo/userbouquet.ilu_xxx_adult.tv?dl=1&token_hash=AAGXNUUoQs_6kNFrZzSEo8OQjVwKSQcIrsgVM4VbsORgew&expiry=1400359776 XXX_Adult B
 #
 #

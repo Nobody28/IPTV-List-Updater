@@ -43,7 +43,9 @@ FAQ - 28.01.2014 !
     Extensions/IPTV-List-Updater/list je nach GUI Sprache, z.B.
     für deutsch de.txt Notepad++ und löscht alle Zeilen raus, 
     die Ihr nicht benutzen möchtet. Nicht vergessen die Datei 
-    vorher zu sichern.
+    vorher zu sichern. (Die Funktion ist derzeit nciht verfügbar,
+	da die Liste bei Internetverbindung immer aktuelle aus dem
+	Netz geladen wird!!!)
 	
 8. Wie kann ich eigene m3u Files einbauen und konvertieren lassen?
     Dazu muss ein m3u Datei z.B. auf Dropbox geladen werden.

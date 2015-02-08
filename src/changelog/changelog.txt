@@ -1,5 +1,10 @@
 Changelog:
 
+from 08.02.2015:
+- changes for tiny.cc
+- change Version to 1.62-08.02.15
+- add Bouquet: Deutsch_by_Tiny.cc
+
 from 01.11.2014:
 - disable Bouquet: Teledunet
 

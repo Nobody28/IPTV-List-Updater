@@ -269,6 +269,7 @@ class IPTV(Screen):
             if line.startswith("#EXTINF:"):
                 line = line.replace('#EXTINF:-1,','#DESCRIPTION: ')
                 line = line.replace('#EXTINF:-1 ,','#DESCRIPTION: ')
+                line = line.replace('#EXTINF:-1','#DESCRIPTION: ')
                 line = line.replace('#EXTINF%3a0,','#DESCRIPTION: ')
                 line = line.replace('#EXTINF:0,','#DESCRIPTION: ')
                 line = line.replace('#EXTINF:-1 tvg-name=','#DESCRIPTION: ')
@@ -278,10 +279,12 @@ class IPTV(Screen):
                 line = line.replace('tvg-shift=2 ,','')
                 line = line.replace('tvg-shift=2 tvg-logo=-TV ,','')
                 line = line.replace('tvg-shift=2 tvg-logo=','')
+                line = line.replace(' tvg-id="','')
                 tmp = line
             else:
                 if self.type.upper() == 'TV' and self.convert:
                     line = line.replace(':','%3a')
+                    line = line.replace('|X-Forwarded-For=91.63.136.21','')
                     line = line.replace('rtmp%3a//$OPT%3artmp-raw=rtmp%3a','rtmp%3a')
                     line = line.replace('rtmp%3a//$OPT%3artmp-raw=rtmpe%3a','rtmpe%3a')
                     line = line.replace('rtp%3a//@','#SERVICE 1:0:1:1:1:0:820000:0:0:0:http%3a//127.0.0.1%3a4050/rtp/')
