@@ -2,7 +2,7 @@ Changelog:
 
 from 24.03.2015:
 - change Version to 1.63-23.03.15
-- add Bouquet: VEVO-TV
+- add Bouquet: VEVO-TV (Thx @Fellfresse from openATV Forum)
 
 from 08.02.2015:
 - changes for tiny.cc
