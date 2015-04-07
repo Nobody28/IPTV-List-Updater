@@ -105,7 +105,7 @@ SPAIN TV http://hasbahcaiptv.com/m3u/movies/spain_movies.m3u spain_movies_by_Has
 VIETNAM TV http://hasbahcaiptv.com/m3u/movies/vietnam_series_karakoe_clip.m3u vietnam_series_karakoe_clip_by_HasBahCa
 
 ########################################################################
-#
+Germany TV https://dl.dropboxusercontent.com/s/rfdfueygdr012ur/rtl.m3u?dl=1&token_hash=AAHsf-YXDQNt44mZmivbdbW6KOnrKRWQrzuZer6p0L3s6g Sky_Sports
 #
 ########################################################################
 #                                                                      #
