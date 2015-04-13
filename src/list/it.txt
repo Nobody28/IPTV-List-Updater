@@ -134,7 +134,8 @@ Germany TV https://dl.dropboxusercontent.com/s/8eqbnv7vcofoxxo/userbouquet.deuts
 Germany TV https://dl.dropboxusercontent.com/s/2gbgj35xcn45gex/Deutsche-Serien-Livestreamer.m3u?dl=1&token_hash=AAFrwzfD14CgwGfSa5mH_qQJjweECu2FEvJwIdIgOrHlWA&expiry=1399640468 Deutsche_Serien_mit_Livestreamer B
 Germany TV https://dl.dropboxusercontent.com/s/axcnbyq3fv6qfbs/userbouquet.ilu_deutsche_serien_experimentel_mit_livestreamer.tv?dl=1&token_hash=AAHWDXvJjzBM70cVgghyIRTFxogerwAS-b1P46Jvmb3X1Q&expiry=1399922326 Deutsche_Serien_experimentel_mit_Livestreamer B#
 XXX-Adult TV https://dl.dropboxusercontent.com/s/h6ln6hb8l0hl4wo/userbouquet.ilu_xxx_adult.tv?dl=1&token_hash=AAGXNUUoQs_6kNFrZzSEo8OQjVwKSQcIrsgVM4VbsORgew&expiry=1400359776 XXX_Adult B
-Germany TV http://tiny.cc/iptvde German_by_Tiny.cc
+#Germany TV http://tiny.cc/iptvde Deutsch_by_Tiny.cc
+Germany TV https://dl.dropboxusercontent.com/s/5y9z7d357kgzjts/iptv%20tiny.cc.m3u?dl=1 Deutsch_by_Tiny.cc
 #
 #
 ########################################################################
