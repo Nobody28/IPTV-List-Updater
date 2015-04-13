@@ -126,7 +126,8 @@ Germany TV https://dl.dropboxusercontent.com/s/7ahmw1kdzbuyow4/userbouquet.deuts
 WebCam WEBCAM https://dl.dropboxusercontent.com/s/cfzrwoay9ndqnz2/userbouquet.livewebcams.tv?dl=1&token_hash=AAE4BAvdRLta_9Gz7Mg6gQ44rgQCqbMxR3Uu9D8CA0W4UQ WorldWebCams_2 B
 Sport TV https://dl.dropboxusercontent.com/s/o4a3944g460tqci/userbouquet.deutsch_sport.tv?dl=1&token_hash=AAFXzgYviaApQd_YYlLKLPrMx7tK-jbhly3dmvGFZybzbw German_Sport B
 XXX-Adult TV https://dl.dropboxusercontent.com/s/h6ln6hb8l0hl4wo/userbouquet.ilu_xxx_adult.tv?dl=1&token_hash=AAGXNUUoQs_6kNFrZzSEo8OQjVwKSQcIrsgVM4VbsORgew&expiry=1400359776 XXX_Adult B
-Germany TV http://tiny.cc/iptvde German_by_Tiny.cc
+#Germany TV http://tiny.cc/iptvde Deutsch_by_Tiny.cc
+Germany TV https://dl.dropboxusercontent.com/s/5y9z7d357kgzjts/iptv%20tiny.cc.m3u?dl=1 Deutsch_by_Tiny.cc
 #
 ########################################################################
 #                                                                      #
