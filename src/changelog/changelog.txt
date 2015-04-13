@@ -1,6 +1,10 @@
 Changelog:
 
 from 29.03.2015:
+- fix Download tiny.cc
+- change Version to 1.63-13.04.15
+
+from 29.03.2015:
 - fix HasBahCa Download for other Languages
 - change Version to 1.63-30.03.15
 
