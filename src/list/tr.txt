@@ -40,8 +40,6 @@ Asia TV http://hasbahcaiptv.com/m3u/iptv/iptv/Asia_ASYA.m3u ASYA_KITASI_by_HasBa
 Europe TV http://hasbahcaiptv.com/m3u/iptv/iptv/Europa_AVRUPA.m3u AVRUPA_KITASI_by_HasBahCa
 Australia TV http://hasbahcaiptv.com/m3u/iptv/iptv/Australia_AVUSTRALYA.m3u AVUSTRALYA_by_HasBahCa
 Arabia TV http://hasbahcaiptv.com/m3u/iptv/iptv/Arabic_ARAPCA.m3u ARAPCA_by_HasBahCa
-Bangladesh TV http://hasbahcaiptv.com/m3u/iptv/iptv/bangladesh.m3u BENGALDES_by_HasBahCa
-Belgium TV http://hasbahcaiptv.com/m3u/iptv/iptv/Belgium_BELCiKA.m3u BELCIKA_by_HasBahCa
 Brasil TV http://hasbahcaiptv.com/m3u/iptv/iptv/Brasil_BREZILYA.m3u BREZILYA_by_HasBahCa
 Bulgaria TV http://hasbahcaiptv.com/m3u/iptv/iptv/Bulgar_Bulsat.m3u BULGAR_BULSAT_by_HasBahCa
 China TV http://hasbahcaiptv.com/m3u/iptv/iptv/China_CiN.m3u CIN_CHINA_by_HasBahCa
@@ -52,8 +50,6 @@ Greece TV http://hasbahcaiptv.com/m3u/iptv/iptv/Greek_YUNANCA.m3u YUNANCA_by_Has
 India TV http://hasbahcaiptv.com/m3u/iptv/iptv/India_Tamil_HiNDiSTAN.m3u HIND_TAMIL_by_HasBahCa
 Spain TV http://hasbahcaiptv.com/m3u/iptv/iptv/Spain_ISPANYOLCA.m3u ISPANYOLCA_by_HasBahCa
 Italy TV http://hasbahcaiptv.com/m3u/iptv/iptv/Italia_ITALYA.m3u ITALYANCA_by_HasBahCa
-Iran TV http://hasbahcaiptv.com/m3u/iptv/iptv/Iran_FARS.m3u IRAN_by_HasBahCa
-Irak TV http://hasbahcaiptv.com/m3u/iptv/iptv/Iraq_IRAK.m3u IRAK_by_HasBahCa
 Israel TV http://hasbahcaiptv.com/m3u/iptv/iptv/Israel_ISRAiL.m3u ISRAIL_by_HasBahCa
 Japan TV http://hasbahcaiptv.com/m3u/iptv/iptv/Japan_JAPONYA.m3u JAPONYA_by_HasBahCa
 Korea TV http://hasbahcaiptv.com/m3u/iptv/iptv/Korea_KORE.m3u KORE_by_HasBahCa
@@ -75,7 +71,6 @@ Slovakai TV http://hasbahcaiptv.com/m3u/iptv/iptv/Slovakia_Slovenia.m3u SLOVAKYA
 Serbia TV http://hasbahcaiptv.com/m3u/iptv/iptv/Serbia_Croatia_SIRPCA_HIRVATCA.m3u SIRBiSTAN_HIRVATISTAN_by_HasBahCa
 Vietnam TV http://hasbahcaiptv.com/m3u/iptv/iptv/Vietnam.m3u VIETNAM_by_HasBahCa
 USA TV http://hasbahcaiptv.com/m3u/iptv/iptv/Usa_ABD.m3u ABD-USA_by_HasBahCa
-USA TV http://hasbahcaiptv.com/m3u/iptv/iptv/Usa_shows.m3u ABD-USA_SHOWS_by_HasBahCa
 Filmon TV http://hasbahcaiptv.com/m3u/iptv/iptv/Filmon.m3u Filmon_by_HasBahCa
 English TV http://hasbahcaiptv.com/m3u/iptv/iptv/English_INGiLiZCE.m3u INGILIZCE_by_HasBahCa
 XXX-Adult TV http://hasbahcaiptv.com/m3u/iptv/iptv/XXX.m3u XXX_YETISKIN
@@ -97,6 +92,9 @@ English TV http://hasbahcaiptv.com/m3u/iptv/movies/ENGLISH_MOVIES_OLD.m3u ESKI_I
 Russia TV http://hasbahcaiptv.com/m3u/iptv/movies/RUS_movies.m3u RUSCA_FILMLER_by_HasBahCa
 Vietnam TV http://hasbahcaiptv.com/m3u/iptv/movies/vietnam_series_karakoe_clip.m3u Vietnam_Series_Karakoe_Clip
 XXX_VOD TV http://hasbahcaiptv.com/m3u/iptv/movies/XXX-VOD.m3u XX_VOD_By_HasBahCa
+#
+########################################################################
+
 #
 ########################################################################
 #                                                                      #
