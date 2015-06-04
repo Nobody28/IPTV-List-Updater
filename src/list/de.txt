@@ -7,14 +7,14 @@
 #                                                                      #
 ########################################################################
 #
-Afrika RADIO http://hasbahcaiptv.com/m3u/radios/Afrika_Radios.m3u Afrika_Radios_by_HasBahCa
-Deutsch RADIO http://hasbahcaiptv.com/m3u/radios/Radio-Deutschland-WDR2.m3u Radio-Deutschland-WDR2_by_HasBahCa
-South_Amerika RADIO http://hasbahcaiptv.com/m3u/radios/South_Amerika_Radios.m3u South_Amerika_Radios_by_HasBahCa
-Turkey RADIO http://hasbahcaiptv.com/m3u/radios/Turkce_Radyolar.m3u Turkce_Radyolar_by_HasBahCa
-UK RADIO http://hasbahcaiptv.com/m3u/radios/UK_Radios.m3u UK_Radios_by_HasBahCa
-USA RADIO http://hasbahcaiptv.com/m3u/radios/USA_Radios.m3u USA_Radios_by_HasBahCa
-Balkan RADIO http://hasbahcaiptv.com/m3u/radios/balkan_radio.m3u balkan_radio_by_HasBahCa
-INT RADIO http://hasbahcaiptv.com/m3u/radios/int_radio.m3u int_radio_by_HasBahCa
+Afrika RADIO http://hasbahcaiptv.com/m3u/iptv/radios/Afrika_Radios.m3u Afrika_Radios_by_HasBahCa
+Deutsch RADIO http://hasbahcaiptv.com/m3u/iptv/radios/Deutsch_Radios.m3u Radio-Deutschland_by_HasBahCa
+South_Amerika RADIO http://hasbahcaiptv.com/m3u/iptv/radios/South_Amerika_Radios.m3u South_Amerika_Radios_by_HasBahCa
+Turkey RADIO http://hasbahcaiptv.com/m3u/iptv/radios/Turkce_Radyolar.m3u Turkce_Radyolar_by_HasBahCa
+UK RADIO http://hasbahcaiptv.com/m3u/iptv/radios/UK_Radios.m3u UK_Radios_by_HasBahCa
+USA RADIO http://hasbahcaiptv.com/m3u/iptv/radios/USA_Radios.m3u USA_Radios_by_HasBahCa
+Balkan RADIO http://hasbahcaiptv.com/m3u/iptv/radios/balkan_radio.m3u balkan_radio_by_HasBahCa
+INT RADIO http://hasbahcaiptv.com/m3u/iptv/radios/int_radio.m3u int_radio_by_HasBahCa
 #
 ########################################################################
 #                                                                      #
@@ -41,8 +41,6 @@ Asia TV http://hasbahcaiptv.com/m3u/iptv/iptv/Asia_ASYA.m3u ASIA_by_HasBahCa
 Europe TV http://hasbahcaiptv.com/m3u/iptv/iptv/Europa_AVRUPA.m3u Europe_by_HasBahCa
 Australia TV http://hasbahcaiptv.com/m3u/iptv/iptv/Australia_AVUSTRALYA.m3u Australia_by_HasBahCa
 Arabia TV http://hasbahcaiptv.com/m3u/iptv/iptv/Arabic_ARAPCA.m3u ARABIC_by_HasBahCa
-Bangladesh TV http://hasbahcaiptv.com/m3u/iptv/iptv/bangladesh.m3u BENGALDES_by_HasBahCa
-Belgium TV http://hasbahcaiptv.com/m3u/iptv/iptv/Belgium_BELCiKA.m3u BELGIEN_by_HasBahCa
 Brasil TV http://hasbahcaiptv.com/m3u/iptv/iptv/Brasil_BREZILYA.m3u BRASIL_by_HasBahCa
 Bulgaria TV http://hasbahcaiptv.com/m3u/iptv/iptv/Bulgar_Bulsat.m3u BULGAR_BULSAT_by_HasBahCa
 China TV http://hasbahcaiptv.com/m3u/iptv/iptv/China_CiN.m3u CHINA_by_HasBahCa
@@ -53,8 +51,6 @@ Greece TV http://hasbahcaiptv.com/m3u/iptv/iptv/Greek_YUNANCA.m3u GRICHENLAND_by
 India TV http://hasbahcaiptv.com/m3u/iptv/iptv/India_Tamil_HiNDiSTAN.m3u INDIA_TAMIL_by_HasBahCa
 Spain TV http://hasbahcaiptv.com/m3u/iptv/iptv/Spain_ISPANYOLCA.m3u SPANISCH_by_HasBahCa
 Italy TV http://hasbahcaiptv.com/m3u/iptv/iptv/Italia_ITALYA.m3u ITALIEN_by_HasBahCa
-Iran TV http://hasbahcaiptv.com/m3u/iptv/iptv/Iran_FARS.m3u IRAN_by_HasBahCa
-Irak TV http://hasbahcaiptv.com/m3u/iptv/iptv/Iraq_IRAK.m3u IRAK_by_HasBahCa
 Israel TV http://hasbahcaiptv.com/m3u/iptv/iptv/Israel_ISRAiL.m3u ISRAEL_by_HasBahCa
 Japan TV http://hasbahcaiptv.com/m3u/iptv/iptv/Japan_JAPONYA.m3u JAPAN_by_HasBahCa
 Korea TV http://hasbahcaiptv.com/m3u/iptv/iptv/Korea_KORE.m3u KOREA_by_HasBahCa
@@ -62,7 +58,6 @@ Kurdish TV http://hasbahcaiptv.com/m3u/iptv/iptv/Kurdi_KURTCE.m3u KURDISH_by_Has
 Baltic TV http://hasbahcaiptv.com/m3u/iptv/iptv/Baltic_BALTiK.m3u BALTiC_by_HasBahCa
 Magyar TV http://hasbahcaiptv.com/m3u/iptv/iptv/Magyar_MACARISTAN.m3u MAGYAR_by_HasBahCa
 Macedonia TV http://hasbahcaiptv.com/m3u/iptv/iptv/Makadonia.m3u MACEDONIA_by_HasBahCa
-Misir_egypt TV http://hasbahcaiptv.com/m3u/iptv/iptv/Egypt_MISIR.m3u EGYPTEN_by_HasBahCa
 Pakistan TV http://hasbahcaiptv.com/m3u/iptv/iptv/Pakistan.m3u PAKISTAN_by_HasBahCa
 Portugal TV http://hasbahcaiptv.com/m3u/iptv/iptv/Portugal_PORTEKiZ.m3u PORTUGAL_by_HasBahCa
 Poland TV http://hasbahcaiptv.com/m3u/iptv/iptv/Polski_POLONYA.m3u POLEN_by_HasBahCa
@@ -77,32 +72,25 @@ Slovakai TV http://hasbahcaiptv.com/m3u/iptv/iptv/Slovakia_Slovenia.m3u SLOVAKIA
 Serbia TV http://hasbahcaiptv.com/m3u/iptv/iptv/Serbia_Croatia_SIRPCA_HIRVATCA.m3u Serbia_Croatia_by_HasBahCa
 Vietnam TV http://hasbahcaiptv.com/m3u/iptv/iptv/Vietnam.m3u VIETNAM_by_HasBahCa
 USA TV http://hasbahcaiptv.com/m3u/iptv/iptv/Usa_ABD.m3u USA_by_HasBahCa
-USA TV http://hasbahcaiptv.com/m3u/iptv/iptv/Usa_shows.m3u USA_SHOWS_by_HasBahCa
 English TV http://hasbahcaiptv.com/m3u/iptv/iptv/English_INGiLiZCE.m3u ENGLISCH_by_HasBahCa
 XXX-Adult TV http://hasbahcaiptv.com/m3u/iptv/iptv/XXX.m3u XXX_ADULT
 Russia TV http://iptv.lamp.ufa-it.ru/generate_m3u.php?num_list=001 RUS_SIBIR_TELEKOM
 Georgia TV http://hasbahcaiptv.com/m3u/iptv/iptv/Georgia_GURCiSTAN.m3u GEORGIA_by_HasBahCa
 WebCam TV http://hasbahcaiptv.com/m3u/iptv/iptv/Webcam.m3u WEBCAM_by_HasBahCa
-Netherland TV http://hasbahcaiptv.com/m3u/iptv/iptv/Netherland_HOLLANDA.m3u HOLLAND_by_HasBahCa
 ########################################################################
 #                                                                      #
 #                        HasBahCa Movie Listen                         #
 #                                                                      #
 ########################################################################
 #
-Bosnien TV http://hasbahcaiptv.com/m3u/movies/Bosnia_Subtitle_Movies.m3u Bosnia_Subtitle_Movies_by_HasBahCa
-ENGLISH TV http://hasbahcaiptv.com/m3u/movies/ENGLISH_MOVIES_OLD.m3u ENGLISH_MOVIES_OLD_by_HasBahCa
-VIETNAM TV http://hasbahcaiptv.com/m3u/movies/English_Vietnam_Movies.m3u English_Vietnam_Movies_by_HasBahCa
-RUS TV http://hasbahcaiptv.com/m3u/movies/RUS_movies.m3u RUS_movies_by_HasBahCa
-RUS TV http://hasbahcaiptv.com/m3u/movies/RUS_movies_kril.m3u RUS_movies_kril_by_HasBahCa
-TURKEY TV http://hasbahcaiptv.com/m3u/movies/Turk_Filmleri.m3u Turk_Filmleri_by_HasBahCa
+ENGLISH TV http://hasbahcaiptv.com/m3u/iptv/movies/ENGLISH_MOVIES_OLD.m3u ENGLISH_MOVIES_OLD_by_HasBahCa
+RUS TV http://hasbahcaiptv.com/m3u/iptv/movies/RUS_movies.m3u RUS_movies_by_HasBahCa
+RUS TV http://hasbahcaiptv.com/m3u/iptv/movies/RUS_movies_kril.m3u RUS_movies_kril_by_HasBahCa
+TURKEY TV http://hasbahcaiptv.com/m3u/iptv/movies/Turk_Filmleri.m3u Turk_Filmleri_by_HasBahCa
 ADULT TV http://hasbahcaiptv.com/m3u/movies/XXX-VOD.m3u XXX_vod+18_by_HasBahCa
-INT TV http://hasbahcaiptv.com/m3u/movies/archive_org_movies.m3u archive_org_movies_by_HasBahCa
-INT TV http://hasbahcaiptv.com/m3u/movies/cartoons.m3u cartoons_by_HasBahCa
-ENGLISH TV http://hasbahcaiptv.com/m3u/movies/englishmovies.m3u englishmovies_by_HasBahCa
-TURKEY TV http://hasbahcaiptv.com/m3u/movies/myvideoaz_turkfilmleri.m3u myvideoaz_turkfilmleri_by_HasBahCa
-SPAIN TV http://hasbahcaiptv.com/m3u/movies/spain_movies.m3u spain_movies_by_HasBahCa
-VIETNAM TV http://hasbahcaiptv.com/m3u/movies/vietnam_series_karakoe_clip.m3u vietnam_series_karakoe_clip_by_HasBahCa
+INT TV http://hasbahcaiptv.com/m3u/movies/iptv/cartoons.m3u cartoons_by_HasBahCa
+ENGLISH TV http://hasbahcaiptv.com/m3u/iptv/movies/englishmovies.m3u englishmovies_by_HasBahCa
+VIETNAM TV http://hasbahcaiptv.com/m3u/iptv/movies/vietnam_series_karakoe_clip.m3u vietnam_series_karakoe_clip_by_HasBahCa
 
 ########################################################################
 #Germany TV https://dl.dropboxusercontent.com/s/rfdfueygdr012ur/rtl.m3u?dl=1&token_hash=AAHsf-YXDQNt44mZmivbdbW6KOnrKRWQrzuZer6p0L3s6g Sky_Sports
