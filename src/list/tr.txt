@@ -7,11 +7,11 @@
 #                                                                      #
 ########################################################################
 #
-INT_RADIO RADIO http://hasbahcaiptv.com/m3u/radios/int_radio.m3u ULUSLARARASI_RADYOLAR
+INT_RADIO RADIO http://hasbahcaiptv.com/m3u/iptv/radios/int_radio.m3u ULUSLARARASI_RADYOLAR
 Germany RADIO http://hasbahcaiptv.com/m3u/iptv/radios/Deutsch_Radios.m3u Almanca_Radyolar
-Turkey RADIO http://hasbahcaiptv.com/m3u/radios/Turkce_Radyolar.m3u Turk_Radyolari_by HasBahCa
-Balkanradio RADIO http://hasbahcaiptv.com/m3u/radios/balkan_radio.m3u Balkan_Radyolari_by_HasBahCa
-NesetErtas RADIO http://hasbahcaiptv.com/m3u/radios/Neset_Ertas.m3u Neset_Ertas_by_HasBahCa
+Turkey RADIO http://hasbahcaiptv.com/m3u/iptv/radios/Turkce_Radyolar.m3u Turk_Radyolari_by HasBahCa
+Balkanradio RADIO http://hasbahcaiptv.com/m3u/iptv/radios/balkan_radio.m3u Balkan_Radyolari_by_HasBahCa
+NesetErtas RADIO http://hasbahcaiptv.com/m3u/iptv/radios/Neset_Ertas.m3u Neset_Ertas_by_HasBahCa
 AFRIKA RADIO http://01.gen.tr/HasBahCa/radios/Afrika_Radios.m3u Afrika_Radyolari
 SUD_AMERIKA RADIO http://01.gen.tr/HasBahCa/radios/South_Amerika_Radios.m3u Güney_Amerika_Radyolari
 UK RADIO http://01.gen.tr/HasBahCa/radios/UK_Radios.m3u UK_Ingiltere_Radyolari
@@ -90,13 +90,13 @@ DSmart_dturk TV http://hasbahcaiptv.com/m3u/iptv/iptv/DTURK_DSMART.m3u DSmart_DT
 #                                                                      #
 ########################################################################
 #
-Turkey-Main TV http://hasbahcaiptv.com/m3u/movies/Turk_Filmleri.m3u TURK_FILMLERI_by_HasBahCa
-Cartoons TV http://hasbahcaiptv.com/m3u/movies/cartoons.m3u CiZGi_FiLMLER_by_HasBahCa
-English TV http://hasbahcaiptv.com/m3u/movies/englishmovies.m3u ENG_MOVIES_by_HasBahCa
-English TV http://hasbahcaiptv.com/m3u/movies/ENGLISH_MOVIES_OLD.m3u ESKI_INGILIZCE_FILMLER_by_HasBahCa
-Russia TV http://hasbahcaiptv.com/m3u/movies/RUS_movies.m3u RUSCA_FILMLER_by_HasBahCa
-Vietnam TV http://hasbahcaiptv.com/m3u/movies/vietnam_series_karakoe_clip.m3u Vietnam_Series_Karakoe_Clip
-XXX_VOD TV http://hasbahcaiptv.com/m3u/movies/XXX-VOD.m3u XX_VOD_By_HasBahCa
+Turkey-Main TV http://hasbahcaiptv.com/m3u/iptv/movies/Turk_Filmleri.m3u TURK_FILMLERI_by_HasBahCa
+Cartoons TV http://hasbahcaiptv.com/m3u/iptv/movies/cartoons.m3u CiZGi_FiLMLER_by_HasBahCa
+English TV http://hasbahcaiptv.com/m3u/iptv/movies/englishmovies.m3u ENG_MOVIES_by_HasBahCa
+English TV http://hasbahcaiptv.com/m3u/iptv/movies/ENGLISH_MOVIES_OLD.m3u ESKI_INGILIZCE_FILMLER_by_HasBahCa
+Russia TV http://hasbahcaiptv.com/m3u/iptv/movies/RUS_movies.m3u RUSCA_FILMLER_by_HasBahCa
+Vietnam TV http://hasbahcaiptv.com/m3u/iptv/movies/vietnam_series_karakoe_clip.m3u Vietnam_Series_Karakoe_Clip
+XXX_VOD TV http://hasbahcaiptv.com/m3u/iptv/movies/XXX-VOD.m3u XX_VOD_By_HasBahCa
 #
 ########################################################################
 #                                                                      #
