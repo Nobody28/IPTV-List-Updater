@@ -87,8 +87,8 @@ ENGLISH TV http://hasbahcaiptv.com/m3u/iptv/movies/ENGLISH_MOVIES_OLD.m3u ENGLIS
 RUS TV http://hasbahcaiptv.com/m3u/iptv/movies/RUS_movies.m3u RUS_movies_by_HasBahCa
 RUS TV http://hasbahcaiptv.com/m3u/iptv/movies/RUS_movies_kril.m3u RUS_movies_kril_by_HasBahCa
 TURKEY TV http://hasbahcaiptv.com/m3u/iptv/movies/Turk_Filmleri.m3u Turk_Filmleri_by_HasBahCa
-ADULT TV http://hasbahcaiptv.com/m3u/movies/XXX-VOD.m3u XXX_vod+18_by_HasBahCa
-INT TV http://hasbahcaiptv.com/m3u/movies/iptv/cartoons.m3u cartoons_by_HasBahCa
+ADULT TV http://hasbahcaiptv.com/m3u/iptv/movies/XXX-VOD.m3u XXX_vod+18_by_HasBahCa
+INT TV http://hasbahcaiptv.com/m3u/iptv/movies/cartoons.m3u cartoons_by_HasBahCa
 ENGLISH TV http://hasbahcaiptv.com/m3u/iptv/movies/englishmovies.m3u englishmovies_by_HasBahCa
 VIETNAM TV http://hasbahcaiptv.com/m3u/iptv/movies/vietnam_series_karakoe_clip.m3u vietnam_series_karakoe_clip_by_HasBahCa
 
