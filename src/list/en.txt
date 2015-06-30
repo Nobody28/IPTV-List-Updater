@@ -33,7 +33,6 @@ Germany TV http://bilgidiyari.net/m3u/iptv/iptv/German_doppel.m3u DEUTSCH_DOPPEL
 Sport TV http://bilgidiyari.net/m3u/iptv/iptv/Sport_SPOR.m3u SPORTS_by_HasBahCa
 Music TV http://bilgidiyari.net/m3u/iptv/iptv/Music_MUZiK.m3u MUSIC_by_HasBahCa
 Kids TV http://bilgidiyari.net/m3u/iptv/iptv/Kids_COCUK.m3u KINDER_by_HasBahCa
-3D TV http://bilgidiyari.net/m3u/iptv/iptv/3d.m3u 3D_TV_by_HasBahCa
 Albania TV http://bilgidiyari.net/m3u/iptv/iptv/Albania_Bosnia_ARNAVUTCA_BOSNA.m3u Albania_Bosnia_by_HasBahCa
 America TV http://bilgidiyari.net/m3u/iptv/iptv/Amerika_Latino.m3u AMERICA_LATINO_by_HasBahCa
 Africa TV http://bilgidiyari.net/m3u/iptv/iptv/Africa_AFRIKA.m3u AFRICA_by_HasBahCa
