@@ -22,6 +22,7 @@ INT RADIO http://hasbahcaiptv.com/m3u/iptv/radio/int_radio.m3u int_radio_by_HasB
 #                                                                      #
 ########################################################################
 #
+X-FORWARDED TV http://hasbahcaiptv.com/m3u/iptv/ip-tv/userbouquet.ilu_x-forwarded.tv AU_CH_DE_FR_IT_UK_TR_CZ_X-FORWARDED
 Turkey-Main TV http://hasbahcaiptv.com/m3u/iptv/ip-tv/Turkey_TURKiYE_Favori.m3u TURKEI_FAVORILER_by_HasBahCa
 Turkey-Main TV http://hasbahcaiptv.com/m3u/iptv/ip-tv/Turkey_TURKiYE_ULUSAL.m3u TURKEI_ULUSAL_by_HasBahCa
 Turkey-Main TV http://hasbahcaiptv.com/m3u/iptv/ip-tv/Turk_ulusal_yedek.m3u TURKEI_DOPPEL_by_HasBahCa
