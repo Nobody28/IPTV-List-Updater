@@ -77,6 +77,11 @@ XXX-Adult TV http://hasbahcaiptv.com/m3u/iptv/ip-tv/XXX.m3u XXX_ADULT
 Russia TV http://iptv.lamp.ufa-it.ru/generate_m3u.php?num_list=001 RUS_SIBIR_TELEKOM
 Georgia TV http://hasbahcaiptv.com/m3u/iptv/ip-tv/Georgia_GURCiSTAN.m3u GEORGIA_by_HasBahCa
 WebCam TV http://hasbahcaiptv.com/m3u/iptv/ip-tv/Webcam.m3u WEBCAM_by_HasBahCa
+WebCam TV http://hasbahcaiptv.com/m3u/iptv/ip-tv/Webcam_INT.m3u WEBCAM_INT_by_HasBahCa
+WebCam TV http://hasbahcaiptv.com/m3u/iptv/ip-tv/Webcam_DE.m3u WEBCAM_DE_by_HasBahCa
+WebCam TV http://hasbahcaiptv.com/m3u/iptv/ip-tv/Webcam_USA.m3u WEBCAM_USA_by_HasBahCa
+WebCam TV http://hasbahcaiptv.com/m3u/iptv/ip-tv/Webcam_RUS.m3u WEBCAM_RUS_by_HasBahCa
+WebCam TV http://hasbahcaiptv.com/m3u/iptv/ip-tv/Webcam_USTREAM.m3u WEBCAM_USTREAM_by_HasBahCa
 ########################################################################
 #                                                                      #
 #                        HasBahCa Movie Listen                         #
