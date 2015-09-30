@@ -30,6 +30,7 @@ Turkey-Main TV http://hasbahcaiptv.com/m3u/iptv/ip-tv/Turk_ulusal_yedek.m3u TURK
 Turkey-Main TV http://hasbahcaiptv.com/m3u/iptv/ip-tv/Turkey_TURKiYE_YEREL.m3u TURKIYE_YEREL_by_HasBahCa
 Turkey TV http://hasbahcaiptv.com/m3u/iptv/ip-tv/Turkish_Staate_TURKi_ULKELER.m3u TURKI_ULKELER_by_HasBahCa
 Germany TV http://hasbahcaiptv.com/m3u/iptv/ip-tv/German_ALMANCA.m3u ALMANCA_by_HasBahCa
+Germany TV http://hasbahcaiptv.com/m3u/iptv/ip-tv/DE+AU+CH.m3u DE+AU+CH_XFORWARDER_by_HasBahCa
 Germany TV http://hasbahcaiptv.com/m3u/iptv/ip-tv/German_doppel.m3u ALMANCA_YEDEK_by_HasBahCa
 Sport TV http://hasbahcaiptv.com/m3u/iptv/ip-tv/Sport_SPOR.m3u SPOR_KANALLARI_by_HasBahCa
 Music TV http://hasbahcaiptv.com/m3u/iptv/ip-tv/Music_MUZiK.m3u MUZIK_KANALLARI_by_HasBahCa
