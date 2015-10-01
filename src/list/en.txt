@@ -22,6 +22,17 @@ INT RADIO http://hasbahcaiptv.com/m3u/iptv/radio/int_radio.m3u int_radio_by_HasB
 #                                                                      #
 ########################################################################
 #
+WebCam TV http://hasbahcaiptv.com/m3u/iptv/ip-tv/Webcam_INT.m3u WEBCAM_INT_by_HasBahCa
+WebCam TV http://hasbahcaiptv.com/m3u/iptv/ip-tv/Webcam_DE.m3u WEBCAM_DE_by_HasBahCa
+WebCam TV http://hasbahcaiptv.com/m3u/iptv/ip-tv/Webcam_USA.m3u WEBCAM_USA_by_HasBahCa
+WebCam TV http://hasbahcaiptv.com/m3u/iptv/ip-tv/Webcam_RUS.m3u WEBCAM_RUS_by_HasBahCa
+WebCam TV http://hasbahcaiptv.com/m3u/iptv/ip-tv/Webcam_USTREAM.m3u WEBCAM_USTREAM_by_HasBahCa
+X-FORWARDED TV http://hasbahcaiptv.com/m3u/iptv/ip-tv/CZ.m3u CZECH_LIVESTREAMER_NOTIG_by_HasBahCa 
+X-FORWARDED TV http://hasbahcaiptv.com/m3u/iptv/ip-tv/FR.m3u FRANKREICH_LIVESTREAMER_NOTIG_by_HasBahCa
+X-FORWARDED TV http://hasbahcaiptv.com/m3u/iptv/ip-tv/IT.m3u ITALIEN_LIVESTREAMER_NOTIG_by_HasBahCa
+X-FORWARDED TV http://hasbahcaiptv.com/m3u/iptv/ip-tv/RU.m3u RUS_LIVESTREAMER_NOTIG_by_HasBahCa
+X-FORWARDED TV http://hasbahcaiptv.com/m3u/iptv/ip-tv/UK.m3u ENG_UK_LIVESTREAMER_NOTIG_by_HasBahCa
+X-FORWARDED TV http://hasbahcaiptv.com/m3u/iptv/ip-tv/TR.m3u TUERKEI_LIVESTREAMER_NOTIG_by_HasBahCa
 X-FORWARDED TV http://hasbahcaiptv.com/m3u/iptv/ip-tv/DE+AU+CH+FR+IT+TR+UK+RU+CZ.m3u AU_CH_DE_FR_IT_UK_TR_CZ_X_FORWARDED
 Turkey-Main TV http://hasbahcaiptv.com/m3u/iptv/ip-tv/Turkey_TURKiYE_Favori.m3u TURKEI_FAVORILER_by_HasBahCa
 Turkey-Main TV http://hasbahcaiptv.com/m3u/iptv/ip-tv/Turkey_TURKiYE_ULUSAL.m3u TURKEI_ULUSAL_by_HasBahCa
@@ -77,12 +88,6 @@ English TV http://hasbahcaiptv.com/m3u/iptv/ip-tv/English_INGiLiZCE.m3u ENGLISCH
 XXX-Adult TV http://hasbahcaiptv.com/m3u/iptv/ip-tv/XXX.m3u XXX_ADULT
 Russia TV http://iptv.lamp.ufa-it.ru/generate_m3u.php?num_list=001 RUS_SIBIR_TELEKOM
 Georgia TV http://hasbahcaiptv.com/m3u/iptv/ip-tv/Georgia_GURCiSTAN.m3u GEORGIA_by_HasBahCa
-WebCam TV http://hasbahcaiptv.com/m3u/iptv/ip-tv/Webcam.m3u WEBCAM_by_HasBahCa
-WebCam TV http://hasbahcaiptv.com/m3u/iptv/ip-tv/Webcam_INT.m3u WEBCAM_INT_by_HasBahCa
-WebCam TV http://hasbahcaiptv.com/m3u/iptv/ip-tv/Webcam_DE.m3u WEBCAM_DE_by_HasBahCa
-WebCam TV http://hasbahcaiptv.com/m3u/iptv/ip-tv/Webcam_USA.m3u WEBCAM_USA_by_HasBahCa
-WebCam TV http://hasbahcaiptv.com/m3u/iptv/ip-tv/Webcam_RUS.m3u WEBCAM_RUS_by_HasBahCa
-WebCam TV http://hasbahcaiptv.com/m3u/iptv/ip-tv/Webcam_USTREAM.m3u WEBCAM_USTREAM_by_HasBahCa
 ########################################################################
 #                                                                      #
 #                        HasBahCa Movie Listen                         #
