@@ -33,7 +33,7 @@ X-FORWARDED TV http://hasbahcaiptv.com/m3u/iptv/ip-tv/IT.m3u ITALIEN_LIVESTREAME
 X-FORWARDED TV http://hasbahcaiptv.com/m3u/iptv/ip-tv/RU.m3u RUS_LIVESTREAMER_NOTIG_by_HasBahCa
 X-FORWARDED TV http://hasbahcaiptv.com/m3u/iptv/ip-tv/UK.m3u ENG_UK_LIVESTREAMER_NOTIG_by_HasBahCa
 X-FORWARDED TV http://hasbahcaiptv.com/m3u/iptv/ip-tv/TR.m3u TUERKEI_LIVESTREAMER_NOTIG_by_HasBahCa
-X-FORWARDED TV http://hasbahcaiptv.com/m3u/iptv/ip-tv/DE+AU+CH+FR+IT+TR+UK+RU+CZ.m3u AU_CH_DE_FR_IT_UK_TR_CZ_X_FORWARDED
+X-FORWARDED TV http://hasbahcaiptv.com/m3u/iptv/ip-tv/DE+AU+CH+FR+IT+TR+UK+RU+CZ.m3u AU_CH_DE_FR_IT_UK_TR_CZ_LIVESTREAMER_NOTIG_by_HasBahCa
 Turkey-Main TV http://hasbahcaiptv.com/m3u/iptv/ip-tv/Turkey_TURKiYE_Favori.m3u TURKEI_FAVORILER_by_HasBahCa
 Turkey-Main TV http://hasbahcaiptv.com/m3u/iptv/ip-tv/Turkey_TURKiYE_ULUSAL.m3u TURKEI_ULUSAL_by_HasBahCa
 Turkey-Main TV http://hasbahcaiptv.com/m3u/iptv/ip-tv/Turk_ulusal_yedek.m3u TURKEI_DOPPEL_by_HasBahCa
