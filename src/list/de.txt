@@ -22,6 +22,7 @@ INT RADIO http://hasbahcaiptv.com/m3u/iptv/radio/int_radio.m3u int_radio_by_HasB
 #                                                                      #
 ########################################################################
 #
+TEST TV http://hasbahcaiptv.com/m3u/iptv/ip-tv/test.m3u AAA_TEST
 WebCam TV http://hasbahcaiptv.com/m3u/iptv/ip-tv/Webcam_INT.m3u WEBCAM_INT_by_HasBahCa
 WebCam TV http://hasbahcaiptv.com/m3u/iptv/ip-tv/Webcam_DE.m3u WEBCAM_DE_by_HasBahCa
 WebCam TV http://hasbahcaiptv.com/m3u/iptv/ip-tv/Webcam_USA.m3u WEBCAM_USA_by_HasBahCa
