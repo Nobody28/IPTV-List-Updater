@@ -30,6 +30,7 @@ Turkey TV http://hasbahcaiptv.com/m3u/HasBahCa/IPTV/Turkish_Staate_TURKi_ULKELER
 Germany TV http://hasbahcaiptv.com/m3u/HasBahCa/IPTV/German_ALMANCA.m3u DEUTSCH_by_HasBahCa
 Germany TV http://hasbahcaiptv.com/m3u/HasBahCa/IPTV/German_doppel.m3u DEUTSCH_DOPPEL_by_HasBahCa
 Germany TV http://hasbahcaiptv.com/m3u/HasBahCa/IPTV/deauch.m3u DEUTSCH_SKY_by_HasBahCa
+Germany TV http://hasbahcaiptv.com/m3u/HasBahCa/IPTV/IPTV_Teleboy_Playlist.m3u DEUTSCH_TELEBOY_by_HasBahCa
 Germany TV http://hasbahcaiptv.com/m3u/HasBahCa/IPTV/de_movie.m3u DEUTSCHE_MOVIES_by_HasBahCa
 Sport TV http://hasbahcaiptv.com/m3u/HasBahCa/IPTV/Sport_SPOR.m3u SPORTS_by_HasBahCa
 Music TV http://hasbahcaiptv.com/m3u/HasBahCa/IPTV/Music_MUZiK.m3u MUSIC_by_HasBahCa
