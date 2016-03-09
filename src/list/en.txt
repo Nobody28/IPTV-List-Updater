@@ -22,6 +22,10 @@ USA RADIO http://hasbahcaiptv.com/m3u/HasBahCa_IPTV/radio/USA_Radios.m3u USA_RAD
 #                                                                      #
 ########################################################################
 #
+CH_PROViDER TV http://hasbahcaiptv.com/m3u/HasBahCa/IPTV/ch_provider_deauch.m3u CH_PROViDER_DEAUCH
+CH_PROViDER TV http://hasbahcaiptv.com/m3u/HasBahCa/IPTV/ch_provider_it.m3u CH_PROViDER_lT
+CH_PROViDER TV http://hasbahcaiptv.com/m3u/HasBahCa/IPTV/ch_provider_uk.m3u CH_PROViDER_UK
+CH_PROViDER TV http://hasbahcaiptv.com/m3u/HasBahCa/IPTV/ch_provider_fr.m3u CH_PROViDER_FR
 WebCam TV http://hasbahcaiptv.com/m3u/HasBahCa/IPTV/Webcam_INT.m3u WEBCAM_INT_by_HasBahCa
 WebCam TV http://hasbahcaiptv.com/m3u/HasBahCa/IPTV/Webcam_DE.m3u WEBCAM_DE_by_HasBahCa
 WebCam TV http://hasbahcaiptv.com/m3u/HasBahCa/IPTV/Webcam_USA.m3u WEBCAM_USA_by_HasBahCa
