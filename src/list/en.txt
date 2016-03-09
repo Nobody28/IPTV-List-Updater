@@ -101,4 +101,13 @@ English TV http://hasbahcaiptv.com/m3u/HasBahCa/movie/ENGLISH_MOVIES_OLD.m3u ALT
 Russia TV http://hasbahcaiptv.com/m3u/HasBahCa/movie/RUS_movies.m3u RUS_MOVIES_by_HasBahCa
 Vietnam TV http://hasbahcaiptv.com/m3u/HasBahCa/movie/vietnam_series_karakoe_clip.m3u Vietnam_Series_Karakoe_Clip
 XXX_VOD TV http://hasbahcaiptv.com/m3u/HasBahCa/movie/XXX-VOD.m3u XX_VOD_By_HasBahCa
+XXX_VOD TV http://hasbahcaiptv.com/m3u/HasBahCa/movie/ru-porntv0.m3u XXX_VOD_ruporntv0
+XXX_VOD TV http://hasbahcaiptv.com/m3u/HasBahCa/movie/ru-porntv1.m3u XXX_VOD_ruporntv1
+XXX_VOD TV http://hasbahcaiptv.com/m3u/HasBahCa/movie/ru-porntv2.m3u XXX_VOD_ruporntv2
+XXX_VOD TV http://hasbahcaiptv.com/m3u/HasBahCa/movie/ru-porntv3.m3u XXX_VOD_ruporntv3
+XXX_VOD TV http://hasbahcaiptv.com/m3u/HasBahCa/movie/ru-porntv4.m3u XXX_VOD_ruporntv4
+XXX_VOD TV http://hasbahcaiptv.com/m3u/HasBahCa/movie/ru-porntv5.m3u XXX_VOD_ruporntv5
+XXX_VOD TV http://hasbahcaiptv.com/m3u/HasBahCa/movie/ru-porntv6.m3u XXX_VOD_ruporntv6
+XXX_VOD TV http://hasbahcaiptv.com/m3u/HasBahCa/movie/ru-porntv7.m3u XXX_VOD_ruporntv7
+XXX_VOD TV http://hasbahcaiptv.com/m3u/HasBahCa/movie/ru-porntv8.m3u XXX_VOD_ruporntv8
 #
