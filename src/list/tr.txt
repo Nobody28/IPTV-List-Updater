@@ -20,7 +20,7 @@ USA RADIO http://hasbahcaiptv.com/m3u/HasBahCa/radios/USA_Radios.m3u ABD_USA_Rad
 #                                                                      #
 ########################################################################
 #
-CH_PROViDER TV http://hasbahcaiptv.com/m3u/HasBahCa/IPTV/ch_provider_deauch.m3u CH_PROViDER_DEAUCH
+CH_PROViDER TV http://hasbahcaiptv.com/m3u/HasBahCa/m3u_liste/ch_provider_deauch.m3u CH_PROViDER_DEAUCH
 CH_PROViDER TV http://hasbahcaiptv.com/m3u/HasBahCa/m3u_liste/ch_provider_it.m3u CH_PROViDER_lT
 CH_PROViDER TV http://hasbahcaiptv.com/m3u/HasBahCa/m3u_liste/ch_provider_uk.m3u CH_PROViDER_UK
 CH_PROViDER TV http://hasbahcaiptv.com/m3u/HasBahCa/m3u_liste/ch_provider_fr.m3u CH_PROViDER_FR
